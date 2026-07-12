@@ -14210,6 +14210,10 @@
     }
   }
 
+  function normalizeStr(str) {
+    return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+
   function performSearch(query) {
     if (!searchResults) return;
     if (!query || query.length < 2) {
@@ -14217,11 +14221,12 @@
       return;
     }
 
-    const q = query.toLowerCase();
+    const q = normalizeStr(query);
     const results = biographies.filter(b =>
-      b.name.toLowerCase().includes(q) ||
-      b.profession.toLowerCase().includes(q) ||
-      b.tags.some(t => t.toLowerCase().includes(q))
+      normalizeStr(b.name).includes(q) ||
+      normalizeStr(b.fullName || '').includes(q) ||
+      normalizeStr(b.profession).includes(q) ||
+      b.tags.some(t => normalizeStr(t).includes(q))
     );
 
     if (results.length === 0) {
