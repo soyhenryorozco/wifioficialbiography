@@ -1,0 +1,3062 @@
+[
+  {
+    "name": "Bad Bunny",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "March 10, 1994",
+    "birthPlace": "Vega Baja, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Bad Bunny is a Puerto Rican reggaeton and Latin trap artist who has become one of the most streamed musicians in the world. He has won multiple Grammy Awards.",
+    "tags": [
+      "reggaeton",
+      "latin trap",
+      "puerto rico",
+      "grammy winner"
+    ]
+  },
+  {
+    "name": "Ozuna",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "March 13, 1992",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Ozuna is a Puerto Rican reggaeton and Latin pop singer known for his melodic style and chart-topping hits across Latin America.",
+    "tags": [
+      "reggaeton",
+      "latin pop",
+      "puerto rico",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Daddy Yankee",
+    "category": "singer",
+    "profession": "Singer • Rapper",
+    "born": "February 3, 1977",
+    "birthPlace": "Río Piedras, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Daddy Yankee is a Puerto Rican reggaeton pioneer often called the King of Reggaeton. His hit Gasolina helped popularize the genre worldwide.",
+    "tags": [
+      "reggaeton",
+      "puerto rico",
+      "pioneer",
+      "latin music"
+    ]
+  },
+  {
+    "name": "Luis Fonsi",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "April 15, 1978",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Luis Fonsi is a Puerto Rican pop singer best known for the global smash hit Despacito, one of the most viewed videos in YouTube history.",
+    "tags": [
+      "latin pop",
+      "puerto rico",
+      "despacito",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Ricky Martin",
+    "category": "singer",
+    "profession": "Singer • Actor",
+    "born": "December 24, 1971",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Ricky Martin is a Puerto Rican pop singer and actor who became a global icon with hits like Livin la Vida Loca. He has sold over 70 million records.",
+    "tags": [
+      "latin pop",
+      "puerto rico",
+      "global icon",
+      "activist"
+    ]
+  },
+  {
+    "name": "Marc Anthony",
+    "category": "singer",
+    "profession": "Singer • Actor • Producer",
+    "born": "September 16, 1968",
+    "birthPlace": "New York City, United States",
+    "nationality": "American-Puerto Rican",
+    "excerpt": "Marc Anthony is an American-born Puerto Rican salsa and pop singer. He is one of the best-selling salsa artists of all time with multiple Grammy Awards.",
+    "tags": [
+      "salsa",
+      "latin pop",
+      "puerto rico",
+      "grammy winner"
+    ]
+  },
+  {
+    "name": "Pitbull",
+    "category": "singer",
+    "profession": "Singer • Rapper • Entrepreneur",
+    "born": "January 15, 1981",
+    "birthPlace": "Miami, United States",
+    "nationality": "American-Cuban",
+    "excerpt": "Pitbull, born Armando Christian Pérez, is a Cuban-American singer known for his energetic party anthems and collaborations with major pop artists.",
+    "tags": [
+      "latin pop",
+      "cuban american",
+      "miami",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Wisin & Yandel",
+    "category": "singer",
+    "profession": "Reggaeton Duo",
+    "born": "July 24, 1978",
+    "birthPlace": "Cayey, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Wisin & Yandel are a Puerto Rican reggaeton duo known as Los Dúo de la Historia, instrumental in popularizing reggaeton globally.",
+    "tags": [
+      "reggaeton",
+      "puerto rico",
+      "duo",
+      "latin urban"
+    ]
+  },
+  {
+    "name": "Natti Natasha",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "December 10, 1986",
+    "birthPlace": "Santiago de los Caballeros, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Natti Natasha is a Dominican reggaeton singer known for hits like Criminal and Tusa. She is one of the most followed female Latin artists.",
+    "tags": [
+      "reggaeton",
+      "dominican republic",
+      "latin pop",
+      "social media"
+    ]
+  },
+  {
+    "name": "Prince Royce",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "May 11, 1989",
+    "birthPlace": "The Bronx, United States",
+    "nationality": "American-Dominican",
+    "excerpt": "Prince Royce is an American-born Dominican bachata and pop singer known for romantic ballads. He has won numerous Latin Grammy Awards.",
+    "tags": [
+      "bachata",
+      "latin pop",
+      "dominican republic",
+      "romantic"
+    ]
+  },
+  {
+    "name": "Peso Pluma",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "June 15, 1999",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Peso Pluma is a Mexican singer who has become one of the biggest stars in regional Mexican music with his corridos tumbados style.",
+    "tags": [
+      "regional mexican",
+      "corridos",
+      "mexico",
+      "new generation"
+    ]
+  },
+  {
+    "name": "Natanael Cano",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "May 1, 2001",
+    "birthPlace": "Sonora, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Natanael Cano is a Mexican singer known for popularizing corridos tumbados, a fusion of traditional Mexican corridos with trap and hip-hop.",
+    "tags": [
+      "corridos tumbados",
+      "mexico",
+      "urban mexican",
+      "young artist"
+    ]
+  },
+  {
+    "name": "Christian Nodal",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "January 11, 1999",
+    "birthPlace": "Caborca, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Christian Nodal is a Mexican singer known for his mariachi and norteño music. He burst onto the scene with Adiós Amor and has won multiple Latin Grammy Awards.",
+    "tags": [
+      "mariachi",
+      "norteño",
+      "mexico",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Alejandro Fernández",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "April 24, 1971",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Alejandro Fernández is a Mexican singer known as El Potrillo. He is one of the best-selling Latin artists with a career spanning over three decades.",
+    "tags": [
+      "ranchera",
+      "latin pop",
+      "mexico",
+      "legend"
+    ]
+  },
+  {
+    "name": "Luis Miguel",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "April 19, 1970",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Mexican",
+    "excerpt": "Luis Miguel is a Mexican singer known as El Sol de México. He is one of the most successful Latin artists in history with over 100 million records sold.",
+    "tags": [
+      "latin pop",
+      "ballads",
+      "mexico",
+      "icon"
+    ]
+  },
+  {
+    "name": "Thalía",
+    "category": "singer",
+    "profession": "Singer • Actress • Entrepreneur",
+    "born": "August 26, 1971",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Thalía is a Mexican singer and actress known as the Queen of Latin Pop. She gained fame through telenovelas and has sold over 25 million records.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "telenovela",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Paulina Rubio",
+    "category": "singer",
+    "profession": "Singer • Actress",
+    "born": "June 17, 1971",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Paulina Rubio is a Mexican pop singer known as La Chica Dorada. She was a member of Timbiriche before launching a successful solo career.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "timbiriche",
+      "pop rock"
+    ]
+  },
+  {
+    "name": "Natalia Lafourcade",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "February 26, 1984",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Natalia Lafourcade is a Mexican singer known for blending pop, rock, and traditional Mexican music. She has won multiple Grammy and Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "grammy winner",
+      "folkloric"
+    ]
+  },
+  {
+    "name": "Mon Laferte",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "May 2, 1983",
+    "birthPlace": "Viña del Mar, Chile",
+    "nationality": "Chilean-Mexican",
+    "excerpt": "Mon Laferte is a Chilean-Mexican singer known for her powerful voice and politically charged lyrics. She has won multiple Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "chile",
+      "mexico",
+      "activist"
+    ]
+  },
+  {
+    "name": "Camila",
+    "category": "singer",
+    "profession": "Pop Rock Band",
+    "born": "2005",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Camila is a Mexican pop rock band that achieved massive success in Latin America. Their romantic ballads and pop songs have made them one of the best-selling Latin bands.",
+    "tags": [
+      "pop rock",
+      "mexico",
+      "romantic",
+      "latin america"
+    ]
+  },
+  {
+    "name": "Ha*Ash",
+    "category": "singer",
+    "profession": "Country Pop Duo",
+    "born": "June 27, 1985",
+    "birthPlace": "Lake Charles, United States",
+    "nationality": "American-Mexican",
+    "excerpt": "Ha*Ash is an American-Mexican country pop duo consisting of sisters Hanna and Ashley Nicole Pérez. They have become one of the top Latin American country music acts.",
+    "tags": [
+      "country pop",
+      "mexico",
+      "duo",
+      "nashville"
+    ]
+  },
+  {
+    "name": "Jesse & Joy",
+    "category": "singer",
+    "profession": "Pop Duo",
+    "born": "June 5, 1986",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Jesse & Joy are a Mexican pop duo known for emotional ballads and heartfelt lyrics. They have won multiple Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "duo",
+      "ballads"
+    ]
+  },
+  {
+    "name": "Carla Morrison",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "July 19, 1986",
+    "birthPlace": "Tecate, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Carla Morrison is a Mexican indie pop singer known for her ethereal voice and emotional songwriting. She has been nominated for multiple Latin Grammy Awards.",
+    "tags": [
+      "indie pop",
+      "mexico",
+      "singer-songwriter",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Tini Stoessel",
+    "category": "singer",
+    "profession": "Singer • Actress",
+    "born": "June 21, 1997",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Tini Stoessel is an Argentine singer and actress who gained fame through Disney Channel's Violetta. She has become a major Latin pop star.",
+    "tags": [
+      "latin pop",
+      "argentina",
+      "disney",
+      "actress"
+    ]
+  },
+  {
+    "name": "Lali Espósito",
+    "category": "singer",
+    "profession": "Singer • Actress",
+    "born": "October 10, 1991",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Lali Espósito is an Argentine singer and actress who rose to fame with Teen Angels. She is now one of Argentina's biggest pop stars.",
+    "tags": [
+      "latin pop",
+      "argentina",
+      "teen angels",
+      "pop star"
+    ]
+  },
+  {
+    "name": "Diego Torres",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "March 9, 1971",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Diego Torres is an Argentine pop singer known for hits like Color Esperanza. He is one of the most successful Argentine musicians with multiple Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "argentina",
+      "songwriter",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Andrés Calamaro",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Musician",
+    "born": "August 22, 1961",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Andrés Calamaro is an Argentine rock musician considered one of the most important figures in Latin American rock. He was a member of Los Abuelos de la Nada.",
+    "tags": [
+      "latin rock",
+      "argentina",
+      "songwriter",
+      "icon"
+    ]
+  },
+  {
+    "name": "Fito Páez",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Pianist",
+    "born": "March 2, 1963",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Fito Páez is an Argentine rock musician and pianist known as one of the greatest Latin American rock artists. His emotional lyrics have earned him numerous awards.",
+    "tags": [
+      "latin rock",
+      "argentina",
+      "pianist",
+      "legend"
+    ]
+  },
+  {
+    "name": "Charly García",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Musician",
+    "born": "October 23, 1951",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Charly García is an Argentine rock musician considered the Godfather of Argentine Rock, a pioneering figure in Latin American music for over five decades.",
+    "tags": [
+      "latin rock",
+      "argentina",
+      "pioneer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Wos",
+    "category": "singer",
+    "profession": "Singer • Rapper • Musician",
+    "born": "September 23, 1998",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Wos is an Argentine rapper and musician who blends rock, hip-hop, and electronic music. He won the Latin Grammy Award for Best New Artist in 2019.",
+    "tags": [
+      "rap rock",
+      "argentina",
+      "new artist",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Anitta",
+    "category": "singer",
+    "profession": "Singer • Dancer • Businesswoman",
+    "born": "March 30, 1993",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Anitta is a Brazilian singer known for hits in funk carioca, pop, and reggaeton. She has become one of the most influential Latin artists globally.",
+    "tags": [
+      "brazilian pop",
+      "funk carioca",
+      "brazil",
+      "global star"
+    ]
+  },
+  {
+    "name": "Ludmilla",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "April 24, 1995",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ludmilla is a Brazilian singer known for her powerful voice and hits in funk and pop. She has become one of the most popular female artists in Brazil.",
+    "tags": [
+      "brazilian pop",
+      "funk",
+      "brazil",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Pabllo Vittar",
+    "category": "singer",
+    "profession": "Singer • Drag Queen",
+    "born": "November 1, 1994",
+    "birthPlace": "São Luís, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Pabllo Vittar is a Brazilian singer and drag queen who has broken barriers as one of the most successful LGBTQ+ artists in Latin America.",
+    "tags": [
+      "brazilian pop",
+      "lgbtq+",
+      "drag queen",
+      "grammy winner"
+    ]
+  },
+  {
+    "name": "Luan Santana",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "March 13, 1991",
+    "birthPlace": "Campo Grande, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Luan Santana is a Brazilian singer known as the King of Sertanejo. He has millions of fans across Brazil and is one of the country's most successful artists.",
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "pop",
+      "concerts"
+    ]
+  },
+  {
+    "name": "Wesley Safadão",
+    "category": "singer",
+    "profession": "Singer • Musician",
+    "born": "September 28, 1988",
+    "birthPlace": "Fortaleza, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Wesley Safadão is a Brazilian singer known for forró and sertanejo music. He is one of the biggest names in Brazilian music with sold-out shows nationwide.",
+    "tags": [
+      "forró",
+      "sertanejo",
+      "brazil",
+      "live shows"
+    ]
+  },
+  {
+    "name": "Marisa Monte",
+    "category": "singer",
+    "profession": "Singer • Musician • Producer",
+    "born": "July 1, 1967",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marisa Monte is a Brazilian singer known for her beautiful voice and contributions to MPB. She has won multiple Latin Grammy Awards.",
+    "tags": [
+      "MPB",
+      "brazil",
+      "brazilian pop",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Ivete Sangalo",
+    "category": "singer",
+    "profession": "Singer • Songwriter • TV Host",
+    "born": "May 17, 1972",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ivete Sangalo is a Brazilian singer known as the Queen of Axé. She has sold over 20 million records and is one of Brazil's most beloved entertainers.",
+    "tags": [
+      "axé",
+      "brazil",
+      "pop",
+      "entertainer"
+    ]
+  },
+  {
+    "name": "Javiera Mena",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Producer",
+    "born": "August 23, 1983",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Javiera Mena is a Chilean singer known for synth-pop and electronic music. She is one of the most important figures in Chilean indie music.",
+    "tags": [
+      "synth pop",
+      "chile",
+      "indie",
+      "electronic"
+    ]
+  },
+  {
+    "name": "Denise Rosenthal",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "November 8, 1990",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Denise Rosenthal is a Chilean singer known for empowering pop anthems. She has been a vocal advocate for women's rights and LGBTQ+ issues.",
+    "tags": [
+      "latin pop",
+      "chile",
+      "activist",
+      "empowerment"
+    ]
+  },
+  {
+    "name": "Gian Marco",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "July 6, 1970",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Gian Marco is a Peruvian singer and songwriter known for romantic ballads and pop music. He has won a Latin Grammy Award.",
+    "tags": [
+      "latin pop",
+      "peru",
+      "ballads",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Tony Succar",
+    "category": "singer",
+    "profession": "Percussionist • Bandleader",
+    "born": "April 24, 1981",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian-American",
+    "excerpt": "Tony Succar is a Peruvian-American percussionist known as The King of Timbales. He won a Latin Grammy for his tribute album to Michael Jackson.",
+    "tags": [
+      "salsa",
+      "peru",
+      "percussion",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Ricardo Montaner",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "November 8, 1956",
+    "birthPlace": "Valencia, Venezuela",
+    "nationality": "Venezuelan-Argentine",
+    "excerpt": "Ricardo Montaner is a Venezuelan-Argentine pop singer known for romantic ballads. He has sold over 20 million records over a decades-long career.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "ballads",
+      "romantic"
+    ]
+  },
+  {
+    "name": "Franco De Vita",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "January 23, 1954",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Franco De Vita is a Venezuelan pop singer known for socially conscious lyrics. He has won multiple Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "songwriter",
+      "socially conscious"
+    ]
+  },
+  {
+    "name": "Carlos Baute",
+    "category": "singer",
+    "profession": "Singer • Actor",
+    "born": "March 19, 1974",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Carlos Baute is a Venezuelan singer and actor prominent in Latin pop for over two decades. His hit Colgando en tus manos was a massive success.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "actor",
+      "viral hit"
+    ]
+  },
+  {
+    "name": "Chino & Nacho",
+    "category": "singer",
+    "profession": "Pop Duo",
+    "born": "June 4, 1983",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Chino & Nacho are a Venezuelan pop duo known for catchy songs and romantic lyrics. They have won a Latin Grammy Award.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "duo",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Juan Luis Guerra",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Producer",
+    "born": "June 7, 1957",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Juan Luis Guerra is a Dominican singer known for merengue and bachata music. He has won multiple Grammy and Latin Grammy Awards.",
+    "tags": [
+      "merengue",
+      "bachata",
+      "dominican republic",
+      "grammy winner"
+    ]
+  },
+  {
+    "name": "Romeo Santos",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Producer",
+    "born": "July 1, 1981",
+    "birthPlace": "The Bronx, United States",
+    "nationality": "American-Dominican",
+    "excerpt": "Romeo Santos is an American-Dominican singer known as the King of Bachata. He was the lead singer of Aventura before launching a hugely successful solo career.",
+    "tags": [
+      "bachata",
+      "dominican republic",
+      "king of bachata",
+      "latin pop"
+    ]
+  },
+  {
+    "name": "Chichí Peralta",
+    "category": "singer",
+    "profession": "Singer • Percussionist • Producer",
+    "born": "April 12, 1966",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Chichí Peralta is a Dominican singer and percussionist known for merengue and salsa. He has been a key figure in modern Dominican music.",
+    "tags": [
+      "merengue",
+      "salsa",
+      "dominican republic",
+      "percussion"
+    ]
+  },
+  {
+    "name": "Celia Cruz",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "October 21, 1925",
+    "birthPlace": "Havana, Cuba",
+    "nationality": "Cuban",
+    "excerpt": "Celia Cruz was a Cuban singer known as the Queen of Salsa. She had one of the most influential careers in Latin music history and won multiple Grammy Awards.",
+    "tags": [
+      "salsa",
+      "cuba",
+      "queen of salsa",
+      "latin legend"
+    ]
+  },
+  {
+    "name": "Orishas",
+    "category": "singer",
+    "profession": "Hip Hop Group",
+    "born": "1999",
+    "birthPlace": "Havana, Cuba",
+    "nationality": "Cuban",
+    "excerpt": "Orishas is a Cuban hip-hop group that blended rap with traditional Cuban music, achieving international recognition as pioneers of Cuban hip-hop.",
+    "tags": [
+      "hip hop",
+      "cuba",
+      "cuban music",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "La Vela Puerca",
+    "category": "singer",
+    "profession": "Ska Punk Band",
+    "born": "1995",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "La Vela Puerca is a Uruguayan ska punk band known for energetic live shows and socially conscious lyrics. They are one of South America's most popular rock bands.",
+    "tags": [
+      "ska punk",
+      "uruguay",
+      "rock",
+      "live shows"
+    ]
+  },
+  {
+    "name": "No Te Va Gustar",
+    "category": "singer",
+    "profession": "Rock Band",
+    "born": "1994",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "No Te Va Gustar is a Uruguayan rock band known for blending rock, reggae, and Latin rhythms. They have become one of the most successful bands in the region.",
+    "tags": [
+      "rock",
+      "uruguay",
+      "reggae",
+      "latin rock"
+    ]
+  },
+  {
+    "name": "Los Kjarkas",
+    "category": "singer",
+    "profession": "Folk Band",
+    "born": "1965",
+    "birthPlace": "Cochabamba, Bolivia",
+    "nationality": "Bolivian",
+    "excerpt": "Los Kjarkas are a Bolivian folk group known for preserving Andean music. Their song Llorando se Fue became the basis for the worldwide hit Lambada.",
+    "tags": [
+      "folk",
+      "bolivia",
+      "andean music",
+      "traditional"
+    ]
+  },
+  {
+    "name": "Ricardo Arjona",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "January 14, 1964",
+    "birthPlace": "Guatemala City, Guatemala",
+    "nationality": "Guatemalan",
+    "excerpt": "Ricardo Arjona is a Guatemalan pop singer known for storytelling lyrics and romantic ballads. He has sold over 20 million records worldwide.",
+    "tags": [
+      "latin pop",
+      "guatemala",
+      "songwriter",
+      "romantic"
+    ]
+  },
+  {
+    "name": "El General",
+    "category": "singer",
+    "profession": "Reggaeton Artist",
+    "born": "September 18, 1969",
+    "birthPlace": "Panama City, Panama",
+    "nationality": "Panamanian",
+    "excerpt": "El General is a Panamanian reggaeton artist considered one of the genre's pioneers. His hit Muévelo helped popularize reggaeton in the early 1990s.",
+    "tags": [
+      "reggaeton",
+      "panama",
+      "pioneer",
+      "latin urban"
+    ]
+  },
+  {
+    "name": "Camila Cabello",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "March 3, 1997",
+    "birthPlace": "Havana, Cuba",
+    "nationality": "American-Cuban",
+    "excerpt": "Camila Cabello is an American-Cuban singer who rose to fame as a member of Fifth Harmony. Her solo hit Havana topped charts worldwide.",
+    "tags": [
+      "pop",
+      "cuba",
+      "fifth harmony",
+      "havana"
+    ]
+  },
+  {
+    "name": "Becky G",
+    "category": "singer",
+    "profession": "Singer • Actress • Rapper",
+    "born": "March 2, 1997",
+    "birthPlace": "Inglewood, United States",
+    "nationality": "American-Mexican",
+    "excerpt": "Becky G is an American-Mexican singer and actress known for hits like Shower and Mayores. She has become a major figure in Latin pop and reggaeton.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "reggaeton",
+      "actress"
+    ]
+  },
+  {
+    "name": "Reik",
+    "category": "singer",
+    "profession": "Pop Rock Band",
+    "born": "1998",
+    "birthPlace": "Mexicali, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Reik is a Mexican pop rock band known for romantic ballads and crossover hits. They have collaborated with major artists across Latin music.",
+    "tags": [
+      "pop rock",
+      "mexico",
+      "romantic",
+      "crossover"
+    ]
+  },
+  {
+    "name": "Maná",
+    "category": "singer",
+    "profession": "Rock Band",
+    "born": "1986",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Maná is a Mexican rock band and one of the best-selling Latin American bands of all time. They have won multiple Grammy and Latin Grammy Awards.",
+    "tags": [
+      "latin rock",
+      "mexico",
+      "grammy winner",
+      "legend"
+    ]
+  },
+  {
+    "name": "Caifanes",
+    "category": "singer",
+    "profession": "Rock Band",
+    "born": "1987",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Caifanes is a Mexican rock band known for gothic rock and new wave. They are considered one of the most influential bands in Latin American rock history.",
+    "tags": [
+      "gothic rock",
+      "mexico",
+      "new wave",
+      "influential"
+    ]
+  },
+  {
+    "name": "Danna Paola",
+    "category": "singer",
+    "profession": "Singer • Actress",
+    "born": "June 5, 1995",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Danna Paola is a Mexican singer and actress who gained fame as a child star and has become one of Mexico's biggest pop stars.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "child star",
+      "actress"
+    ]
+  },
+  {
+    "name": "Belinda",
+    "category": "singer",
+    "profession": "Singer • Actress",
+    "born": "August 15, 1989",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish-Mexican",
+    "excerpt": "Belinda is a Spanish-Mexican pop singer and actress who has become one of the most popular Latin pop artists. She has won multiple Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "mexico",
+      "spain",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Los Fabulosos Cadillacs",
+    "category": "singer",
+    "profession": "Rock Band",
+    "born": "1985",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Los Fabulosos Cadillacs are an Argentine rock band known for fusing rock, ska, and Latin American music. Their hit Matador is an iconic Latin rock song.",
+    "tags": [
+      "latin rock",
+      "argentina",
+      "ska",
+      "iconic"
+    ]
+  },
+  {
+    "name": "Soda Stereo",
+    "category": "singer",
+    "profession": "Rock Band",
+    "born": "1982",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Soda Stereo was an Argentine rock band considered the most successful and influential Latin American rock band of all time.",
+    "tags": [
+      "latin rock",
+      "argentina",
+      "legendary",
+      "influential"
+    ]
+  },
+  {
+    "name": "Gloria Groove",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "January 18, 1995",
+    "birthPlace": "Brasília, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Gloria Groove is a Brazilian singer known for her powerful voice and fusion of pop, funk, and electronic music. She has become one of Brazil's biggest stars.",
+    "tags": [
+      "brazilian pop",
+      "funk",
+      "brazil",
+      "rising star"
+    ]
+  },
+  {
+    "name": "IZA",
+    "category": "singer",
+    "profession": "Singer • Dancer",
+    "born": "September 4, 1992",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "IZA is a Brazilian singer and dancer known for energetic performances and hits in pop and funk. She is one of Brazil's most popular female artists.",
+    "tags": [
+      "brazilian pop",
+      "funk",
+      "brazil",
+      "dancer"
+    ]
+  },
+  {
+    "name": "MC Kevinho",
+    "category": "singer",
+    "profession": "Singer • Rapper",
+    "born": "September 24, 1993",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "MC Kevinho is a Brazilian singer and rapper known for funk hits and viral music videos. He has millions of followers and is one of Brazil's most-streamed artists.",
+    "tags": [
+      "brazilian funk",
+      "brazil",
+      "viral",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Pedro Sampaio",
+    "category": "singer",
+    "profession": "DJ • Producer • Singer",
+    "born": "September 24, 1997",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Pedro Sampaio is a Brazilian DJ and producer known for funk and electronic music hits. His songs have accumulated billions of streams.",
+    "tags": [
+      "brazilian funk",
+      "electronic",
+      "brazil",
+      "DJ"
+    ]
+  },
+  {
+    "name": "Henrique & Juliano",
+    "category": "singer",
+    "profession": "Sertanejo Duo",
+    "born": "April 30, 1988",
+    "birthPlace": "Goiânia, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Henrique & Juliano are a Brazilian sertanejo duo known for romantic songs and sold-out concerts. They are one of the most popular acts in Brazilian country music.",
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "duo",
+      "country music"
+    ]
+  },
+  {
+    "name": "Omega El Fuerte",
+    "category": "singer",
+    "profession": "Singer • Rapper",
+    "born": "February 15, 1981",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Omega El Fuerte is a Dominican rapper known as El Fuerte de la Dembow. He has been a key figure in popularizing dembow music internationally.",
+    "tags": [
+      "dembow",
+      "dominican republic",
+      "urban",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Julio Jaramillo",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "October 1, 1935",
+    "birthPlace": "Guayaquil, Ecuador",
+    "nationality": "Ecuadorian",
+    "excerpt": "Julio Jaramillo was an Ecuadorian singer known as one of the greatest bolero singers in Latin American history. His music transcended borders.",
+    "tags": [
+      "bolero",
+      "ecuador",
+      "legend",
+      "traditional"
+    ]
+  },
+  {
+    "name": "CNCO",
+    "category": "singer",
+    "profession": "Latin Pop Group",
+    "born": "December 11, 2015",
+    "birthPlace": "Miami, United States",
+    "nationality": "Latin American",
+    "excerpt": "CNCO is a Latin pop group formed on the reality show La Banda. Members from various Latin American countries gained a massive international following.",
+    "tags": [
+      "latin pop",
+      "boy band",
+      "international",
+      "social media"
+    ]
+  },
+  {
+    "name": "Aventura",
+    "category": "singer",
+    "profession": "Bachata Band",
+    "born": "1994",
+    "birthPlace": "The Bronx, United States",
+    "nationality": "American-Dominican",
+    "excerpt": "Aventura is an American-Dominican bachata band led by Romeo Santos. They are credited with modernizing bachata and bringing it to a global audience.",
+    "tags": [
+      "bachata",
+      "dominican republic",
+      "modern bachata",
+      "global"
+    ]
+  },
+  {
+    "name": "Gustavo Cerati",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Musician",
+    "born": "May 2, 1959",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Gustavo Cerati was an Argentine rock musician, the frontman of Soda Stereo and a solo artist. He is considered one of the most influential Latin American rock musicians.",
+    "tags": [
+      "latin rock",
+      "argentina",
+      "soda stereo",
+      "legend"
+    ]
+  },
+  {
+    "name": "Ismael Rivera",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "October 5, 1931",
+    "birthPlace": "Santurce, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Ismael Rivera was a Puerto Rican salsa singer known as El Sonero Mayor. He was one of the most influential figures in salsa music history.",
+    "tags": [
+      "salsa",
+      "puerto rico",
+      "legend",
+      "sonero"
+    ]
+  },
+  {
+    "name": "Héctor Lavoe",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "September 30, 1946",
+    "birthPlace": "Ponce, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Héctor Lavoe was a Puerto Rican salsa singer known as El Cantante de los Cantantes. He is considered one of the most iconic figures in salsa music.",
+    "tags": [
+      "salsa",
+      "puerto rico",
+      "icon",
+      "legendary"
+    ]
+  },
+  {
+    "name": "Jerry Rivera",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "July 31, 1973",
+    "birthPlace": "Humacao, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Jerry Rivera is a Puerto Rican salsa singer who became famous as a teenager. He is known as El Bebé de la Salsa and has had numerous hit albums.",
+    "tags": [
+      "salsa",
+      "puerto rico",
+      "romantic",
+      "90s"
+    ]
+  },
+  {
+    "name": "Don Omar",
+    "category": "singer",
+    "profession": "Singer • Rapper • Actor",
+    "born": "February 10, 1978",
+    "birthPlace": "Santurce, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Don Omar is a Puerto Rican reggaeton singer known as El Rey. He is one of the genre's pioneers with hits like Dile and the Fast & Furious franchise.",
+    "tags": [
+      "reggaeton",
+      "puerto rico",
+      "el rey",
+      "fast furious"
+    ]
+  },
+  {
+    "name": "Nicki Nicole",
+    "category": "singer",
+    "profession": "Singer • Rapper",
+    "born": "August 25, 1999",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Nicki Nicole is an Argentine rapper and singer known for blending hip-hop, pop, and trap. She is one of the biggest names in Argentine urban music.",
+    "tags": [
+      "trap",
+      "argentina",
+      "hip-hop",
+      "urban pop"
+    ]
+  },
+  {
+    "name": "Emilia",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "November 18, 1999",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Emilia is an Argentine pop singer known for hits like Cuatro Veinte and No Se Ve. She has quickly risen to become one of Argentina's top pop artists.",
+    "tags": [
+      "latin pop",
+      "argentina",
+      "viral",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Sebastián Yatra",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "October 15, 1994",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sebastián Yatra is a Colombian pop singer known for romantic ballads like Robarte un Beso and Tacones Rojos. He has won Latin Grammy Awards.",
+    "tags": [
+      "latin pop",
+      "colombia",
+      "romantic",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Mike Bahía",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "September 17, 1987",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Mike Bahía is a Colombian pop and tropical singer known for hits like Ella y Yo and La Cara Nueva. He blends pop with tropical rhythms.",
+    "tags": [
+      "latin pop",
+      "colombia",
+      "tropical",
+      "romantic"
+    ]
+  },
+  {
+    "name": "ChocQuibTown",
+    "category": "singer",
+    "profession": "Hip Hop Group",
+    "born": "2000",
+    "birthPlace": "Quibdó, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "ChocQuibTown is a Colombian hip-hop group from the Pacific coast. They blend rap with traditional Colombian Pacific music, winning a Latin Grammy.",
+    "tags": [
+      "hip hop",
+      "colombia",
+      "pacific music",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Kevin Flores",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "September 15, 2000",
+    "birthPlace": "Puerto La Cruz, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Kevin Flores is a Venezuelan singer known for romantic pop ballads. He has gained a massive following on social media and streaming platforms.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "romantic",
+      "social media"
+    ]
+  },
+  {
+    "name": "Danny Ocean",
+    "category": "singer",
+    "profession": "Singer • Producer",
+    "born": "May 5, 1992",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Danny Ocean is a Venezuelan singer and producer known for the viral hit Me Rehúso. He has become one of the most important Latin urban pop artists.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "viral hit",
+      "urban pop"
+    ]
+  },
+  {
+    "name": "Micro TDH",
+    "category": "singer",
+    "profession": "Singer • Producer",
+    "born": "October 23, 1995",
+    "birthPlace": "Valencia, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Micro TDH is a Venezuelan singer and producer known for blending pop, R&B, and urban sounds. He has become a leading voice in Latin alternative pop.",
+    "tags": [
+      "latin pop",
+      "venezuela",
+      "R&B",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Nathy Peluso",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "January 12, 1995",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine-Spanish",
+    "excerpt": "Nathy Peluso is an Argentine-Spanish singer known for her eclectic style blending pop, hip-hop, reggaeton, and rock. She has won Latin Grammy Awards.",
+    "tags": [
+      "eclectic pop",
+      "argentina",
+      "spain",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Trueno",
+    "category": "singer",
+    "profession": "Singer • Rapper",
+    "born": "May 26, 2002",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Trueno is an Argentine rapper and singer who won a freestyle competition at age 16. He has become one of the most exciting young artists in Latin America.",
+    "tags": [
+      "rap",
+      "argentina",
+      "freestyle",
+      "young artist"
+    ]
+  },
+  {
+    "name": "Camilo Echeverry",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "March 16, 1994",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camilo Echeverry, known mononymously as Camilo, is a Colombian singer-songwriter whose romantic style has made him a Latin pop phenomenon.",
+    "tags": [
+      "latin pop",
+      "colombia",
+      "romantic",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Jorge & Mateus",
+    "category": "singer",
+    "profession": "Sertanejo Duo",
+    "born": "January 1, 1988",
+    "birthPlace": "Goiânia, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Jorge & Mateus are a Brazilian sertanejo duo known for romantic songs and massive concert attendance. They are one of Brazil's most popular duos.",
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "duo",
+      "romantic"
+    ]
+  },
+  {
+    "name": "Tiësto",
+    "category": "singer",
+    "profession": "DJ • Producer",
+    "born": "October 29, 1979",
+    "birthPlace": "Breda, Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "Tiësto is a Dutch DJ and record producer who has collaborated with major Latin artists. He has been named the Greatest DJ of All Time by Mix magazine.",
+    "tags": [
+      "EDM",
+      "dutch",
+      "producer",
+      "global"
+    ]
+  },
+  {
+    "name": "El Alfa",
+    "category": "singer",
+    "profession": "Singer • Rapper",
+    "born": "December 18, 1990",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "El Alfa is a Dominican dembow artist known as El Jefe. He has become the biggest name in Dominican dembow and collaborated with Cardi B and Bad Bunny.",
+    "tags": [
+      "dembow",
+      "dominican republic",
+      "urban",
+      "international"
+    ]
+  },
+  {
+    "name": "Zacarías Ferreira",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "July 30, 1979",
+    "birthPlace": "Moca, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Zacarías Ferreira is a Dominican bachata singer known for romantic ballads. He has become one of the most popular bachata artists of his generation.",
+    "tags": [
+      "bachata",
+      "dominican republic",
+      "romantic",
+      "popular"
+    ]
+  },
+  {
+    "name": "Toño Rosario",
+    "category": "singer",
+    "profession": "Singer • Percussionist",
+    "born": "August 27, 1955",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Toño Rosario is a Dominican singer and percussionist known as a merengue legend. He was a founding member of Los Hermanos Rosario.",
+    "tags": [
+      "merengue",
+      "dominican republic",
+      "legend",
+      "percussion"
+    ]
+  },
+  {
+    "name": "Ángela",
+    "category": "singer",
+    "profession": "Singer • Composer",
+    "born": "February 18, 1970",
+    "birthPlace": "Cochabamba, Bolivia",
+    "nationality": "Bolivian",
+    "excerpt": "Ángela is a Bolivian singer and composer known for romantic ballads. She is one of Bolivia's most beloved and internationally recognized musical artists.",
+    "tags": [
+      "latin pop",
+      "bolivia",
+      "romantic",
+      "ballads"
+    ]
+  },
+  {
+    "name": "Los Auténticos Decadentes",
+    "category": "singer",
+    "profession": "Rock Band",
+    "born": "1986",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Los Auténticos Decadentes are an Argentine rock band known for their cumbia-rock fusion. Their song La Guitarra is an anthem across Latin America.",
+    "tags": [
+      "cumbia rock",
+      "argentina",
+      "festive",
+      "latin america"
+    ]
+  },
+  {
+    "name": "Lila Downs",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Actress",
+    "born": "September 9, 1968",
+    "birthPlace": "Tlaxiaco, Mexico",
+    "nationality": "Mexican-American",
+    "excerpt": "Lila Downs is a Mexican-American singer known for blending traditional Mexican and indigenous music with modern styles. She has won multiple Grammy Awards.",
+    "tags": [
+      "world music",
+      "mexico",
+      "indigenous",
+      "grammy winner"
+    ]
+  },
+  {
+    "name": "Alessia Cara",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "July 11, 1996",
+    "birthPlace": "Brampton, Canada",
+    "nationality": "Canadian-Italian",
+    "excerpt": "Alessia Cara is a Canadian singer of Italian descent known for hits like Here and Stay. She won the Grammy Award for Best New Artist in 2018.",
+    "tags": [
+      "pop",
+      "canadian",
+      "grammy winner",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Juan Magán",
+    "category": "singer",
+    "profession": "DJ • Singer • Producer",
+    "born": "September 29, 1978",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Juan Magán is a Spanish DJ and singer known as the king of electrolatino. He has helped popularize Latin electronic dance music in Europe.",
+    "tags": [
+      "electrolatino",
+      "spain",
+      "DJ",
+      "dance"
+    ]
+  },
+  {
+    "name": "David Bisbal",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "June 5, 1979",
+    "birthPlace": "Almería, Spain",
+    "nationality": "Spanish",
+    "excerpt": "David Bisbal is a Spanish pop singer who rose to fame on Operación Triunfo. He has sold over 5 million records and toured internationally.",
+    "tags": [
+      "latin pop",
+      "spain",
+      "operación triunfo",
+      "international"
+    ]
+  },
+  {
+    "name": "Alejandro Sanz",
+    "category": "singer",
+    "profession": "Singer • Songwriter • Musician",
+    "born": "December 18, 1968",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Alejandro Sanz is a Spanish singer-songwriter with 20 Latin Grammy Awards. His flamenco-influenced pop has made him one of Spain's biggest artists.",
+    "tags": [
+      "latin pop",
+      "spain",
+      "flamenco",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Laura Pausini",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "May 16, 1974",
+    "birthPlace": "Faenza, Italy",
+    "nationality": "Italian",
+    "excerpt": "Laura Pausini is an Italian singer who has achieved massive success in Latin America and worldwide. She has won a Grammy and sold over 70 million records.",
+    "tags": [
+      "latin pop",
+      "italy",
+      "international",
+      "ballads"
+    ]
+  },
+  {
+    "name": "Diomedes Díaz",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "May 26, 1957",
+    "birthPlace": "La Jagua de Ibirico, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Diomedes Díaz was a Colombian vallenato singer known as El Cacique. He is considered one of the greatest vallenato artists of all time.",
+    "tags": [
+      "vallenato",
+      "colombia",
+      "el cacique",
+      "legend"
+    ]
+  },
+  {
+    "name": "Lucho Bermúdez",
+    "category": "singer",
+    "profession": "Composer • Musician",
+    "born": "January 23, 1912",
+    "birthPlace": "Toribío, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Lucho Bermúdez was a Colombian composer and musician known as the king of porro and gaita. He modernized Colombian folk music and influenced generations.",
+    "tags": [
+      "porro",
+      "colombia",
+      "folklore",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Jorge Celedón",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "August 23, 1968",
+    "birthPlace": "Valledupar, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Jorge Celedón is a Colombian vallenato singer known for his traditional style. He has won Latin Grammy Awards and is a leading figure in vallenato music.",
+    "tags": [
+      "vallenato",
+      "colombia",
+      "traditional",
+      "latin grammy"
+    ]
+  },
+  {
+    "name": "Ricardo Darín",
+    "category": "actor",
+    "profession": "Actor • Director",
+    "born": "January 16, 1957",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Ricardo Darín is an Argentine actor considered one of the greatest Latin American actors. He starred in The Secret in Their Eyes and The Chinese Room.",
+    "tags": [
+      "argentine cinema",
+      "film actor",
+      "buenos aires",
+      "icon"
+    ]
+  },
+  {
+    "name": "Guillermo Francella",
+    "category": "actor",
+    "profession": "Actor • Comedian",
+    "born": "February 14, 1955",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Guillermo Francella is an Argentine actor and comedian known for his roles in Argentine films and television. He is one of Argentina's most beloved entertainers.",
+    "tags": [
+      "argentine cinema",
+      "comedy",
+      "television",
+      "beloved"
+    ]
+  },
+  {
+    "name": "Diego Peretti",
+    "category": "actor",
+    "profession": "Actor • Psychologist",
+    "born": "December 2, 1963",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Diego Peretti is an Argentine actor and psychologist known for roles in films and television series. He has won multiple Argentine Academy Awards.",
+    "tags": [
+      "argentine cinema",
+      "television",
+      "drama",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Joaquín Furriel",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 11, 1974",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Joaquín Furriel is an Argentine actor known for intense performances in film and television, winning several Silver Condor Awards.",
+    "tags": [
+      "argentine cinema",
+      "drama",
+      "film actor",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Wagner Moura",
+    "category": "actor",
+    "profession": "Actor • Director • Journalist",
+    "born": "June 27, 1976",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Wagner Moura is a Brazilian actor known internationally for portraying Pablo Escobar in Narcos. He has also starred in critically acclaimed Brazilian films.",
+    "tags": [
+      "brazilian cinema",
+      "narcos",
+      "drama",
+      "international"
+    ]
+  },
+  {
+    "name": "Lázaro Ramos",
+    "category": "actor",
+    "profession": "Actor • Director • Writer",
+    "born": "November 1, 1978",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Lázaro Ramos is a Brazilian actor, director, and writer known for powerful performances and contributions to Brazilian cinema.",
+    "tags": [
+      "brazilian cinema",
+      "directing",
+      "drama",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Selton Mello",
+    "category": "actor",
+    "profession": "Actor • Director",
+    "born": "December 30, 1972",
+    "birthPlace": "Passo Fundo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Selton Mello is a Brazilian actor and director known for versatile performances in film and television. He has won the Gramado Film Festival Award multiple times.",
+    "tags": [
+      "brazilian cinema",
+      "versatile",
+      "film actor",
+      "director"
+    ]
+  },
+  {
+    "name": "Fernanda Torres",
+    "category": "actor",
+    "profession": "Actress • Writer",
+    "born": "September 15, 1965",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Fernanda Torres is a Brazilian actress and writer. She won the Best Actress award at Cannes for I'm Still Here, cementing her as a global star.",
+    "tags": [
+      "brazilian cinema",
+      "cannes",
+      "drama",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Seu Jorge",
+    "category": "actor",
+    "profession": "Actor • Singer • Musician",
+    "born": "June 8, 1970",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Seu Jorge is a Brazilian actor and musician known for his role in City of God and his David Bowie tribute album in The Life Aquatic.",
+    "tags": [
+      "brazilian cinema",
+      "music",
+      "city of god",
+      "versatile"
+    ]
+  },
+  {
+    "name": "Ana de Armas",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 30, 1988",
+    "birthPlace": "Havana, Cuba",
+    "nationality": "Cuban-Spanish",
+    "excerpt": "Ana de Armas is a Cuban-Spanish actress who became one of Hollywood's most in-demand stars. She received an Oscar nomination for Blonde.",
+    "tags": [
+      "hollywood",
+      "cuba",
+      "oscar nominee",
+      "blonde"
+    ]
+  },
+  {
+    "name": "Eiza González",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "January 30, 1990",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Eiza González is a Mexican actress and singer known for Baby Driver, Ambulance, and 3 Below. She has become a major Hollywood presence.",
+    "tags": [
+      "hollywood",
+      "mexico",
+      "action",
+      "rising star"
+    ]
+  },
+  {
+    "name": "Tenoch Huerta",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "January 29, 1981",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Tenoch Huerta is a Mexican actor known for his role as Namor in Black Panther: Wakanda Forever. He has been acclaimed for powerful performances.",
+    "tags": [
+      "hollywood",
+      "mexico",
+      "marvel",
+      "drama"
+    ]
+  },
+  {
+    "name": "Gael García Bernal",
+    "category": "actor",
+    "profession": "Actor • Director • Producer",
+    "born": "November 30, 1978",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Gael García Bernal is a Mexican actor and director known for Amores Perros, Y Tu Mamá También, and The Motorcycle Diaries.",
+    "tags": [
+      "mexican cinema",
+      "global icon",
+      "drama",
+      "directing"
+    ]
+  },
+  {
+    "name": "Diego Luna",
+    "category": "actor",
+    "profession": "Actor • Director • Producer",
+    "born": "December 29, 1979",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Diego Luna is a Mexican actor and director known for Rogue One: A Star Wars Story and the series Andor. He bridges Mexican and Hollywood cinema.",
+    "tags": [
+      "mexican cinema",
+      "star wars",
+      "drama",
+      "directing"
+    ]
+  },
+  {
+    "name": "Salma Hayek",
+    "category": "actor",
+    "profession": "Actress • Producer",
+    "born": "September 2, 1966",
+    "birthPlace": "Coatzacoalcos, Mexico",
+    "nationality": "Mexican-American",
+    "excerpt": "Salma Hayek is a Mexican-American actress and producer who broke barriers for Latinas in Hollywood. She received an Oscar nomination for Frida.",
+    "tags": [
+      "hollywood",
+      "mexico",
+      "oscar nominee",
+      "producer"
+    ]
+  },
+  {
+    "name": "Eugenio Derbez",
+    "category": "actor",
+    "profession": "Actor • Comedian • Director",
+    "born": "September 2, 1961",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Eugenio Derbez is a Mexican actor, comedian, and director known for comedy roles and dramatic performances in Hollywood and Mexico.",
+    "tags": [
+      "mexican comedy",
+      "hollywood",
+      "director",
+      "television"
+    ]
+  },
+  {
+    "name": "Luis Gerardo Méndez",
+    "category": "actor",
+    "profession": "Actor • Producer",
+    "born": "March 12, 1982",
+    "birthPlace": "Jalisco, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Luis Gerardo Méndez is a Mexican actor and producer known for Nosotros los Nobles and Club de Cuervos. He is one of Mexico's most popular actors.",
+    "tags": [
+      "mexican cinema",
+      "comedy",
+      "netflix",
+      "producer"
+    ]
+  },
+  {
+    "name": "Ana Brenda Contreras",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "February 24, 1987",
+    "birthPlace": "McAllen, United States",
+    "nationality": "American-Mexican",
+    "excerpt": "Ana Brenda Contreras is an American-Mexican actress and singer known for roles in Mexican telenovelas and the series Dynasty.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "television",
+      "singer"
+    ]
+  },
+  {
+    "name": "Esmeralda Pimentel",
+    "category": "actor",
+    "profession": "Actress • Model",
+    "born": "September 8, 1989",
+    "birthPlace": "Jalisco, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Esmeralda Pimentel is a Mexican actress and model known for telenovela and film roles. She has won the TVyNovelas Award for Best Actress.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "model",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Sergio Goyri",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "October 24, 1958",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Sergio Goyri is a Mexican actor with an extensive career in telenovelas and film, a staple of Mexican television for decades.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "television",
+      "veteran actor"
+    ]
+  },
+  {
+    "name": "Zuría Vega",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "January 10, 1989",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Zuría Vega is a Mexican actress known for telenovela and film roles. She comes from a family of actors and has established herself as a talented performer.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "film",
+      "rising star"
+    ]
+  },
+  {
+    "name": "Adriana Louvier",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 18, 1982",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Adriana Louvier is a Mexican actress known for telenovela and film roles. She has won the TVyNovelas Award for Best Actress.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "television",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Andrés Baida",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "February 24, 1995",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Andrés Baida is a Mexican actor known for Netflix series like Rebelde. He has become one of Mexico's young rising stars.",
+    "tags": [
+      "mexican cinema",
+      "netflix",
+      "television",
+      "young actor"
+    ]
+  },
+  {
+    "name": "Oscar Isaac",
+    "category": "actor",
+    "profession": "Actor • Producer",
+    "born": "March 9, 1979",
+    "birthPlace": "Guatemala City, Guatemala",
+    "nationality": "Guatemalan-American",
+    "excerpt": "Oscar Isaac is a Guatemalan-American actor known for Star Wars, Dune, and Inside Llewyn Davis. He is one of Hollywood's most versatile actors.",
+    "tags": [
+      "hollywood",
+      "guatemala",
+      "star wars",
+      "drama"
+    ]
+  },
+  {
+    "name": "Penélope Cruz",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 28, 1974",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Penélope Cruz is a Spanish actress known for her collaborations with Pedro Almodóvar. She won an Oscar for Vicky Cristina Barcelona.",
+    "tags": [
+      "spanish cinema",
+      "oscar winner",
+      "hollywood",
+      "almodóvar"
+    ]
+  },
+  {
+    "name": "Javier Bardem",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "March 1, 1969",
+    "birthPlace": "Las Palmas, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Javier Bardem is a Spanish actor known for No Country for Old Men and Skyfall. He won an Oscar for Best Supporting Actor.",
+    "tags": [
+      "spanish cinema",
+      "oscar winner",
+      "hollywood",
+      "drama"
+    ]
+  },
+  {
+    "name": "Édgar Ramírez",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "March 25, 1977",
+    "birthPlace": "San Cristóbal, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Édgar Ramírez is a Venezuelan actor known for Carlos, Zero Dark Thirty, and Gold. He is one of the most respected Latin American actors in Hollywood.",
+    "tags": [
+      "hollywood",
+      "venezuela",
+      "drama",
+      "versatile"
+    ]
+  },
+  {
+    "name": "María Gabriela de Faría",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "September 11, 1992",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "María Gabriela de Faría is a Venezuelan actress and singer known for telenovelas and the Netflix series The Exorcist: Believer.",
+    "tags": [
+      "telenovela",
+      "venezuela",
+      "netflix",
+      "rising star"
+    ]
+  },
+  {
+    "name": "Mía Maestro",
+    "category": "actor",
+    "profession": "Actress • Singer • Musician",
+    "born": "June 19, 1978",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Mía Maestro is an Argentine actress and musician known for Narcos, Twilight, and The Motorcycle Diaries. She has also released music albums.",
+    "tags": [
+      "argentine cinema",
+      "hollywood",
+      "music",
+      "drama"
+    ]
+  },
+  {
+    "name": "Claudia Liz",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "January 1, 1981",
+    "birthPlace": "Ciudad Obregón, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Claudia Liz is a Mexican actress known for telenovela and film roles. She has become a familiar face on Mexican television.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "television",
+      "film"
+    ]
+  },
+  {
+    "name": "Arap Bethke",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 18, 1980",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Arap Bethke is a Mexican actor known for roles in telenovelas and films. He has appeared in numerous Mexican television productions.",
+    "tags": [
+      "telenovela",
+      "mexico",
+      "television",
+      "actor"
+    ]
+  },
+  {
+    "name": "Leticia Brédice",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "January 19, 1972",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Leticia Brédice is an Argentine actress known for Nine Queens and numerous Argentine films and television series.",
+    "tags": [
+      "argentine cinema",
+      "drama",
+      "film actor",
+      "veteran actress"
+    ]
+  },
+  {
+    "name": "Graciela Borges",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "February 26, 1941",
+    "birthPlace": "Lomas de Zamora, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Graciela Borges is an Argentine actress with a career spanning over six decades. She is one of the greatest actresses in Argentine cinema history.",
+    "tags": [
+      "argentine cinema",
+      "legend",
+      "film actor",
+      "veteran actress"
+    ]
+  },
+  {
+    "name": "Nancy Dupláa",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 3, 1969",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Nancy Dupláa is an Argentine actress known for telenovelas and films. She is one of Argentina's most recognized television actresses.",
+    "tags": [
+      "telenovela",
+      "argentina",
+      "television",
+      "drama"
+    ]
+  },
+  {
+    "name": "Mike Amigorena",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "October 27, 1972",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Mike Amigorena is an Argentine actor known for roles in films and television series. He has appeared in numerous Argentine productions.",
+    "tags": [
+      "argentine cinema",
+      "television",
+      "drama",
+      "actor"
+    ]
+  },
+  {
+    "name": "Luis Brandoni",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 18, 1940",
+    "birthPlace": "Avellaneda, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Luis Brandoni is an Argentine actor known for an extensive career in film and television. He has won multiple awards as a legend of Argentine cinema.",
+    "tags": [
+      "argentine cinema",
+      "legend",
+      "film actor",
+      "veteran actor"
+    ]
+  },
+  {
+    "name": "Fernán Mirás",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 7, 1965",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Fernán Mirás is an Argentine actor known for roles in films and television series. He has become one of Argentina's most recognizable faces.",
+    "tags": [
+      "argentine cinema",
+      "television",
+      "drama",
+      "actor"
+    ]
+  },
+  {
+    "name": "Ana Celentano",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "January 21, 1969",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Ana Celentano is an Argentine actress known for film and television roles. She has won the Silver Condor Award for Best Actress.",
+    "tags": [
+      "argentine cinema",
+      "drama",
+      "film actor",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Luciano Castro",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "January 1, 1975",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Luciano Castro is an Argentine actor known for telenovela and film roles. He has been a popular figure in Argentine television.",
+    "tags": [
+      "telenovela",
+      "argentina",
+      "television",
+      "film"
+    ]
+  },
+  {
+    "name": "Lorena Bernal",
+    "category": "actor",
+    "profession": "Actress • Model • TV Host",
+    "born": "May 1, 1981",
+    "birthPlace": "San Juan, Argentina",
+    "nationality": "Argentine-Spanish",
+    "excerpt": "Lorena Bernal is an Argentine-Spanish actress, model, and TV host. She was crowned Miss Spain and has appeared in Spanish television productions.",
+    "tags": [
+      "spanish cinema",
+      "model",
+      "television",
+      "beauty queen"
+    ]
+  },
+  {
+    "name": "Cristian de la Fuente",
+    "category": "actor",
+    "profession": "Actor • Producer • Model",
+    "born": "October 10, 1974",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Cristian de la Fuente is a Chilean actor and producer known for roles in In the Heights, Drive Angry, and numerous telenovelas.",
+    "tags": [
+      "chilean cinema",
+      "hollywood",
+      "telenovela",
+      "model"
+    ]
+  },
+  {
+    "name": "Francisca Gavilán",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "June 29, 1980",
+    "birthPlace": "Temuco, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Francisca Gavilán is a Chilean actress and singer known for her roles in Chilean films and television. She has won Altazor Awards.",
+    "tags": [
+      "chilean cinema",
+      "drama",
+      "singer",
+      "award winner"
+    ]
+  },
+  {
+    "name": "Daniela Vega",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "June 3, 1989",
+    "birthPlace": "San Bernardo, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Daniela Vega is a Chilean actress and singer known for A Fantastic Woman, which won the Oscar for Best Foreign Language Film.",
+    "tags": [
+      "chilean cinema",
+      "oscar winner",
+      "lgbtq+",
+      "drama"
+    ]
+  },
+  {
+    "name": "Lucho Quequezana",
+    "category": "actor",
+    "profession": "Actor • Musician • Composer",
+    "born": "December 8, 1978",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Lucho Quequezana is a Peruvian actor and musician known for his roles in Peruvian cinema and his work as a composer and performer.",
+    "tags": [
+      "peruvian cinema",
+      "music",
+      "drama",
+      "composer"
+    ]
+  },
+  {
+    "name": "Magdyel Ugaz",
+    "category": "actor",
+    "profession": "Actress • TV Host",
+    "born": "April 22, 1974",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Magdyel Ugaz is a Peruvian actress and TV host known for her comedic roles in Peru. She is one of the country's most recognized entertainers.",
+    "tags": [
+      "peruvian cinema",
+      "comedy",
+      "television",
+      "host"
+    ]
+  },
+  {
+    "name": "Christian Meier",
+    "category": "actor",
+    "profession": "Actor • Singer",
+    "born": "June 23, 1970",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Christian Meier is a Peruvian actor and singer known for his roles in telenovelas and films across Latin America.",
+    "tags": [
+      "peruvian cinema",
+      "telenovela",
+      "singer",
+      "actor"
+    ]
+  },
+  {
+    "name": "Slobhan Mulroney",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 16, 1973",
+    "birthPlace": "Dublin, Ireland",
+    "nationality": "Irish-Argentine",
+    "excerpt": "Slobhan Mulroney is an Irish-Argentine actor known for roles in Sin Nombre and other international productions filmed in Latin America.",
+    "tags": [
+      "international",
+      "argentina",
+      "drama",
+      "film actor"
+    ]
+  },
+  {
+    "name": "Gonzalo Vivanco",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 20, 1972",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Gonzalo Vivanco is a Uruguayan actor known for roles in Spanish and Latin American television series and films.",
+    "tags": [
+      "uruguayan cinema",
+      "television",
+      "spanish tv",
+      "actor"
+    ]
+  },
+  {
+    "name": "Martín Calvo",
+    "category": "actor",
+    "profession": "Actor • Director",
+    "born": "January 1, 1982",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Martín Calvo is a Uruguayan actor and director known for his work in Uruguayan independent cinema and television.",
+    "tags": [
+      "uruguayan cinema",
+      "indirect",
+      "director",
+      "independent"
+    ]
+  },
+  {
+    "name": "Fabián Arenillas",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "July 14, 1958",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Fabián Arenillas is an Argentine actor known for numerous film and television roles. He is one of Argentina's most prolific character actors.",
+    "tags": [
+      "argentine cinema",
+      "character actor",
+      "television",
+      "film"
+    ]
+  },
+  {
+    "name": "Carlos Belloso",
+    "category": "actor",
+    "profession": "Actor • Comedian",
+    "born": "September 5, 1963",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Carlos Belloso is an Argentine actor and comedian known for his versatile roles in films and television, often playing comedic characters.",
+    "tags": [
+      "argentine cinema",
+      "comedy",
+      "television",
+      "versatile"
+    ]
+  },
+  {
+    "name": "Antonio Birabent",
+    "category": "actor",
+    "profession": "Actor • Musician",
+    "born": "February 21, 1973",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Antonio Birabent is an Argentine actor and musician. He is the son of legendary actor Antonio Birabent and has carved his own path in cinema.",
+    "tags": [
+      "argentine cinema",
+      "music",
+      "drama",
+      "actor"
+    ]
+  },
+  {
+    "name": "Hector Alterio",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "March 15, 1939",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine-Uruguayan",
+    "excerpt": "Héctor Alterio is an Argentine-Uruguayan actor with a legendary career spanning over 60 years in film and theater.",
+    "tags": [
+      "argentine cinema",
+      "legend",
+      "theater",
+      "veteran actor"
+    ]
+  },
+  {
+    "name": "Leonardo Sbaraglia",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 30, 1963",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine-Spanish",
+    "excerpt": "Leonardo Sbaraglia is an Argentine-Spanish actor known for Wild Tales and Intimate Stories. He has worked extensively in both Argentine and Spanish cinema.",
+    "tags": [
+      "argentine cinema",
+      "spanish cinema",
+      "drama",
+      "wild tales"
+    ]
+  },
+  {
+    "name": "Federico Luppi",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "February 23, 1936",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine-Spanish",
+    "excerpt": "Federico Luppi was an Argentine-Spanish actor known for his work with director Álex de la Iglesia and in Pan's Labyrinth. He passed away in 2017.",
+    "tags": [
+      "argentine cinema",
+      "spanish cinema",
+      "fantasy",
+      "drama"
+    ]
+  },
+  {
+    "name": "Ana Paula Arósio",
+    "category": "actor",
+    "profession": "Actress • Model",
+    "born": "June 16, 1975",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ana Paula Arósio is a Brazilian actress and model known for roles in Brazilian telenovelas. She has been one of Brazil's most popular actresses.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "model",
+      "popular"
+    ]
+  },
+  {
+    "name": "Débora Duarte",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 30, 1978",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Débora Duarte is a Brazilian actress known for roles in telenovelas and films. She is a familiar face in Brazilian television.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "television",
+      "actress"
+    ]
+  },
+  {
+    "name": "Leandra Leal",
+    "category": "actor",
+    "profession": "Actress • Director",
+    "born": "September 8, 1982",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Leandra Leal is a Brazilian actress and director known for acclaimed performances in City of God and other Brazilian films.",
+    "tags": [
+      "brazilian cinema",
+      "directing",
+      "drama",
+      "acclaimed"
+    ]
+  },
+  {
+    "name": "Débora Falabella",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 22, 1979",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Débora Falabella is a Brazilian actress known for roles in Central Station and numerous telenovelas. She is one of Brazil's most recognized actresses.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "central station",
+      "popular"
+    ]
+  },
+  {
+    "name": "Claudia Abreu",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "July 12, 1968",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Claudia Abreu is a Brazilian actress known for roles in films and telenovelas. She has been a prominent figure in Brazilian entertainment for decades.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "veteran actress",
+      "television"
+    ]
+  },
+  {
+    "name": "Andrea Beltrão",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 8, 1963",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Andrea Beltrão is a Brazilian actress known for her versatile roles in film and television. She is one of Brazil's most respected actresses.",
+    "tags": [
+      "brazilian cinema",
+      "versatile",
+      "television",
+      "respected"
+    ]
+  },
+  {
+    "name": "Luana Xavier",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "September 1, 1982",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Luana Xavier is a Brazilian actress known for roles in City of Men and other acclaimed Brazilian productions.",
+    "tags": [
+      "brazilian cinema",
+      "drama",
+      "city of men",
+      "film"
+    ]
+  },
+  {
+    "name": "Caio Blat",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "October 17, 1975",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Caio Blat is a Brazilian actor known for roles in films and telenovelas. He has become one of Brazil's most recognizable actors.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "television",
+      "actor"
+    ]
+  },
+  {
+    "name": "Andréia Horta",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "May 10, 1983",
+    "birthPlace": "Juiz de Fora, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Andréia Horta is a Brazilian actress known for her roles in telenovelas and films. She has become one of Brazil's most popular young actresses.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "television",
+      "rising star"
+    ]
+  },
+  {
+    "name": "Irandhir Santos",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 22, 1975",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Irandhir Santos is a Brazilian actor known for powerful performances in City of God and Elite Squad. He is one of Brazil's most intense actors.",
+    "tags": [
+      "brazilian cinema",
+      "city of god",
+      "intense",
+      "drama"
+    ]
+  },
+  {
+    "name": "Andrea Corrêa",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 25, 1983",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Andrea Corrêa is a Brazilian actress known for her roles in telenovelas and web series. She has gained popularity through social media and streaming.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "streaming",
+      "social media"
+    ]
+  },
+  {
+    "name": "Milhem Cortaz",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 26, 1974",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Milhem Cortaz is a Brazilian actor known for roles in Elite Squad, Carandiru, and numerous other acclaimed Brazilian films.",
+    "tags": [
+      "brazilian cinema",
+      "elite squad",
+      "drama",
+      "character actor"
+    ]
+  },
+  {
+    "name": "Luiz Fernando Guimarães",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 20, 1954",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Luiz Fernando Guimarães is a Brazilian actor with a career spanning over 40 years in film, television, and theater.",
+    "tags": [
+      "brazilian cinema",
+      "veteran actor",
+      "theater",
+      "television"
+    ]
+  },
+  {
+    "name": "Thalía Deacon",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 22, 1983",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Thalía Deacon is a Brazilian actress known for her work in Brazilian telenovelas and theater productions.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "theater",
+      "actress"
+    ]
+  },
+  {
+    "name": "Leopoldo Pacheco",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 2, 1963",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Leopoldo Pacheco is a Brazilian actor known for his villainous roles in telenovelas and films. He is one of Brazil's most recognizable character actors.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "villain",
+      "character actor"
+    ]
+  },
+  {
+    "name": "Cleyde Yáconis",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "October 19, 1928",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Cleyde Yáconis was a Brazilian actress considered one of the greatest in Brazilian cinema history. She passed away in 2013 at age 84.",
+    "tags": [
+      "brazilian cinema",
+      "legend",
+      "theater",
+      "classic"
+    ]
+  },
+  {
+    "name": "Luiz Ottaviano",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "May 8, 1980",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Luiz Ottaviano is a Brazilian actor known for roles in Brazilian films and television series. He has appeared in several acclaimed productions.",
+    "tags": [
+      "brazilian cinema",
+      "television",
+      "drama",
+      "actor"
+    ]
+  },
+  {
+    "name": "Tainá Müller",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 1, 1982",
+    "birthPlace": "Porto Alegre, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Tainá Müller is a Brazilian actress known for roles in Tropa de Elite and numerous telenovelas. She is one of Brazil's most popular actresses.",
+    "tags": [
+      "brazilian cinema",
+      "tropa de elite",
+      "telenovela",
+      "popular"
+    ]
+  },
+  {
+    "name": "Rodrigo Faro",
+    "category": "actor",
+    "profession": "Actor • TV Host",
+    "born": "January 28, 1973",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Rodrigo Faro is a Brazilian actor and TV host known for hosting Ultimo Programa do Dia and for his roles in telenovelas.",
+    "tags": [
+      "brazilian cinema",
+      "television",
+      "host",
+      "telenovela"
+    ]
+  },
+  {
+    "name": "Ícaro Silva",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 20, 1975",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ícaro Silva is a Brazilian actor known for roles in Elite Squad and other acclaimed Brazilian productions. He is known for intense dramatic performances.",
+    "tags": [
+      "brazilian cinema",
+      "elite squad",
+      "intense",
+      "drama"
+    ]
+  },
+  {
+    "name": "Marcos Mion",
+    "category": "actor",
+    "profession": "Actor • TV Host",
+    "born": "June 2, 1979",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marcos Mion is a Brazilian actor, TV host, and producer. He has hosted major Brazilian TV shows and appeared in films and series.",
+    "tags": [
+      "brazilian cinema",
+      "television",
+      "host",
+      "producer"
+    ]
+  },
+  {
+    "name": "Débora Nascimento",
+    "category": "actor",
+    "profession": "Actress • Model",
+    "born": "June 16, 1985",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Débora Nascimento is a Brazilian actress and model known for roles in Elite Squad and Aloysio. She is one of Brazil's rising young actresses.",
+    "tags": [
+      "brazilian cinema",
+      "model",
+      "elite squad",
+      "rising star"
+    ]
+  },
+  {
+    "name": "Eliana Michaelichen Bezerra",
+    "category": "actor",
+    "profession": "TV Host • Actress",
+    "born": "November 22, 1973",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Eliana is a Brazilian TV host and actress, one of Brazil's most popular entertainers. She has hosted numerous variety shows for decades.",
+    "tags": [
+      "brazilian television",
+      "variety show",
+      "host",
+      "entertainer"
+    ]
+  },
+  {
+    "name": "Taís Araújo",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 25, 1978",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Taís Araújo is a Brazilian actress known as the first Black leading actress in a Brazilian telenovela. She has been a trailblazer for representation.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "trailblazer",
+      "representation"
+    ]
+  },
+  {
+    "name": "Camila Pitanga",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 14, 1977",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Camila Pitanga is a Brazilian actress known for City of God and numerous telenovelas. She has become one of Brazil's most prominent actresses.",
+    "tags": [
+      "brazilian cinema",
+      "city of god",
+      "telenovela",
+      "prominent"
+    ]
+  },
+  {
+    "name": "Marcos Bollinger",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 6, 1973",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marcos Bollinger is a Brazilian actor known for roles in films and telenovelas. He has been a consistent presence in Brazilian entertainment.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "television",
+      "film"
+    ]
+  },
+  {
+    "name": "Cauã Reymond",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "May 20, 1980",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Cauã Reymond is a Brazilian actor known for roles in telenovelas and films. He has become one of Brazil's most popular leading men.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "leading man",
+      "popular"
+    ]
+  },
+  {
+    "name": "Marcos Palmeira",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "February 19, 1963",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marcos Palmeira is a Brazilian actor with a long career in films and telenovelas. He is known for his versatile dramatic performances.",
+    "tags": [
+      "brazilian cinema",
+      "versatile",
+      "telenovela",
+      "drama"
+    ]
+  },
+  {
+    "name": "Mário Gomes",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 5, 1948",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Mário Gomes is a Brazilian actor known for starring in Carlota Joaquina, Princess of Brazil. He has had a legendary career in Brazilian cinema.",
+    "tags": [
+      "brazilian cinema",
+      "legend",
+      "classic",
+      "film"
+    ]
+  },
+  {
+    "name": "Marjorie Estiano",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "July 8, 1982",
+    "birthPlace": "Curitiba, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marjorie Estiano is a Brazilian actress and singer known for roles in telenovelas and films. She has become one of Brazil's most beloved entertainers.",
+    "tags": [
+      "brazilian cinema",
+      "singer",
+      "telenovela",
+      "beloved"
+    ]
+  },
+  {
+    "name": "Gabriela Duarte",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 3, 1974",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Gabriela Duarte is a Brazilian actress known for her roles in telenovelas. She is the daughter of famous actress Regina Duarte.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "television",
+      "legacy"
+    ]
+  },
+  {
+    "name": "Fernanda Vasconcellos",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "September 14, 1985",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Fernanda Vasconcellos is a Brazilian actress known for roles in telenovelas and films. She has gained popularity through streaming series.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "streaming",
+      "popular"
+    ]
+  },
+  {
+    "name": "Eduardo Sterblitch",
+    "category": "actor",
+    "profession": "Actor • Comedian",
+    "born": "February 6, 1967",
+    "birthPlace": "Caxias do Sul, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Eduardo Sterblitch is a Brazilian actor and comedian known for his roles in films and TV shows. He has become one of Brazil's top comedic actors.",
+    "tags": [
+      "brazilian cinema",
+      "comedy",
+      "television",
+      "film"
+    ]
+  },
+  {
+    "name": "Daniel Boaventura",
+    "category": "actor",
+    "profession": "Actor • Singer",
+    "born": "December 14, 1970",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Daniel Boaventura is a Brazilian actor and singer known for roles in Brazilian films and musical theater productions.",
+    "tags": [
+      "brazilian cinema",
+      "musical theater",
+      "singer",
+      "actor"
+    ]
+  },
+  {
+    "name": "Erika Januza",
+    "category": "actor",
+    "profession": "Actress • Model",
+    "born": "April 1, 1986",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Erika Januza is a Brazilian actress and model known for roles in telenovelas and films. She has become one of Brazil's most recognized young actresses.",
+    "tags": [
+      "brazilian cinema",
+      "model",
+      "telenovela",
+      "young actress"
+    ]
+  },
+  {
+    "name": "Nelson Freitas",
+    "category": "singer",
+    "profession": "Singer • Producer",
+    "born": "March 21, 1976",
+    "birthPlace": "Rotterdam, Netherlands",
+    "nationality": "Dutch-Cape Verdean",
+    "excerpt": "Nelson Freitas is a Dutch-Cape Verdean singer known for hits like Rebound Chick. He has achieved success across Europe and Latin America.",
+    "tags": [
+      "kizomba",
+      "cape verde",
+      "netherlands",
+      "european hit"
+    ]
+  },
+  {
+    "name": "Simone & Simaria",
+    "category": "singer",
+    "profession": "Sertanejo Duo",
+    "born": "December 15, 1982",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Simone & Simaria were a Brazilian sertanejo duo known for powerful harmonies and romantic songs. They were among Brazil's most popular duos.",
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "duo",
+      "romantic"
+    ]
+  },
+  {
+    "name": "Maiara & Maraísa",
+    "category": "singer",
+    "profession": "Sertanejo Duo",
+    "born": "December 17, 1994",
+    "birthPlace": "Três Lagoas, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Maiara & Maraísa are a Brazilian sertanejo twin duo known for viral hits and romantic songs. They have become one of Brazil's biggest musical acts.",
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "twins",
+      "viral"
+    ]
+  },
+  {
+    "name": "Marília Mendonça",
+    "category": "singer",
+    "profession": "Singer • Songwriter",
+    "born": "July 22, 1995",
+    "birthPlace": "Fronteiras, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marília Mendonça was a Brazilian sertaneja singer known as the Queen of Sertanejo. She tragically passed away in 2021 and is deeply mourned.",
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "queen of sertanejo",
+      "memorial"
+    ]
+  },
+  {
+    "name": "Maiara Walsh",
+    "category": "actor",
+    "profession": "Actress • Singer",
+    "born": "April 18, 1988",
+    "birthPlace": "Seattle, United States",
+    "nationality": "American-Brazilian",
+    "excerpt": "Maiara Walsh is an American-Brazilian actress known for roles in ABC's The L.A. Complex and other television series.",
+    "tags": [
+      "american television",
+      "brazilian",
+      "actress",
+      "singer"
+    ]
+  },
+  {
+    "name": "Alinne Moraes",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "December 6, 1975",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Alinne Moraes is a Brazilian actress known for roles in telenovelas and films. She has become one of Brazil's most recognized television actresses.",
+    "tags": [
+      "brazilian cinema",
+      "telenovela",
+      "television",
+      "popular"
+    ]
+  },
+  {
+    "name": "Cristiana Peres",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 22, 1970",
+    "birthPlace": "Porto Alegre, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Cristiana Peres is a Brazilian actress known for her roles in independent films and television. She has been recognized at major Brazilian film festivals.",
+    "tags": [
+      "brazilian cinema",
+      "independent",
+      "film festival",
+      "drama"
+    ]
+  },
+  {
+    "name": "Isis de Oliveira",
+    "category": "actor",
+    "profession": "Actress • TV Host",
+    "born": "November 22, 1968",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Isis de Oliveira is a Brazilian actress and TV host known for her work on Brazilian television and in films.",
+    "tags": [
+      "brazilian television",
+      "host",
+      "actress",
+      "variety"
+    ]
+  },
+  {
+    "name": "Juliana Paes",
+    "category": "actor",
+    "profession": "Actress • Model",
+    "born": "March 26, 1979",
+    "birthPlace": "Nilópolis, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Juliana Paes is a Brazilian actress and model known for telenovelas and films. She is one of Brazil's most popular and recognized actresses.",
+    "tags": [
+      "brazilian cinema",
+      "model",
+      "telenovela",
+      "popular"
+    ]
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Cristiano Ronaldo",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 5, 1985",
+    "birthPlace": "Funchal, Portugal",
+    "nationality": "Portuguese",
+    "excerpt": "Widely regarded as one of the greatest footballers of all time, Cristiano Ronaldo has won five Ballon d'Or awards and multiple league titles across England, Spain, and Italy.",
+    "tags": ["football", "soccer", "ballon-dor", "real-madrid", "manchester-united"]
+  },
+  {
+    "name": "Lionel Messi",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 24, 1987",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Considered by many the greatest footballer in history, Lionel Messi has won a record eight Ballon d'Or awards and led Argentina to victory in the 2022 FIFA World Cup.",
+    "tags": ["football", "soccer", "barcelona", "ballon-dor", "world-cup"]
+  },
+  {
+    "name": "Luis Suarez",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "January 24, 1987",
+    "birthPlace": "Salto, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "One of the most prolific strikers of his generation, Luis Suarez has starred for Barcelona, Liverpool, and the Uruguayan national team with his aggressive playing style and exceptional finishing.",
+    "tags": ["football", "soccer", "barcelona", "liverpool", "uruguay"]
+  },
+  {
+    "name": "Ronaldinho",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 21, 1980",
+    "birthPlace": "Porto Alegre, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ronaldinho is celebrated for his extraordinary creativity, dribbling skills, and joy on the pitch, winning two FIFA World Player of theYear awards and the 2002 World Cup with Brazil.",
+    "tags": ["football", "soccer", "barcelona", "brazil", "world-cup"]
+  },
+  {
+    "name": "Zinedine Zidane",
+    "category": "footballer",
+    "profession": "Footballer and Manager",
+    "born": "June 23, 1972",
+    "birthPlace": "Marseille, France",
+    "nationality": "French",
+    "excerpt": "Zinedine Zidane is regarded as one of the greatest midfielders ever, winning the 1998 World Cup and three FIFA World Player of the Year awards before becoming a highly successful manager at Real Madrid.",
+    "tags": ["football", "soccer", "real-madrid", "world-cup", "france"]
+  },
+  {
+    "name": "Paolo Maldini",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 26, 1968",
+    "birthPlace": "Milan, Italy",
+    "nationality": "Italian",
+    "excerpt": "Paolo Maldini spent his entire 25-year career at AC Milan, winning five European Cups and seven Serie A titles, and is considered one of the greatest defenders in football history.",
+    "tags": ["football", "soccer", "ac-milan", "defender", "serie-a"]
+  },
+  {
+    "name": "Roberto Baggio",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 18, 1967",
+    "birthPlace": "Caldogno, Italy",
+    "nationality": "Italian",
+    "excerpt": "Known as the Divine Ponytail, Roberto Baggio was an Italian attacking midfielder celebrated for his vision, creativity, and iconic penalty miss in the 1994 World Cup final.",
+    "tags": ["football", "soccer", "italy", "world-cup", "serie-a"]
+  },
+  {
+    "name": "David Beckham",
+    "category": "footballer",
+    "profession": "Footballer and Businessman",
+    "born": "May 2, 1975",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "David Beckham became one of the most recognizable athletes in the world through his career at Manchester United, Real Madrid, and the LA Galaxy, as well as his global fashion and business influence.",
+    "tags": ["football", "soccer", "manchester-united", "real-madrid", "celebrity"]
+  },
+  {
+    "name": "Wayne Rooney",
+    "category": "footballer",
+    "profession": "Footballer and Manager",
+    "born": "October 24, 1985",
+    "birthPlace": "Liverpool, England",
+    "nationality": "English",
+    "excerpt": "Wayne Rooney is Manchester United's all-time leading scorer and England's second-highest all-time goal scorer, known for his versatility and powerful playing style.",
+    "tags": ["football", "soccer", "manchester-united", "england", "premier-league"]
+  },
+  {
+    "name": "Thierry Henry",
+    "category": "footballer",
+    "profession": "Footballer and Pundit",
+    "born": "August 17, 1977",
+    "birthPlace": "Les Ulis, France",
+    "nationality": "French",
+    "excerpt": "Thierry Henry is Arsenal's all-time leading scorer and a 1998 World Cup winner with France, celebrated for his pace, elegance, and clinical finishing.",
+    "tags": ["football", "soccer", "arsenal", "france", "world-cup"]
+  },
+  {
+    "name": "Zlatan Ibrahimovic",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "October 3, 1981",
+    "birthPlace": "Malmö, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "Zlatan Ibrahimovic is known for his acrobatic goals, physical dominance, and larger-than-life personality, having played for Ajax, Juventus, Inter Milan, Barcelona, Paris Saint-Germain, and AC Milan.",
+    "tags": ["football", "soccer", "sweden", "serie-a", "laliga"]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "August 21, 1988",
+    "birthPlace": "Warsaw, Poland",
+    "nationality": "Polish",
+    "excerpt": "Robert Lewandowski is one of the greatest strikers of all time, holding the record for most goals in a single Bundesliga season and winning the 2020 Best FIFA Men's Player award.",
+    "tags": ["football", "soccer", "bayern-munich", "barcelona", "poland"]
+  },
+  {
+    "name": "Kylian Mbappe",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 20, 1998",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "Kylian Mbappe burst onto the world stage as a teenager at the 2018 World Cup, becoming one of the fastest and most exciting forwards in football history.",
+    "tags": ["football", "soccer", "real-madrid", "france", "world-cup"]
+  },
+  {
+    "name": "Erling Haaland",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 21, 2000",
+    "birthPlace": "Leeds, England",
+    "nationality": "Norwegian",
+    "excerpt": "Erling Haaland has shattered scoring records at Borussia Dortmund and Manchester City, becoming one of the most dominant strikers in world football.",
+    "tags": ["football", "soccer", "manchester-city", "norway", "premier-league"]
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 28, 1991",
+    "birthPlace": "Drongen, Belgium",
+    "nationality": "Belgian",
+    "excerpt": "Kevin De Bruyne is widely considered the best midfielder of his generation, known for his exceptional passing range, vision, and ability to control matches at Manchester City.",
+    "tags": ["football", "soccer", "manchester-city", "belgium", "premier-league"]
+  },
+  {
+    "name": "Mohamed Salah",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 15, 1992",
+    "birthPlace": "Nagrig, Egypt",
+    "nationality": "Egyptian",
+    "excerpt": "Mohamed Salah is Liverpool's record Premier League scorer in a single season and has won multiple individual awards, becoming the most famous African footballer of his era.",
+    "tags": ["football", "soccer", "liverpool", "egypt", "premier-league"]
+  },
+  {
+    "name": "Virgil van Dijk",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 8, 1991",
+    "birthPlace": "Breda, Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "Virgil van Dijk transformed Liverpool's defense upon his arrival and has been named UEFA Men's Player of the Year, establishing himself as the world's best center-back.",
+    "tags": ["football", "soccer", "liverpool", "netherlands", "defender"]
+  },
+  {
+    "name": "Sergio Ramos",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 30, 1986",
+    "birthPlace": "Camas, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Sergio Ramos has won four Champions League titles with Real Madrid and captained Spain to a World Cup victory in 2010, known for his leadership and crucial goals from defense.",
+    "tags": ["football", "soccer", "real-madrid", "spain", "defender"]
+  },
+  {
+    "name": "Luka Modric",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "September 9, 1985",
+    "birthPlace": "Zadar, Croatia",
+    "nationality": "Croatian",
+    "excerpt": "Luka Modric broke the Messi-Ronaldo Ballon d'Or duopoly in 2018 after leading Croatia to the World Cup final and winning the Champions League with Real Madrid.",
+    "tags": ["football", "soccer", "real-madrid", "croatia", "ballon-dor"]
+  },
+  {
+    "name": "Toni Kroos",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "January 4, 1990",
+    "birthPlace": "Greifswald, Germany",
+    "nationality": "German",
+    "excerpt": "Toni Kroos is one of the most decorated midfielders in football history, winning six Champions League titles with Real Madrid and the 2014 World Cup with Germany.",
+    "tags": ["football", "soccer", "real-madrid", "germany", "world-cup"]
+  },
+  {
+    "name": "Manuel Neuer",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 27, 1986",
+    "birthPlace": "Gelsenkirchen, Germany",
+    "nationality": "German",
+    "excerpt": "Manuel Neuer redefined the goalkeeper position with his sweeper-keeper style, winning the 2014 World Cup and multiple Bundesliga and Champions League titles with Bayern Munich.",
+    "tags": ["football", "soccer", "bayern-munich", "germany", "goalkeeper"]
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "January 28, 1978",
+    "birthPlace": "Carrara, Italy",
+    "nationality": "Italian",
+    "excerpt": "Gianluigi Buffon is one of the greatest goalkeepers ever, holding the record for most Serie A appearances and winning the 2006 World Cup with Italy.",
+    "tags": ["football", "soccer", "juventus", "italy", "goalkeeper"]
+  },
+  {
+    "name": "Xavi Hernandez",
+    "category": "footballer",
+    "profession": "Footballer and Manager",
+    "born": "January 25, 1980",
+    "birthPlace": "Terrassa, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Xavi Hernandez is considered one of the greatest midfielders ever, orchestrating Spain's dominance and Barcelona's tiki-taka style before becoming a successful manager.",
+    "tags": ["football", "soccer", "barcelona", "spain", "manager"]
+  },
+  {
+    "name": "Andres Iniesta",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 11, 1984",
+    "birthPlace": "Fuentealbilla, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Andres Iniesta scored the winning goal in the 2010 World Cup final and is celebrated as one of the most technically gifted midfielders in football history.",
+    "tags": ["football", "soccer", "barcelona", "spain", "world-cup"]
+  },
+  {
+    "name": "Gerard Pique",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 2, 1987",
+    "birthPlace": "Barcelona, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Gerard Pique won every major trophy with Barcelona and Spain before retiring in 2022, and is also known for his business ventures and relationship with Shakira.",
+    "tags": ["football", "soccer", "barcelona", "spain", "defender"]
+  },
+  {
+    "name": "Ronaldo Nazario",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "September 18, 1976",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ronaldo Nazario, known as O Fenomeno, is widely regarded as one of the greatest strikers ever, winning two Ballon d'Or awards and two World Cups with Brazil.",
+    "tags": ["football", "soccer", "brazil", "ballon-dor", "real-madrid"]
+  },
+  {
+    "name": "Edgar Davids",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 13, 1973",
+    "birthPlace": "Paramaribo, Suriname",
+    "nationality": "Dutch",
+    "excerpt": "Edgar Davids was a tenacious midfielder who starred for Ajax, Juventus, and Barcelona, recognizable by his distinctive protective glasses and dreadlocks.",
+    "tags": ["football", "soccer", "ajax", "juventus", "netherlands"]
+  },
+  {
+    "name": "Patrick Vieira",
+    "category": "footballer",
+    "profession": "Footballer and Manager",
+    "born": "June 23, 1976",
+    "birthPlace": "Dakar, Senegal",
+    "nationality": "French",
+    "excerpt": "Patrick Vieira was the midfield engine of Arsenal's Invincibles season and captained France to the 2006 World Cup final before transitioning into management.",
+    "tags": ["football", "soccer", "arsenal", "france", "premier-league"]
+  },
+  {
+    "name": "Dennis Bergkamp",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 10, 1969",
+    "birthPlace": "Amsterdam, Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "Dennis Bergkamp is an Arsenal legend celebrated for his sublime technical ability and iconic goals, including his famous strike against Argentina in the 1998 World Cup.",
+    "tags": ["football", "soccer", "arsenal", "netherlands", "premier-league"]
+  },
+  {
+    "name": "Alessandro Del Piero",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "November 9, 1974",
+    "birthPlace": "Conegliano, Italy",
+    "nationality": "Italian",
+    "excerpt": "Alessandro Del Piero is Juventus' all-time leading scorer, known for his elegant playing style, free-kick ability, and winning the 2006 World Cup with Italy.",
+    "tags": ["football", "soccer", "juventus", "italy", "world-cup"]
+  },
+  {
+    "name": "Francesco Totti",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "September 27, 1976",
+    "birthPlace": "Rome, Italy",
+    "nationality": "Italian",
+    "excerpt": "Francesco Totti spent his entire 25-year career at AS Roma, becoming the club's all-time top scorer and a symbol of loyalty in Italian football.",
+    "tags": ["football", "soccer", "roma", "italy", "serie-a"]
+  },
+  {
+    "name": "Andrea Pirlo",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 19, 1979",
+    "birthPlace": "Flero, Italy",
+    "nationality": "Italian",
+    "excerpt": "Andrea Pirlo reinvented the deep-lying playmaker role, winning two Champions League titles and the 2006 World Cup with his signature no-look passes and vision.",
+    "tags": ["football", "soccer", "juventus", "ac-milan", "italy"]
+  },
+  {
+    "name": "Paul Scholes",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "November 16, 1974",
+    "birthPlace": "Salford, England",
+    "nationality": "English",
+    "excerpt": "Paul Scholes is considered one of the most intelligent midfielders ever, spending his entire career at Manchester United and winning 11 Premier League titles.",
+    "tags": ["football", "soccer", "manchester-united", "england", "premier-league"]
+  },
+  {
+    "name": "Steven Gerrard",
+    "category": "footballer",
+    "profession": "Footballer and Manager",
+    "born": "May 30, 1980",
+    "birthPlace": "Merseyside, England",
+    "nationality": "English",
+    "excerpt": "Steven Gerrard is Liverpool's greatest captain, famous for his inspiring 2005 Champions League final performance and his powerful long-range goals.",
+    "tags": ["football", "soccer", "liverpool", "england", "premier-league"]
+  },
+  {
+    "name": "Frank Lampard",
+    "category": "footballer",
+    "profession": "Footballer and Manager",
+    "born": "June 20, 1978",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "Frank Lampard is Chelsea's all-time leading scorer and one of the Premier League's greatest midfielders, known for his late runs into the box and goalscoring ability.",
+    "tags": ["football", "soccer", "chelsea", "england", "premier-league"]
+  },
+  {
+    "name": "Didier Drogba",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 11, 1978",
+    "birthPlace": "Abidjan, Ivory Coast",
+    "nationality": "Ivorian",
+    "excerpt": "Didier Drogba scored the decisive penalty in Chelsea's 2012 Champions League final and is celebrated as one of the greatest African footballers in history.",
+    "tags": ["football", "soccer", "chelsea", "ivory-coast", "champions-league"]
+  },
+  {
+    "name": "Samuel Eto'o",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 10, 1981",
+    "birthPlace": "Douala, Cameroon",
+    "nationality": "Cameroonian",
+    "excerpt": "Samuel Eto'o is a four-time African Player of the Year who starred for Barcelona and Inter Milan, winning the treble with both clubs.",
+    "tags": ["football", "soccer", "barcelona", "cameroon", "champions-league"]
+  },
+  {
+    "name": "Raheem Sterling",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 8, 1994",
+    "birthPlace": "Kingston, Jamaica",
+    "nationality": "English",
+    "excerpt": "Raheem Sterling has been a key player for Manchester City and Chelsea, winning multiple Premier League titles and becoming an outspoken advocate for racial equality in football.",
+    "tags": ["football", "soccer", "manchester-city", "england", "premier-league"]
+  },
+  {
+    "name": "Harry Kane",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 28, 1993",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "Harry Kane is England's all-time leading goal scorer and a three-time Premier League Golden Boot winner who moved to Bayern Munich in 2023.",
+    "tags": ["football", "soccer", "tottenham", "bayern-munich", "england"]
+  },
+  {
+    "name": "Jude Bellingham",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 29, 2003",
+    "birthPlace": "Stourbridge, England",
+    "nationality": "English",
+    "excerpt": "Jude Bellingham became one of the youngest stars in Real Madrid history after his record-breaking transfer from Borussia Dortmund, immediately winning La Liga in his debut season.",
+    "tags": ["football", "soccer", "real-madrid", "england", "laliga"]
+  },
+  {
+    "name": "Phil Foden",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 28, 2000",
+    "birthPlace": "Stockport, England",
+    "nationality": "English",
+    "excerpt": "Phil Foden is a product of Manchester City's academy who has become one of the most technically gifted young players in the world, winning multiple Premier League titles.",
+    "tags": ["football", "soccer", "manchester-city", "england", "premier-league"]
+  },
+  {
+    "name": "Vinicius Junior",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 12, 2000",
+    "birthPlace": "São Gonçalo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Vinicius Junior has emerged as one of the most exciting wingers in world football, scoring crucial goals in multiple Champions League finals for Real Madrid.",
+    "tags": ["football", "soccer", "real-madrid", "brazil", "champions-league"]
+  },
+  {
+    "name": "Pedri",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "November 25, 2002",
+    "birthPlace": "Tegueste, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Pedri has been hailed as the heir to Andres Iniesta's throne at Barcelona, winning the Golden Boy award and establishing himself as one of Europe's best midfielders.",
+    "tags": ["football", "soccer", "barcelona", "spain", "golden-boy"]
+  },
+  {
+    "name": "Gavi",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "August 5, 2004",
+    "birthPlace": "Los Palacios, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Gavi became the youngest player to debut for Spain's senior team and won the Golden Boy award, representing the next generation of Barcelona midfield talent.",
+    "tags": ["football", "soccer", "barcelona", "spain", "golden-boy"]
+  },
+  {
+    "name": "Bukayo Saka",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "September 5, 2001",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "Bukayo Saka has become Arsenal's talisman and one of the Premier League's best players, overcoming his penalty heartbreak at Euro 2020 to become a world-class talent.",
+    "tags": ["football", "soccer", "arsenal", "england", "premier-league"]
+  },
+  {
+    "name": "Marcus Rashford",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "October 31, 1997",
+    "birthPlace": "Manchester, England",
+    "nationality": "English",
+    "excerpt": "Marcus Rashford rose through Manchester United's academy to become a key England international, also earning praise for his campaign against child food poverty in the UK.",
+    "tags": ["football", "soccer", "manchester-united", "england", "activism"]
+  },
+  {
+    "name": "Karim Benzema",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 19, 1987",
+    "birthPlace": "Lyon, France",
+    "nationality": "French",
+    "excerpt": "Karim Benzema won the 2022 Ballon d'Or after a phenomenal season with Real Madrid, finishing as the Champions League's top scorer and leading La Liga in goals.",
+    "tags": ["football", "soccer", "real-madrid", "france", "ballon-dor"]
+  },
+  {
+    "name": "Thomas Muller",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "September 13, 1989",
+    "birthPlace": "Weilheim, Germany",
+    "nationality": "German",
+    "excerpt": "Thomas Muller is a Bayern Munich and Germany legend who has won the World Cup, multiple Champions League titles, and is known for his intelligent Raumdeuter playing style.",
+    "tags": ["football", "soccer", "bayern-munich", "germany", "world-cup"]
+  },
+  {
+    "name": "N'Golo Kante",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "March 29, 1991",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "N'Golo Kante is one of the most beloved midfielders in football, winning the Premier League with Leicester City and Chelsea before his star performance in France's 2018 World Cup triumph.",
+    "tags": ["football", "soccer", "chelsea", "france", "world-cup"]
+  },
+  {
+    "name": "Casemiro",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 23, 1992",
+    "birthPlace": "São José dos Campos, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Casemiro was the defensive anchor of Real Madrid's Champions League dynasty, winning five titles before moving to Manchester United in 2022.",
+    "tags": ["football", "soccer", "real-madrid", "manchester-united", "brazil"]
+  },
+  {
+    "name": "Angel Di Maria",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 14, 1988",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Angel Di Maria scored the winning goal in the 2021 Copa America final and the 2022 World Cup final, cementing his legacy as one of Argentina's greatest wingers.",
+    "tags": ["football", "soccer", "argentina", "real-madrid", "world-cup"]
+  },
+  {
+    "name": "Paulo Dybala",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "November 15, 1993",
+    "birthPlace": "Cordoba, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Paulo Dybala, known as La Joya, is an Argentine forward celebrated for his left foot, technical ability, and scoring the winning goal in the 2022 World Cup final.",
+    "tags": ["football", "soccer", "juventus", "argentina", "world-cup"]
+  },
+  {
+    "name": "Gareth Bale",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 16, 1989",
+    "birthPlace": "Cardiff, Wales",
+    "nationality": "Welsh",
+    "excerpt": "Gareth Bale became the world's most expensive player when he moved to Real Madrid, winning five Champions League titles and scoring iconic goals including in two finals.",
+    "tags": ["football", "soccer", "real-madrid", "wales", "champions-league"]
+  },
+  {
+    "name": "Eden Hazard",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "January 7, 1991",
+    "birthPlace": "La Louvière, Belgium",
+    "nationality": "Belgian",
+    "excerpt": "Eden Hazard was Chelsea's creative heartbeat for seven seasons, winning two Premier League titles before his dream move to Real Madrid.",
+    "tags": ["football", "soccer", "chelsea", "real-madrid", "belgium"]
+  },
+  {
+    "name": "Sadio Mane",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "April 10, 1992",
+    "birthPlace": "Bambali, Senegal",
+    "nationality": "Senegalese",
+    "excerpt": "Sadio Mane won the Champions League with Liverpool and the Africa Cup of Nations with Senegal, establishing himself as one of Africa's greatest ever players.",
+    "tags": ["football", "soccer", "liverpool", "senegal", "africa-cup"]
+  },
+  {
+    "name": "Son Heung-min",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 8, 1992",
+    "birthPlace": "Chuncheon, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Son Heung-min is Tottenham Hotspur's co-legendary forward and South Korea's captain, known for his incredible speed and the first Asian to win the Premier League Golden Boot.",
+    "tags": ["football", "soccer", "tottenham", "south-korea", "premier-league"]
+  },
+  {
+    "name": "Thibaut Courtois",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 11, 1992",
+    "birthPlace": "Bree, Belgium",
+    "nationality": "Belgian",
+    "excerpt": "Thibaut Courtois delivered one of the greatest goalkeeping performances in Champions League history in the 2022 final, cementing his status as one of the world's best keepers.",
+    "tags": ["football", "soccer", "real-madrid", "belgium", "goalkeeper"]
+  },
+  {
+    "name": "Jan Oblak",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "January 7, 1993",
+    "birthPlace": "Škofja Loka, Slovenia",
+    "nationality": "Slovenian",
+    "excerpt": "Jan Oblak has been Atletico Madrid's defensive cornerstone for years, winning multiple Zamora Trophies as La Liga's best goalkeeper.",
+    "tags": ["football", "soccer", "atletico-madrid", "slovenia", "goalkeeper"]
+  },
+  {
+    "name": "Alisson Becker",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "October 2, 1992",
+    "birthPlace": "Novo Hamburgo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Alisson Becker won the Champions League, Premier League, and Copa America in the same calendar year, establishing himself as one of the best goalkeepers in world football.",
+    "tags": ["football", "soccer", "liverpool", "brazil", "goalkeeper"]
+  },
+  {
+    "name": "Marcelo Vieira",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 12, 1988",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Marcelo is Real Madrid's most decorated player with five Champions League titles, known for his extraordinary attacking ability from the left-back position.",
+    "tags": ["football", "soccer", "real-madrid", "brazil", "defender"]
+  },
+  {
+    "name": "Dani Alves",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 6, 1983",
+    "birthPlace": "Juazeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Dani Alves holds the record for most career trophies in football history, having won titles with Sevilla, Barcelona, Paris Saint-Germain, and the Brazilian national team.",
+    "tags": ["football", "soccer", "barcelona", "brazil", "defender"]
+  },
+  {
+    "name": "Cafu",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 7, 1970",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Cafu captained Brazil to victory in the 2002 World Cup and appeared in three consecutive World Cup finals, making him one of the greatest right-backs ever.",
+    "tags": ["football", "soccer", "brazil", "world-cup", "defender"]
+  },
+  {
+    "name": "Roberto Carlos",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "April 10, 1973",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Roberto Carlos is famous for his thunderous left foot and the greatest free kick in football history against France in 1997, winning the World Cup with Brazil in 2002.",
+    "tags": ["football", "soccer", "real-madrid", "brazil", "free-kick"]
+  },
+  {
+    "name": "Rio Ferdinand",
+    "category": "footballer",
+    "profession": "Footballer and Pundit",
+    "born": "November 7, 1978",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "Rio Ferdinand was one of the most elegant center-backs in Premier League history, forming a formidable partnership with Nemanja Vidic at Manchester United.",
+    "tags": ["football", "soccer", "manchester-united", "england", "defender"]
+  },
+  {
+    "name": "Javier Mascherano",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 8, 1984",
+    "birthPlace": "San Lorenzo, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Javier Mascherano was a defensive stalwart for Barcelona and Argentina, forming part of one of the greatest defensive midfields and backlines of his generation.",
+    "tags": ["football", "soccer", "barcelona", "argentina", "defender"]
+  },
+  {
+    "name": "Edinson Cavani",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 14, 1987",
+    "birthPlace": "Salto, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Edinson Cavani is one of the greatest strikers of his generation, holding the all-time scoring record for the Uruguayan national team and Paris Saint-Germain.",
+    "tags": ["football", "soccer", "paris-saint-germain", "uruguay", "striker"]
+  },
+  {
+    "name": "Luis Figo",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "November 4, 1972",
+    "birthPlace": "Almada, Portugal",
+    "nationality": "Portuguese",
+    "excerpt": "Luis Figo's controversial transfer from Barcelona to Real Madrid remains one of football's most infamous moves, and he won the 2000 Ballon d'Or.",
+    "tags": ["football", "soccer", "real-madrid", "barcelona", "ballon-dor"]
+  },
+  {
+    "name": "Gabriel Batistuta",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 1, 1969",
+    "birthPlace": "Reconquista, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Gabriel Batistuta, known as Batigol, is Fiorentina's greatest ever player and Argentina's second-highest all-time scorer with his trademark powerful finishing.",
+    "tags": ["football", "soccer", "fiorentina", "argentina", "striker"]
+  },
+  {
+    "name": "George Weah",
+    "category": "footballer",
+    "profession": "Footballer and Politician",
+    "born": "October 1, 1966",
+    "birthPlace": "Monrovia, Liberia",
+    "nationality": "Liberian",
+    "excerpt": "George Weah won the Ballon d'Or in 1995 and later became President of Liberia, making him the only professional footballer to lead a nation as head of state.",
+    "tags": ["football", "soccer", "ac-milan", "ballon-dor", "politics"]
+  },
+  {
+    "name": "Marco Verratti",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "November 5, 1992",
+    "birthPlace": "Pescara, Italy",
+    "nationality": "Italian",
+    "excerpt": "Marco Verratti is a midfield maestro who spent a decade at Paris Saint-Germain, controlling games with his exceptional passing and press resistance.",
+    "tags": ["football", "soccer", "paris-saint-germain", "italy", "serie-a"]
+  },
+  {
+    "name": "Mats Hummels",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 16, 1988",
+    "birthPlace": "Bergisch Gladbach, Germany",
+    "nationality": "German",
+    "excerpt": "Mats Hummels has been one of the best ball-playing center-backs of his era, winning the World Cup with Germany in 2014 and multiple Bundesliga titles with Borussia Dortmund.",
+    "tags": ["football", "soccer", "dortmund", "germany", "defender"]
+  },
+  {
+    "name": "Pepe",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "February 26, 1983",
+    "birthPlace": "Maceió, Brazil",
+    "nationality": "Portuguese",
+    "excerpt": "Pepe was one of the most feared and successful defenders of his era, winning three Champions League titles with Real Madrid and Euro 2016 with Portugal.",
+    "tags": ["football", "soccer", "real-madrid", "portugal", "defender"]
+  },
+  {
+    "name": "Hugo Lloris",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 26, 1986",
+    "birthPlace": "Nice, France",
+    "nationality": "French",
+    "excerpt": "Hugo Lloris captained France to victory in the 2018 World Cup and spent over a decade as Tottenham Hotspur's number one goalkeeper.",
+    "tags": ["football", "soccer", "tottenham", "france", "world-cup"]
+  },
+  {
+    "name": "Ederson Moraes",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "August 17, 1993",
+    "birthPlace": "Osasco, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ederson has redefined goalkeeping at Manchester City with his extraordinary distribution and shot-stopping, winning multiple Premier League titles under Pep Guardiola.",
+    "tags": ["football", "soccer", "manchester-city", "brazil", "goalkeeper"]
+  },
+  {
+    "name": "Pierre-Emerick Aubameyang",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "June 18, 1989",
+    "birthPlace": "Laval, France",
+    "nationality": "Gabonese",
+    "excerpt": "Pierre-Emerick Aubameyang is a prolific striker who has played for Borussia Dortmund, Arsenal, and Barcelona, and served as captain of the Gabonese national team.",
+    "tags": ["football", "soccer", "arsenal", "barcelona", "africa"]
+  },
+  {
+    "name": "Rui Costa",
+    "category": "footballer",
+    "profession": "Footballer and Executive",
+    "born": "March 29, 1972",
+    "birthPlace": "Lisbon, Portugal",
+    "nationality": "Portuguese",
+    "excerpt": "Rui Costa was one of the most elegant attacking midfielders of his generation, starring for Fiorentina and AC Milan before becoming Benfica's president.",
+    "tags": ["football", "soccer", "ac-milan", "benfica", "portugal"]
+  },
+  {
+    "name": "John Terry",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 7, 1980",
+    "birthPlace": "Barking, England",
+    "nationality": "English",
+    "excerpt": "John Terry was Chelsea's iconic captain, forming one of the greatest defensive partnerships in Premier League history and winning every major club trophy available.",
+    "tags": ["football", "soccer", "chelsea", "england", "defender"]
+  },
+  {
+    "name": "Lamine Yamal",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "July 13, 2007",
+    "birthPlace": "Esplugues de Llobregat, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Lamine Yamal became the youngest player to appear and score at a European Championship in 2024, emerging as the most exciting teenage talent in world football.",
+    "tags": ["football", "soccer", "barcelona", "spain", "wonderkid"]
+  },
+  {
+    "name": "Florian Wirtz",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "May 3, 2003",
+    "birthPlace": "Pulheim, Germany",
+    "nationality": "German",
+    "excerpt": "Florian Wirtz has become the centerpiece of Bayer Leverkusen's historic unbeaten Bundesliga season, regarded as one of the most talented young players in the world.",
+    "tags": ["football", "soccer", "leverkusen", "germany", "wonderkid"]
+  },
+  {
+    "name": "Victor Osimhen",
+    "category": "footballer",
+    "profession": "Footballer",
+    "born": "December 29, 1998",
+    "birthPlace": "Lagos, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Victor Osimhen led Napoli to their first Serie A title in 33 years in 2023, becoming one of the most sought-after strikers in world football.",
+    "tags": ["football", "soccer", "napoli", "nigeria", "serie-a"]
+  },
+  {
+    "name": "Mike Tyson",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "June 30, 1966",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Mike Tyson became the youngest heavyweight champion in history at age 20 and remains one of the most feared and iconic boxers ever to step into the ring.",
+    "tags": ["boxing", "heavyweight", "champion", "knockout", "legend"]
+  },
+  {
+    "name": "Floyd Mayweather",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "February 24, 1977",
+    "birthPlace": "Grand Rapids, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Floyd Mayweather retired with a perfect 50-0 record, winning world titles in five weight classes and becoming one of the highest-paid athletes in history.",
+    "tags": ["boxing", "undefeated", "champion", "pay-per-view", "welterweight"]
+  },
+  {
+    "name": "Manny Pacquiao",
+    "category": "boxer",
+    "profession": "Boxer and Politician",
+    "born": "December 17, 1978",
+    "birthPlace": "Bukidnon, Philippines",
+    "nationality": "Philippine",
+    "excerpt": "Manny Pacquiao is the only boxer to win world titles in eight different weight divisions and later became a senator and presidential candidate in the Philippines.",
+    "tags": ["boxing", "champion", "philippines", "politics", "multi-weight"]
+  },
+  {
+    "name": "Canelo Alvarez",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "July 18, 1990",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Canelo Alvarez is boxing's biggest draw and has won world titles in four weight classes, becoming the undisputed super middleweight champion.",
+    "tags": ["boxing", "champion", "mexico", "middleweight", "ppv-star"]
+  },
+  {
+    "name": "Oscar De La Hoya",
+    "category": "boxer",
+    "profession": "Boxer and Promoter",
+    "born": "February 4, 1973",
+    "birthPlace": "East Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Oscar De La Hoya, known as The Golden Boy, won an Olympic gold medal at age 19 and became a six-division world champion before founding Golden Boy Promotions.",
+    "tags": ["boxing", "olympics", "champion", "promoter", "golden-boy"]
+  },
+  {
+    "name": "Lennox Lewis",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "September 2, 1965",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Lennox Lewis is the last undisputed heavyweight champion of the world, defeating Mike Tyson and Evander Holyfield during his dominant career.",
+    "tags": ["boxing", "heavyweight", "champion", "undisputed", "olympics"]
+  },
+  {
+    "name": "Muhammad Ali",
+    "category": "boxer",
+    "profession": "Boxer and Activist",
+    "born": "January 17, 1942",
+    "birthPlace": "Louisville, Kentucky, USA",
+    "nationality": "American",
+    "excerpt": "Muhammad Ali is widely regarded as the greatest boxer of all time, a three-time heavyweight champion whose charisma and activism transcended the sport.",
+    "tags": ["boxing", "heavyweight", "champion", "activism", "legend"]
+  },
+  {
+    "name": "Sugar Ray Leonard",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "May 17, 1956",
+    "birthPlace": "Wilmington, North Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Sugar Ray Leonard was one of the Four Kings of boxing in the 1980s, winning world titles in five weight divisions and the 1976 Olympic gold medal.",
+    "tags": ["boxing", "champion", "olympics", "welterweight", "four-kings"]
+  },
+  {
+    "name": "Evander Holyfield",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "October 19, 1962",
+    "birthPlace": "Atmore, Alabama, USA",
+    "nationality": "American",
+    "excerpt": "Evander Holyfield is the only four-time heavyweight champion in boxing history, famous for his trilogy with Mike Tyson including the infamous ear-biting incident.",
+    "tags": ["boxing", "heavyweight", "champion", "undisputed", "comeback"]
+  },
+  {
+    "name": "George Foreman",
+    "category": "boxer",
+    "profession": "Boxer and Entrepreneur",
+    "born": "January 10, 1949",
+    "birthPlace": "Marshall, Texas, USA",
+    "nationality": "American",
+    "excerpt": "George Foreman regained the heavyweight title at age 45, becoming the oldest heavyweight champion ever, and later became a successful entrepreneur with his famous grill.",
+    "tags": ["boxing", "heavyweight", "champion", "comeback", "entrepreneur"]
+  },
+  {
+    "name": "Joe Frazier",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "January 12, 1944",
+    "birthPlace": "Beaufort, South Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Joe Frazier, known as Smokin' Joe, was the undisputed heavyweight champion and Muhammad Ali's greatest rival, winning the legendary Thrilla in Manila bout.",
+    "tags": ["boxing", "heavyweight", "champion", "rivalry", "legend"]
+  },
+  {
+    "name": "Roy Jones Jr.",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "January 16, 1969",
+    "birthPlace": "Pensacola, Florida, USA",
+    "nationality": "American",
+    "excerpt": "Roy Jones Jr. is the only boxer to start his career as a junior middleweight and win the heavyweight title, renowned for his incredible speed and reflexes.",
+    "tags": ["boxing", "champion", "multi-weight", "speed", "versatility"]
+  },
+  {
+    "name": "Julio Cesar Chavez",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "February 12, 1962",
+    "birthPlace": "Ciudad Obregón, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Julio Cesar Chavez is Mexico's greatest boxer ever, holding a record of 87-0 at one point and winning world titles in three weight divisions.",
+    "tags": ["boxing", "champion", "mexico", "featherweight", "legend"]
+  },
+  {
+    "name": "Anthony Joshua",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "October 15, 1989",
+    "birthPlace": "Watford, England",
+    "nationality": "British",
+    "excerpt": "Anthony Joshua is a two-time unified heavyweight champion and Olympic gold medalist who has become one of boxing's biggest global stars.",
+    "tags": ["boxing", "heavyweight", "champion", "olympics", "ppv-star"]
+  },
+  {
+    "name": "Tyson Fury",
+    "category": "boxer",
+    "profession": "Boxer",
+    "born": "August 12, 1988",
+    "birthPlace": "Wythenshawe, England",
+    "nationality": "British",
+    "excerpt": "Tyson Fury completed one of sport's greatest comebacks, defeating Deontay Wilder to become lineal heavyweight champion after battling depression and substance abuse.",
+    "tags": ["boxing", "heavyweight", "champion", "comeback", "gypsy-king"]
+  },
+  {
+    "name": "Conor McGregor",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "July 14, 1988",
+    "birthPlace": "Dublin, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Conor McGregor became the UFC's biggest star and first simultaneous two-division champion, turning MMA into a mainstream global sport with his brash persona.",
+    "tags": ["mma", "ufc", "champion", "ireland", "ppv-star"]
+  },
+  {
+    "name": "Jon Jones",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "July 19, 1987",
+    "birthPlace": "Rochester, New York, USA",
+    "nationality": "American",
+    "excerpt": "Jon Jones is widely considered the greatest MMA fighter of all time, becoming the youngest UFC champion at age 23 and dominating multiple weight classes.",
+    "tags": ["mma", "ufc", "champion", "light-heavyweight", "goat"]
+  },
+  {
+    "name": "Khabib Nurmagomedov",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "September 20, 1988",
+    "birthPlace": "Sildi, Russia",
+    "nationality": "Russian",
+    "excerpt": "Khabib Nurmagomedov retired undefeated at 29-0 as the UFC lightweight champion, cementing his legacy with a dominant win over Conor McGregor.",
+    "tags": ["mma", "ufc", "champion", "undefeated", "lightweight"]
+  },
+  {
+    "name": "Anderson Silva",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "April 14, 1975",
+    "birthPlace": "Curitiba, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Anderson Silva holds the record for the longest UFC title reign at 2,457 days, dominating the middleweight division for nearly a decade with his creative striking.",
+    "tags": ["mma", "ufc", "champion", "middleweight", "striker"]
+  },
+  {
+    "name": "Georges St-Pierre",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "May 19, 1981",
+    "birthPlace": "Saint-Isidore, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Georges St-Pierre is considered the greatest welterweight in MMA history, holding the title for nearly five years and returning to win the middleweight championship.",
+    "tags": ["mma", "ufc", "champion", "welterweight", "goat"]
+  },
+  {
+    "name": "Amanda Nunes",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "May 30, 1988",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Amanda Nunes is the greatest female fighter in MMA history, simultaneously holding bantamweight and featherweight titles and defeating every champion in her path.",
+    "tags": ["mma", "ufc", "champion", "womens", "double-champion"]
+  },
+  {
+    "name": "Ronda Rousey",
+    "category": "sports",
+    "profession": "MMA Fighter and Wrestler",
+    "born": "February 1, 1987",
+    "birthPlace": "Riverside, California, USA",
+    "nationality": "American",
+    "excerpt": "Ronda Rousey was the face of women's MMA and an Olympic judo medalist who became the first female UFC champion before transitioning to professional wrestling.",
+    "tags": ["mma", "ufc", "champion", "olympics", "wrestling"]
+  },
+  {
+    "name": "Dustin Poirier",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "January 19, 1989",
+    "birthPlace": "Lafayette, Louisiana, USA",
+    "nationality": "American",
+    "excerpt": "Dustin Poirier is one of the UFC's most beloved fighters, known for his exciting fighting style and charitable work through the Good Fight Foundation.",
+    "tags": ["mma", "ufc", "lightweight", "charity", "fan-favorite"]
+  },
+  {
+    "name": "Nate Diaz",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "April 16, 1985",
+    "birthPlace": "Stockton, California, USA",
+    "nationality": "American",
+    "excerpt": "Nate Diaz is one of the most popular fighters in UFC history, famous for his Stockton attitude, iconic rivalry with Conor McGregor, and submission skills.",
+    "tags": ["mma", "ufc", "stockton", "lightweight", "fan-favorite"]
+  },
+  {
+    "name": "Israel Adesanya",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "July 22, 1989",
+    "birthPlace": "Lagos, Nigeria",
+    "nationality": "New Zealander",
+    "excerpt": "Israel Adesanya, known as The Last Stylebender, became the UFC middleweight champion with his exceptional kickboxing skills and charismatic personality.",
+    "tags": ["mma", "ufc", "champion", "middleweight", "kickboxing"]
+  },
+  {
+    "name": "Alex Pereira",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "July 7, 1987",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Alex Pereira achieved the rare feat of becoming a two-division UFC champion after being a two-division kickboxing champion, known for his devastating knockout power.",
+    "tags": ["mma", "ufc", "champion", "knockout", "kickboxing"]
+  },
+  {
+    "name": "Chuck Liddell",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "December 17, 1969",
+    "birthPlace": "San Luis Obispo, California, USA",
+    "nationality": "American",
+    "excerpt": "Chuck Liddell, known as The Iceman, was the face of the UFC during its rise to mainstream popularity and held the light heavyweight title for years.",
+    "tags": ["mma", "ufc", "champion", "light-heavyweight", "pioneer"]
+  },
+  {
+    "name": "Demetrious Johnson",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "August 13, 1986",
+    "birthPlace": "Kent, Washington, USA",
+    "nationality": "American",
+    "excerpt": "Demetrious Johnson holds the record for most consecutive UFC title defenses with 11, widely regarded as one of the most technical and complete fighters ever.",
+    "tags": ["mma", "ufc", "champion", "flyweight", "records"]
+  },
+  {
+    "name": "BJ Penn",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "December 13, 1978",
+    "birthPlace": "Kailua, Hawaii, USA",
+    "nationality": "American",
+    "excerpt": "BJ Penn, known as The Prodigy, was the first American to win the World Jiu-Jitsu Championship and became a two-division UFC champion.",
+    "tags": ["mma", "ufc", "champion", "jiu-jitsu", "hawaii"]
+  },
+  {
+    "name": "Tito Ortiz",
+    "category": "sports",
+    "profession": "MMA Fighter",
+    "born": "January 23, 1975",
+    "birthPlace": "Huntington Beach, California, USA",
+    "nationality": "American",
+    "excerpt": "Tito Ortiz was one of the UFC's first mainstream stars, holding the light heavyweight title for three years and later entering politics.",
+    "tags": ["mma", "ufc", "champion", "light-heavyweight", "pioneer"]
+  },
+  {
+    "name": "Roger Federer",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "August 8, 1981",
+    "birthPlace": "Basel, Switzerland",
+    "nationality": "Swiss",
+    "excerpt": "Roger Federer won 20 Grand Slam titles and held the world number one ranking for a record 310 weeks, widely considered the greatest tennis player of all time.",
+    "tags": ["tennis", "grand-slam", "wimbledon", "atp", "goat"]
+  },
+  {
+    "name": "Rafael Nadal",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "June 3, 1986",
+    "birthPlace": "Manacor, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rafael Nadal won a record 14 French Open titles and 22 Grand Slams overall, known as the King of Clay for his dominance on the surface.",
+    "tags": ["tennis", "grand-slam", "roland-garros", "clay-court", "goat"]
+  },
+  {
+    "name": "Novak Djokovic",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "May 22, 1987",
+    "birthPlace": "Belgrade, Serbia",
+    "nationality": "Serbian",
+    "excerpt": "Novak Djokovic holds the record for most Grand Slam men's singles titles with 24 and has spent more weeks at world number one than any other player in history.",
+    "tags": ["tennis", "grand-slam", "atp", "world-number-one", "goat"]
+  },
+  {
+    "name": "Serena Williams",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "September 26, 1981",
+    "birthPlace": "Saginaw, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Serena Williams won 23 Grand Slam singles titles and dominated women's tennis for over two decades, becoming one of the greatest athletes in any sport.",
+    "tags": ["tennis", "grand-slam", "wta", "goat", "champion"]
+  },
+  {
+    "name": "Venus Williams",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "June 17, 1980",
+    "birthPlace": "Lynwood, California, USA",
+    "nationality": "American",
+    "excerpt": "Venus Williams won seven Grand Slam singles titles and was a pioneer for equal prize money in tennis, also excelling as an entrepreneur and designer.",
+    "tags": ["tennis", "grand-slam", "wta", "champion", "entrepreneur"]
+  },
+  {
+    "name": "Naomi Osaka",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "October 16, 1997",
+    "birthPlace": "Osaka, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Naomi Osaka won four Grand Slam titles and became the highest-paid female athlete in the world, also using her platform for social justice advocacy.",
+    "tags": ["tennis", "grand-slam", "wta", "social-justice", "japan"]
+  },
+  {
+    "name": "Coco Gauff",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "March 13, 2004",
+    "birthPlace": "Delray Beach, Florida, USA",
+    "nationality": "American",
+    "excerpt": "Coco Gauff became the youngest American to reach a Grand Slam final since Serena Williams and won the 2023 US Open at just 19 years old.",
+    "tags": ["tennis", "grand-slam", "wta", "wonderkid", "us-open"]
+  },
+  {
+    "name": "Maria Sharapova",
+    "category": "tennis",
+    "profession": "Tennis Player and Businesswoman",
+    "born": "April 19, 1987",
+    "birthPlace": "Nyagan, Russia",
+    "nationality": "Russian",
+    "excerpt": "Maria Sharapova won five Grand Slam titles and became one of the most marketable athletes in the world, also building a successful candy business.",
+    "tags": ["tennis", "grand-slam", "wta", "business", "russia"]
+  },
+  {
+    "name": "Steffi Graf",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "June 14, 1969",
+    "birthPlace": "Brühl, Germany",
+    "nationality": "German",
+    "excerpt": "Steffi Graf won 22 Grand Slam singles titles and is the only player to achieve the Golden Slam, winning all four Grand Slams and Olympic gold in the same year.",
+    "tags": ["tennis", "grand-slam", "golden-slam", "wta", "germany"]
+  },
+  {
+    "name": "Pete Sampras",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "August 12, 1971",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Pete Sampras won 14 Grand Slam titles and held the world number one ranking for 286 weeks, defined by his elegant serve-and-volley style.",
+    "tags": ["tennis", "grand-slam", "atp", "wimbledon", "serve-and-volley"]
+  },
+  {
+    "name": "Andre Agassi",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "April 29, 1970",
+    "birthPlace": "Las Vegas, Nevada, USA",
+    "nationality": "American",
+    "excerpt": "Andre Agassi won eight Grand Slam titles and completed a Career Golden Slam, known for his powerful return game and iconic persona both on and off the court.",
+    "tags": ["tennis", "grand-slam", "golden-slam", "atp", "las-vegas"]
+  },
+  {
+    "name": "Boris Becker",
+    "category": "tennis",
+    "profession": "Tennis Player and Coach",
+    "born": "November 22, 1967",
+    "birthPlace": "Leim, Germany",
+    "nationality": "German",
+    "excerpt": "Boris Becker won six Grand Slam titles and became the youngest Wimbledon champion at age 17, later coaching Novak Djokovic to multiple major victories.",
+    "tags": ["tennis", "grand-slam", "wimbledon", "atp", "coaching"]
+  },
+  {
+    "name": "Monica Seles",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "December 2, 1973",
+    "birthPlace": "Novi Sad, Yugoslavia",
+    "nationality": "American",
+    "excerpt": "Monica Seles won nine Grand Slam titles before a stabbing incident interrupted her career at age 19, becoming one of tennis's great what-if stories.",
+    "tags": ["tennis", "grand-slam", "wta", "comeback", "prodigy"]
+  },
+  {
+    "name": "Martina Navratilova",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "October 18, 1956",
+    "birthPlace": "Prague, Czechoslovakia",
+    "nationality": "American",
+    "excerpt": "Martina Navratilova won 18 Grand Slam singles titles and a record 31 women's doubles titles, widely considered one of the greatest tennis players ever.",
+    "tags": ["tennis", "grand-slam", "wta", "doubles", "goat"]
+  },
+  {
+    "name": "Bjorn Borg",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "June 6, 1956",
+    "birthPlace": "Stockholm, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "Bjorn Borg won 11 Grand Slam titles including six consecutive French Opens and five consecutive Wimbledon titles before retiring at age 26.",
+    "tags": ["tennis", "grand-slam", "wimbledon", "french-open", "ice-man"]
+  },
+  {
+    "name": "John McEnroe",
+    "category": "tennis",
+    "profession": "Tennis Player and Commentator",
+    "born": "February 16, 1959",
+    "birthPlace": "Wiesbaden, Germany",
+    "nationality": "American",
+    "excerpt": "John McEnroe won seven Grand Slam titles and was famous for his brilliant shot-making and fiery temperament, including his legendary You cannot be serious outburst.",
+    "tags": ["tennis", "grand-slam", "atp", "wimbledon", "personality"]
+  },
+  {
+    "name": "Iga Swiatek",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "May 31, 2001",
+    "birthPlace": "Warsaw, Poland",
+    "nationality": "Polish",
+    "excerpt": "Iga Swiatek has dominated women's tennis with four French Open titles and a 37-match winning streak, establishing herself as the clear world number one.",
+    "tags": ["tennis", "grand-slam", "french-open", "wta", "poland"]
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "May 5, 2003",
+    "birthPlace": "El Palmar, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Carlos Alcaraz became the youngest world number one in ATP history and won Wimbledon 2023 at age 20, hailed as the future of men's tennis.",
+    "tags": ["tennis", "grand-slam", "wimbledon", "atp", "wonderkid"]
+  },
+  {
+    "name": "Alexander Zverev",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "April 20, 1997",
+    "birthPlace": "Hamburg, Germany",
+    "nationality": "German",
+    "excerpt": "Alexander Zverev won the ATP Finals at age 21 and Olympic gold in Tokyo, establishing himself among the elite of men's tennis.",
+    "tags": ["tennis", "atp", "olympics", "germany", "masters-1000"]
+  },
+  {
+    "name": "Simona Halep",
+    "category": "tennis",
+    "profession": "Tennis Player",
+    "born": "September 27, 1991",
+    "birthPlace": "Constanța, Romania",
+    "nationality": "Romanian",
+    "excerpt": "Simona Halep won two Grand Slam titles and held the world number one ranking for 64 weeks, overcoming a doping suspension to return to the top.",
+    "tags": ["tennis", "grand-slam", "wta", "romania", "world-number-one"]
+  },
+  {
+    "name": "LeBron James",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "December 30, 1984",
+    "birthPlace": "Akron, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "LeBron James is the NBA's all-time leading scorer and a four-time champion, widely considered one of the greatest basketball players in history.",
+    "tags": ["basketball", "nba", "champion", "mvp", "goat"]
+  },
+  {
+    "name": "Stephen Curry",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "March 14, 1988",
+    "birthPlace": "Akron, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Stephen Curry revolutionized basketball with his three-point shooting, winning four NBA championships and the 2022 Finals MVP with the Golden State Warriors.",
+    "tags": ["basketball", "nba", "warriors", "three-point", "champion"]
+  },
+  {
+    "name": "Kevin Durant",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "September 29, 1988",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Kevin Durant is one of the most prolific scorers in NBA history, winning two championships with Golden State and four scoring titles.",
+    "tags": ["basketball", "nba", "scorer", "champion", "mvp"]
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "December 6, 1994",
+    "birthPlace": "Athens, Greece",
+    "nationality": "Greek",
+    "excerpt": "Giannis Antetokounmpo, known as the Greek Freak, led the Milwaukee Bucks to their first championship in 50 years in 2021 and won back-to-back MVP awards.",
+    "tags": ["basketball", "nba", "bucks", "mvp", "champion"]
+  },
+  {
+    "name": "Luka Doncic",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "February 28, 1999",
+    "birthPlace": "Ljubljana, Slovenia",
+    "nationality": "Slovenian",
+    "excerpt": "Luka Doncic has emerged as one of the NBA's brightest stars, winning Rookie of the Year and earning multiple All-NBA selections with the Dallas Mavericks.",
+    "tags": ["basketball", "nba", "mavericks", "slovenia", "all-star"]
+  },
+  {
+    "name": "Nikola Jokic",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "February 19, 1995",
+    "birthPlace": "Sombor, Serbia",
+    "nationality": "Serbian",
+    "excerpt": "Nikola Jokic won three MVP awards and led the Denver Nuggets to their first NBA championship in 2023, redefining what a center can do on the court.",
+    "tags": ["basketball", "nba", "nuggets", "mvp", "champion"]
+  },
+  {
+    "name": "Michael Jordan",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "February 17, 1963",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Michael Jordan is widely considered the greatest basketball player of all time, winning six NBA championships and five MVP awards with the Chicago Bulls.",
+    "tags": ["basketball", "nba", "bulls", "champion", "goat"]
+  },
+  {
+    "name": "Kobe Bryant",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "August 23, 1978",
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Kobe Bryant won five NBA championships with the Los Angeles Lakers and was known for his Mamba Mentality, tragically passing away in a helicopter crash in 2020.",
+    "tags": ["basketball", "nba", "lakers", "champion", "mamba"]
+  },
+  {
+    "name": "Magic Johnson",
+    "category": "basketball",
+    "profession": "Basketball Player and Entrepreneur",
+    "born": "August 14, 1959",
+    "birthPlace": "Lansing, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Magic Johnson won five NBA championships with the Los Angeles Lakers, revolutionized the point guard position, and became a successful businessman after his HIV diagnosis.",
+    "tags": ["basketball", "nba", "lakers", "champion", "entrepreneur"]
+  },
+  {
+    "name": "Larry Bird",
+    "category": "basketball",
+    "profession": "Basketball Player and Executive",
+    "born": "December 7, 1956",
+    "birthPlace": "French Lick, Indiana, USA",
+    "nationality": "American",
+    "excerpt": "Larry Bird won three NBA championships and three consecutive MVP awards with the Boston Celtics, known for his fierce competitiveness and incredible shooting.",
+    "tags": ["basketball", "nba", "celtics", "champion", "rivalry"]
+  },
+  {
+    "name": "Shaquille O'Neal",
+    "category": "basketball",
+    "profession": "Basketball Player and Analyst",
+    "born": "March 6, 1972",
+    "birthPlace": "Newark, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Shaquille O'Neal won four NBA championships and was one of the most dominant physical forces in basketball history, also becoming a beloved media personality.",
+    "tags": ["basketball", "nba", "lakers", "champion", "media-personality"]
+  },
+  {
+    "name": "Tim Duncan",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "April 25, 1976",
+    "birthPlace": "St. Croix, U.S. Virgin Islands",
+    "nationality": "American",
+    "excerpt": "Tim Duncan won five NBA championships with the San Antonio Spurs and is considered the greatest power forward in basketball history, known as The Big Fundamental.",
+    "tags": ["basketball", "nba", "spurs", "champion", "mvp"]
+  },
+  {
+    "name": "Dwyane Wade",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "January 17, 1982",
+    "birthPlace": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Dwyane Wade won three NBA championships with the Miami Heat and was named the 2006 Finals MVP, known for his explosive athleticism and clutch performances.",
+    "tags": ["basketball", "nba", "heat", "champion", "all-star"]
+  },
+  {
+    "name": "James Harden",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "August 26, 1989",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "James Harden is an NBA MVP and three-time scoring champion known for his step-back three-pointer and prolific offensive production with the Rockets and Nets.",
+    "tags": ["basketball", "nba", "scorer", "mvp", "step-back"]
+  },
+  {
+    "name": "Joel Embiid",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "March 16, 1994",
+    "birthPlace": "Yaoundé, Cameroon",
+    "nationality": "Cameroonian",
+    "excerpt": "Joel Embiid won the 2023 NBA MVP award and has become one of the most dominant two-way centers in the league with the Philadelphia 76ers.",
+    "tags": ["basketball", "nba", "76ers", "mvp", "cameroon"]
+  },
+  {
+    "name": "Jayson Tatum",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "March 3, 1998",
+    "birthPlace": "St. Louis, Missouri, USA",
+    "nationality": "American",
+    "excerpt": "Jayson Tatum led the Boston Celtics to the 2024 NBA championship and has established himself as one of the league's elite scorers and two-way players.",
+    "tags": ["basketball", "nba", "celtics", "champion", "all-star"]
+  },
+  {
+    "name": "Anthony Edwards",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "August 5, 2001",
+    "birthPlace": "Atlanta, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Anthony Edwards has emerged as one of the NBA's brightest young stars with the Minnesota Timberwolves, known for his explosive athleticism and charismatic personality.",
+    "tags": ["basketball", "nba", "timberwolves", "all-star", "rising-star"]
+  },
+  {
+    "name": "Ja Morant",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "August 10, 1999",
+    "birthPlace": "Dalzell, South Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Ja Morant won the 2020 Rookie of the Year award and became one of the most electrifying players in the NBA with his high-flying dunks with the Memphis Grizzlies.",
+    "tags": ["basketball", "nba", "grizzlies", "all-star", "dunk"]
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "June 19, 1978",
+    "birthPlace": "Würzburg, Germany",
+    "nationality": "German",
+    "excerpt": "Dirk Nowitzki won the 2011 NBA championship with the Dallas Mavericks, revolutionizing the power forward position with his signature one-legged fadeaway.",
+    "tags": ["basketball", "nba", "mavericks", "champion", "germany"]
+  },
+  {
+    "name": "Shohei Ohtani",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "July 5, 1994",
+    "birthPlace": "Oshu, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Shohei Ohtani is a generational talent who pitches and hits at an elite level, signing the largest contract in sports history with the Los Angeles Dodgers.",
+    "tags": ["baseball", "mlb", "dodgers", "two-way", "japan"]
+  },
+  {
+    "name": "Mike Trout",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "August 7, 1991",
+    "birthPlace": "Vineland, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Mike Trout is a three-time AL MVP and widely considered the best baseball player of his generation, known for his complete five-tool ability with the Angels.",
+    "tags": ["baseball", "mlb", "angels", "mvp", "five-tool"]
+  },
+  {
+    "name": "Derek Jeter",
+    "category": "baseball",
+    "profession": "Baseball Player and Executive",
+    "born": "June 26, 1974",
+    "birthPlace": "Pequannock, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Derek Jeter won five World Series championships with the New York Yankees and was known as The Captain, later becoming CEO of the Miami Marlins.",
+    "tags": ["baseball", "mlb", "yankees", "champion", "hall-of-fame"]
+  },
+  {
+    "name": "Clayton Kershaw",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "March 19, 1988",
+    "birthPlace": "Dallas, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Clayton Kershaw is a three-time Cy Young Award winner and one of the greatest pitchers of his era, spending his entire career with the Los Angeles Dodgers.",
+    "tags": ["baseball", "mlb", "dodgers", "cy-young", "pitcher"]
+  },
+  {
+    "name": "Bryce Harper",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "October 16, 1992",
+    "birthPlace": "Las Vegas, Nevada, USA",
+    "nationality": "American",
+    "excerpt": "Bryce Harper won the 2022 NL MVP and led the Philadelphia Phillies to the World Series, known for his passionate play and incredible hitting power.",
+    "tags": ["baseball", "mlb", "phillies", "mvp", "slugger"]
+  },
+  {
+    "name": "Mookie Betts",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "October 7, 1992",
+    "birthPlace": "Nashville, Tennessee, USA",
+    "nationality": "American",
+    "excerpt": "Mookie Betts won the 2018 AL MVP with the Red Sox and the 2020 World Series with the Dodgers, excelling as an elite all-around player and bowler.",
+    "tags": ["baseball", "mlb", "dodgers", "mvp", "all-around"]
+  },
+  {
+    "name": "Aaron Judge",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "April 26, 1992",
+    "birthPlace": "Linden, California, USA",
+    "nationality": "American",
+    "excerpt": "Aaron Judge broke the AL single-season home run record with 62 in 2022 and became captain of the New York Yankees, standing at 6-foot-7.",
+    "tags": ["baseball", "mlb", "yankees", "home-run", "captain"]
+  },
+  {
+    "name": "Jackie Robinson",
+    "category": "baseball",
+    "profession": "Baseball Player and Civil Rights Icon",
+    "born": "January 31, 1919",
+    "birthPlace": "Cairo, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Jackie Robinson broke Major League Baseball's color barrier in 1947 with the Brooklyn Dodgers, becoming a pivotal figure in the American civil rights movement.",
+    "tags": ["baseball", "mlb", "dodgers", "civil-rights", "pioneer"]
+  },
+  {
+    "name": "Babe Ruth",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "February 6, 1895",
+    "birthPlace": "Baltimore, Maryland, USA",
+    "nationality": "American",
+    "excerpt": "Babe Ruth is considered the greatest baseball player of all time, holding the home run record for decades and transforming the sport with his legendary power.",
+    "tags": ["baseball", "mlb", "yankees", "legend", "home-run"]
+  },
+  {
+    "name": "Hank Aaron",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "February 5, 1934",
+    "birthPlace": "Mobile, Alabama, USA",
+    "nationality": "American",
+    "excerpt": "Hank Aaron held the all-time home run record for 33 years with 755, enduring racism while pursuing Babe Ruth's mark and becoming a civil rights icon.",
+    "tags": ["baseball", "mlb", "braves", "home-run", "hall-of-fame"]
+  },
+  {
+    "name": "Willie Mays",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "May 6, 1931",
+    "birthPlace": "Westfield, Alabama, USA",
+    "nationality": "American",
+    "excerpt": "Willie Mays, known as The Say Hey Kid, is considered one of the greatest all-around players ever, famous for The Catch in the 1954 World Series.",
+    "tags": ["baseball", "mlb", "giants", "hall-of-fame", "five-tool"]
+  },
+  {
+    "name": "Sandy Koufax",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "December 30, 1935",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Sandy Koufax won three Cy Young Awards and threw four no-hitters in just 12 seasons, retiring at his peak due to arthritis in his pitching arm.",
+    "tags": ["baseball", "mlb", "dodgers", "cy-young", "pitcher"]
+  },
+  {
+    "name": "Ken Griffey Jr.",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "November 21, 1969",
+    "birthPlace": "Donora, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Ken Griffey Jr. was the most exciting player of the 1990s, hitting 630 home runs with a iconic swing and center-field defense, inducted into the Hall of Fame unanimously.",
+    "tags": ["baseball", "mlb", "mariners", "home-run", "hall-of-fame"]
+  },
+  {
+    "name": "Pedro Martinez",
+    "category": "baseball",
+    "profession": "Baseball Player and Analyst",
+    "born": "October 25, 1971",
+    "birthPlace": "Manoguayabo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Pedro Martinez won three Cy Young Awards and is considered one of the greatest pitchers ever, dominating hitters during the steroid era with the Red Sox.",
+    "tags": ["baseball", "mlb", "red-sox", "cy-young", "pitcher"]
+  },
+  {
+    "name": "Miguel Cabrera",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "April 18, 1983",
+    "birthPlace": "Maracay, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Miguel Cabrera won the Triple Crown in 2012, the first player to do so in 45 years, and reached 3,000 hits and 500 home runs in his career.",
+    "tags": ["baseball", "mlb", "tigers", "triple-crown", "3000-hits"]
+  },
+  {
+    "name": "Ichiro Suzuki",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "October 22, 1973",
+    "birthPlace": "Nishikasugai, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Ichiro Suzuki holds the professional baseball record with 4,367 hits and was the first Japanese position player in MLB, revolutionizing the contact-hitting approach.",
+    "tags": ["baseball", "mlb", "mariners", "hits-record", "japan"]
+  },
+  {
+    "name": "David Ortiz",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "November 18, 1975",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "David Ortiz, known as Big Papi, was the clutch postseason hero for the Boston Red Sox, helping end their 86-year World Series drought.",
+    "tags": ["baseball", "mlb", "red-sox", "hall-of-fame", "clutch"]
+  },
+  {
+    "name": "Manny Ramirez",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "May 30, 1972",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Manny Ramirez was one of the most feared right-handed hitters in baseball history, winning two World Series with the Red Sox and making 12 All-Star teams.",
+    "tags": ["baseball", "mlb", "red-sox", "slugger", "all-star"]
+  },
+  {
+    "name": "Justin Verlander",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "February 20, 1983",
+    "birthPlace": "Manakin-Sabot, Virginia, USA",
+    "nationality": "American",
+    "excerpt": "Justin Verlander has won three Cy Young Awards and the 2022 World Series with the Astros, maintaining elite pitching performance across two decades.",
+    "tags": ["baseball", "mlb", "astros", "cy-young", "pitcher"]
+  },
+  {
+    "name": "Ronald Acuna Jr.",
+    "category": "baseball",
+    "profession": "Baseball Player",
+    "born": "June 18, 1997",
+    "birthPlace": "La Guaira, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Ronald Acuna Jr. became the first member of the 40-70 club in 2023, winning NL MVP with the Atlanta Braves after returning from a torn ACL.",
+    "tags": ["baseball", "mlb", "braves", "mvp", "speed-power"]
+  },
+  {
+    "name": "Lewis Hamilton",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "January 7, 1985",
+    "birthPlace": "Stevenage, England",
+    "nationality": "British",
+    "excerpt": "Lewis Hamilton is a seven-time Formula One World Champion, tied with Michael Schumacher for the most titles, and holds the records for most wins and pole positions.",
+    "tags": ["f1", "formula-one", "champion", "mercedes", "records"]
+  },
+  {
+    "name": "Max Verstappen",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "September 30, 1997",
+    "birthPlace": "Hasselt, Belgium",
+    "nationality": "Dutch",
+    "excerpt": "Max Verstappen won three consecutive Formula One World Championships from 2022 to 2024, setting the record for most wins in a single season with 19.",
+    "tags": ["f1", "formula-one", "champion", "red-bull", "records"]
+  },
+  {
+    "name": "Fernando Alonso",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "July 29, 1981",
+    "birthPlace": "Oviedo, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Fernando Alonso won back-to-back Formula One World Championships in 2005 and 2006 with Renault and remains competitive decades into his career.",
+    "tags": ["f1", "formula-one", "champion", "renault", "spain"]
+  },
+  {
+    "name": "Michael Schumacher",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "January 3, 1969",
+    "birthPlace": "Hürth, Germany",
+    "nationality": "German",
+    "excerpt": "Michael Schumacher won seven Formula One World Championships, a record that stood for nearly two decades, and is considered one of the greatest drivers ever.",
+    "tags": ["f1", "formula-one", "champion", "ferrari", "goat"]
+  },
+  {
+    "name": "Ayrton Senna",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "March 21, 1960",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Ayrton Senna won three Formula One World Championships and is revered as one of the greatest drivers in history, tragically killed at Imola in 1994.",
+    "tags": ["f1", "formula-one", "champion", "mclaren", "legend"]
+  },
+  {
+    "name": "Alain Prost",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "February 24, 1955",
+    "birthPlace": "Lorette, France",
+    "nationality": "French",
+    "excerpt": "Alain Prost won four Formula One World Championships and was known as The Professor for his calculating, tactical driving style.",
+    "tags": ["f1", "formula-one", "champion", "ferrari", "mclaren"]
+  },
+  {
+    "name": "Sebastian Vettel",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "July 3, 1987",
+    "birthPlace": "Heppenheim, Germany",
+    "nationality": "German",
+    "excerpt": "Sebastian Vettel won four consecutive Formula One World Championships from 2010 to 2013 with Red Bull Racing, becoming the youngest champion at age 23.",
+    "tags": ["f1", "formula-one", "champion", "red-bull", "youngest"]
+  },
+  {
+    "name": "Kimi Raikkonen",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "October 17, 1979",
+    "birthPlace": "Espoo, Finland",
+    "nationality": "Finnish",
+    "excerpt": "Kimi Raikkonen, known as The Iceman, won the 2007 Formula One World Championship and is one of the most popular drivers in F1 history with 349 race starts.",
+    "tags": ["f1", "formula-one", "champion", "ferrari", "iceman"]
+  },
+  {
+    "name": "Charles Leclerc",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "October 16, 1997",
+    "birthPlace": "Monte Carlo, Monaco",
+    "nationality": "Monegasque",
+    "excerpt": "Charles Leclerc is Ferrari's star driver and a multiple race winner, widely tipped as a future Formula One World Champion.",
+    "tags": ["f1", "formula-one", "ferrari", "monaco", "rising-star"]
+  },
+  {
+    "name": "Lando Norris",
+    "category": "sports",
+    "profession": "Formula One Driver",
+    "born": "November 13, 1999",
+    "birthPlace": "Bristol, England",
+    "nationality": "British",
+    "excerpt": "Lando Norris has emerged as one of Formula One's brightest talents with McLaren, earning multiple podiums and his first race win in 2024.",
+    "tags": ["f1", "formula-one", "mclaren", "britain", "rising-star"]
+  },
+  {
+    "name": "Usain Bolt",
+    "category": "sports",
+    "profession": "Sprinter",
+    "born": "August 21, 1986",
+    "birthPlace": "Trelawny, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Usain Bolt is the fastest human in history, holding world records in the 100m and 200m and winning eight Olympic gold medals across three Games.",
+    "tags": ["athletics", "sprint", "olympics", "world-record", "jamaica"]
+  },
+  {
+    "name": "Michael Phelps",
+    "category": "sports",
+    "profession": "Swimmer",
+    "born": "June 30, 1985",
+    "birthPlace": "Baltimore, Maryland, USA",
+    "nationality": "American",
+    "excerpt": "Michael Phelps is the most decorated Olympian of all time with 28 medals including 23 gold, holding world records that may never be broken.",
+    "tags": ["swimming", "olympics", "gold-medal", "world-record", "goat"]
+  },
+  {
+    "name": "Simone Biles",
+    "category": "sports",
+    "profession": "Gymnast",
+    "born": "March 14, 1997",
+    "birthPlace": "Columbus, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Simone Biles is the most decorated gymnast in history with 37 World and Olympic medals, renowned for performing skills so difficult they are named after her.",
+    "tags": ["gymnastics", "olympics", "world-champion", "records", "goat"]
+  },
+  {
+    "name": "Carl Lewis",
+    "category": "sports",
+    "profession": "Sprinter and Long Jumper",
+    "born": "July 1, 1961",
+    "birthPlace": "Birmingham, Alabama, USA",
+    "nationality": "American",
+    "excerpt": "Carl Lewis won nine Olympic gold medals across sprints and long jump, dominating track and field for over a decade and being named Athlete of the Century.",
+    "tags": ["athletics", "olympics", "sprint", "long-jump", "legend"]
+  },
+  {
+    "name": "Allyson Felix",
+    "category": "sports",
+    "profession": "Sprinter",
+    "born": "November 18, 1985",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Allyson Felix is the most decorated American track and field athlete in Olympic history with 11 medals, becoming a vocal advocate for maternal rights in sports.",
+    "tags": ["athletics", "olympics", "sprint", "records", "advocacy"]
+  },
+  {
+    "name": "Katie Ledecky",
+    "category": "sports",
+    "profession": "Swimmer",
+    "born": "March 17, 1997",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Katie Ledecky is the most decorated female swimmer in history with seven Olympic gold medals, dominating distance freestyle events for over a decade.",
+    "tags": ["swimming", "olympics", "gold-medal", "distance", "records"]
+  },
+  {
+    "name": "Elaine Thompson-Herah",
+    "category": "sports",
+    "profession": "Sprinter",
+    "born": "June 28, 1992",
+    "birthPlace": "Manchester, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Elaine Thompson-Herah completed the Olympic sprint double-double by winning both the 100m and 200m at the 2016 and 2020 Olympics.",
+    "tags": ["athletics", "sprint", "olympics", "jamaica", "champion"]
+  },
+  {
+    "name": "Yulimar Rojas",
+    "category": "sports",
+    "profession": "Triple Jumper",
+    "born": "October 21, 1995",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Yulimar Rojas is the Olympic and world champion in triple jump, holding the world record of 15.67m and becoming Venezuela's most decorated athlete.",
+    "tags": ["athletics", "triple-jump", "olympics", "world-record", "venezuela"]
+  },
+  {
+    "name": "J.K. Rowling",
+    "category": "writer",
+    "profession": "Author",
+    "born": "July 31, 1965",
+    "birthPlace": "Yate, England",
+    "nationality": "British",
+    "excerpt": "J.K. Rowling created the Harry Potter series, the best-selling book franchise in history, transforming children's literature and building a multi-billion dollar media empire.",
+    "tags": ["writer", "harry-potter", "fantasy", "bestseller", "britain"]
+  },
+  {
+    "name": "Stephen King",
+    "category": "writer",
+    "profession": "Author",
+    "born": "September 21, 1947",
+    "birthPlace": "Portland, Maine, USA",
+    "nationality": "American",
+    "excerpt": "Stephen King is one of the most prolific and successful authors in history, having written over 60 novels including It, The Shining, and The Stand.",
+    "tags": ["writer", "horror", "thriller", "bestseller", "adaptations"]
+  },
+  {
+    "name": "Paulo Coelho",
+    "category": "writer",
+    "profession": "Author",
+    "born": "August 24, 1947",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Paulo Coelho's The Alchemist has sold over 150 million copies worldwide, making it one of the best-selling books in history and a modern spiritual classic.",
+    "tags": ["writer", "alchemist", "bestseller", "spirituality", "brazil"]
+  },
+  {
+    "name": "Isabel Allende",
+    "category": "writer",
+    "profession": "Author",
+    "born": "August 2, 1942",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Chilean",
+    "excerpt": "Isabel Allende is one of the most widely read Spanish-language authors, known for magical realism in works like The House of the Spirits and Paula.",
+    "tags": ["writer", "magical-realism", "chile", "latina", "bestseller"]
+  },
+  {
+    "name": "Chimamanda Ngozi Adichie",
+    "category": "writer",
+    "profession": "Author",
+    "born": "September 15, 1977",
+    "birthPlace": "Enugu, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Chimamanda Ngozi Adichie is the author of Half of a Yellow Sun and Americanah, and her TED talk The Danger of a Single Story has been viewed over 30 million times.",
+    "tags": ["writer", "feminism", "nigeria", "novelist", "ted-talk"]
+  },
+  {
+    "name": "Haruki Murakami",
+    "category": "writer",
+    "profession": "Author",
+    "born": "January 12, 1949",
+    "birthPlace": "Kyoto, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Haruki Murakami is one of the world's most celebrated contemporary novelists, known for surreal and melancholic works like Norwegian Wood and Kafka on the Shore.",
+    "tags": ["writer", "novelist", "japan", "surrealism", "literary-fiction"]
+  },
+  {
+    "name": "Margaret Atwood",
+    "category": "writer",
+    "profession": "Author",
+    "born": "November 18, 1939",
+    "birthPlace": "Ottawa, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Margaret Atwood's The Handmaid's Tale has become a cultural touchstone, and she is one of the most acclaimed and prescient voices in contemporary literature.",
+    "tags": ["writer", "dystopia", "canada", "feminism", "literary-fiction"]
+  },
+  {
+    "name": "Khaled Hosseini",
+    "category": "writer",
+    "profession": "Author",
+    "born": "March 4, 1965",
+    "birthPlace": "Kabul, Afghanistan",
+    "nationality": "Afghan-American",
+    "excerpt": "Khaled Hosseini's The Kite Runner became an international bestseller, bringing Afghan stories to a global audience and raising awareness through his foundation.",
+    "tags": ["writer", "novelist", "afghanistan", "bestseller", "humanitarian"]
+  },
+  {
+    "name": "Arundhati Roy",
+    "category": "writer",
+    "profession": "Author and Activist",
+    "born": "November 24, 1961",
+    "birthPlace": "Shillong, India",
+    "nationality": "Indian",
+    "excerpt": "Arundhati Roy won the Man Booker Prize for The God of Small Things and has become one of India's most prominent voices for social justice and political activism.",
+    "tags": ["writer", "booker-prize", "india", "activism", "literary-fiction"]
+  },
+  {
+    "name": "Orhan Pamuk",
+    "category": "writer",
+    "profession": "Author",
+    "born": "June 7, 1952",
+    "birthPlace": "Istanbul, Turkey",
+    "nationality": "Turkish",
+    "excerpt": "Orhan Pamuk won the Nobel Prize in Literature in 2006, known for novels like My Name Is Red and The Museum of Innocence that explore Turkey's cultural identity.",
+    "tags": ["writer", "nobel-prize", "turkey", "novelist", "literary-fiction"]
+  },
+  {
+    "name": "Carmelo Anthony",
+    "category": "basketball",
+    "profession": "Basketball Player",
+    "born": "May 29, 1984",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Carmelo Anthony is a 10-time NBA All-Star and three-time Olympic gold medalist, ranking among the top 10 scorers in NBA history with his elite shot-making ability.",
+    "tags": ["basketball", "nba", "olympics", "scorer", "all-star"]
+  },
+  {
+    "name": "Nadia Comaneci",
+    "category": "sports",
+    "profession": "Gymnast",
+    "born": "November 12, 1961",
+    "birthPlace": "Onești, Romania",
+    "nationality": "Romanian",
+    "excerpt": "Nadia Comaneci scored the first perfect 10 in Olympic gymnastics history at age 14 during the 1976 Montreal Games, becoming one of the most iconic athletes ever.",
+    "tags": ["gymnastics", "olympics", "perfect-10", "romania", "legend"]
+  },
+  {
+    "name": "Jesse Owens",
+    "category": "sports",
+    "profession": "Sprinter",
+    "born": "September 12, 1913",
+    "birthPlace": "Oakville, Alabama, USA",
+    "nationality": "American",
+    "excerpt": "Jesse Owens won four gold medals at the 1936 Berlin Olympics, defying Adolf Hitler's ideology of Aryan supremacy and becoming a civil rights icon.",
+    "tags": ["athletics", "sprint", "olympics", "civil-rights", "legend"]
+  }
+]

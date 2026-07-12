@@ -1,0 +1,2802 @@
+[
+  {
+    "name": "Taylor Swift",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "December 13, 1989",
+    "birthPlace": "West Reading, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Taylor Swift is one of the best-selling music artists of all time, known for narrative songwriting and genre transitions from country to pop.",
+    "tags": [
+      "pop",
+      "country",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Beyonce",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "September 4, 1981",
+    "birthPlace": "Houston, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Beyonce is a global icon and former Destiny's Child lead singer, celebrated for her powerful vocals and cultural impact.",
+    "tags": [
+      "pop",
+      "r&b",
+      "icon"
+    ]
+  },
+  {
+    "name": "Drake",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "October 24, 1986",
+    "birthPlace": "Toronto, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Drake is one of the best-selling music artists globally, blending rap, R&B, and pop to dominate charts for over a decade.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "r&b"
+    ]
+  },
+  {
+    "name": "Ed Sheeran",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "February 17, 1991",
+    "birthPlace": "Halifax, West Yorkshire, England",
+    "nationality": "British",
+    "excerpt": "Ed Sheeran is a British singer-songwriter known for hits like Shape of You and Thinking Out Loud, with record-breaking album sales.",
+    "tags": [
+      "pop",
+      "singer-songwriter",
+      "british"
+    ]
+  },
+  {
+    "name": "The Weeknd",
+    "category": "singer",
+    "profession": "Singer and Record Producer",
+    "born": "February 16, 1990",
+    "birthPlace": "Toronto, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "The Weeknd is a Canadian singer known for his dark pop and R&B sound, with chart-topping hits like Blinding Lights.",
+    "tags": [
+      "r&b",
+      "pop",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Justin Bieber",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 1, 1994",
+    "birthPlace": "London, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Justin Bieber rose to fame as a teenager and became one of the best-selling music artists with global hits like Baby and Sorry.",
+    "tags": [
+      "pop",
+      "canadian",
+      "teen-idol"
+    ]
+  },
+  {
+    "name": "Ariana Grande",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "June 26, 1993",
+    "birthPlace": "Boca Raton, Florida, USA",
+    "nationality": "American",
+    "excerpt": "Ariana Grande is one of the most-streamed artists on Spotify, known for her powerful four-octave vocal range.",
+    "tags": [
+      "pop",
+      "r&b",
+      "actress"
+    ]
+  },
+  {
+    "name": "Billie Eilish",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "December 18, 2001",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Billie Eilish became the youngest artist to win all four general categories at the Grammys at age 18.",
+    "tags": [
+      "pop",
+      "alternative",
+      "gen-z"
+    ]
+  },
+  {
+    "name": "Dua Lipa",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "August 22, 1995",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Dua Lipa is a British-Albanian singer known for dance-pop hits like Don't Start Now and Levitating.",
+    "tags": [
+      "pop",
+      "dance",
+      "british"
+    ]
+  },
+  {
+    "name": "Post Malone",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "July 4, 1995",
+    "birthPlace": "Syracuse, New York, USA",
+    "nationality": "American",
+    "excerpt": "Post Malone blends hip-hop, pop, and rock, with mega-hits like Rockstar and Circles topping charts worldwide.",
+    "tags": [
+      "hip-hop",
+      "pop",
+      "rock"
+    ]
+  },
+  {
+    "name": "Bruno Mars",
+    "category": "singer",
+    "profession": "Singer and Record Producer",
+    "born": "October 8, 1985",
+    "birthPlace": "Honolulu, Hawaii, USA",
+    "nationality": "American",
+    "excerpt": "Bruno Mars is a multi-Grammy-winning artist known for funk, pop, and R&B hits spanning multiple decades.",
+    "tags": [
+      "pop",
+      "funk",
+      "r&b"
+    ]
+  },
+  {
+    "name": "Katy Perry",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "October 25, 1984",
+    "birthPlace": "Santa Barbara, California, USA",
+    "nationality": "American",
+    "excerpt": "Katy Perry is one of the best-selling music artists with numerous number-one hits including Roar and Firework.",
+    "tags": [
+      "pop",
+      "dance",
+      "american"
+    ]
+  },
+  {
+    "name": "Lady Gaga",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "March 28, 1986",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Lady Gaga is an iconic pop star and actress, known for her avant-garde style and hits like Bad Romance and Shallow.",
+    "tags": [
+      "pop",
+      "actress",
+      "icon"
+    ]
+  },
+  {
+    "name": "Rihanna",
+    "category": "singer",
+    "profession": "Singer and Businesswoman",
+    "born": "February 20, 1988",
+    "birthPlace": "Saint Michael, Barbados",
+    "nationality": "Barbadian",
+    "excerpt": "Rihanna is a Barbadian singer and billionaire entrepreneur who dominated pop and R&B for over a decade.",
+    "tags": [
+      "pop",
+      "r&b",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Nicki Minaj",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "December 8, 1982",
+    "birthPlace": "Saint James, Trinidad and Tobago",
+    "nationality": "Trinidadian-American",
+    "excerpt": "Nicki Minaj is the best-selling female rapper of all time, known for her colorful persona and rapid-fire flow.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "pop"
+    ]
+  },
+  {
+    "name": "Doja Cat",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "October 21, 1995",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Doja Cat broke through with viral hits and is known for blending rap, pop, and R&B with catchy hooks.",
+    "tags": [
+      "rap",
+      "pop",
+      "viral"
+    ]
+  },
+  {
+    "name": "SZA",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "November 8, 1989",
+    "birthPlace": "St. Louis, Missouri, USA",
+    "nationality": "American",
+    "excerpt": "SZA is an R&B singer-songwriter whose album SOS became one of the longest-charting albums in Billboard history.",
+    "tags": [
+      "r&b",
+      "soul",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Travis Scott",
+    "category": "singer",
+    "profession": "Rapper and Record Producer",
+    "born": "April 30, 1992",
+    "birthPlace": "Houston, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Travis Scott is a rapper and producer known for his psychedelic hip-hop sound and the Astroworld album.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "producer"
+    ]
+  },
+  {
+    "name": "Kanye West",
+    "category": "singer",
+    "profession": "Rapper and Fashion Designer",
+    "born": "June 8, 1977",
+    "birthPlace": "Atlanta, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Kanye West is a polarizing but influential rapper, producer, and fashion designer who reshaped hip-hop and culture.",
+    "tags": [
+      "hip-hop",
+      "fashion",
+      "producer"
+    ]
+  },
+  {
+    "name": "Jay-Z",
+    "category": "singer",
+    "profession": "Rapper and Businessman",
+    "born": "December 4, 1969",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Jay-Z is one of the greatest rappers of all time and a billionaire mogul with massive influence in music and business.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "business"
+    ]
+  },
+  {
+    "name": "Eminem",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "October 17, 1972",
+    "birthPlace": "St. Joseph, Missouri, USA",
+    "nationality": "American",
+    "excerpt": "Eminem is one of the best-selling rappers in history, known for his rapid delivery and controversial lyrics.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "american"
+    ]
+  },
+  {
+    "name": "Snoop Dogg",
+    "category": "singer",
+    "profession": "Rapper and Actor",
+    "born": "October 20, 1971",
+    "birthPlace": "Long Beach, California, USA",
+    "nationality": "American",
+    "excerpt": "Snoop Dogg is an iconic West Coast rapper and cultural figure who has remained relevant across multiple decades.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "west-coast"
+    ]
+  },
+  {
+    "name": "Dr. Dre",
+    "category": "singer",
+    "profession": "Rapper and Record Producer",
+    "born": "February 18, 1965",
+    "birthPlace": "Compton, California, USA",
+    "nationality": "American",
+    "excerpt": "Dr. Dre is a legendary hip-hop producer and rapper who founded Aftermath Entertainment and launched careers of many stars.",
+    "tags": [
+      "hip-hop",
+      "producer",
+      "west-coast"
+    ]
+  },
+  {
+    "name": "Lil Wayne",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "September 27, 1982",
+    "birthPlace": "New Orleans, Louisiana, USA",
+    "nationality": "American",
+    "excerpt": "Lil Wayne is one of the most influential rappers of his generation, known for the Tha Carter album series.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "southern"
+    ]
+  },
+  {
+    "name": "Kendrick Lamar",
+    "category": "singer",
+    "profession": "Rapper and Songwriter",
+    "born": "June 17, 1987",
+    "birthPlace": "Compton, California, USA",
+    "nationality": "American",
+    "excerpt": "Kendrick Lamar is a Pulitzer Prize-winning rapper widely regarded as one of the greatest lyricists in hip-hop.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "conscious"
+    ]
+  },
+  {
+    "name": "J. Cole",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "January 28, 1985",
+    "birthPlace": "Frankfurt, Germany",
+    "nationality": "American",
+    "excerpt": "J. Cole is a rapper and Dreamville Records founder known for introspective lyrics and critically acclaimed albums.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "conscious"
+    ]
+  },
+  {
+    "name": "Cardi B",
+    "category": "singer",
+    "profession": "Rapper and Television Personality",
+    "born": "October 11, 1992",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Cardi B rose from reality TV to become a chart-topping rapper with hits like Bodak Yellow and WAP.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "pop"
+    ]
+  },
+  {
+    "name": "Megan Thee Stallion",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "February 15, 1995",
+    "birthPlace": "Houston, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Megan Thee Stallion is a Grammy-winning rapper known for her confident style and hits like Savage and Hot Girl Summer.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "pop"
+    ]
+  },
+  {
+    "name": "Bad Bunny",
+    "category": "singer",
+    "profession": "Singer and Rapper",
+    "born": "March 10, 1994",
+    "birthPlace": "Vega Baja, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Bad Bunny is the most-streamed artist on Spotify globally, pioneering Latin trap and reggaeton's crossover into mainstream pop.",
+    "tags": [
+      "reggaeton",
+      "latin",
+      "trap"
+    ]
+  },
+  {
+    "name": "Jungkook",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "September 1, 1997",
+    "birthPlace": "Busan, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jungkook is the youngest member of BTS, the world's biggest boy band, and a solo artist with global chart success.",
+    "tags": [
+      "k-pop",
+      "bts",
+      "korean"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "March 27, 1997",
+    "birthPlace": "Buriram, Thailand",
+    "nationality": "Thai",
+    "excerpt": "Lisa is a Thai rapper and singer, member of BLACKPINK, and one of the most-followed K-pop idols on social media.",
+    "tags": [
+      "k-pop",
+      "blackpink",
+      "thai"
+    ]
+  },
+  {
+    "name": "Jennie Kim",
+    "category": "singer",
+    "profession": "Singer and Rapper",
+    "born": "January 16, 1996",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jennie is a South Korean singer and fashion icon, a member of BLACKPINK with a successful solo career.",
+    "tags": [
+      "k-pop",
+      "blackpink",
+      "fashion"
+    ]
+  },
+  {
+    "name": "Ros\u00e9",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 11, 1997",
+    "birthPlace": "Auckland, New Zealand",
+    "nationality": "New Zealander-Korean",
+    "excerpt": "Ros\u00e9 is a New Zealand-born Korean singer, member of BLACKPINK, known for her distinctive vocal tone.",
+    "tags": [
+      "k-pop",
+      "blackpink",
+      "new-zealand"
+    ]
+  },
+  {
+    "name": "Nayeon",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "September 22, 1995",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Nayeon is the leader and lead vocalist of TWICE, one of the most popular K-pop girl groups of all time.",
+    "tags": [
+      "k-pop",
+      "twice",
+      "korean"
+    ]
+  },
+  {
+    "name": "Suho",
+    "category": "singer",
+    "profession": "Singer and Actor",
+    "born": "May 22, 1991",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Suho is the leader of EXO, a major K-pop group, and has also pursued acting in Korean dramas.",
+    "tags": [
+      "k-pop",
+      "exo",
+      "actor"
+    ]
+  },
+  {
+    "name": "Harry Styles",
+    "category": "singer",
+    "profession": "Singer and Actor",
+    "born": "February 1, 1994",
+    "birthPlace": "Redditch, Worcestershire, England",
+    "nationality": "British",
+    "excerpt": "Harry Styles launched a massive solo career after One Direction, becoming a fashion and music icon.",
+    "tags": [
+      "pop",
+      "british",
+      "fashion"
+    ]
+  },
+  {
+    "name": "Zayn Malik",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "January 12, 1993",
+    "birthPlace": "Bradford, West Yorkshire, England",
+    "nationality": "British",
+    "excerpt": "Zayn Malik left One Direction to pursue a solo career, releasing the chart-topping debut Mind of Mine.",
+    "tags": [
+      "pop",
+      "r&b",
+      "british"
+    ]
+  },
+  {
+    "name": "Niall Horan",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "September 13, 1993",
+    "birthPlace": "Mullingar, County Westmeath, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Niall Horan is an Irish singer-songwriter and former One Direction member with a successful solo pop career.",
+    "tags": [
+      "pop",
+      "irish",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "name": "Louis Tomlinson",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "December 24, 1991",
+    "birthPlace": "Doncaster, South Yorkshire, England",
+    "nationality": "British",
+    "excerpt": "Louis Tomlinson is a British singer, former One Direction member, and solo artist known for his pop-rock style.",
+    "tags": [
+      "pop",
+      "british",
+      "rock"
+    ]
+  },
+  {
+    "name": "Adele",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "May 5, 1988",
+    "birthPlace": "Tottenham, London, England",
+    "nationality": "British",
+    "excerpt": "Adele is one of the best-selling music artists ever, known for powerhouse vocals and albums like 21 and 25.",
+    "tags": [
+      "pop",
+      "soul",
+      "british"
+    ]
+  },
+  {
+    "name": "Amy Winehouse",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "September 14, 1983",
+    "birthPlace": "Southgate, London, England",
+    "nationality": "British",
+    "excerpt": "Amy Winehouse was a British soul singer known for her distinctive voice and the critically acclaimed album Back to Black.",
+    "tags": [
+      "soul",
+      "jazz",
+      "british"
+    ]
+  },
+  {
+    "name": "David Bowie",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "January 8, 1947",
+    "birthPlace": "Brixton, London, England",
+    "nationality": "British",
+    "excerpt": "David Bowie was a visionary musician and cultural icon who reinvented his image and sound across five decades.",
+    "tags": [
+      "rock",
+      "glam",
+      "icon"
+    ]
+  },
+  {
+    "name": "Freddie Mercury",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "September 5, 1946",
+    "birthPlace": "Stone Town, Zanzibar",
+    "nationality": "British-Zanzibari",
+    "excerpt": "Freddie Mercury was the legendary frontman of Queen, known for his theatrical stage presence and four-octave vocal range.",
+    "tags": [
+      "rock",
+      "queen",
+      "icon"
+    ]
+  },
+  {
+    "name": "Elton John",
+    "category": "singer",
+    "profession": "Singer and Pianist",
+    "born": "March 25, 1947",
+    "birthPlace": "Pinner, Middlesex, England",
+    "nationality": "British",
+    "excerpt": "Elton John is one of the best-selling solo artists of all time with over 300 million records sold worldwide.",
+    "tags": [
+      "pop",
+      "rock",
+      "piano"
+    ]
+  },
+  {
+    "name": "Paul McCartney",
+    "category": "singer",
+    "profession": "Singer and Bassist",
+    "born": "June 18, 1942",
+    "birthPlace": "Liverpool, England",
+    "nationality": "British",
+    "excerpt": "Paul McCartney is a former Beatle and one of the most successful songwriters and musicians in history.",
+    "tags": [
+      "rock",
+      "beatles",
+      "legend"
+    ]
+  },
+  {
+    "name": "Mick Jagger",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "July 26, 1943",
+    "birthPlace": "Dartford, Kent, England",
+    "nationality": "British",
+    "excerpt": "Mick Jagger is the lead singer of The Rolling Stones and one of the most iconic frontmen in rock history.",
+    "tags": [
+      "rock",
+      "rolling-stones",
+      "icon"
+    ]
+  },
+  {
+    "name": "John Lennon",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "October 9, 1940",
+    "birthPlace": "Liverpool, England",
+    "nationality": "British",
+    "excerpt": "John Lennon was a co-founder of The Beatles and a peace activist whose solo work remains deeply influential.",
+    "tags": [
+      "rock",
+      "beatles",
+      "peace"
+    ]
+  },
+  {
+    "name": "Elvis Presley",
+    "category": "singer",
+    "profession": "Singer and Actor",
+    "born": "January 8, 1935",
+    "birthPlace": "Tupelo, Mississippi, USA",
+    "nationality": "American",
+    "excerpt": "Elvis Presley, the King of Rock and Roll, was one of the most significant cultural icons of the 20th century.",
+    "tags": [
+      "rock",
+      "icon",
+      "american"
+    ]
+  },
+  {
+    "name": "Whitney Houston",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "August 9, 1963",
+    "birthPlace": "Newark, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Whitney Houston was one of the greatest vocalists of all time, known for hits like I Will Always Love You.",
+    "tags": [
+      "pop",
+      "r&b",
+      "icon"
+    ]
+  },
+  {
+    "name": "Mariah Carey",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "March 27, 1969",
+    "birthPlace": "Huntington, New York, USA",
+    "nationality": "American",
+    "excerpt": "Mariah Carey is known for her five-octave vocal range and perennial holiday classic All I Want for Christmas Is You.",
+    "tags": [
+      "pop",
+      "r&b",
+      "christmas"
+    ]
+  },
+  {
+    "name": "Celine Dion",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 30, 1968",
+    "birthPlace": "Charlemagne, Quebec, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Celine Dion is a Canadian singer known for her powerful ballads and iconic residency in Las Vegas.",
+    "tags": [
+      "pop",
+      "ballad",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Madonna",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "August 16, 1958",
+    "birthPlace": "Bay City, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Madonna is the Queen of Pop, a cultural icon who has influenced music, fashion, and gender politics for over four decades.",
+    "tags": [
+      "pop",
+      "icon",
+      "dance"
+    ]
+  },
+  {
+    "name": "Prince",
+    "category": "singer",
+    "profession": "Singer and Multi-Instrumentalist",
+    "born": "June 7, 1958",
+    "birthPlace": "Minneapolis, Minnesota, USA",
+    "nationality": "American",
+    "excerpt": "Prince was a musical genius who blended funk, rock, R&B, and pop, creating timeless classics like Purple Rain.",
+    "tags": [
+      "funk",
+      "rock",
+      "icon"
+    ]
+  },
+  {
+    "name": "Michael Jackson",
+    "category": "singer",
+    "profession": "Singer and Dancer",
+    "born": "August 29, 1958",
+    "birthPlace": "Gary, Indiana, USA",
+    "nationality": "American",
+    "excerpt": "Michael Jackson, the King of Pop, was the most entertainer of his era with albums like Thriller breaking all records.",
+    "tags": [
+      "pop",
+      "dance",
+      "icon"
+    ]
+  },
+  {
+    "name": "Bruce Springsteen",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "September 23, 1949",
+    "birthPlace": "Long Branch, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Bruce Springsteen, known as The Boss, is celebrated for his poetic lyrics about working-class American life.",
+    "tags": [
+      "rock",
+      "heartland",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Bob Dylan",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "May 24, 1941",
+    "birthPlace": "Duluth, Minnesota, USA",
+    "nationality": "American",
+    "excerpt": "Bob Dylan is a Nobel Prize-winning songwriter and cultural icon who revolutionized folk and rock music.",
+    "tags": [
+      "folk",
+      "rock",
+      "nobel"
+    ]
+  },
+  {
+    "name": "Metallica",
+    "category": "singer",
+    "profession": "Heavy Metal Band",
+    "born": "October 28, 1981",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Metallica is one of the most influential heavy metal bands in history, known for albums like Master of Puppets.",
+    "tags": [
+      "metal",
+      "rock",
+      "band"
+    ]
+  },
+  {
+    "name": "Dave Grohl",
+    "category": "singer",
+    "profession": "Musician and Songwriter",
+    "born": "January 14, 1969",
+    "birthPlace": "Warren, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Dave Grohl is the frontman of Foo Fighters and former Nirvana drummer, one of rock's most beloved figures.",
+    "tags": [
+      "rock",
+      "grunge",
+      "drummer"
+    ]
+  },
+  {
+    "name": "Thom Yorke",
+    "category": "singer",
+    "profession": "Musician and Singer",
+    "born": "October 7, 1968",
+    "birthPlace": "Wellingborough, England",
+    "nationality": "British",
+    "excerpt": "Thom Yorke is the lead vocalist of Radiohead, known for his distinctive falsetto and experimental music.",
+    "tags": [
+      "alternative",
+      "electronic",
+      "british"
+    ]
+  },
+  {
+    "name": "Chris Martin",
+    "category": "singer",
+    "profession": "Singer and Pianist",
+    "born": "March 2, 1977",
+    "birthPlace": "Exeter, Devon, England",
+    "nationality": "British",
+    "excerpt": "Chris Martin is the lead vocalist of Coldplay, one of the world's best-selling bands with global mega-hits.",
+    "tags": [
+      "rock",
+      "pop",
+      "british"
+    ]
+  },
+  {
+    "name": "Alex Turner",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "January 6, 1986",
+    "birthPlace": "Sheffield, South Yorkshire, England",
+    "nationality": "British",
+    "excerpt": "Alex Turner is the frontman of Arctic Monkeys, evolving from indie rock to a sophisticated crooner.",
+    "tags": [
+      "rock",
+      "indie",
+      "british"
+    ]
+  },
+  {
+    "name": "Axl Rose",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 6, 1962",
+    "birthPlace": "Lafayette, Indiana, USA",
+    "nationality": "American",
+    "excerpt": "Axl Rose is the iconic lead vocalist of Guns N' Roses, known for his powerful voice and volatile persona.",
+    "tags": [
+      "rock",
+      "hard-rock",
+      "icon"
+    ]
+  },
+  {
+    "name": "Bono",
+    "category": "singer",
+    "profession": "Singer and Activist",
+    "born": "May 10, 1960",
+    "birthPlace": "Dublin, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Bono is the lead singer of U2 and a prominent humanitarian activist known for his global advocacy work.",
+    "tags": [
+      "rock",
+      "activist",
+      "irish"
+    ]
+  },
+  {
+    "name": "Sting",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "October 2, 1951",
+    "birthPlace": "Wallsend, Northumberland, England",
+    "nationality": "British",
+    "excerpt": "Sting is the former frontman of The Police and a solo artist known for sophisticated pop-rock and jazz influences.",
+    "tags": [
+      "rock",
+      "pop",
+      "jazz"
+    ]
+  },
+  {
+    "name": "Phil Collins",
+    "category": "singer",
+    "profession": "Singer and Drummer",
+    "born": "January 30, 1951",
+    "birthPlace": "Chiswick, London, England",
+    "nationality": "British",
+    "excerpt": "Phil Collins was the drummer and vocalist of Genesis and a massively successful solo artist in the 1980s.",
+    "tags": [
+      "rock",
+      "pop",
+      "drummer"
+    ]
+  },
+  {
+    "name": "Stevie Wonder",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "May 13, 1950",
+    "birthPlace": "Saginaw, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Stevie Wonder is a musical genius with 25 Grammy Awards, known for classics like Superstition and Isn't She Lovely.",
+    "tags": [
+      "soul",
+      "r&b",
+      "icon"
+    ]
+  },
+  {
+    "name": "Smokey Robinson",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "February 19, 1940",
+    "birthPlace": "Detroit, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Smokey Robinson is a Motown legend known for his smooth voice and songwriting hits with The Miracles.",
+    "tags": [
+      "soul",
+      "motown",
+      "r&b"
+    ]
+  },
+  {
+    "name": "Aretha Franklin",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 25, 1942",
+    "birthPlace": "Memphis, Tennessee, USA",
+    "nationality": "American",
+    "excerpt": "Aretha Franklin, the Queen of Soul, was known for her powerful voice and hits like Respect and Natural Woman.",
+    "tags": [
+      "soul",
+      "gospel",
+      "icon"
+    ]
+  },
+  {
+    "name": "P!nk",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "September 8, 1979",
+    "birthPlace": "Doylestown, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "P!nk is a pop-rock singer known for her powerful vocals, acrobatic performances, and anthemic hits.",
+    "tags": [
+      "pop",
+      "rock",
+      "anthem"
+    ]
+  },
+  {
+    "name": "Avril Lavigne",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "September 27, 1984",
+    "birthPlace": "Belleville, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Avril Lavigne was the pop-punk queen of the 2000s with hits like Complicated and Sk8er Boi.",
+    "tags": [
+      "pop-punk",
+      "rock",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Shakira",
+    "category": "singer",
+    "profession": "Singer and Dancer",
+    "born": "February 2, 1977",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Shakira is a Colombian superstar known for her hips don't lie energy, blending Latin, pop, and rock.",
+    "tags": [
+      "latin",
+      "pop",
+      "dancer"
+    ]
+  },
+  {
+    "name": "Enrique Iglesias",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "May 8, 1975",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Enrique Iglesias is the King of Latin Pop with over 150 million records sold worldwide.",
+    "tags": [
+      "latin",
+      "pop",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Rosal\u00eda",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "September 25, 1992",
+    "birthPlace": "Sant Esteve Sesrovires, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rosal\u00eda is a Spanish singer who blends flamenco with urban and pop, becoming a global crossover sensation.",
+    "tags": [
+      "flamenco",
+      "pop",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Aisha",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 10, 1995",
+    "birthPlace": "Lagos, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Tems is a Nigerian singer-songwriter who gained global fame with features on Wizkid's Essence and Drake tracks.",
+    "tags": [
+      "afrobeats",
+      "r&b",
+      "nigerian"
+    ]
+  },
+  {
+    "name": "Burna Boy",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "July 2, 1991",
+    "birthPlace": "Port Harcourt, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Burna Boy is a Grammy-winning Nigerian artist who brought Afrobeats to the global stage with genre-defying albums.",
+    "tags": [
+      "afrobeats",
+      "reggae",
+      "nigerian"
+    ]
+  },
+  {
+    "name": "Wizkid",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "July 16, 1990",
+    "birthPlace": "Surulere, Lagos, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Wizkid is a Nigerian Afrobeats pioneer known for globally successful hits like Essence and One Dance.",
+    "tags": [
+      "afrobeats",
+      "pop",
+      "nigerian"
+    ]
+  },
+  {
+    "name": "Davido",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "November 10, 1992",
+    "birthPlace": "Atlanta, Georgia, USA",
+    "nationality": "Nigerian",
+    "excerpt": "Davido is a Nigerian Afrobeats star known for hits like Fall and If, with massive influence in African pop.",
+    "tags": [
+      "afrobeats",
+      "pop",
+      "nigerian"
+    ]
+  },
+  {
+    "name": "Olivia Rodrigo",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "February 20, 2003",
+    "birthPlace": "Murrieta, California, USA",
+    "nationality": "American",
+    "excerpt": "Olivia Rodrigo burst onto the scene with Drivers License and her debut album Sour dominating global charts.",
+    "tags": [
+      "pop",
+      "pop-punk",
+      "gen-z"
+    ]
+  },
+  {
+    "name": "Sabrina Carpenter",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "May 11, 1999",
+    "birthPlace": "Lehigh Valley, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Sabrina Carpenter transitioned from Disney to pop stardom with hits like Espresso and Please Please Please.",
+    "tags": [
+      "pop",
+      "disney",
+      "actress"
+    ]
+  },
+  {
+    "name": "Chappell Roan",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "February 19, 1998",
+    "birthPlace": "Willard, Missouri, USA",
+    "nationality": "American",
+    "excerpt": "Chappell Roan emerged as a pop sensation with her theatrical style and hits like Good Luck, Babe!",
+    "tags": [
+      "pop",
+      "indie",
+      "theatrical"
+    ]
+  },
+  {
+    "name": "Troye Sivan",
+    "category": "singer",
+    "profession": "Singer and Actor",
+    "born": "June 5, 1995",
+    "birthPlace": "Johannesburg, South Africa",
+    "nationality": "Australian",
+    "excerpt": "Troye Sivan is an Australian singer and actor known for pop hits and LGBTQ+ representation in music.",
+    "tags": [
+      "pop",
+      "indie",
+      "lgbtq"
+    ]
+  },
+  {
+    "name": "Lizzo",
+    "category": "singer",
+    "profession": "Singer and Rapper",
+    "born": "April 27, 1988",
+    "birthPlace": "Detroit, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Lizzo is a Grammy-winning singer-rapper known for body positivity anthems like Truth Hurts and Good as Hell.",
+    "tags": [
+      "pop",
+      "hip-hop",
+      "body-positive"
+    ]
+  },
+  {
+    "name": "Khalid",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "February 11, 1998",
+    "birthPlace": "Fort Stewart, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Khalid is an American singer known for his smooth R&B voice and hits like Young Dumb & Broke.",
+    "tags": [
+      "r&b",
+      "pop",
+      "soul"
+    ]
+  },
+  {
+    "name": "Halsey",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "September 29, 1994",
+    "birthPlace": "Edison, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Halsey is an alternative pop artist known for confessional songwriting and genre-blending hits.",
+    "tags": [
+      "pop",
+      "alternative",
+      "electronic"
+    ]
+  },
+  {
+    "name": "Shawn Mendes",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "August 8, 1998",
+    "birthPlace": "Toronto, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Shawn Mendes rose from Vine to pop stardom with hits like Stitches and There's Nothing Holdin' Me Back.",
+    "tags": [
+      "pop",
+      "singer-songwriter",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Sam Smith",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "May 19, 1992",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Sam Smith is a Grammy-winning British singer known for soulful ballads and hits like Stay With Me.",
+    "tags": [
+      "pop",
+      "soul",
+      "british"
+    ]
+  },
+  {
+    "name": "Lorde",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "November 7, 1996",
+    "birthPlace": "Takapuna, Auckland, New Zealand",
+    "nationality": "New Zealander",
+    "excerpt": "Lorde burst onto the scene at 16 with Royals, bringing a fresh minimalist pop perspective to the industry.",
+    "tags": [
+      "pop",
+      "indie",
+      "new-zealand"
+    ]
+  },
+  {
+    "name": "Lana Del Rey",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "June 21, 1985",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Lana Del Rey is an alternative pop icon known for her cinematic sound and melancholic Americana aesthetic.",
+    "tags": [
+      "pop",
+      "indie",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Florence Welch",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "August 28, 1986",
+    "birthPlace": "Camberwell, London, England",
+    "nationality": "British",
+    "excerpt": "Florence Welch is the powerful frontwoman of Florence and the Machine, known for her operatic vocal range.",
+    "tags": [
+      "indie",
+      "rock",
+      "british"
+    ]
+  },
+  {
+    "name": "Janelle Monae",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "December 1, 1985",
+    "birthPlace": "Kansas City, Kansas, USA",
+    "nationality": "American",
+    "excerpt": "Janelle Mon\u00e1e is a singer and actress known for blending funk, R&B, and sci-fi concepts in her albums.",
+    "tags": [
+      "funk",
+      "r&b",
+      "sci-fi"
+    ]
+  },
+  {
+    "name": "Solange",
+    "category": "singer",
+    "profession": "Singer and Songwriter",
+    "born": "June 24, 1986",
+    "birthPlace": "Houston, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Solange is Beyonc\u00e9's younger sister who carved out her own acclaimed artistic identity with A Seat at the Table.",
+    "tags": [
+      "r&b",
+      "soul",
+      "alternative"
+    ]
+  },
+  {
+    "name": "Anderson .Paak",
+    "category": "singer",
+    "profession": "Singer and Drummer",
+    "born": "February 8, 1986",
+    "birthPlace": "Oxnard, California, USA",
+    "nationality": "American",
+    "excerpt": "Anderson .Paak is a Grammy-winning singer-drummer known for his funky, soulful sound and Silk Sonic project.",
+    "tags": [
+      "funk",
+      "soul",
+      "hip-hop"
+    ]
+  },
+  {
+    "name": "Tyler, the Creator",
+    "category": "singer",
+    "profession": "Rapper and Producer",
+    "born": "March 6, 1991",
+    "birthPlace": "Ladera Heights, California, USA",
+    "nationality": "American",
+    "excerpt": "Tyler, the Creator is a visionary rapper and producer whose genre-defying albums have earned critical acclaim.",
+    "tags": [
+      "hip-hop",
+      "alternative",
+      "producer"
+    ]
+  },
+  {
+    "name": "Frank Ocean",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "October 28, 1987",
+    "birthPlace": "Long Beach, California, USA",
+    "nationality": "American",
+    "excerpt": "Frank Ocean is a critically acclaimed R&B artist whose albums Blonde and Channel Orange are modern classics.",
+    "tags": [
+      "r&b",
+      "alternative",
+      "soul"
+    ]
+  },
+  {
+    "name": "Camila Cabello",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 3, 1997",
+    "birthPlace": "Havana, Cuba",
+    "nationality": "Cuban-American",
+    "excerpt": "Camila Cabello left Fifth Harmony to become a solo star with global hits like Havana and Se\u00f1orita.",
+    "tags": [
+      "pop",
+      "latin",
+      "cuban"
+    ]
+  },
+  {
+    "name": "Normani",
+    "category": "singer",
+    "profession": "Singer and Dancer",
+    "born": "May 31, 1996",
+    "birthPlace": "Atlanta, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Normani is a former Fifth Harmony member who launched a solo career blending pop, R&B, and dance.",
+    "tags": [
+      "pop",
+      "r&b",
+      "dance"
+    ]
+  },
+  {
+    "name": "Charlie Puth",
+    "category": "singer",
+    "profession": "Singer and Producer",
+    "born": "December 2, 1991",
+    "birthPlace": "Rumson, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Charlie Puth is a singer-producer known for pop hits like See You Again and Attention.",
+    "tags": [
+      "pop",
+      "producer",
+      "viral"
+    ]
+  },
+  {
+    "name": "Jonas Brothers",
+    "category": "singer",
+    "profession": "Pop Rock Band",
+    "born": "January 1, 2005",
+    "birthPlace": "Wyncote, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "The Jonas Brothers are a pop-rock trio who rose to fame on Disney and returned with chart-topping reunion albums.",
+    "tags": [
+      "pop",
+      "rock",
+      "disney"
+    ]
+  },
+  {
+    "name": "Selena Gomez",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "July 22, 1992",
+    "birthPlace": "Grand Prairie, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Selena Gomez is a singer, actress, and one of the most-followed people on Instagram with global pop hits.",
+    "tags": [
+      "pop",
+      "actress",
+      "social-media"
+    ]
+  },
+  {
+    "name": "Alicia Keys",
+    "category": "singer",
+    "profession": "Singer and Pianist",
+    "born": "January 25, 1981",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Alicia Keys is a 15-time Grammy winner known for her soulful voice and piano-driven hits like Fallin'.",
+    "tags": [
+      "r&b",
+      "soul",
+      "piano"
+    ]
+  },
+  {
+    "name": "Tom Cruise",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "July 3, 1962",
+    "birthPlace": "Syracuse, New York, USA",
+    "nationality": "American",
+    "excerpt": "Tom Cruise is one of the highest-grossing actors of all time, known for the Mission: Impossible franchise and Top Gun.",
+    "tags": [
+      "action",
+      "hollywood",
+      "blockbuster"
+    ]
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "November 11, 1974",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Leonardo DiCaprio is an Academy Award-winning actor and environmental activist known for iconic roles in Titanic and Inception.",
+    "tags": [
+      "drama",
+      "hollywood",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Brad Pitt",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "December 18, 1963",
+    "birthPlace": "Shawnee, Oklahoma, USA",
+    "nationality": "American",
+    "excerpt": "Brad Pitt is an Academy Award-winning actor and producer known for Fight Club, Once Upon a Time in Hollywood.",
+    "tags": [
+      "drama",
+      "hollywood",
+      "producer"
+    ]
+  },
+  {
+    "name": "Johnny Depp",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 9, 1963",
+    "birthPlace": "Owensboro, Kentucky, USA",
+    "nationality": "American",
+    "excerpt": "Johnny Depp is known for his eccentric roles including Captain Jack Sparrow in the Pirates of the Caribbean franchise.",
+    "tags": [
+      "fantasy",
+      "hollywood",
+      "drama"
+    ]
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 4, 1965",
+    "birthPlace": "Manhattan, New York, USA",
+    "nationality": "American",
+    "excerpt": "Robert Downey Jr. became the face of the Marvel Cinematic Universe as Iron Man and has reinvented his career.",
+    "tags": [
+      "superhero",
+      "hollywood",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Chris Hemsworth",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 11, 1983",
+    "birthPlace": "Melbourne, Victoria, Australia",
+    "nationality": "Australian",
+    "excerpt": "Chris Hemsworth is an Australian actor best known for playing Thor in the Marvel Cinematic Universe.",
+    "tags": [
+      "superhero",
+      "australian",
+      "action"
+    ]
+  },
+  {
+    "name": "Chris Evans",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 13, 1981",
+    "birthPlace": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Chris Evans is beloved for his role as Captain America in the Marvel Cinematic Universe.",
+    "tags": [
+      "superhero",
+      "hollywood",
+      "drama"
+    ]
+  },
+  {
+    "name": "Chris Pratt",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 21, 1979",
+    "birthPlace": "Virginia, Minnesota, USA",
+    "nationality": "American",
+    "excerpt": "Chris Pratt went from Parks and Recreation to leading blockbuster franchises like Guardians of the Galaxy and Jurassic World.",
+    "tags": [
+      "comedy",
+      "action",
+      "blockbuster"
+    ]
+  },
+  {
+    "name": "Tom Hanks",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "July 9, 1956",
+    "birthPlace": "Concord, California, USA",
+    "nationality": "American",
+    "excerpt": "Tom Hanks is one of the most beloved actors in Hollywood, with two Academy Awards and countless iconic roles.",
+    "tags": [
+      "drama",
+      "comedy",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Morgan Freeman",
+    "category": "actor",
+    "profession": "Actor and Narrator",
+    "born": "June 1, 1937",
+    "birthPlace": "Memphis, Tennessee, USA",
+    "nationality": "American",
+    "excerpt": "Morgan Freeman is an Academy Award-winning actor known for his distinctive voice and roles in Shawshank Redemption.",
+    "tags": [
+      "drama",
+      "narrator",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Denzel Washington",
+    "category": "actor",
+    "profession": "Actor and Director",
+    "born": "December 28, 1954",
+    "birthPlace": "Mount Vernon, New York, USA",
+    "nationality": "American",
+    "excerpt": "Denzel Washington is a two-time Academy Award-winning actor and one of the most respected figures in Hollywood.",
+    "tags": [
+      "drama",
+      "action",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Samuel L. Jackson",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 21, 1948",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Samuel L. Jackson is one of the highest-grossing actors of all time with over 150 film credits.",
+    "tags": [
+      "action",
+      "drama",
+      "marvel"
+    ]
+  },
+  {
+    "name": "Will Smith",
+    "category": "actor",
+    "profession": "Actor and Rapper",
+    "born": "September 25, 1968",
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Will Smith is an Academy Award-winning actor and former rapper who became one of Hollywood's biggest stars.",
+    "tags": [
+      "comedy",
+      "action",
+      "drama"
+    ]
+  },
+  {
+    "name": "Matt Damon",
+    "category": "actor",
+    "profession": "Actor and Screenwriter",
+    "born": "October 8, 1970",
+    "birthPlace": "Cambridge, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Matt Damon is an Academy Award-winning actor and screenwriter known for the Bourne franchise and Good Will Hunting.",
+    "tags": [
+      "action",
+      "drama",
+      "screenwriter"
+    ]
+  },
+  {
+    "name": "Ben Affleck",
+    "category": "actor",
+    "profession": "Actor and Director",
+    "born": "August 15, 1972",
+    "birthPlace": "Berkeley, California, USA",
+    "nationality": "American",
+    "excerpt": "Ben Affleck is an Academy Award-winning actor and director known for Good Will Hunting and Argo.",
+    "tags": [
+      "drama",
+      "director",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Ryan Reynolds",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "October 23, 1976",
+    "birthPlace": "Vancouver, British Columbia, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Ryan Reynolds is a Canadian actor known for his comedic roles, especially as Deadpool.",
+    "tags": [
+      "comedy",
+      "superhero",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Ryan Gosling",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 12, 1980",
+    "birthPlace": "London, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Ryan Gosling is a Canadian actor known for his roles in La La Land, The Notebook, and Blade Runner 2049.",
+    "tags": [
+      "drama",
+      "romance",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Keanu Reeves",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 2, 1964",
+    "birthPlace": "Beirut, Lebanon",
+    "nationality": "Canadian",
+    "excerpt": "Keanu Reeves is a beloved actor known for The Matrix franchise and John Wick series, adored by fans worldwide.",
+    "tags": [
+      "action",
+      "sci-fi",
+      "icon"
+    ]
+  },
+  {
+    "name": "Scarlett Johansson",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 22, 1984",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Scarlett Johansson is one of the highest-paid actresses globally, known for Marvel's Black Widow and Lost in Translation.",
+    "tags": [
+      "action",
+      "drama",
+      "marvel"
+    ]
+  },
+  {
+    "name": "Jennifer Lawrence",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 15, 1990",
+    "birthPlace": "Louisville, Kentucky, USA",
+    "nationality": "American",
+    "excerpt": "Jennifer Lawrence is an Academy Award-winning actress known for The Hunger Games and Silver Linings Playbook.",
+    "tags": [
+      "drama",
+      "action",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Margot Robbie",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "July 2, 1990",
+    "birthPlace": "Dalby, Queensland, Australia",
+    "nationality": "Australian",
+    "excerpt": "Margot Robbie is an Australian actress known for I, Tonya, Barbie, and her role as Harley Quinn.",
+    "tags": [
+      "drama",
+      "comedy",
+      "australian"
+    ]
+  },
+  {
+    "name": "Zendaya",
+    "category": "actor",
+    "profession": "Actress and Singer",
+    "born": "September 1, 1996",
+    "birthPlace": "Oakland, California, USA",
+    "nationality": "American",
+    "excerpt": "Zendaya is a multi-talented actress and singer known for Euphoria and the Spider-Man franchise.",
+    "tags": [
+      "drama",
+      "young-adult",
+      "singer"
+    ]
+  },
+  {
+    "name": "Timoth\u00e9e Chalamet",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 27, 1995",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American-French",
+    "excerpt": "Timoth\u00e9e Chalamet is one of the most acclaimed young actors of his generation, known for Call Me by Your Name and Dune.",
+    "tags": [
+      "drama",
+      "indie",
+      "france"
+    ]
+  },
+  {
+    "name": "Florence Pugh",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "January 3, 1996",
+    "birthPlace": "Oxford, Oxfordshire, England",
+    "nationality": "British",
+    "excerpt": "Florence Pugh is a British actress known for her powerful performances in Little Women and Midsommar.",
+    "tags": [
+      "drama",
+      "horror",
+      "british"
+    ]
+  },
+  {
+    "name": "Ana de Armas",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 30, 1988",
+    "birthPlace": "Santa Cruz del Norte, Cuba",
+    "nationality": "Cuban-Spanish",
+    "excerpt": "Ana de Armas is a Cuban-Spanish actress who broke through in Hollywood with Knives Out and Blonde.",
+    "tags": [
+      "drama",
+      "thriller",
+      "cuban"
+    ]
+  },
+  {
+    "name": "Gal Gadot",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 30, 1985",
+    "birthPlace": "Petah Tikva, Israel",
+    "nationality": "Israeli",
+    "excerpt": "Gal Gadot is an Israeli actress who became a global star as Wonder Woman in the DC Universe.",
+    "tags": [
+      "superhero",
+      "action",
+      "israeli"
+    ]
+  },
+  {
+    "name": "Natalie Portman",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 9, 1981",
+    "birthPlace": "Jerusalem, Israel",
+    "nationality": "Israeli-American",
+    "excerpt": "Natalie Portman is an Academy Award-winning actress known for Black Swan and the Thor franchise.",
+    "tags": [
+      "drama",
+      "superhero",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Emma Watson",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 15, 1990",
+    "birthPlace": "Paris, France",
+    "nationality": "British",
+    "excerpt": "Emma Watson rose to fame as Hermione Granger in Harry Potter and became a UN Women Goodwill Ambassador.",
+    "tags": [
+      "fantasy",
+      "drama",
+      "activist"
+    ]
+  },
+  {
+    "name": "Daniel Radcliffe",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "July 23, 1989",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Daniel Radcliffe is best known for playing Harry Potter and has built a diverse career in film and theatre.",
+    "tags": [
+      "fantasy",
+      "drama",
+      "british"
+    ]
+  },
+  {
+    "name": "Henry Cavill",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "May 5, 1983",
+    "birthPlace": "Jersey, Channel Islands",
+    "nationality": "British",
+    "excerpt": "Henry Cavill is a British actor known for playing Superman in the DC Universe and Geralt in The Witcher.",
+    "tags": [
+      "superhero",
+      "fantasy",
+      "british"
+    ]
+  },
+  {
+    "name": "Jason Momoa",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 1, 1979",
+    "birthPlace": "Honolulu, Hawaii, USA",
+    "nationality": "American",
+    "excerpt": "Jason Momoa is known for playing Aquaman in the DC Universe and Khal Drogo in Game of Thrones.",
+    "tags": [
+      "superhero",
+      "fantasy",
+      "action"
+    ]
+  },
+  {
+    "name": "Vin Diesel",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "July 18, 1967",
+    "birthPlace": "Alameda County, California, USA",
+    "nationality": "American",
+    "excerpt": "Vin Diesel is the face of the Fast and Furious franchise and one of the highest-grossing actors in Hollywood.",
+    "tags": [
+      "action",
+      "blockbuster",
+      "producer"
+    ]
+  },
+  {
+    "name": "Dwayne Johnson",
+    "category": "actor",
+    "profession": "Actor and Wrestler",
+    "born": "May 2, 1972",
+    "birthPlace": "Hayward, California, USA",
+    "nationality": "American",
+    "excerpt": "Dwayne The Rock Johnson transitioned from wrestling to become one of the biggest movie stars in the world.",
+    "tags": [
+      "action",
+      "comedy",
+      "wrestling"
+    ]
+  },
+  {
+    "name": "Mark Wahlberg",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "June 5, 1971",
+    "birthPlace": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Mark Wahlberg went from rapper to A-list actor and producer, starring in films like The Departed.",
+    "tags": [
+      "action",
+      "drama",
+      "producer"
+    ]
+  },
+  {
+    "name": "Jake Gyllenhaal",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 19, 1980",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Jake Gyllenhaal is an acclaimed actor known for his intense roles in Nightcrawler and Brokeback Mountain.",
+    "tags": [
+      "drama",
+      "thriller",
+      "indie"
+    ]
+  },
+  {
+    "name": "Adam Driver",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 19, 1983",
+    "birthPlace": "San Diego, California, USA",
+    "nationality": "American",
+    "excerpt": "Adam Driver is an acclaimed actor known for playing Kylo Ren in Star Wars and dramatic roles in Marriage Story.",
+    "tags": [
+      "drama",
+      "sci-fi",
+      "indie"
+    ]
+  },
+  {
+    "name": "Oscar Isaac",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "March 9, 1979",
+    "birthPlace": "Guatemala City, Guatemala",
+    "nationality": "Guatemalan-American",
+    "excerpt": "Oscar Isaac is a Guatemalan-American actor known for Star Wars, Dune, and critically acclaimed dramatic roles.",
+    "tags": [
+      "sci-fi",
+      "drama",
+      "guatemalan"
+    ]
+  },
+  {
+    "name": "Michael B. Jordan",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "February 9, 1987",
+    "birthPlace": "Santa Ana, California, USA",
+    "nationality": "American",
+    "excerpt": "Michael B. Jordan is an acclaimed actor known for Creed, Black Panther, and Fruitvale Station.",
+    "tags": [
+      "drama",
+      "action",
+      "superhero"
+    ]
+  },
+  {
+    "name": "Idris Elba",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 6, 1972",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Idris Elba is a British actor known for The Wire, Luther, and his role as Heimdall in the Marvel Universe.",
+    "tags": [
+      "drama",
+      "action",
+      "british"
+    ]
+  },
+  {
+    "name": "Cate Blanchett",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "May 14, 1969",
+    "birthPlace": "Melbourne, Victoria, Australia",
+    "nationality": "Australian",
+    "excerpt": "Cate Blanchett is a two-time Academy Award-winning actress known for her extraordinary range and elegance.",
+    "tags": [
+      "drama",
+      "fantasy",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Nicole Kidman",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 20, 1967",
+    "birthPlace": "Honolulu, Hawaii, USA",
+    "nationality": "Australian-American",
+    "excerpt": "Nicole Kidman is an Academy Award-winning actress with an extraordinary career spanning four decades.",
+    "tags": [
+      "drama",
+      "thriller",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Meryl Streep",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 22, 1949",
+    "birthPlace": "Summit, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Meryl Streep holds the record for most Oscar nominations and is widely regarded as the greatest actress of her generation.",
+    "tags": [
+      "drama",
+      "oscar",
+      "legend"
+    ]
+  },
+  {
+    "name": "Kate Winslet",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "October 5, 1975",
+    "birthPlace": "Reading, Berkshire, England",
+    "nationality": "British",
+    "excerpt": "Kate Winslet is an Academy Award-winning actress known for Titanic, The Reader, and Mare of Easttown.",
+    "tags": [
+      "drama",
+      "romance",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Angelina Jolie",
+    "category": "actor",
+    "profession": "Actress and Filmmaker",
+    "born": "June 4, 1975",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Angelina Jolie is an Academy Award-winning actress and humanitarian known for Maleficent and Tomb Raider.",
+    "tags": [
+      "action",
+      "drama",
+      "humanitarian"
+    ]
+  },
+  {
+    "name": "Halle Berry",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 14, 1966",
+    "birthPlace": "Cleveland, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Halle Berry was the first African-American woman to win the Academy Award for Best Actress for Monster's Ball.",
+    "tags": [
+      "drama",
+      "action",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Viola Davis",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 11, 1965",
+    "birthPlace": "Saint Matthews, South Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Viola Davis is an EGOT-winning actress known for her powerful performances in Fences and How to Get Away with Murder.",
+    "tags": [
+      "drama",
+      "oscar",
+      "television"
+    ]
+  },
+  {
+    "name": "Jennifer Aniston",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "February 11, 1969",
+    "birthPlace": "Sherman Oaks, Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Jennifer Aniston became a global icon as Rachel Green on Friends and has had a successful film career.",
+    "tags": [
+      "comedy",
+      "television",
+      "romance"
+    ]
+  },
+  {
+    "name": "Reese Witherspoon",
+    "category": "actor",
+    "profession": "Actress and Producer",
+    "born": "March 22, 1976",
+    "birthPlace": "New Orleans, Louisiana, USA",
+    "nationality": "American",
+    "excerpt": "Reese Witherspoon is an Academy Award-winning actress and prolific producer behind hits like Big Little Lies.",
+    "tags": [
+      "drama",
+      "comedy",
+      "producer"
+    ]
+  },
+  {
+    "name": "Julia Roberts",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "October 28, 1967",
+    "birthPlace": "Smyrna, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Julia Roberts is one of Hollywood's biggest stars, known for Pretty Woman, Erin Brockovich, and her signature smile.",
+    "tags": [
+      "romance",
+      "drama",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Sandra Bullock",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "July 26, 1964",
+    "birthPlace": "Arlington, Virginia, USA",
+    "nationality": "American-German",
+    "excerpt": "Sandra Bullock is an Academy Award-winning actress known for The Blind Side, Gravity, and Miss Congeniality.",
+    "tags": [
+      "comedy",
+      "drama",
+      "sci-fi"
+    ]
+  },
+  {
+    "name": "Anne Hathaway",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 12, 1982",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Anne Hathaway is an Academy Award-winning actress known for Les Mis\u00e9rables, The Devil Wears Prada, and The Dark Knight Rises.",
+    "tags": [
+      "drama",
+      "fantasy",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Jessica Chastain",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "March 24, 1977",
+    "birthPlace": "Sacramento, California, USA",
+    "nationality": "American",
+    "excerpt": "Jessica Chastain is an Academy Award-winning actress known for her powerful dramatic roles in Zero Dark Thirty and The Eyes of Tammy Faye.",
+    "tags": [
+      "drama",
+      "thriller",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Jodie Foster",
+    "category": "actor",
+    "profession": "Actress and Director",
+    "born": "November 19, 1962",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Jodie Foster is a two-time Academy Award-winning actress and acclaimed director known for Silence of the Lambs.",
+    "tags": [
+      "thriller",
+      "drama",
+      "director"
+    ]
+  },
+  {
+    "name": "Charlize Theron",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 7, 1975",
+    "birthPlace": "Benoni, South Africa",
+    "nationality": "South African-American",
+    "excerpt": "Charlize Theron is an Academy Award-winning actress known for Monster, Mad Max: Fury Road, and Atomic Blonde.",
+    "tags": [
+      "action",
+      "drama",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Pen\u00e9lope Cruz",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 28, 1974",
+    "birthPlace": "Alcobendas, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Pen\u00e9lope Cruz is a Spanish actress and the first Spanish actress to receive an Academy Award nomination.",
+    "tags": [
+      "drama",
+      "romance",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Marion Cotillard",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "September 30, 1975",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "Marion Cotillard is a French actress who won the Academy Award for her portrayal of Edith Piaf in La Vie en Rose.",
+    "tags": [
+      "drama",
+      "french",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Lupita Nyong'o",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "March 1, 1983",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Kenyan-Mexican",
+    "excerpt": "Lupita Nyong'o won an Academy Award for 12 Years a Slave and has become one of Hollywood's most influential figures.",
+    "tags": [
+      "drama",
+      "oscar",
+      "african"
+    ]
+  },
+  {
+    "name": "Saoirse Ronan",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 12, 1994",
+    "birthPlace": "The Bronx, New York, USA",
+    "nationality": "Irish-American",
+    "excerpt": "Saoirse Ronan is an Irish actress with multiple Oscar nominations for films like Lady Bird and Little Women.",
+    "tags": [
+      "drama",
+      "irish",
+      "indie"
+    ]
+  },
+  {
+    "name": "Carey Mulligan",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "May 28, 1985",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Carey Mulligan is a British actress known for her acclaimed roles in An Education and Promising Young Woman.",
+    "tags": [
+      "drama",
+      "british",
+      "indie"
+    ]
+  },
+  {
+    "name": "Tilda Swinton",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 5, 1960",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Tilda Swinton is a versatile British actress known for her chameleon-like performances in indie and blockbuster films.",
+    "tags": [
+      "drama",
+      "fantasy",
+      "british"
+    ]
+  },
+  {
+    "name": "Emma Stone",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 6, 1988",
+    "birthPlace": "Scottsdale, Arizona, USA",
+    "nationality": "American",
+    "excerpt": "Emma Stone is a two-time Academy Award-winning actress known for La La Land, Poor Things, and Easy A.",
+    "tags": [
+      "comedy",
+      "drama",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Amy Adams",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 20, 1974",
+    "birthPlace": "Vicenza, Italy",
+    "nationality": "American",
+    "excerpt": "Amy Adams is a six-time Oscar nominee known for her roles in Arrival, American Hustle, and Enchanted.",
+    "tags": [
+      "drama",
+      "fantasy",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Kate Blanchett",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "May 14, 1969",
+    "birthPlace": "Melbourne, Victoria, Australia",
+    "nationality": "Australian",
+    "excerpt": "Cate Blanchett is one of the most acclaimed actresses of her generation with two Academy Awards.",
+    "tags": [
+      "drama",
+      "fantasy",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Rachel Weisz",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "March 7, 1970",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Rachel Weisz is a British actress known for The Mummy, The Constant Gardener, and her Oscar-winning role.",
+    "tags": [
+      "action",
+      "drama",
+      "british"
+    ]
+  },
+  {
+    "name": "Audrey Hepburn",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "May 4, 1929",
+    "birthPlace": "Ixelles, Brussels, Belgium",
+    "nationality": "British-Dutch",
+    "excerpt": "Audrey Hepburn was a legendary actress and humanitarian, known for Roman Holiday and Breakfast at Tiffany's.",
+    "tags": [
+      "classic",
+      "romance",
+      "icon"
+    ]
+  },
+  {
+    "name": "Marilyn Monroe",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 1, 1926",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Marilyn Monroe was a cultural icon and one of the most famous actresses of Hollywood's Golden Age.",
+    "tags": [
+      "classic",
+      "icon",
+      "drama"
+    ]
+  },
+  {
+    "name": "James Dean",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "February 8, 1931",
+    "birthPlace": "Marion, Indiana, USA",
+    "nationality": "American",
+    "excerpt": "James Dean was a rebel icon whose brief career produced some of the most iconic performances in cinema history.",
+    "tags": [
+      "classic",
+      "drama",
+      "icon"
+    ]
+  },
+  {
+    "name": "Marlon Brando",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 3, 1924",
+    "birthPlace": "Omaha, Nebraska, USA",
+    "nationality": "American",
+    "excerpt": "Marlon Brando is considered one of the greatest actors in cinema history, known for The Godfather and A Streetcar Named Desire.",
+    "tags": [
+      "classic",
+      "drama",
+      "legend"
+    ]
+  },
+  {
+    "name": "Al Pacino",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 25, 1940",
+    "birthPlace": "East Harlem, New York, USA",
+    "nationality": "American",
+    "excerpt": "Al Pacino is a legendary actor known for The Godfather, Scarface, and Scent of a Woman.",
+    "tags": [
+      "drama",
+      "crime",
+      "icon"
+    ]
+  },
+  {
+    "name": "Robert De Niro",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 17, 1943",
+    "birthPlace": "Manhattan, New York, USA",
+    "nationality": "American",
+    "excerpt": "Robert De Niro is a two-time Academy Award-winning actor known for Taxi Driver and Goodfellas.",
+    "tags": [
+      "drama",
+      "crime",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Jack Nicholson",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 22, 1937",
+    "birthPlace": "Neptune City, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Jack Nicholson is a three-time Academy Award-winning actor known for The Shining, One Flew Over the Cuckoo's Nest.",
+    "tags": [
+      "drama",
+      "horror",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Dustin Hoffman",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 8, 1937",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Dustin Hoffman is a two-time Academy Award-winning actor known for Rain Man, Kramer vs. Kramer, and The Graduate.",
+    "tags": [
+      "drama",
+      "comedy",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Anthony Hopkins",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 31, 1937",
+    "birthPlace": "Port Talbot, Wales",
+    "nationality": "Welsh-British",
+    "excerpt": "Sir Anthony Hopkins is a two-time Academy Award-winning Welsh actor known for The Silence of the Lambs.",
+    "tags": [
+      "drama",
+      "thriller",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Judi Dench",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "December 9, 1934",
+    "birthPlace": "York, North Yorkshire, England",
+    "nationality": "British",
+    "excerpt": "Dame Judi Dench is one of Britain's most revered actresses with a career spanning over six decades.",
+    "tags": [
+      "drama",
+      "bond",
+      "british"
+    ]
+  },
+  {
+    "name": "Maggie Smith",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "December 28, 1934",
+    "birthPlace": "Ilford, Essex, England",
+    "nationality": "British",
+    "excerpt": "Dame Maggie Smith was a British icon known for Downton Abbey, Harry Potter, and her extraordinary stage career.",
+    "tags": [
+      "drama",
+      "fantasy",
+      "british"
+    ]
+  },
+  {
+    "name": "Helen Mirren",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "September 26, 1945",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Dame Helen Mirren is an Academy Award-winning actress known for The Queen and her remarkable versatility.",
+    "tags": [
+      "drama",
+      "biography",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Glenn Close",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "March 19, 1947",
+    "birthPlace": "Greenwich, Connecticut, USA",
+    "nationality": "American",
+    "excerpt": "Glenn Close is an eight-time Oscar nominee known for her commanding performances in Fatal Attraction and The Wife.",
+    "tags": [
+      "drama",
+      "thriller",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Michelle Yeoh",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 6, 1962",
+    "birthPlace": "Ipoh, Perak, Malaysia",
+    "nationality": "Malaysian",
+    "excerpt": "Michelle Yeoh is a Malaysian actress who won the Academy Award for Everything Everywhere All at Once.",
+    "tags": [
+      "action",
+      "drama",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Ke Huy Quan",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 20, 1971",
+    "birthPlace": "Saigon, South Vietnam",
+    "nationality": "Vietnamese-American",
+    "excerpt": "Ke Huy Quan won the Academy Award for Best Supporting Actor for Everything Everywhere All at Once.",
+    "tags": [
+      "drama",
+      "action",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Brendan Fraser",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 3, 1968",
+    "birthPlace": "Indianapolis, Indiana, USA",
+    "nationality": "Canadian-American",
+    "excerpt": "Brendan Fraser made a triumphant comeback, winning the Academy Award for Best Actor for The Whale.",
+    "tags": [
+      "drama",
+      "action",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Austin Butler",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 17, 1991",
+    "birthPlace": "Anaheim, California, USA",
+    "nationality": "American",
+    "excerpt": "Austin Butler won the Golden Globe for his transformative portrayal of Elvis Presley in the biopic Elvis.",
+    "tags": [
+      "biography",
+      "drama",
+      "music"
+    ]
+  },
+  {
+    "name": "Paul Mescal",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "February 2, 1996",
+    "birthPlace": "Maynooth, County Kildare, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Paul Mescal is an Irish actor who gained fame from Normal People and earned an Oscar nomination for Aftersun.",
+    "tags": [
+      "drama",
+      "irish",
+      "indie"
+    ]
+  },
+  {
+    "name": "Andrew Garfield",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 20, 1983",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "British-American",
+    "excerpt": "Andrew Garfield is a British-American actor known for Spider-Man and his Oscar-nominated role in tick, tick... Boom!",
+    "tags": [
+      "superhero",
+      "drama",
+      "musical"
+    ]
+  },
+  {
+    "name": "Eddie Redmayne",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "January 6, 1982",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Eddie Redmayne is a British actor who won the Academy Award for The Theory of Everything.",
+    "tags": [
+      "drama",
+      "biography",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Taron Egerton",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 10, 1989",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Taron Egerton is a British actor known for the Kingsman franchise and his portrayal of Elton John in Rocketman.",
+    "tags": [
+      "action",
+      "biography",
+      "musical"
+    ]
+  },
+  {
+    "name": "Tom Hardy",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 15, 1977",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Tom Hardy is a British actor known for his intense roles in The Dark Knight Rises, Venom, and Mad Max: Fury Road.",
+    "tags": [
+      "action",
+      "drama",
+      "british"
+    ]
+  },
+  {
+    "name": "Benedict Cumberbatch",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "July 19, 1976",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Benedict Cumberbatch is a British actor known for Sherlock and his role as Doctor Strange in the Marvel Universe.",
+    "tags": [
+      "drama",
+      "mystery",
+      "marvel"
+    ]
+  },
+  {
+    "name": "Martin Freeman",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 8, 1971",
+    "birthPlace": "Aldershot, Hampshire, England",
+    "nationality": "British",
+    "excerpt": "Martin Freeman is a British actor known for The Office, The Hobbit, and Fargo.",
+    "tags": [
+      "comedy",
+      "fantasy",
+      "british"
+    ]
+  },
+  {
+    "name": "Eddie Murphy",
+    "category": "actor",
+    "profession": "Actor and Comedian",
+    "born": "April 3, 1961",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Eddie Murphy is an iconic comedian and actor known for Beverly Hills Cop, Shrek, and his legendary SNL career.",
+    "tags": [
+      "comedy",
+      "animation",
+      "icon"
+    ]
+  },
+  {
+    "name": "Jim Carrey",
+    "category": "actor",
+    "profession": "Actor and Comedian",
+    "born": "January 17, 1962",
+    "birthPlace": "Newmarket, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Jim Carrey is a Canadian actor and comedian known for his physical comedy in Ace Ventura, The Mask, and Truman Show.",
+    "tags": [
+      "comedy",
+      "drama",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Steve Martin",
+    "category": "actor",
+    "profession": "Actor and Comedian",
+    "born": "August 14, 1945",
+    "birthPlace": "Waco, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Steve Martin is an American actor, comedian, and musician known for his witty humor and versatile career.",
+    "tags": [
+      "comedy",
+      "drama",
+      "music"
+    ]
+  },
+  {
+    "name": "Bill Murray",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 21, 1950",
+    "birthPlace": "Evanston, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Bill Murray is an American actor and comedy legend known for Ghostbusters, Groundhog Day, and Lost in Translation.",
+    "tags": [
+      "comedy",
+      "drama",
+      "icon"
+    ]
+  },
+  {
+    "name": "Tina Fey",
+    "category": "actor",
+    "profession": "Actress and Comedian",
+    "born": "May 18, 1970",
+    "birthPlace": "Upper Darby Township, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Tina Fey is an American actress, comedian, and writer known for 30 Rock, Mean Girls, and her SNL legacy.",
+    "tags": [
+      "comedy",
+      "television",
+      "writer"
+    ]
+  },
+  {
+    "name": "Amy Poehler",
+    "category": "actor",
+    "profession": "Actress and Comedian",
+    "born": "September 16, 1971",
+    "birthPlace": "Burlington, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Amy Poehler is an American actress and comedian known for Parks and Recreation and her improv comedy work.",
+    "tags": [
+      "comedy",
+      "television",
+      "improv"
+    ]
+  },
+  {
+    "name": "Kristen Wiig",
+    "category": "actor",
+    "profession": "Actress and Comedian",
+    "born": "August 22, 1973",
+    "birthPlace": "Canandaigua, New York, USA",
+    "nationality": "American",
+    "excerpt": "Kristen Wiig is an American actress and comedian known for Bridesmaids and her SNL characters.",
+    "tags": [
+      "comedy",
+      "drama",
+      "writer"
+    ]
+  },
+  {
+    "name": "Melissa McCarthy",
+    "category": "actor",
+    "profession": "Actress and Comedian",
+    "born": "August 26, 1970",
+    "birthPlace": "Plainfield, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Melissa McCarthy is an American actress and comedian known for Bridesmaids and Mike & Molly.",
+    "tags": [
+      "comedy",
+      "television",
+      "film"
+    ]
+  },
+  {
+    "name": "Awkwafina",
+    "category": "actor",
+    "profession": "Actress and Rapper",
+    "born": "June 2, 1988",
+    "birthPlace": "Stony Brook, New York, USA",
+    "nationality": "American",
+    "excerpt": "Awkwafina is an American actress and rapper who won a Golden Globe for The Farewell.",
+    "tags": [
+      "comedy",
+      "drama",
+      "rap"
+    ]
+  },
+  {
+    "name": "Dev Patel",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 23, 1990",
+    "birthPlace": "Harrow, London, England",
+    "nationality": "British",
+    "excerpt": "Dev Patel is a British actor known for Slumdog Millionaire, Lion, and his directorial debut Monkey Man.",
+    "tags": [
+      "drama",
+      "action",
+      "british"
+    ]
+  },
+  {
+    "name": "Riz Ahmed",
+    "category": "actor",
+    "profession": "Actor and Rapper",
+    "born": "October 1, 1982",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Riz Ahmed is a British actor and rapper known for Sound of Metal and The Night Of.",
+    "tags": [
+      "drama",
+      "music",
+      "british"
+    ]
+  },
+  {
+    "name": "John Boyega",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "March 17, 1992",
+    "birthPlace": "Peckham, London, England",
+    "nationality": "British",
+    "excerpt": "John Boyega is a British actor who rose to fame as Finn in the Star Wars sequel trilogy.",
+    "tags": [
+      "sci-fi",
+      "drama",
+      "british"
+    ]
+  }
+]

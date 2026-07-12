@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verificar Identidad — Wifioficial Biography</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" type="image/jpeg" href="images/favicon.jpg">
+  <link rel="shortcut icon" href="images/favicon.jpg">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .verify-container {
+      max-width: 600px;
+      margin: 4rem auto;
+      padding: 2rem;
+      text-align: center;
+    }
+    .verify-box {
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      padding: 2.5rem;
+      box-shadow: 0 4px 20px rgba(0,0,0,.08);
+    }
+    .verify-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    .verify-title {
+      font-family: var(--font-heading);
+      font-size: 1.5rem;
+      margin-bottom: .5rem;
+    }
+    .verify-subtitle {
+      color: var(--text-muted);
+      font-size: .95rem;
+      margin-bottom: 1.5rem;
+    }
+    .verify-btn {
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      padding: .8rem 2rem;
+      border-radius: 6px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity .2s;
+    }
+    .verify-btn:hover { opacity: .9; }
+    .verify-btn:disabled { opacity: .5; cursor: not-allowed; }
+    .verify-success {
+      display: none;
+      background: #d4edda;
+      border: 1px solid #c3e6cb;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-top: 1rem;
+    }
+    .verify-error {
+      display: none;
+      background: #f8d7da;
+      border: 1px solid #f5c6cb;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-top: 1rem;
+    }
+    .verify-loading {
+      display: none;
+      color: var(--text-muted);
+      margin-top: 1rem;
+    }
+    .spinner {
+      border: 3px solid #f3f3f3;
+      border-top: 3px solid var(--primary);
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      animation: spin 1s linear infinite;
+      margin: 1rem auto;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-container header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-icon">📖</span>
+        <span class="logo-text">Wifioficial <span class="logo-accent">Biography</span></span>
+      </a>
+    </div>
+  </header>
+
+  <main class="verify-container">
+    <div class="verify-box">
+      <div class="verify-icon" id="verifyIcon">🔐</div>
+      <h1 class="verify-title" id="verifyTitle">Verificar tu Identidad</h1>
+      <p class="verify-subtitle" id="verifySubtitle">
+        Haz clic en el botón de abajo para confirmar tu identidad y enviar tu solicitud de biografía.
+      </p>
+
+      <div id="verifyPending">
+        <button class="verify-btn" id="verifyBtn" onclick="verifyIdentity()">
+          Confirmar y Enviar Solicitud
+        </button>
+        <p style="font-size:.8rem;color:var(--text-muted);margin-top:1rem;">
+          Al verificar, tu solicitud será enviada a nuestro equipo editorial.
+        </p>
+      </div>
+
+      <div class="verify-loading" id="verifyLoading">
+        <div class="spinner"></div>
+        <p>Verificando y enviando tu solicitud...</p>
+      </div>
+
+      <div class="verify-success" id="verifySuccess">
+        <div class="verify-icon">✅</div>
+        <h2 style="color:#155724;margin:.5rem 0;">Verificación Exitosa</h2>
+        <p style="color:#155724;font-size:.95rem;">
+          Tu identidad ha sido verificada y tu solicitud de biografía ha sido enviada exitosamente a nuestro equipo editorial.
+        </p>
+        <p style="color:#155724;font-size:.85rem;margin-top:.5rem;">
+          Recibirás un correo electrónico cuando tu biografía sea publicada.
+        </p>
+        <a href="index.html" style="display:inline-block;margin-top:1rem;color:var(--primary);font-weight:600;">
+          ← Volver al inicio
+        </a>
+      </div>
+
+      <div class="verify-error" id="verifyError">
+        <div class="verify-icon">⚠️</div>
+        <h2 style="color:#721c24;margin:.5rem 0;" id="errorTitle">Error de Verificación</h2>
+        <p style="color:#721c24;font-size:.95rem;" id="errorMsg">
+          El enlace de verificación no es válido o ha expirado. Por favor, completa el formulario nuevamente.
+        </p>
+        <a href="index.html#submit" style="display:inline-block;margin-top:1rem;color:var(--primary);font-weight:600;">
+          ← Volver al formulario
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+  <script>
+    var EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+    var EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
+    var EMAILJS_SUBMIT_TEMPLATE = 'template_submit';
+    var DEST_EMAIL = atob('cHJlc2lkaWFyaW9jYXJuYWxAZ21haWwuY29t');
+
+    function getParam(name) {
+      var match = RegExp('[?&]' + name + '=([^&]*)').exec(location.search);
+      return match && decodeURIComponent(match[1]);
+    }
+
+    var token = getParam('token');
+    var pendingData = null;
+
+    function showEl(id, show) {
+      document.getElementById(id).style.display = show ? 'block' : 'none';
+    }
+
+    function showError(title, msg) {
+      document.getElementById('errorTitle').textContent = title;
+      document.getElementById('errorMsg').textContent = msg;
+      showEl('verifyPending', false);
+      showEl('verifyLoading', false);
+      showEl('verifyError', true);
+      document.getElementById('verifyIcon').textContent = '⚠️';
+      document.getElementById('verifyTitle').textContent = title;
+    }
+
+    if (!token) {
+      showError('Enlace No Válido', 'No se encontró un token de verificación en la URL.');
+    } else {
+      try {
+        var parsed = JSON.parse(atob(token));
+        var pending = JSON.parse(localStorage.getItem('bioPending') || '{}');
+        pendingData = pending[token];
+
+        if (!pendingData) {
+          showError('Enlace Expirado', 'Este enlace de verificación ya fue utilizado o ha expirado. Por favor, completa el formulario nuevamente.');
+        } else {
+          var age = Date.now() - parsed.t;
+          if (age > 24 * 60 * 60 * 1000) {
+            showError('Enlace Expirado', 'Este enlace de verificación ha expirado (válido por 24 horas). Por favor, completa el formulario nuevamente.');
+            pendingData = null;
+          }
+        }
+      } catch (e) {
+        showError('Token Inválido', 'El enlace de verificación contiene datos inválidos.');
+      }
+    }
+
+    function verifyIdentity() {
+      if (!pendingData) return;
+
+      showEl('verifyPending', false);
+      showEl('verifyLoading', true);
+
+      emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
+      var categoryMap = {
+        music: 'Música', acting: 'Cine y Televisión', sports: 'Deportes',
+        tech: 'Tecnología', business: 'Negocios', science: 'Ciencia',
+        literature: 'Literatura', politics: 'Política', social: 'Activismo Social',
+        digital: 'Creadores Digitales', gastronomy: 'Gastronomía', fashion: 'Moda y Estilo',
+        art: 'Arte y Diseño', education: 'Educación', health: 'Salud',
+        exploration: 'Exploración', other: 'Otro'
+      };
+
+      var templateParams = {
+        to_email: DEST_EMAIL,
+        submitter_name: pendingData.submitterName,
+        submitter_email: pendingData.submitterEmail,
+        bio_name: pendingData.bioName,
+        bio_profession: pendingData.bioProfession,
+        bio_category: categoryMap[pendingData.bioCategory] || pendingData.bioCategory,
+        bio_country: pendingData.bioCountry,
+        bio_reason: pendingData.bioReason,
+        bio_sources: pendingData.bioSources,
+        bio_photo: pendingData.bioPhoto || 'No proporcionada',
+        submission_date: new Date(pendingData.timestamp).toLocaleString('es-ES'),
+        verified: '✅ Verificado por correo electrónico'
+      };
+
+      emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_SUBMIT_TEMPLATE, templateParams)
+        .then(function () {
+          var pending = JSON.parse(localStorage.getItem('bioPending') || '{}');
+          delete pending[token];
+          localStorage.setItem('bioPending', JSON.stringify(pending));
+
+          var submissions = JSON.parse(localStorage.getItem('bioSubmissions') || '[]');
+          pendingData.verified = true;
+          submissions.push(pendingData);
+          localStorage.setItem('bioSubmissions', JSON.stringify(submissions));
+
+          showEl('verifyLoading', false);
+          showEl('verifySuccess', true);
+          document.getElementById('verifyIcon').textContent = '✅';
+          document.getElementById('verifyTitle').textContent = 'Verificación Exitosa';
+        })
+        .catch(function (err) {
+          console.error('Verification send error:', err);
+          showEl('verifyLoading', false);
+          showEl('verifyError', true);
+          document.getElementById('errorTitle').textContent = 'Error al Enviar';
+          document.getElementById('errorMsg').textContent = 'Ocurrió un error al enviar tu solicitud. Por favor, intenta de nuevo o contacta a soporte.';
+          document.getElementById('verifyIcon').textContent = '⚠️';
+          document.getElementById('verifyTitle').textContent = 'Error al Enviar';
+        });
+    }
+  </script>
+</body>
+</html>

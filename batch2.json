@@ -1,0 +1,3202 @@
+[
+  {
+    "name": "Lionel Messi",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 24, 1987",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Regarded as one of the greatest footballers of all time, Messi has won a record eight Ballon d'Or awards. He led Argentina to victory in the 2022 FIFA World Cup.",
+    "tags": [
+      "football",
+      "argentina",
+      "barcelona",
+      "inter-miami",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Luis Suárez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "January 24, 1987",
+    "birthPlace": "Salto, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "One of the most prolific strikers in modern football, Suárez is Uruguay's all-time leading scorer. He played for Ajax, Liverpool, Barcelona, and Atlético Madrid.",
+    "tags": [
+      "football",
+      "uruguay",
+      "barcelona",
+      "liverpool",
+      "striker"
+    ]
+  },
+  {
+    "name": "Ronaldinho Gaúcho",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "March 21, 1980",
+    "birthPlace": "Porto Alegre, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Known for his exceptional dribbling skills and creativity, Ronaldinho won two FIFA World Player of the Year awards. He helped Brazil win the 2002 World Cup.",
+    "tags": [
+      "football",
+      "brazil",
+      "barcelona",
+      "world-cup",
+      "ballon-dor"
+    ]
+  },
+  {
+    "name": "Ronaldo Nazário",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 18, 1976",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Known as O Fenômeno, Ronaldo is considered one of the greatest strikers ever. He won two World Cups with Brazil and three FIFA World Player of the Year awards.",
+    "tags": [
+      "football",
+      "brazil",
+      "real-madrid",
+      "inter-milan",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Zinedine Zidane",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 23, 1972",
+    "birthPlace": "Marseille, France",
+    "nationality": "French",
+    "excerpt": "One of the greatest midfielders in football history, Zidane won the 1998 World Cup and Euro 2000 with France. He later became a highly successful manager at Real Madrid.",
+    "tags": [
+      "football",
+      "france",
+      "real-madrid",
+      "juventus",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Paolo Maldini",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 26, 1968",
+    "birthPlace": "Milan, Italy",
+    "nationality": "Italian",
+    "excerpt": "A legendary defender who spent his entire career at AC Milan, Maldini won five Champions League titles. He is regarded as one of the greatest defenders ever.",
+    "tags": [
+      "football",
+      "italy",
+      "ac-milan",
+      "defender",
+      "champions-league"
+    ]
+  },
+  {
+    "name": "Thierry Henry",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "August 17, 1977",
+    "birthPlace": "Les Ulis, France",
+    "nationality": "French",
+    "excerpt": "Arsenal's all-time leading scorer, Henry is considered one of the greatest strikers in Premier League history. He won the 1998 World Cup with France.",
+    "tags": [
+      "football",
+      "france",
+      "arsenal",
+      "barcelona",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Zlatan Ibrahimovic",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "October 3, 1981",
+    "birthPlace": "Malmö, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "Known for his acrobatic goals and larger-than-life personality, Ibrahimovic played for Ajax, Juventus, Inter Milan, Barcelona, AC Milan, and LA Galaxy.",
+    "tags": [
+      "football",
+      "sweden",
+      "ac-milan",
+      "inter-milan",
+      "striker"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 2, 1975",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "One of the most famous footballers in history, Beckham is known for his exceptional free kicks and crossing ability. He played for Manchester United, Real Madrid, and LA Galaxy.",
+    "tags": [
+      "football",
+      "england",
+      "manchester-united",
+      "real-madrid",
+      "icon"
+    ]
+  },
+  {
+    "name": "Sergio Ramos",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "March 30, 1986",
+    "birthPlace": "Camas, Spain",
+    "nationality": "Spanish",
+    "excerpt": "One of the most decorated defenders in football history, Ramos won four Champions League titles with Real Madrid. He scored crucial goals in multiple finals.",
+    "tags": [
+      "football",
+      "spain",
+      "real-madrid",
+      "psg",
+      "defender"
+    ]
+  },
+  {
+    "name": "Iker Casillas",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 20, 1981",
+    "birthPlace": "Móstoles, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Considered one of the greatest goalkeepers ever, Casillas won the 2010 World Cup and two European Championships with Spain. He spent most of his career at Real Madrid.",
+    "tags": [
+      "football",
+      "spain",
+      "real-madrid",
+      "goalkeeper",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Xavi Hernández",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "January 25, 1980",
+    "birthPlace": "Terrassa, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Widely regarded as one of the greatest midfielders of all time, Xavi won the 2010 World Cup and two European Championships. He became head coach of FC Barcelona.",
+    "tags": [
+      "football",
+      "spain",
+      "barcelona",
+      "midfielder",
+      "manager"
+    ]
+  },
+  {
+    "name": "Andrés Iniesta",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 11, 1984",
+    "birthPlace": "Fuentealbilla, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Iniesta scored the winning goal in the 2010 World Cup final for Spain. He is celebrated for his elegant dribbling and vision as a midfielder at Barcelona.",
+    "tags": [
+      "football",
+      "spain",
+      "barcelona",
+      "world-cup",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Luka Modrić",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 9, 1985",
+    "birthPlace": "Zadar, Croatia",
+    "nationality": "Croatian",
+    "excerpt": "The 2018 Ballon d'Or winner, Modrić led Croatia to their first World Cup final. He has won multiple Champions League titles with Real Madrid.",
+    "tags": [
+      "football",
+      "croatia",
+      "real-madrid",
+      "ballon-dor",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Kylian Mbappé",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "December 20, 1998",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "One of the fastest and most exciting players in the world, Mbappé won the 2018 World Cup at age 19 and has been Ligue 1's top scorer multiple times.",
+    "tags": [
+      "football",
+      "france",
+      "psg",
+      "real-madrid",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Erling Haaland",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 21, 2000",
+    "birthPlace": "Leeds, England",
+    "nationality": "Norwegian",
+    "excerpt": "Haaland broke the Premier League single-season scoring record in his debut season with Manchester City. He is known for his incredible physicality and goal-scoring instinct.",
+    "tags": [
+      "football",
+      "norway",
+      "manchester-city",
+      "striker",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Mohamed Salah",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 15, 1992",
+    "birthPlace": "Nagrig, Egypt",
+    "nationality": "Egyptian",
+    "excerpt": "Salah has become Liverpool's all-time Premier League scorer and won the Champions League and Premier League. He is the first Egyptian to win the PFA Players' Player of the Year.",
+    "tags": [
+      "football",
+      "egypt",
+      "liverpool",
+      "premier-league",
+      "champions-league"
+    ]
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 28, 1991",
+    "birthPlace": "Drongen, Belgium",
+    "nationality": "Belgian",
+    "excerpt": "Considered one of the best midfielders in the world, De Bruyne has won multiple Premier League titles with Manchester City. He is known for his exceptional passing and vision.",
+    "tags": [
+      "football",
+      "belgium",
+      "manchester-city",
+      "midfielder",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "August 21, 1988",
+    "birthPlace": "Warsaw, Poland",
+    "nationality": "Polish",
+    "excerpt": "Lewandowski broke Gerd Müller's long-standing Bundesliga scoring record with 41 goals in a season. He joined Barcelona in 2022 after a legendary spell at Bayern Munich.",
+    "tags": [
+      "football",
+      "poland",
+      "bayern-munich",
+      "barcelona",
+      "striker"
+    ]
+  },
+  {
+    "name": "Harry Kane",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 28, 1993",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "England's all-time leading scorer, Kane won the Golden Boot at the 2018 World Cup. He moved to Bayern Munich in 2023 after becoming Tottenham's record scorer.",
+    "tags": [
+      "football",
+      "england",
+      "bayern-munich",
+      "tottenham",
+      "striker"
+    ]
+  },
+  {
+    "name": "Vinícius Júnior",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 12, 2000",
+    "birthPlace": "São Gonçalo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Vinícius scored the winning goal in the 2024 Champions League final for Real Madrid. He is known for his explosive speed and dribbling ability.",
+    "tags": [
+      "football",
+      "brazil",
+      "real-madrid",
+      "winger",
+      "champions-league"
+    ]
+  },
+  {
+    "name": "Rodri Hernández",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 22, 1996",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rodri won Euro 2024 with Spain and the Champions League with Manchester City. He was awarded the 2024 Ballon d'Or for his outstanding midfield performances.",
+    "tags": [
+      "football",
+      "spain",
+      "manchester-city",
+      "ballon-dor",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Jude Bellingham",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 29, 2003",
+    "birthPlace": "Stourbridge, England",
+    "nationality": "English",
+    "excerpt": "Bellingham became the youngest player to score in a Champions League semifinal and won La Liga in his first season at Real Madrid. He is English football's brightest young star.",
+    "tags": [
+      "football",
+      "england",
+      "real-madrid",
+      "young-star",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Phil Foden",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 28, 2000",
+    "birthPlace": "Stockport, England",
+    "nationality": "English",
+    "excerpt": "A product of Manchester City's academy, Foden has won multiple Premier League titles and the 2023 Champions League. He was named PFA Players' Player of the Year in 2024.",
+    "tags": [
+      "football",
+      "england",
+      "manchester-city",
+      "midfielder",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Bukayo Saka",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 5, 2001",
+    "birthPlace": "London, England",
+    "nationality": "English",
+    "excerpt": "Saka has been Arsenal's talisman, leading them to Premier League title challenges. He played a key role in England's Euro 2020 and 2024 campaigns.",
+    "tags": [
+      "football",
+      "england",
+      "arsenal",
+      "winger",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Florian Wirtz",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 3, 2003",
+    "birthPlace": "Pulheim, Germany",
+    "nationality": "German",
+    "excerpt": "Wirtz became the youngest scorer in Bundesliga history at 17 and led Bayer Leverkusen to their first-ever Bundesliga title in 2024.",
+    "tags": [
+      "football",
+      "germany",
+      "leverkusen",
+      "midfielder",
+      "young-star"
+    ]
+  },
+  {
+    "name": "Jackson Martínez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "October 3, 1986",
+    "birthPlace": "Quibdó, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Martínez was the top scorer in the Colombian league and Portuguese league before moving to Atlético Madrid. He scored 11 goals at the 2014 World Cup for Colombia.",
+    "tags": [
+      "football",
+      "colombia",
+      "atletico-madrid",
+      "striker",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Miguel Borja",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "January 26, 1993",
+    "birthPlace": "Puerto Boyacá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Borja is one of Colombia's top strikers, having played for Palmeiras, River Plate, and Junior. He has been a consistent goal scorer in South American football.",
+    "tags": [
+      "football",
+      "colombia",
+      "striker",
+      "palmeiras",
+      "river-plate"
+    ]
+  },
+  {
+    "name": "Roger Martínez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 23, 1994",
+    "birthPlace": "Cartagena, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A versatile forward, Martínez has played for Racing Club, Villarreal, and América in Mexico. He has been a regular for the Colombian national team.",
+    "tags": [
+      "football",
+      "colombia",
+      "forward",
+      "america-mexico",
+      "racing"
+    ]
+  },
+  {
+    "name": "Duván Zapata",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "April 1, 1991",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Zapata has been a prolific striker for Napoli, Atalanta, and Torino in Serie A. His powerful finishing and aerial ability make him one of Colombia's top forwards.",
+    "tags": [
+      "football",
+      "colombia",
+      "striker",
+      "serie-a",
+      "atalanta"
+    ]
+  },
+  {
+    "name": "Carlos Bacca",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 1, 1986",
+    "birthPlace": "Puerto Boyacá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Bacca won the Europa League with Sevilla and later played for AC Milan. He scored two goals in the 2015 Copa América for Colombia.",
+    "tags": [
+      "football",
+      "colombia",
+      "striker",
+      "sevilla",
+      "ac-milan"
+    ]
+  },
+  {
+    "name": "Mateus Uribe",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "March 21, 1991",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A dynamic midfielder, Uribe played for Club América in Mexico and Porto. He has been a key figure in Colombia's midfield in recent years.",
+    "tags": [
+      "football",
+      "colombia",
+      "midfielder",
+      "porto",
+      "america-mexico"
+    ]
+  },
+  {
+    "name": "Edwin Cardona",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "December 8, 1992",
+    "birthPlace": "Turbo, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "An attacking midfielder with excellent technical ability, Cardona has played for Boca Juniors, Monterrey, and Atlético Nacional. He has scored in Copa América tournaments.",
+    "tags": [
+      "football",
+      "colombia",
+      "midfielder",
+      "boca-juniors",
+      "atletico-nacional"
+    ]
+  },
+  {
+    "name": "William Tesillo",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "February 2, 1990",
+    "birthPlace": "Cúcuta, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A reliable central defender, Tesillo has been a regular starter for Colombia's national team and played for Club León in Mexico's Liga MX.",
+    "tags": [
+      "football",
+      "colombia",
+      "defender",
+      "liga-mx",
+      "national-team"
+    ]
+  },
+  {
+    "name": "Jhon Córdoba",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 11, 1993",
+    "birthPlace": "Istmina, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A powerful striker, Córdoba moved from Eintracht Frankfurt to Krasnodar and then to Hertha Berlin. He has been a regular goal scorer in European football.",
+    "tags": [
+      "football",
+      "colombia",
+      "striker",
+      "bundesliga",
+      "hertha-berlin"
+    ]
+  },
+  {
+    "name": "Jhon Arias",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 21, 1997",
+    "birthPlace": "Quibdó, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Arias has been one of the standout players for Fluminense, winning the 2023 Copa Libertadores. His versatility and pace make him a dangerous attacking player.",
+    "tags": [
+      "football",
+      "colombia",
+      "fluminense",
+      "copa-libertadores",
+      "winger"
+    ]
+  },
+  {
+    "name": "Santiago Arias",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "January 13, 1992",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Arias was a key defender for PSV Eindhoven, winning multiple Eredivisie titles before moving to Atlético Madrid. He has been a consistent presence in Colombia's defense.",
+    "tags": [
+      "football",
+      "colombia",
+      "defender",
+      "atletico-madrid",
+      "psv"
+    ]
+  },
+  {
+    "name": "Frank Fabra",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "February 7, 1991",
+    "birthPlace": "Turbo, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "An attacking left-back, Fabra won the Copa Libertadores with Boca Juniors and has been a regular for Colombia's national team with his overlapping runs.",
+    "tags": [
+      "football",
+      "colombia",
+      "defender",
+      "boca-juniors",
+      "left-back"
+    ]
+  },
+  {
+    "name": "Jeison Murillo",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 27, 1992",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Murillo won the Coppa Italia with Inter Milan and has played for Valencia and Barcelona. He was named the 2015 Copa América's best defender.",
+    "tags": [
+      "football",
+      "colombia",
+      "defender",
+      "inter-milan",
+      "copa-america"
+    ]
+  },
+  {
+    "name": "Davinson Sánchez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 12, 1996",
+    "birthPlace": "Caloto, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sánchez moved from Atlético Nacional to Ajax and then Tottenham, becoming a key central defender. He won the Copa Libertadores before his European career.",
+    "tags": [
+      "football",
+      "colombia",
+      "defender",
+      "tottenham",
+      "ajax"
+    ]
+  },
+  {
+    "name": "Guillermo Ochoa",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 13, 1985",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "One of Mexico's most iconic goalkeepers, Ochoa has played in five World Cups and is known for his spectacular saves. He earned the nickname 'Mural de Ochoa'.",
+    "tags": [
+      "football",
+      "mexico",
+      "goalkeeper",
+      "world-cup",
+      "liga-mx"
+    ]
+  },
+  {
+    "name": "Hugo Sánchez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 11, 1958",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Widely considered the greatest Mexican footballer ever, Sánchez won five La Liga titles with Real Madrid and four Pichichi trophies. He was inducted into the FIFA 100.",
+    "tags": [
+      "football",
+      "mexico",
+      "real-madrid",
+      "la-liga",
+      "legend"
+    ]
+  },
+  {
+    "name": "Raúl Jiménez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 5, 1991",
+    "birthPlace": "Toluca, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Jiménez became a fan favorite at Wolverhampton Wanderers with his goal-scoring exploits. He suffered a serious skull fracture in 2020 but made a remarkable comeback.",
+    "tags": [
+      "football",
+      "mexico",
+      "striker",
+      "wolverhampton",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Javier Hernández",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 1, 1988",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as Chicharito, he is Mexico's all-time leading scorer. He won titles with Manchester United and Real Madrid before playing for LA Galaxy.",
+    "tags": [
+      "football",
+      "mexico",
+      "striker",
+      "manchester-united",
+      "la-galaxy"
+    ]
+  },
+  {
+    "name": "Edson Álvarez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "October 24, 1997",
+    "birthPlace": "Tlalnepantla, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "A defensive midfielder known for his ball-winning ability, Álvarez moved from Ajax to West Ham and became a crucial player in the Premier League.",
+    "tags": [
+      "football",
+      "mexico",
+      "midfielder",
+      "west-ham",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Hirving Lozano",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 30, 1995",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as 'Chucky', Lozano scored the winning goal against Germany at the 2018 World Cup. He played for PSV and Napoli before joining San Diego FC.",
+    "tags": [
+      "football",
+      "mexico",
+      "winger",
+      "napoli",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Carlos Vela",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "March 1, 1989",
+    "birthPlace": "Cancún, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Vela was named MLS MVP in 2019 after a record-breaking season with LAFC. He previously played for Arsenal and Real Sociedad in Europe.",
+    "tags": [
+      "football",
+      "mexico",
+      "mls",
+      "la-fc",
+      "arsenal"
+    ]
+  },
+  {
+    "name": "Oribe Peralta",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "January 12, 1984",
+    "birthPlace": "Torreón, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Peralta scored the opening goal in the 2012 Olympic gold medal match for Mexico. He was the top scorer in Liga MX for multiple seasons with Santos Laguna.",
+    "tags": [
+      "football",
+      "mexico",
+      "striker",
+      "olympics",
+      "liga-mx"
+    ]
+  },
+  {
+    "name": "Alexis Sánchez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "December 12, 1988",
+    "birthPlace": "Tocopilla, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Chile's all-time leading scorer, Sánchez won two Copa América titles. He starred for Barcelona, Arsenal, and Inter Milan with his pace and technical skill.",
+    "tags": [
+      "football",
+      "chile",
+      "barcelona",
+      "arsenal",
+      "copa-america"
+    ]
+  },
+  {
+    "name": "Arturo Vidal",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 22, 1987",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Known as 'El Rey Arturo', Vidal won two Copa América titles with Chile and multiple league titles with Juventus and Bayern Munich. He is known for his aggressive midfield play.",
+    "tags": [
+      "football",
+      "chile",
+      "juventus",
+      "bayern-munich",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Eduardo Vargas",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "November 20, 1989",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Vargas scored the winning goal in the 2015 Copa América final for Chile. He has played for Napoli, QPR, and Atlético Mineiro in a versatile forward role.",
+    "tags": [
+      "football",
+      "chile",
+      "striker",
+      "copa-america",
+      "atletico-mineiro"
+    ]
+  },
+  {
+    "name": "Edinson Cavani",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "February 14, 1987",
+    "birthPlace": "Salto, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "One of the most lethal strikers of his generation, Cavani is PSG's all-time leading scorer. He played a key role in Uruguay's 2011 Copa América triumph.",
+    "tags": [
+      "football",
+      "uruguay",
+      "psg",
+      "napoli",
+      "striker"
+    ]
+  },
+  {
+    "name": "Diego Forlán",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 19, 1979",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Forlán won the Golden Ball at the 2010 World Cup and two European Golden Shoes. He starred for Manchester United, Villarreal, and Atlético Madrid.",
+    "tags": [
+      "football",
+      "uruguay",
+      "atletico-madrid",
+      "manchester-united",
+      "world-cup"
+    ]
+  },
+  {
+    "name": "Diego Godín",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "February 16, 1986",
+    "birthPlace": "Salto, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Considered one of the best defenders of his era, Godín captained Atlético Madrid to a La Liga title and led Uruguay's defense for over a decade.",
+    "tags": [
+      "football",
+      "uruguay",
+      "defender",
+      "atletico-madrid",
+      "captain"
+    ]
+  },
+  {
+    "name": "Federico Valverde",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 22, 1998",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "A dynamic midfielder for Real Madrid, Valverde has won multiple Champions League and La Liga titles. His energy and versatility make him indispensable for club and country.",
+    "tags": [
+      "football",
+      "uruguay",
+      "real-madrid",
+      "midfielder",
+      "champions-league"
+    ]
+  },
+  {
+    "name": "Darwin Núñez",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 24, 1999",
+    "birthPlace": "Artigas, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Núñez moved from Benfica to Liverpool for a British record fee. He is known for his explosive pace and clinical finishing as a central striker.",
+    "tags": [
+      "football",
+      "uruguay",
+      "liverpool",
+      "striker",
+      "premier-league"
+    ]
+  },
+  {
+    "name": "Ronald Araújo",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "March 7, 1999",
+    "birthPlace": "Rivera, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "A physically dominant center-back, Araújo has established himself as a key defender for Barcelona and the Uruguayan national team.",
+    "tags": [
+      "football",
+      "uruguay",
+      "defender",
+      "barcelona",
+      "la-liga"
+    ]
+  },
+  {
+    "name": "Keylor Navas",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "December 15, 1986",
+    "birthPlace": "San Isidro de El General, Costa Rica",
+    "nationality": "Costa Rican",
+    "excerpt": "Navas won three consecutive Champions League titles with Real Madrid. He is considered the greatest goalkeeper in Costa Rican football history.",
+    "tags": [
+      "football",
+      "costa-rica",
+      "goalkeeper",
+      "real-madrid",
+      "champions-league"
+    ]
+  },
+  {
+    "name": "Gabriel Batistuta",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "February 1, 1969",
+    "birthPlace": "Reconquista, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Known as 'Batigol', Batistuta is one of the greatest strikers in football history. He scored 54 goals in 78 appearances for Argentina and was a legend at Fiorentina and Roma.",
+    "tags": [
+      "football",
+      "argentina",
+      "fiorentina",
+      "roma",
+      "striker"
+    ]
+  },
+  {
+    "name": "Ángel Di María",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "February 14, 1988",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Di María scored the winning goal in the 2024 Copa América final for Argentina. He has won the Champions League with Real Madrid and titles across Europe's top leagues.",
+    "tags": [
+      "football",
+      "argentina",
+      "psg",
+      "real-madrid",
+      "copa-america"
+    ]
+  },
+  {
+    "name": "Sergio Agüero",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 2, 1988",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Agüero scored the most iconic goal in Premier League history to win the 2012 title for Manchester City. He is City's all-time leading scorer and Argentina's fourth-highest scorer.",
+    "tags": [
+      "football",
+      "argentina",
+      "manchester-city",
+      "premier-league",
+      "striker"
+    ]
+  },
+  {
+    "name": "Miguel Ángel López",
+    "category": "cyclist",
+    "profession": "Professional cyclist",
+    "born": "February 4, 1994",
+    "birthPlace": "Zipaquirá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Known as 'Superman', López won the Vuelta a Colombia and has been a consistent general classification contender in grand tours. He joined Movistar Team after a successful stint at Astana.",
+    "tags": [
+      "cycling",
+      "colombia",
+      "grand-tours",
+      "vuelta",
+      "astana"
+    ]
+  },
+  {
+    "name": "Esteban Chaves",
+    "category": "cyclist",
+    "profession": "Professional cyclist",
+    "born": "July 17, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Chaves became the first Colombian to win a stage in the Giro d'Italia. He finished second in the 2016 Giro and has been a consistent Grand Tour contender.",
+    "tags": [
+      "cycling",
+      "colombia",
+      "giro-d-italia",
+      "orica",
+      "general-classification"
+    ]
+  },
+  {
+    "name": "Richard Carapaz",
+    "category": "cyclist",
+    "profession": "Professional cyclist",
+    "born": "May 29, 1993",
+    "birthPlace": "Tulcán, Ecuador",
+    "nationality": "Ecuadorian",
+    "excerpt": "Carapaz won the 2019 Giro d'Italia, becoming the first Ecuadorian to win a Grand Tour. He also won an Olympic gold medal at the 2020 Tokyo Games.",
+    "tags": [
+      "cycling",
+      "ecuador",
+      "giro-d-italia",
+      "olympics",
+      "independence"
+    ]
+  },
+  {
+    "name": "Sergio Higuita",
+    "category": "cyclist",
+    "profession": "Professional cyclist",
+    "born": "August 1, 1997",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A talented climbing specialist, Higuita won the Tour of Flanders and has been a strong performer in WorldTour races. He joined BORA-Hansgrohe from EF Education.",
+    "tags": [
+      "cycling",
+      "colombia",
+      "classics",
+      "climber",
+      "worldtour"
+    ]
+  },
+  {
+    "name": "Daniel Felipe Martínez",
+    "category": "cyclist",
+    "profession": "Professional cyclist",
+    "born": "April 25, 1997",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Martínez won the Tour de Suisse and has been a strong stage race contender. He rode for Ineos Grenadiers before joining BORA-Hansgrohe.",
+    "tags": [
+      "cycling",
+      "colombia",
+      "tour-de-suisse",
+      "ineos",
+      "time-trial"
+    ]
+  },
+  {
+    "name": "Sergio Henao",
+    "category": "cyclist",
+    "profession": "Professional cyclist",
+    "born": "December 10, 1987",
+    "birthPlace": "Rionegro, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A key domestique and stage race rider, Henao helped Chris Froome win multiple Tour de France titles. He won the Tour of California and the Vuelta a Colombia.",
+    "tags": [
+      "cycling",
+      "colombia",
+      "team-sky",
+      "tour-de-france",
+      "climber"
+    ]
+  },
+  {
+    "name": "Julio César Chávez",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "February 12, 1962",
+    "birthPlace": "Ciudad Obregón, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Considered the greatest Mexican boxer of all time, Chávez held world titles in three weight divisions. He retired with an incredible 107-6 record.",
+    "tags": [
+      "boxing",
+      "mexico",
+      "world-champion",
+      "super-featherweight",
+      "legend"
+    ]
+  },
+  {
+    "name": "Érik Morales",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "January 1, 1976",
+    "birthPlace": "Tijuana, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as 'El Terrible', Morales won world titles in four weight divisions. He is famous for his epic trilogy of fights against Marco Antonio Barrera.",
+    "tags": [
+      "boxing",
+      "mexico",
+      "world-champion",
+      "barrera-rivalry",
+      "super-bantamweight"
+    ]
+  },
+  {
+    "name": "Marco Antonio Barrera",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "January 17, 1974",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Barrera won world titles in five weight divisions and is known for his fierce rivalry with Érik Morales. He was inducted into the International Boxing Hall of Fame.",
+    "tags": [
+      "boxing",
+      "mexico",
+      "world-champion",
+      "morales-rivalry",
+      "hall-of-fame"
+    ]
+  },
+  {
+    "name": "Juan Manuel Márquez",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "August 23, 1973",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Márquez is known for his four epic fights with Manny Pacquiao, winning the fourth by knockout. He won world titles in four weight divisions.",
+    "tags": [
+      "boxing",
+      "mexico",
+      "world-champion",
+      "pacquiao-rivalry",
+      "featherweight"
+    ]
+  },
+  {
+    "name": "Canelo Álvarez",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "July 18, 1990",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "The biggest star in boxing, Canelo has won world titles in four weight divisions. He is the undisputed super middleweight champion and a pay-per-view powerhouse.",
+    "tags": [
+      "boxing",
+      "mexico",
+      "world-champion",
+      "super-middleweight",
+      "undisputed"
+    ]
+  },
+  {
+    "name": "Juan Martín del Potro",
+    "category": "tennis",
+    "profession": "Professional tennis player",
+    "born": "September 23, 1988",
+    "birthPlace": "Tandil, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Del Potro won the 2009 US Open and an Olympic silver medal in 2012. Known for his powerful forehand, he inspired Argentina to a Davis Cup victory in 2016.",
+    "tags": [
+      "tennis",
+      "argentina",
+      "us-open",
+      "davis-cup",
+      "olympics"
+    ]
+  },
+  {
+    "name": "Gustavo Kuerten",
+    "category": "tennis",
+    "profession": "Professional tennis player",
+    "born": "September 10, 1976",
+    "birthPlace": "Florianópolis, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Known as 'Guga', Kuerten won three French Open titles and reached world number one. He became a national hero in Brazil and was beloved for his charismatic personality.",
+    "tags": [
+      "tennis",
+      "brazil",
+      "french-open",
+      "world-number-one",
+      "clay-court"
+    ]
+  },
+  {
+    "name": "Gabriela Sabatini",
+    "category": "tennis",
+    "profession": "Professional tennis player",
+    "born": "May 16, 1970",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Sabatini won the 1990 US Open and was ranked as high as world number three. She was one of the most popular athletes in Latin America during the 1990s.",
+    "tags": [
+      "tennis",
+      "argentina",
+      "us-open",
+      "wta",
+      "90s-tennis"
+    ]
+  },
+  {
+    "name": "Manu Ginóbili",
+    "category": "basketball",
+    "profession": "Professional basketball player",
+    "born": "July 28, 1977",
+    "birthPlace": "Bahía Blanca, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "A four-time NBA champion with the San Antonio Spurs, Ginóbili is considered the greatest Latin American basketball player ever. He also won Olympic gold in 2004.",
+    "tags": [
+      "basketball",
+      "argentina",
+      "nba",
+      "spurs",
+      "olympics"
+    ]
+  },
+  {
+    "name": "Luis Scola",
+    "category": "basketball",
+    "profession": "Professional basketball player",
+    "born": "April 30, 1980",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Scola had a 10-year NBA career and is Argentina's all-time leading scorer in international basketball. He won Olympic gold in 2004 alongside Ginóbili.",
+    "tags": [
+      "basketball",
+      "argentina",
+      "nba",
+      "rockets",
+      "olympics"
+    ]
+  },
+  {
+    "name": "Pau Gasol",
+    "category": "basketball",
+    "profession": "Professional basketball player",
+    "born": "July 6, 1980",
+    "birthPlace": "Barcelona, Spain",
+    "nationality": "Spanish",
+    "excerpt": "A two-time NBA champion with the Lakers, Gasol is considered one of the greatest European basketball players. He won EuroBasket MVP twice and an Olympic silver medal.",
+    "tags": [
+      "basketball",
+      "spain",
+      "nba",
+      "lakers",
+      "eurobasket"
+    ]
+  },
+  {
+    "name": "Ayrton Senna",
+    "category": "sports",
+    "profession": "Formula One driver",
+    "born": "March 21, 1960",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Widely regarded as the greatest Formula One driver ever, Senna won three World Championships. His tragic death at Imola in 1994 shocked the world and led to major safety reforms.",
+    "tags": [
+      "f1",
+      "brazil",
+      "formula-one",
+      "world-champion",
+      "legend"
+    ]
+  },
+  {
+    "name": "Emerson Fittipaldi",
+    "category": "sports",
+    "profession": "Formula One driver",
+    "born": "December 12, 1946",
+    "birthPlace": "São Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "A two-time Formula One World Champion, Fittipaldi was the youngest F1 champion at age 25. He later won the Indianapolis 500 and became a successful team owner.",
+    "tags": [
+      "f1",
+      "brazil",
+      "formula-one",
+      "world-champion",
+      "indycar"
+    ]
+  },
+  {
+    "name": "Juan Pablo Montoya",
+    "category": "sports",
+    "profession": "Formula One and racing driver",
+    "born": "September 20, 1975",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Montoya won seven Formula One races and two Monaco Grand Prix. He later competed in NASCAR and IndyCar, becoming one of the most versatile racing drivers in history.",
+    "tags": [
+      "f1",
+      "colombia",
+      "formula-one",
+      "nascar",
+      "indycar"
+    ]
+  },
+  {
+    "name": "Sergio Pérez",
+    "category": "sports",
+    "profession": "Formula One driver",
+    "born": "January 26, 1990",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as 'Checo', Pérez is Mexico's most successful F1 driver with multiple race victories. He finished runner-up in the World Championship in 2023 with Red Bull Racing.",
+    "tags": [
+      "f1",
+      "mexico",
+      "formula-one",
+      "red-bull",
+      "race-winner"
+    ]
+  },
+  {
+    "name": "Anderson Silva",
+    "category": "sports",
+    "profession": "MMA fighter",
+    "born": "April 14, 1975",
+    "birthPlace": "Curitiba, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Known as 'The Spider', Silva holds the record for the longest UFC middleweight championship reign at 2,457 days. He is widely considered one of the greatest MMA fighters ever.",
+    "tags": [
+      "mma",
+      "brazil",
+      "ufc",
+      "middleweight",
+      "champion"
+    ]
+  },
+  {
+    "name": "César Cielo",
+    "category": "sports",
+    "profession": "Competitive swimmer",
+    "born": "January 10, 1987",
+    "birthPlace": "Bauru, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Cielo won Olympic gold in the 50m freestyle at the 2008 Beijing Olympics. He held the world record in the 50m and 100m freestyle for several years.",
+    "tags": [
+      "swimming",
+      "brazil",
+      "olympics",
+      "freestyle",
+      "world-record"
+    ]
+  },
+  {
+    "name": "Mijaín López",
+    "category": "sports",
+    "profession": "Greco-Roman wrestler",
+    "born": "August 20, 1982",
+    "birthPlace": "Pinar del Río, Cuba",
+    "nationality": "Cuban",
+    "excerpt": "López made history by winning five consecutive Olympic gold medals in Greco-Roman wrestling from 2008 to 2024. He retired immediately after his final victory by placing his shoes on the mat.",
+    "tags": [
+      "wrestling",
+      "cuba",
+      "olympics",
+      "greco-roman",
+      "five-gold-medals"
+    ]
+  },
+  {
+    "name": "Claudia Poll",
+    "category": "sports",
+    "profession": "Competitive swimmer",
+    "born": "December 21, 1972",
+    "birthPlace": "Managua, Nicaragua",
+    "nationality": "Costa Rican",
+    "excerpt": "Poll won Costa Rica's only Olympic gold medal in swimming at the 2000 Sydney Olympics in the 200m freestyle. She was a trailblazer for Central American athletes.",
+    "tags": [
+      "swimming",
+      "costa-rica",
+      "olympics",
+      "freestyle",
+      "gold-medal"
+    ]
+  },
+  {
+    "name": "Marta Vieira da Silva",
+    "category": "sports",
+    "profession": "Professional footballer",
+    "born": "February 19, 1986",
+    "birthPlace": "Dois Riachos, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Known simply as Marta, she is widely considered the greatest female footballer ever. She holds the record for most World Cup goals with 17 and has won six FIFA Player of the Year awards.",
+    "tags": [
+      "football",
+      "brazil",
+      "womens-football",
+      "world-cup",
+      "legend"
+    ]
+  },
+  {
+    "name": "Oscar De La Hoya",
+    "category": "boxer",
+    "profession": "Professional boxer and promoter",
+    "born": "February 4, 1973",
+    "birthPlace": "East Los Angeles, United States",
+    "nationality": "American",
+    "excerpt": "The 'Golden Boy' won Olympic gold in 1992 and world titles in six weight divisions. He founded Golden Boy Promotions and became one of boxing's most influential figures.",
+    "tags": [
+      "boxing",
+      "usa",
+      "olympics",
+      "promoter",
+      "six-weight-champion"
+    ]
+  },
+  {
+    "name": "Lorena Ochoa",
+    "category": "sports",
+    "profession": "Professional golfer",
+    "born": "November 15, 1981",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Ochoa was the world's top-ranked female golfer from 2007 to 2010. She won 27 LPGA Tour events and was inducted into the World Golf Hall of Fame.",
+    "tags": [
+      "golf",
+      "mexico",
+      "lpga",
+      "world-number-one",
+      "hall-of-fame"
+    ]
+  },
+  {
+    "name": "Thiago Braz",
+    "category": "sports",
+    "profession": "Pole vaulter",
+    "born": "December 16, 1994",
+    "birthPlace": "Juiz de Fora, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Braz won Olympic gold at the 2016 Rio Games with a South American record of 6.03m. He also claimed bronze at the 2020 Tokyo Olympics.",
+    "tags": [
+      "athletics",
+      "brazil",
+      "pole-vault",
+      "olympics",
+      "gold-medal"
+    ]
+  },
+  {
+    "name": "Mónica Puig",
+    "category": "tennis",
+    "profession": "Professional tennis player",
+    "born": "September 27, 1993",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Puig made history by winning Puerto Rico's first-ever Olympic gold medal in any sport at the 2016 Rio Olympics. She reached a career-high ranking of world number 27.",
+    "tags": [
+      "tennis",
+      "puerto-rico",
+      "olympics",
+      "gold-medal",
+      "wta"
+    ]
+  },
+  {
+    "name": "Horacio Serpa",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "January 11, 1943",
+    "birthPlace": "Bucaramanga, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A veteran Colombian politician, Serpa served as Minister of the Interior, Governor of Santander, and was the Liberal Party's presidential candidate in 2006.",
+    "tags": [
+      "politics",
+      "colombia",
+      "liberal-party",
+      "bucaramanga",
+      "minister"
+    ]
+  },
+  {
+    "name": "Ingrid Betancourt",
+    "category": "politician",
+    "profession": "Politician and activist",
+    "born": "December 25, 1962",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A French-Colombian politician, Betancourt was kidnapped by FARC guerrillas in 2002 and held captive for six years. Her case became one of the most high-profile hostage situations in history.",
+    "tags": [
+      "politics",
+      "colombia",
+      "farc",
+      "hostage",
+      "activist"
+    ]
+  },
+  {
+    "name": "Clara López",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "February 14, 1946",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "López was the first female presidential candidate for the Polo Democrático party in Colombia. She served as Minister of Labor under President Santos.",
+    "tags": [
+      "politics",
+      "colombia",
+      "polo-democratico",
+      "labor-minister",
+      "feminist"
+    ]
+  },
+  {
+    "name": "Claudia López",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 28, 1970",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "López became the first woman and first openly LGBT person to serve as Mayor of Bogotá. She is known for her anti-corruption stance and academic background.",
+    "tags": [
+      "politics",
+      "colombia",
+      "bogota",
+      "mayor",
+      "anti-corruption"
+    ]
+  },
+  {
+    "name": "Alexandra Moreno Piraquive",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "January 17, 1964",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "A Colombian senator from the MIRA Party, Moreno has advocated for women's rights and education reform. She has been re-elected multiple times with significant voter support.",
+    "tags": [
+      "politics",
+      "colombia",
+      "senator",
+      "mira-party",
+      "womens-rights"
+    ]
+  },
+  {
+    "name": "Alfonso López Michelsen",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "June 30, 1913",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "López Michelsen served as President of Colombia from 1974 to 1978. The son of a former president, he was known for his progressive reforms and charismatic leadership.",
+    "tags": [
+      "politics",
+      "colombia",
+      "president",
+      "liberal-party",
+      "reform"
+    ]
+  },
+  {
+    "name": "Belisario Betancur",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "February 4, 1923",
+    "birthPlace": "Armenia, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "President of Colombia from 1982 to 1986, Betancur attempted peace negotiations with guerrilla groups. He was also a noted poet and writer.",
+    "tags": [
+      "politics",
+      "colombia",
+      "president",
+      "peace-process",
+      "writer"
+    ]
+  },
+  {
+    "name": "Virgilio Barco",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "September 17, 1921",
+    "birthPlace": "Cúcuta, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "President of Colombia from 1986 to 1990, Barco focused on modernizing the economy and combating the drug trafficking cartels that terrorized the country.",
+    "tags": [
+      "politics",
+      "colombia",
+      "president",
+      "modernization",
+      "anti-narcotics"
+    ]
+  },
+  {
+    "name": "Julio César Turbay",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 18, 1916",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "President of Colombia from 1978 to 1982, Turbay negotiated the Estatuto de Seguridad to combat guerrilla groups. He was a prominent figure in the Liberal Party.",
+    "tags": [
+      "politics",
+      "colombia",
+      "president",
+      "liberal-party",
+      "security"
+    ]
+  },
+  {
+    "name": "Cristina Fernández de Kirchner",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "February 19, 1953",
+    "birthPlace": "La Plata, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Cristina served as President of Argentina from 2007 to 2015 and as Vice President from 2019 to 2023. She is one of the most influential and controversial figures in Argentine politics.",
+    "tags": [
+      "politics",
+      "argentina",
+      "president",
+      "peronism",
+      "vice-president"
+    ]
+  },
+  {
+    "name": "Dilma Rousseff",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "December 14, 1947",
+    "birthPlace": "Belo Horizonte, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Rousseff was the first female President of Brazil, serving from 2011 until her controversial impeachment in 2016. She was previously Brazil's first female Chief of Staff.",
+    "tags": [
+      "politics",
+      "brazil",
+      "president",
+      "impeachment",
+      "first-female"
+    ]
+  },
+  {
+    "name": "Evo Morales",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "October 26, 1959",
+    "birthPlace": "Orinoca, Bolivia",
+    "nationality": "Bolivian",
+    "excerpt": "Morales became Bolivia's first indigenous president, serving from 2006 to 2019. He nationalized natural gas industries and implemented social programs for the poor.",
+    "tags": [
+      "politics",
+      "bolivia",
+      "president",
+      "indigenous",
+      "socialism"
+    ]
+  },
+  {
+    "name": "Daniel Ortega",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "November 11, 1945",
+    "birthPlace": "La Libertad, Nicaragua",
+    "nationality": "Nicaraguan",
+    "excerpt": "A former revolutionary leader, Ortega has served as President of Nicaragua for multiple terms. He led the Sandinista revolution in 1979 and remains a polarizing figure.",
+    "tags": [
+      "politics",
+      "nicaragua",
+      "president",
+      "sandinista",
+      "revolution"
+    ]
+  },
+  {
+    "name": "Nicolás Maduro",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "November 23, 1962",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Maduro succeeded Hugo Chávez as President of Venezuela in 2013. His presidency has been marked by economic crisis, political turmoil, and international sanctions.",
+    "tags": [
+      "politics",
+      "venezuela",
+      "president",
+      "chavismo",
+      "crisis"
+    ]
+  },
+  {
+    "name": "Andrés Manuel López Obrador",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "November 13, 1953",
+    "birthPlace": "Tepetitán, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as AMLO, he served as President of Mexico from 2018 to 2024. His 'Fourth Transformation' movement reshaped Mexican politics with populist social programs.",
+    "tags": [
+      "politics",
+      "mexico",
+      "president",
+      "populism",
+      "morena"
+    ]
+  },
+  {
+    "name": "Sebastián Piñera",
+    "category": "politician",
+    "profession": "Politician and businessman",
+    "born": "December 1, 1949",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Piñera served two terms as President of Chile (2010-2014, 2018-2022). He was Chile's wealthiest president and led the country through the 2010 earthquake and the 2019 social protests.",
+    "tags": [
+      "politics",
+      "chile",
+      "president",
+      "businessman",
+      "two-terms"
+    ]
+  },
+  {
+    "name": "Michelle Bachelet",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "September 29, 1951",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Chile's first female president (2006-2010, 2014-2018), Bachelet later served as UN High Commissioner for Human Rights. She was a victim of political persecution under Pinochet's dictatorship.",
+    "tags": [
+      "politics",
+      "chile",
+      "president",
+      "human-rights",
+      "first-female"
+    ]
+  },
+  {
+    "name": "Lula da Silva",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "October 27, 1945",
+    "birthPlace": "Caetés, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "A former metalworker and union leader, Lula served as President of Brazil from 2003 to 2010 and returned for a third term in 2023. He lifted millions from poverty during his first presidency.",
+    "tags": [
+      "politics",
+      "brazil",
+      "president",
+      "labor",
+      "social-programs"
+    ]
+  },
+  {
+    "name": "Jair Bolsonaro",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 21, 1955",
+    "birthPlace": "Glicério, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "A far-right former military officer, Bolsonaro served as President of Brazil from 2019 to 2022. His presidency was controversial for its stance on the Amazon rainforest and COVID-19.",
+    "tags": [
+      "politics",
+      "brazil",
+      "president",
+      "far-right",
+      "amazon"
+    ]
+  },
+  {
+    "name": "Fernando Henrique Cardoso",
+    "category": "politician",
+    "profession": "Politician and sociologist",
+    "born": "June 18, 1931",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "FHC served as President of Brazil from 1995 to 2003, implementing the Plano Real that stabilized Brazil's economy. He was a prominent sociologist before entering politics.",
+    "tags": [
+      "politics",
+      "brazil",
+      "president",
+      "economic-reform",
+      "sociologist"
+    ]
+  },
+  {
+    "name": "Tabaré Vázquez",
+    "category": "politician",
+    "profession": "Politician and physician",
+    "born": "January 17, 1949",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Vázquez served two terms as President of Uruguay (2005-2010, 2015-2020). He was the first left-wing president in Uruguayan history and implemented significant social reforms.",
+    "tags": [
+      "politics",
+      "uruguay",
+      "president",
+      "frente-amplio",
+      "physician"
+    ]
+  },
+  {
+    "name": "José Mujica",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "May 20, 1935",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Known as 'the world's poorest president', Mujica donated 90% of his salary to charity during his presidency (2010-2015). He was a former Tupamaros guerrilla fighter.",
+    "tags": [
+      "politics",
+      "uruguay",
+      "president",
+      "humility",
+      "guerrilla"
+    ]
+  },
+  {
+    "name": "Alberto Fernández",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "April 2, 1950",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Fernández served as President of Argentina from 2019 to 2023. He navigated the country through the COVID-19 pandemic and negotiated a major debt restructuring with the IMF.",
+    "tags": [
+      "politics",
+      "argentina",
+      "president",
+      "peronism",
+      "imf"
+    ]
+  },
+  {
+    "name": "Mauricio Macri",
+    "category": "politician",
+    "profession": "Politician and businessman",
+    "born": "February 8, 1959",
+    "birthPlace": "Tandil, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Macri served as President of Argentina from 2015 to 2019. He was the first non-Peronist to complete a full presidential term in decades and pursued market-oriented reforms.",
+    "tags": [
+      "politics",
+      "argentina",
+      "president",
+      "businessman",
+      "market-reform"
+    ]
+  },
+  {
+    "name": "Hugo Chávez",
+    "category": "politician",
+    "profession": "Politician and military officer",
+    "born": "July 28, 1954",
+    "birthPlace": "Sabaneta, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Chávez led a coup attempt in 1992 and was elected president in 1998. He established the 'Bolivarian Revolution' and used oil wealth to fund social programs until his death in 2013.",
+    "tags": [
+      "politics",
+      "venezuela",
+      "president",
+      "chavismo",
+      "bolivarian"
+    ]
+  },
+  {
+    "name": "Rafael Correa",
+    "category": "politician",
+    "profession": "Politician and economist",
+    "born": "April 6, 1963",
+    "birthPlace": "Guayaquil, Ecuador",
+    "nationality": "Ecuadorian",
+    "excerpt": "Correa served as President of Ecuador from 2007 to 2017. He transformed the economy using oil revenues and implemented the 'Citizens' Revolution' movement.",
+    "tags": [
+      "politics",
+      "ecuador",
+      "president",
+      "socialism",
+      "economist"
+    ]
+  },
+  {
+    "name": "Lenín Moreno",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 19, 1953",
+    "birthPlace": "New Rocafuerte, Ecuador",
+    "nationality": "Ecuadorian",
+    "excerpt": "Moreno served as President of Ecuador from 2017 to 2021. He was the UN Special Envoy on Disability and Accessibility before becoming president.",
+    "tags": [
+      "politics",
+      "ecuador",
+      "president",
+      "disability-rights",
+      "un"
+    ]
+  },
+  {
+    "name": "Pedro Castillo",
+    "category": "politician",
+    "profession": "Politician and teacher",
+    "born": "October 19, 1969",
+    "birthPlace": "Puquio, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "A former schoolteacher and union leader, Castillo served as President of Peru from 2021 to 2022. He was removed from office after attempting to dissolve Congress.",
+    "tags": [
+      "politics",
+      "peru",
+      "president",
+      "teacher",
+      "impeachment"
+    ]
+  },
+  {
+    "name": "Martín Vizcarra",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 22, 1963",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Vizcarra served as President of Peru from 2018 to 2020. He was removed by Congress through a controversial impeachment process during the COVID-19 pandemic.",
+    "tags": [
+      "politics",
+      "peru",
+      "president",
+      "impeachment",
+      "covid"
+    ]
+  },
+  {
+    "name": "Alan García",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "May 23, 1949",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "García served two terms as President of Peru (1985-1990, 2006-2011). His first term was marked by economic crisis, while his second term saw significant growth.",
+    "tags": [
+      "politics",
+      "peru",
+      "president",
+      "apr",
+      "two-terms"
+    ]
+  },
+  {
+    "name": "Ollanta Humala",
+    "category": "politician",
+    "profession": "Politician and military officer",
+    "born": "June 27, 1954",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Humala served as President of Peru from 2011 to 2016. A former military officer, he shifted from nationalist rhetoric to moderate economic policies during his presidency.",
+    "tags": [
+      "politics",
+      "peru",
+      "president",
+      "military",
+      "nationalist"
+    ]
+  },
+  {
+    "name": "Alejandro Giammattei",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 9, 1956",
+    "birthPlace": "Guatemala City, Guatemala",
+    "nationality": "Guatemalan",
+    "excerpt": "Giammattei served as President of Guatemala from 2020 to 2024. He ran on a tough-on-crime platform and implemented controversial security measures.",
+    "tags": [
+      "politics",
+      "guatemala",
+      "president",
+      "security",
+      "conservative"
+    ]
+  },
+  {
+    "name": "Juan Orlando Hernández",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "August 28, 1968",
+    "birthPlace": "Yoro, Honduras",
+    "nationality": "Honduran",
+    "excerpt": "Hernández served as President of Honduras from 2014 to 2022. He was extradited to the United States on drug trafficking charges in 2022.",
+    "tags": [
+      "politics",
+      "honduras",
+      "president",
+      "extradition",
+      "drug-trafficking"
+    ]
+  },
+  {
+    "name": "Nayib Bukele",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "March 24, 1981",
+    "birthPlace": "San Salvador, El Salvador",
+    "nationality": "Salvadoran",
+    "excerpt": "Bukele has served as President of El Salvador since 2019. He gained international attention for his crackdown on gangs and his embrace of Bitcoin as legal tender.",
+    "tags": [
+      "politics",
+      "el-salvador",
+      "president",
+      "bitcoin",
+      "gang-crackdown"
+    ]
+  },
+  {
+    "name": "Daniel Noboa",
+    "category": "politician",
+    "profession": "Politician and businessman",
+    "born": "June 30, 1987",
+    "birthPlace": "Guayaquil, Ecuador",
+    "nationality": "Ecuadorian",
+    "excerpt": "At 35, Noboa became Ecuador's youngest president in 2023. He has focused on addressing the country's security crisis and attracting foreign investment.",
+    "tags": [
+      "politics",
+      "ecuador",
+      "president",
+      "youngest",
+      "business"
+    ]
+  },
+  {
+    "name": "Bernardo Arévalo",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "October 7, 1958",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Guatemalan",
+    "excerpt": "Arévalo took office as President of Guatemala in January 2024 after a contentious election. He pledged to fight corruption and strengthen democratic institutions.",
+    "tags": [
+      "politics",
+      "guatemala",
+      "president",
+      "anti-corruption",
+      "democracy"
+    ]
+  },
+  {
+    "name": "Xiomara Castro",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "August 30, 1959",
+    "birthPlace": "Tegucigalpa, Honduras",
+    "nationality": "Honduran",
+    "excerpt": "Castro became Honduras' first female president in January 2022. She campaigned on social justice and human rights after her husband was ousted in a 2009 coup.",
+    "tags": [
+      "politics",
+      "honduras",
+      "president",
+      "first-female",
+      "social-justice"
+    ]
+  },
+  {
+    "name": "Luis Lacalle Pou",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "August 13, 1973",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Lacalle Pou has served as President of Uruguay since 2020. He implemented a controversial security law and pandemic-era economic reforms.",
+    "tags": [
+      "politics",
+      "uruguay",
+      "president",
+      "national-party",
+      "reform"
+    ]
+  },
+  {
+    "name": "Santiago Peña",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "November 16, 1978",
+    "birthPlace": "Asunción, Paraguay",
+    "nationality": "Paraguayan",
+    "excerpt": "Peña assumed office as President of Paraguay in August 2023. A former Central Bank director, he has focused on economic growth and strengthening ties with Taiwan.",
+    "tags": [
+      "politics",
+      "paraguay",
+      "president",
+      "colorado-party",
+      "economy"
+    ]
+  },
+  {
+    "name": "Mario Abdo Benítez",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "November 10, 1971",
+    "birthPlace": "Asunción, Paraguay",
+    "nationality": "Paraguayan",
+    "excerpt": "Abdo Benítez served as President of Paraguay from 2018 to 2023. His presidency was marked by the impeachment of his vice president and handling of COVID-19.",
+    "tags": [
+      "politics",
+      "paraguay",
+      "president",
+      "colorado-party",
+      "impeachment"
+    ]
+  },
+  {
+    "name": "Enrique Alfaro",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "February 21, 1974",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Alfaro has served as Governor of Jalisco since 2019. He is known for his pragmatic approach to governance and has been a prominent figure in the Movimiento Ciudadano party.",
+    "tags": [
+      "politics",
+      "mexico",
+      "governor",
+      "jalisco",
+      "movimiento-ciudadano"
+    ]
+  },
+  {
+    "name": "Claudia Sheinbaum",
+    "category": "politician",
+    "profession": "Politician and scientist",
+    "born": "June 24, 1962",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Sheinbaum became Mexico's first female president in October 2024. A former mayor of Mexico City and climate scientist, she is AMLO's political successor.",
+    "tags": [
+      "politics",
+      "mexico",
+      "president",
+      "first-female",
+      "morena"
+    ]
+  },
+  {
+    "name": "Marcelo Ebrard",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "October 8, 1958",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Ebrard served as Mexico's Secretary of Foreign Affairs from 2018 to 2023. He previously served as Head of Government of Mexico City and was a leading MORENA candidate.",
+    "tags": [
+      "politics",
+      "mexico",
+      "foreign-minister",
+      "morena",
+      "mexico-city"
+    ]
+  },
+  {
+    "name": "Ricardo Lagos",
+    "category": "politician",
+    "profession": "Politician and lawyer",
+    "born": "March 2, 1938",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Lagos served as President of Chile from 2000 to 2006. He was a key figure in the transition to democracy after Pinochet's dictatorship and oversaw significant economic growth.",
+    "tags": [
+      "politics",
+      "chile",
+      "president",
+      "democracy",
+      "socialist"
+    ]
+  },
+  {
+    "name": "Eduardo Frei",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "January 16, 1942",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Frei served as President of Chile from 1994 to 2000. He implemented market reforms while expanding social programs and continued Chile's democratic consolidation.",
+    "tags": [
+      "politics",
+      "chile",
+      "president",
+      "christian-democrat",
+      "reform"
+    ]
+  },
+  {
+    "name": "Carlos Menem",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "July 2, 1930",
+    "birthPlace": "Anillaco, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Menem served as President of Argentina from 1989 to 1999. His neoliberal reforms included the Convertibility Plan that pegged the peso to the US dollar.",
+    "tags": [
+      "politics",
+      "argentina",
+      "president",
+      "peronism",
+      "neoliberal"
+    ]
+  },
+  {
+    "name": "Fernando de la Rúa",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "September 15, 1937",
+    "birthPlace": "Córdoba, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "De la Rúa served as President of Argentina from 1999 until his resignation during the 2001 economic crisis. His presidency ended amid widespread social unrest.",
+    "tags": [
+      "politics",
+      "argentina",
+      "president",
+      "crisis",
+      "resignation"
+    ]
+  },
+  {
+    "name": "Isabel Perón",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "February 4, 1930",
+    "birthPlace": "La Rioja, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Isabel Perón became the world's first female president in 1974 after the death of her husband Juan Perón. Her presidency ended in a military coup in 1976.",
+    "tags": [
+      "politics",
+      "argentina",
+      "president",
+      "first-female",
+      "peronism"
+    ]
+  },
+  {
+    "name": "Mario Vargas Llosa",
+    "category": "writer",
+    "profession": "Writer and politician",
+    "born": "March 28, 1936",
+    "birthPlace": "Arequipa, Peru",
+    "nationality": "Peruvian-Spanish",
+    "excerpt": "Nobel Prize-winning author of 'The Time of the Hero' and 'The Feast of the Goat'. He ran for president of Peru in 1990 and is one of Latin America's most celebrated writers.",
+    "tags": [
+      "literature",
+      "nobel-prize",
+      "peru",
+      "politics",
+      "boom-generation"
+    ]
+  },
+  {
+    "name": "Porfirio Muñoz Ledo",
+    "category": "politician",
+    "profession": "Politician",
+    "born": "July 23, 1933",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "One of Mexico's most experienced politicians, Muñoz Ledo served as president of the Chamber of Deputies and as ambassador to the EU. He was a member of multiple political parties.",
+    "tags": [
+      "politics",
+      "mexico",
+      "congressman",
+      "diplomat",
+      "institutionalist"
+    ]
+  },
+  {
+    "name": "Julio Sánchez Cristo",
+    "category": "journalist",
+    "profession": "Journalist and radio host",
+    "born": "September 14, 1964",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "One of Colombia's most popular radio journalists, Sánchez Cristo hosts the morning show on W Radio. He is known for his sharp interviews and political commentary.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "radio",
+      "w-radio",
+      "morning-show"
+    ]
+  },
+  {
+    "name": "Diana Uribe",
+    "category": "journalist",
+    "profession": "Historian and storyteller",
+    "born": "January 1, 1969",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Uribe is a beloved Colombian historian and communicator who makes history accessible through storytelling. Her radio program 'Historias de la Historia' has educated millions.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "history",
+      "radio",
+      "storytelling"
+    ]
+  },
+  {
+    "name": "Mabel Lara",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "July 14, 1975",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Lara is a prominent Colombian television journalist and news presenter for RCN Televisión. She has covered major national events and received multiple journalism awards.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "television",
+      "rcn",
+      "news"
+    ]
+  },
+  {
+    "name": "Ana María Cañizares",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "November 18, 1969",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Cañizares is a respected Colombian print journalist who has worked for El Tiempo and Semana. She specializes in political and investigative reporting.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "print",
+      "el-tiempo",
+      "semana"
+    ]
+  },
+  {
+    "name": "Juan Carlos Tapias",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "September 2, 1976",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Tapias is a Colombian television journalist and news anchor for Caracol Television. He is known for his professional delivery and coverage of major national stories.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "television",
+      "caracol",
+      "news-anchor"
+    ]
+  },
+  {
+    "name": "Iván Lalinde",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "May 1, 1977",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Lalinde is a Colombian radio and television journalist known for hosting news programs on Blu Radio and other media outlets. He covers political and social issues.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "radio",
+      "blu-radio",
+      "news"
+    ]
+  },
+  {
+    "name": "Felipe Castilla",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "March 5, 1972",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Castilla is a Colombian journalist and political commentator who has worked in print, radio, and television. He provides analysis on Colombian political affairs.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "political-commentary",
+      "television",
+      "analysis"
+    ]
+  },
+  {
+    "name": "Jorge Alfredo Vargas",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "May 20, 1965",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Vargas is a veteran Colombian television journalist and news anchor for Noticias Caracol. He has been one of the most recognized faces of Colombian news for decades.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "caracol",
+      "television",
+      "news"
+    ]
+  },
+  {
+    "name": "María Elena Salinas",
+    "category": "journalist",
+    "profession": "Journalist and anchor",
+    "born": "August 12, 1954",
+    "birthPlace": "Los Angeles, United States",
+    "nationality": "American",
+    "excerpt": "Salinas was the co-anchor of Univision's nightly newscast for over 30 years, becoming the most recognized Latina journalist in the United States. She received a Lifetime Achievement Emmy.",
+    "tags": [
+      "journalism",
+      "usa",
+      "univision",
+      "latina",
+      "television"
+    ]
+  },
+  {
+    "name": "Fernando del Riego",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "September 13, 1965",
+    "birthPlace": "Bucaramanga, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Del Riego is a Colombian radio journalist and host known for his work on W Radio and other Caracol media properties. He presents news and cultural programming.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "radio",
+      "w-radio",
+      "culture"
+    ]
+  },
+  {
+    "name": "Clemencia Plazas",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "June 28, 1968",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Plazas is a Colombian television journalist and news presenter who has worked for RCN and other networks. She covers political and social issues with in-depth analysis.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "television",
+      "rcn",
+      "analysis"
+    ]
+  },
+  {
+    "name": "Claudia Palacios",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "June 21, 1973",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Palacios is a Colombian television journalist and news anchor for Noticias Caracol. She has won multiple journalism awards for her coverage of national affairs.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "caracol",
+      "television",
+      "news"
+    ]
+  },
+  {
+    "name": "Dasso Segovia",
+    "category": "journalist",
+    "profession": "Sports journalist",
+    "born": "May 12, 1964",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Segovia is one of Colombia's most respected sports journalists. He has covered multiple World Cups, Olympics, and major sporting events for decades.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "sports",
+      "world-cup",
+      "olympics"
+    ]
+  },
+  {
+    "name": "Patricia Janiot",
+    "category": "journalist",
+    "profession": "Journalist and anchor",
+    "born": "January 14, 1962",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Janiot is a Colombian-American journalist who has anchored news programs for Telemundo and NTN24. She has covered major Latin American events and breaking news.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "telemundo",
+      "ntn24",
+      "television"
+    ]
+  },
+  {
+    "name": "Roberto Pombo",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "September 28, 1962",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Pombo is a Colombian print journalist and former editor of El Tiempo, Colombia's largest newspaper. He has been influential in shaping Colombian public discourse.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "el-tiempo",
+      "print",
+      "editor"
+    ]
+  },
+  {
+    "name": "Iván Sarmiento",
+    "category": "journalist",
+    "profession": "Sports journalist",
+    "born": "October 10, 1968",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sarmiento is a Colombian sports journalist and television presenter known for his work on Gol Caracol. He covers football and other major sports events.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "sports",
+      "gol-caracol",
+      "football"
+    ]
+  },
+  {
+    "name": "Néstor Morales",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "August 15, 1965",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Morales is a Colombian television journalist and news anchor for Blu Colombia. He is known for his engaging interview style and political coverage.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "television",
+      "blu-colombia",
+      "interviews"
+    ]
+  },
+  {
+    "name": "Mónica Jaramillo",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "September 15, 1984",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Jaramillo is a Colombian television journalist and presenter for Noticias Caracol. She has covered major national events and earned recognition for her reporting.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "caracol",
+      "television",
+      "reporting"
+    ]
+  },
+  {
+    "name": "Jorge Ramos",
+    "category": "journalist",
+    "profession": "Journalist and author",
+    "born": "March 16, 1958",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as the 'Walter Cronkite of Latin America', Ramos has been the face of Univision News for over 30 years. He has interviewed every Mexican president since 1988.",
+    "tags": [
+      "journalism",
+      "mexico",
+      "univision",
+      "television",
+      "latino-news"
+    ]
+  },
+  {
+    "name": "Joaquín López-Dóriga",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "February 1, 1947",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "One of Mexico's most influential and controversial journalists, López-Dóriga hosts a nightly political commentary show on Televisa. He has covered Mexican politics for decades.",
+    "tags": [
+      "journalism",
+      "mexico",
+      "televisa",
+      "commentary",
+      "politics"
+    ]
+  },
+  {
+    "name": "Carlos Loret de Mola",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "September 27, 1972",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Loret de Mola is a prominent Mexican journalist who has worked for El Universal and Milenio. He is known for investigative reporting on organized crime and corruption.",
+    "tags": [
+      "journalism",
+      "mexico",
+      "milenario",
+      "investigative",
+      "crime"
+    ]
+  },
+  {
+    "name": "Silvia Correa",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "June 1, 1962",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Correa is a Colombian television journalist and news presenter for Caracol Television. She has been a trusted voice in Colombian journalism for decades.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "caracol",
+      "television",
+      "news"
+    ]
+  },
+  {
+    "name": "María Clara Turbay",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "November 15, 1976",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Turbay is a Colombian print journalist and columnist who has worked for El Tiempo. She covers cultural and social issues with incisive commentary.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "el-tiempo",
+      "column",
+      "culture"
+    ]
+  },
+  {
+    "name": "Daniel Samper",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "June 25, 1965",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Samper is a Colombian journalist, author, and television commentator known for his sharp political satire. He writes columns for El Espectador and appears on political talk shows.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "el-espectador",
+      "satire",
+      "television"
+    ]
+  },
+  {
+    "name": "Luis Carlos Vélez",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "December 28, 1966",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Vélez is a Colombian radio journalist known for his work on W Radio. He has covered political and social issues with a distinctive commentary style.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "radio",
+      "w-radio",
+      "commentary"
+    ]
+  },
+  {
+    "name": "Rafael Poveda",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "November 15, 1968",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Poveda is a Colombian radio journalist and host for Blu Radio. He presents news and cultural programming and has been part of Colombia's radio landscape for years.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "radio",
+      "blu-radio",
+      "culture"
+    ]
+  },
+  {
+    "name": "María José Barraza",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "March 8, 1981",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Barraza is a Colombian television journalist and presenter. She has worked for major Colombian networks covering news and current affairs.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "television",
+      "news",
+      "current-affairs"
+    ]
+  },
+  {
+    "name": "Constanza Viola",
+    "category": "journalist",
+    "profession": "Journalist",
+    "born": "January 20, 1974",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Viola is a Colombian journalist who has worked for Semana and other major publications. She specializes in investigative journalism and political reporting.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "semana",
+      "investigative",
+      "politics"
+    ]
+  },
+  {
+    "name": "María Luisa Nuñez",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "March 3, 1963",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Nuñez is a veteran Colombian television journalist who has anchored news programs for decades. She is known for her authoritative delivery of national and international news.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "television",
+      "news-anchor",
+      "veteran"
+    ]
+  },
+  {
+    "name": "Bernardo Cañón",
+    "category": "journalist",
+    "profession": "Sports journalist",
+    "born": "October 5, 1968",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Cañón is one of Colombia's most prominent sports journalists, known for his work on RCN Radio and as a commentator. He has covered numerous World Cups and Olympic Games.",
+    "tags": [
+      "journalism",
+      "colombia",
+      "sports",
+      "rcn-radio",
+      "commentary"
+    ]
+  },
+  {
+    "name": "Yuya",
+    "category": "influencer",
+    "profession": "YouTuber and influencer",
+    "born": "March 7, 1993",
+    "birthPlace": "Monterrey, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Yuya is one of the most followed Spanish-speaking YouTubers, with over 30 million subscribers. She creates lifestyle, beauty, and comedy content and has published bestselling books.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "lifestyle",
+      "beauty",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Kimberly Loaiza",
+    "category": "influencer",
+    "profession": "YouTuber and singer",
+    "born": "December 12, 1997",
+    "birthPlace": "Mexicali, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "With over 40 million YouTube subscribers, Loaiza is one of the biggest content creators in the Spanish-speaking world. She transitioned into music with successful reggaeton releases.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "music",
+      "reggaeton",
+      "content-creator"
+    ]
+  },
+  {
+    "name": "Domelipa",
+    "category": "influencer",
+    "profession": "Social media influencer",
+    "born": "May 18, 2000",
+    "birthPlace": "Monterrey, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Domelipa has amassed over 60 million followers across TikTok and Instagram. She is known for her dance videos and lifestyle content, making her one of Mexico's top influencers.",
+    "tags": [
+      "tiktok",
+      "mexico",
+      "dance",
+      "instagram",
+      "gen-z"
+    ]
+  },
+  {
+    "name": "Fernanfloo",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "July 31, 1993",
+    "birthPlace": "San Salvador, El Salvador",
+    "nationality": "Salvadoran",
+    "excerpt": "Fernanfloo is Central America's most popular YouTuber with over 45 million subscribers. He is known for his humorous gaming content and has expanded into animation and merchandise.",
+    "tags": [
+      "youtube",
+      "el-salvador",
+      "gaming",
+      "comedy",
+      "animation"
+    ]
+  },
+  {
+    "name": "Germán Garmendia",
+    "category": "influencer",
+    "profession": "YouTuber and singer",
+    "born": "August 26, 1990",
+    "birthPlace": "Rancagua, Chile",
+    "nationality": "Chilean",
+    "excerpt": "Known as 'Hola Soy Germán', he was the most subscribed Spanish-language YouTuber for years with over 45 million subscribers. He also released music albums and acted in films.",
+    "tags": [
+      "youtube",
+      "chile",
+      "comedy",
+      "music",
+      "vlogs"
+    ]
+  },
+  {
+    "name": "DrossRotzank",
+    "category": "influencer",
+    "profession": "YouTuber and author",
+    "born": "June 17, 1982",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Dross is the most popular horror and mystery content creator in Spanish with over 45 million subscribers. He has authored best-selling novels and is known for his dramatic storytelling style.",
+    "tags": [
+      "youtube",
+      "argentina",
+      "horror",
+      "mystery",
+      "books"
+    ]
+  },
+  {
+    "name": "Werevertumorro",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "December 15, 1980",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "One of Mexico's pioneer YouTubers, Werevertumorro built a massive following with comedy sketches and vlogs. He has over 20 million subscribers and has appeared in Mexican television.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "comedy",
+      "sketches",
+      "vlogs"
+    ]
+  },
+  {
+    "name": "Los Polinesios",
+    "category": "influencer",
+    "profession": "YouTubers and entertainers",
+    "born": "March 1, 1993",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Los Polinesios are a trio of Mexican siblings who create family-friendly comedy content. They have over 25 million subscribers and have released music and merchandise.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "comedy",
+      "family",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Fede Vigevani",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "May 15, 1998",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Vigevani is a popular Argentine YouTuber known for his challenges, experiments, and pranks. He has over 20 million subscribers and collaborates with major brands.",
+    "tags": [
+      "youtube",
+      "argentina",
+      "challenges",
+      "pranks",
+      "experiments"
+    ]
+  },
+  {
+    "name": "Badabun",
+    "category": "influencer",
+    "profession": "YouTubers and content creators",
+    "born": "January 10, 1995",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Badabun is a Mexican YouTube channel known for reaction videos, challenges, and entertainment content. It became one of the most subscribed channels in Latin America with over 40 million subscribers.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "reactions",
+      "challenges",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Jhonny Jiménez",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "April 5, 1997",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Known as Jota Esse, he is one of Colombia's most popular YouTubers with millions of subscribers. He creates vlogs, challenges, and lifestyle content aimed at young audiences.",
+    "tags": [
+      "youtube",
+      "colombia",
+      "vlogs",
+      "lifestyle",
+      "challenges"
+    ]
+  },
+  {
+    "name": "Juan Guarnizo",
+    "category": "influencer",
+    "profession": "Streamer and content creator",
+    "born": "December 12, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Guarnizo is one of Latin America's top gaming streamers and YouTubers. Known for his reaction content and video game streams, he has millions of followers across platforms.",
+    "tags": [
+      "streaming",
+      "colombia",
+      "gaming",
+      "youtube",
+      "twitch"
+    ]
+  },
+  {
+    "name": "Kimberly Shika",
+    "category": "influencer",
+    "profession": "YouTuber and influencer",
+    "born": "March 22, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Kim Shika is a Colombian beauty and lifestyle YouTuber with millions of subscribers. She is known for makeup tutorials, fashion hauls, and relatable personality.",
+    "tags": [
+      "youtube",
+      "colombia",
+      "beauty",
+      "fashion",
+      "makeup"
+    ]
+  },
+  {
+    "name": "Andy Zamora",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "June 14, 1996",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Zamora is a popular Colombian YouTuber who creates challenges, pranks, and lifestyle content. He has built a large following among young Latin American audiences.",
+    "tags": [
+      "youtube",
+      "colombia",
+      "challenges",
+      "pranks",
+      "lifestyle"
+    ]
+  },
+  {
+    "name": "Estefany Kampfer",
+    "category": "influencer",
+    "profession": "Influencer and content creator",
+    "born": "August 8, 1998",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Kampfer is a Colombian social media influencer known for her fitness content, lifestyle vlogs, and brand collaborations. She has a large following on Instagram and TikTok.",
+    "tags": [
+      "fitness",
+      "colombia",
+      "instagram",
+      "tiktok",
+      "lifestyle"
+    ]
+  },
+  {
+    "name": "La Divaza",
+    "category": "influencer",
+    "profession": "YouTuber and entertainer",
+    "born": "January 3, 1999",
+    "birthPlace": "Maracaibo, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "La Divaza is one of Venezuela's most famous YouTubers, known for comedy sketches and lifestyle content. Despite leaving Venezuela, they remain a cultural reference for Latin American youth.",
+    "tags": [
+      "youtube",
+      "venezuela",
+      "comedy",
+      "lgbtq",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Whinderssonnunes",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "January 5, 1995",
+    "birthPlace": "Marabá, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Whindersson is one of Brazil's biggest YouTubers with over 40 million subscribers. He creates comedy sketches, vlogs, and has expanded into music and film.",
+    "tags": [
+      "youtube",
+      "brazil",
+      "comedy",
+      "vlogs",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Felipe Neto",
+    "category": "influencer",
+    "profession": "YouTuber and entrepreneur",
+    "born": "January 21, 1988",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Neto has over 45 million YouTube subscribers, making him one of Brazil's most-watched content creators. He is known for reaction videos and has launched several business ventures.",
+    "tags": [
+      "youtube",
+      "brazil",
+      "reactions",
+      "entrepreneur",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Casimiro Miguel",
+    "category": "influencer",
+    "profession": "Streamer and content creator",
+    "born": "April 28, 1993",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Casimiro became Mexico's most-watched streamer, breaking records on Twitch and YouTube. He is known for his commentary on boxing, football, and pop culture.",
+    "tags": [
+      "streaming",
+      "mexico",
+      "boxing",
+      "twitch",
+      "commentary"
+    ]
+  },
+  {
+    "name": "Dolores Ceballos",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "May 5, 1995",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Known as 'Dolores Fuertes', she is a Mexican YouTuber famous for her comedy sketches and social commentary. She creates humorous content about Mexican culture and daily life.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "comedy",
+      "social-commentary",
+      "sketches"
+    ]
+  },
+  {
+    "name": "Fernanda Tapia",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "November 22, 1994",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Tapia is a Mexican YouTuber who creates lifestyle and entertainment content. She has built a following through vlogs, challenges, and collaborations with other creators.",
+    "tags": [
+      "youtube",
+      "mexico",
+      "lifestyle",
+      "vlogs",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Luis Fernando Flores",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "March 20, 1998",
+    "birthPlace": "San Salvador, El Salvador",
+    "nationality": "Salvadoran",
+    "excerpt": "Known as El Bananero, he is a Central American YouTuber famous for comedy and animation content. He creates humorous videos that parody popular culture.",
+    "tags": [
+      "youtube",
+      "el-salvador",
+      "comedy",
+      "animation",
+      "parody"
+    ]
+  },
+  {
+    "name": "Mariana Ro",
+    "category": "influencer",
+    "profession": "YouTuber and activist",
+    "born": "July 3, 1997",
+    "birthPlace": "Buenos Aires, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Ro is an Argentine YouTuber known for social justice content and LGBTQ+ advocacy. She has used her platform to discuss mental health, feminism, and inclusivity.",
+    "tags": [
+      "youtube",
+      "argentina",
+      "activism",
+      "lgbtq",
+      "mental-health"
+    ]
+  },
+  {
+    "name": "Natalia Velásquez",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "March 15, 2001",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Velásquez is a Colombian TikTok star known for her comedy sketches and viral dances. She has millions of followers and collaborates with major brands across Latin America.",
+    "tags": [
+      "tiktok",
+      "colombia",
+      "comedy",
+      "dance",
+      "viral"
+    ]
+  },
+  {
+    "name": "Sebastián Villanueva",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "September 3, 1996",
+    "birthPlace": "Lima, Peru",
+    "nationality": "Peruvian",
+    "excerpt": "Known as Seo, Villanueva is one of Peru's most popular YouTubers. He creates vlogs, challenges, and lifestyle content that resonates with young Latin American audiences.",
+    "tags": [
+      "youtube",
+      "peru",
+      "vlogs",
+      "lifestyle",
+      "challenges"
+    ]
+  },
+  {
+    "name": "La Liendre",
+    "category": "influencer",
+    "profession": "YouTuber and streamer",
+    "born": "December 1, 1997",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "La Liendre is a Colombian gaming YouTuber and streamer known for his Let's Play videos and gaming commentary. He is one of the top gaming creators in Latin America.",
+    "tags": [
+      "youtube",
+      "colombia",
+      "gaming",
+      "streaming",
+      "commentary"
+    ]
+  },
+  {
+    "name": "Felipe Zuleta",
+    "category": "influencer",
+    "profession": "Comedian and YouTuber",
+    "born": "April 12, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Zuleta is a Colombian comedian and content creator who gained fame through social media. He creates comedy sketches and has appeared on Colombian television shows.",
+    "tags": [
+      "comedy",
+      "colombia",
+      "youtube",
+      "television",
+      "sketches"
+    ]
+  },
+  {
+    "name": "Fernanda Macías",
+    "category": "influencer",
+    "profession": "Influencer and content creator",
+    "born": "February 28, 1999",
+    "birthPlace": "Monterrey, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Macías is a Mexican social media influencer known for her lifestyle content, fashion tips, and travel vlogs. She has a strong presence on Instagram and TikTok.",
+    "tags": [
+      "instagram",
+      "mexico",
+      "fashion",
+      "travel",
+      "lifestyle"
+    ]
+  },
+  {
+    "name": "Juan Pablo Jaramillo",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "June 6, 1998",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Jaramillo is a Colombian YouTuber who creates entertainment and lifestyle content. He is known for his challenges, collaborations, and engaging personality.",
+    "tags": [
+      "youtube",
+      "colombia",
+      "entertainment",
+      "challenges",
+      "collaboration"
+    ]
+  }
+]

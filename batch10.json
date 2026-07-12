@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "Jungkook",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "September 1, 1997",
+    "birthPlace": "Busan, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jungkook is a South Korean singer and member of BTS. He is known for his powerful vocals and solo hits like 'Seven' and '3D'.",
+    "tags": [
+      "BTS",
+      "K-pop",
+      "singer",
+      "dancer",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "RM",
+    "category": "singer",
+    "profession": "Rapper and songwriter",
+    "born": "September 12, 1994",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "RM is the leader of BTS and a rapper known for his introspective lyrics. He has released solo albums exploring themes of identity.",
+    "tags": [
+      "BTS",
+      "K-pop",
+      "rapper",
+      "leader",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "V",
+    "category": "singer",
+    "profession": "Singer and actor",
+    "born": "December 30, 1995",
+    "birthPlace": "Daegu, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "V is a vocalist of BTS known for his distinctive deep voice and charismatic stage presence.",
+    "tags": [
+      "BTS",
+      "K-pop",
+      "singer",
+      "actor",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Jimin",
+    "category": "singer",
+    "profession": "Singer and dancer",
+    "born": "October 13, 1995",
+    "birthPlace": "Busan, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jimin is a vocalist and main dancer of BTS, known for his expressive performances and powerful vocals.",
+    "tags": [
+      "BTS",
+      "K-pop",
+      "singer",
+      "dancer",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Suga",
+    "category": "singer",
+    "profession": "Rapper and producer",
+    "born": "March 9, 1993",
+    "birthPlace": "Daegu, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Suga is a rapper and producer of BTS who also releases solo music under the name Agust D.",
+    "tags": [
+      "BTS",
+      "K-pop",
+      "rapper",
+      "producer",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Jin",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "December 4, 1992",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jin is the oldest member of BTS and a vocalist known for his wide vocal range and humor.",
+    "tags": [
+      "BTS",
+      "K-pop",
+      "singer",
+      "songwriter",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Jisoo",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "January 3, 1995",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jisoo is a member of BLACKPINK and a Dior ambassador who has also ventured into acting.",
+    "tags": [
+      "BLACKPINK",
+      "K-pop",
+      "singer",
+      "actress",
+      "model"
+    ]
+  },
+  {
+    "name": "Jennie",
+    "category": "singer",
+    "profession": "Singer and fashion icon",
+    "born": "January 16, 1996",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Jennie is a member of BLACKPINK and a Chanel ambassador. Her solo single 'Solo' was a massive hit.",
+    "tags": [
+      "BLACKPINK",
+      "K-pop",
+      "singer",
+      "fashion",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Lisa",
+    "category": "singer",
+    "profession": "Singer and dancer",
+    "born": "March 27, 1997",
+    "birthPlace": "Buriram, Thailand",
+    "nationality": "Thai",
+    "excerpt": "Lisa is a member of BLACKPINK and the group's main dancer. Her solo debut 'LALISA' broke records.",
+    "tags": [
+      "BLACKPINK",
+      "K-pop",
+      "singer",
+      "dancer",
+      "Thai"
+    ]
+  },
+  {
+    "name": "Ros\u00e9",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 11, 1997",
+    "birthPlace": "Auckland, New Zealand",
+    "nationality": "New Zealander-Australian",
+    "excerpt": "Ros\u00e9 is a member of BLACKPINK known for her distinctive vocal tone. Her solo album 'rosie' received critical acclaim.",
+    "tags": [
+      "BLACKPINK",
+      "K-pop",
+      "singer",
+      "songwriter",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Chris Martin",
+    "category": "singer",
+    "profession": "Singer and musician",
+    "born": "March 2, 1977",
+    "birthPlace": "Exeter, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Chris Martin is the lead vocalist of Coldplay, one of the best-selling bands of all time.",
+    "tags": [
+      "Coldplay",
+      "rock",
+      "singer",
+      "pianist",
+      "British"
+    ]
+  },
+  {
+    "name": "Dan Reynolds",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "July 14, 1987",
+    "birthPlace": "Nevada City, United States",
+    "nationality": "American",
+    "excerpt": "Dan Reynolds is the lead singer of Imagine Dragons, known for anthemic hits like 'Radioactive' and 'Believer'.",
+    "tags": [
+      "Imagine Dragons",
+      "rock",
+      "singer",
+      "songwriter",
+      "activist"
+    ]
+  },
+  {
+    "name": "Brandon Flowers",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "June 21, 1981",
+    "birthPlace": "Henderson, United States",
+    "nationality": "American",
+    "excerpt": "Brandon Flowers is the lead vocalist of The Killers, known for 'Mr. Brightside' and 'Somebody Told Me'.",
+    "tags": [
+      "The Killers",
+      "rock",
+      "singer",
+      "songwriter",
+      "solo-artist"
+    ]
+  },
+  {
+    "name": "Alex Turner",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "January 6, 1986",
+    "birthPlace": "Sheffield, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Alex Turner is the lead singer of Arctic Monkeys, one of the most acclaimed rock bands of the 21st century.",
+    "tags": [
+      "Arctic Monkeys",
+      "rock",
+      "singer",
+      "songwriter",
+      "British"
+    ]
+  },
+  {
+    "name": "Noel Gallagher",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "May 29, 1967",
+    "birthPlace": "Manchester, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Noel Gallagher is the co-lead vocalist and primary songwriter of Oasis, one of the biggest Britpop bands.",
+    "tags": [
+      "Oasis",
+      "Britpop",
+      "singer",
+      "songwriter",
+      "guitarist"
+    ]
+  },
+  {
+    "name": "Thom Yorke",
+    "category": "singer",
+    "profession": "Singer and musician",
+    "born": "October 7, 1968",
+    "birthPlace": "Wellingborough, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Thom Yorke is the lead singer of Radiohead, widely regarded as one of the most innovative rock bands.",
+    "tags": [
+      "Radiohead",
+      "alternative",
+      "singer",
+      "electronic",
+      "innovator"
+    ]
+  },
+  {
+    "name": "James Hetfield",
+    "category": "singer",
+    "profession": "Singer and guitarist",
+    "born": "August 3, 1963",
+    "birthPlace": "Downey, United States",
+    "nationality": "American",
+    "excerpt": "James Hetfield is the co-founder and lead vocalist of Metallica, one of the best-selling music artists ever.",
+    "tags": [
+      "Metallica",
+      "metal",
+      "singer",
+      "guitarist",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Billie Joe Armstrong",
+    "category": "singer",
+    "profession": "Singer and guitarist",
+    "born": "February 17, 1972",
+    "birthPlace": "Oakland, United States",
+    "nationality": "American",
+    "excerpt": "Billie Joe Armstrong is the lead vocalist of Green Day, who helped popularize punk rock in the mainstream.",
+    "tags": [
+      "Green Day",
+      "punk-rock",
+      "singer",
+      "guitarist",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Dave Grohl",
+    "category": "singer",
+    "profession": "Singer and drummer",
+    "born": "January 14, 1969",
+    "birthPlace": "Warren, United States",
+    "nationality": "American",
+    "excerpt": "Dave Grohl is the founder of Foo Fighters and former drummer of Nirvana, one of rock's most respected figures.",
+    "tags": [
+      "Foo Fighters",
+      "Nirvana",
+      "rock",
+      "singer",
+      "drummer"
+    ]
+  },
+  {
+    "name": "Wizkid",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "July 16, 1990",
+    "birthPlace": "Lagos, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Wizkid is a Nigerian Afrobeats singer known for 'Essence' and his collaboration with Drake on 'One Dance'.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "singer",
+      "songwriter",
+      "global-star"
+    ]
+  },
+  {
+    "name": "Tems",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "June 11, 1995",
+    "birthPlace": "Lagos, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Tems is a Nigerian singer known for her powerful voice and Grammy-winning collaborations with Drake and Wizkid.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Bob Marley",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 6, 1945",
+    "birthPlace": "Nine Mile, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Bob Marley was a Jamaican singer-songwriter and the most iconic figure in reggae music.",
+    "tags": [
+      "reggae",
+      "Jamaican",
+      "legend",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Sean Paul",
+    "category": "singer",
+    "profession": "Singer and DJ",
+    "born": "January 9, 1973",
+    "birthPlace": "Kingston, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Sean Paul is a Jamaican dancehall artist known for 'Get Busy' and 'Temperature'.",
+    "tags": [
+      "dancehall",
+      "Jamaican",
+      "singer",
+      "DJ",
+      "global-hit"
+    ]
+  },
+  {
+    "name": "Luke Combs",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "March 2, 1990",
+    "birthPlace": "Charlotte, United States",
+    "nationality": "American",
+    "excerpt": "Luke Combs is an American country music singer known for hits like 'Fast Car' and 'Beautiful Crazy'.",
+    "tags": [
+      "country",
+      "American",
+      "singer",
+      "songwriter",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Morgan Wallen",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "May 13, 1993",
+    "birthPlace": "Sneedville, United States",
+    "nationality": "American",
+    "excerpt": "Morgan Wallen is one of the biggest streaming artists in any genre, with chart-topping country albums.",
+    "tags": [
+      "country",
+      "American",
+      "singer",
+      "songwriter",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Chris Stapleton",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "April 15, 1988",
+    "birthPlace": "Lexington, United States",
+    "nationality": "American",
+    "excerpt": "Chris Stapleton is an American country and blues singer known for his powerful voice and multiple Grammys.",
+    "tags": [
+      "country",
+      "blues",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Dua Lipa",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "August 22, 1995",
+    "birthPlace": "London, United Kingdom",
+    "nationality": "British-Albanian",
+    "excerpt": "Dua Lipa is a British-Albanian singer known for 'Levitating' and 'Don't Start Now'.",
+    "tags": [
+      "pop",
+      "British",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "The Weeknd",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 16, 1990",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "The Weeknd is a Canadian singer known for 'Blinding Lights' and 'Starboy', one of the best-selling artists ever.",
+    "tags": [
+      "R&B",
+      "Canadian",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Adele",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "May 5, 1988",
+    "birthPlace": "London, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Adele is a British singer-songwriter known for her powerful voice and albums '21', '25', and '30'.",
+    "tags": [
+      "pop",
+      "British",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Billie Eilish",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "December 18, 2001",
+    "birthPlace": "Los Angeles, United States",
+    "nationality": "American",
+    "excerpt": "Billie Eilish became the youngest person to win all four major Grammy categories in one night.",
+    "tags": [
+      "pop",
+      "alternative",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Post Malone",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "July 4, 1995",
+    "birthPlace": "Syracuse, United States",
+    "nationality": "American",
+    "excerpt": "Post Malone blends hip-hop, pop, and rock with hits like 'Rockstar' and 'Circles'.",
+    "tags": [
+      "hip-hop",
+      "pop",
+      "singer",
+      "rapper",
+      "genre-bending"
+    ]
+  },
+  {
+    "name": "Kendrick Lamar",
+    "category": "singer",
+    "profession": "Rapper and songwriter",
+    "born": "June 17, 1987",
+    "birthPlace": "Compton, United States",
+    "nationality": "American",
+    "excerpt": "Kendrick Lamar has won 17 Grammys and a Pulitzer Prize, widely regarded as one of the greatest rappers ever.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "Grammy",
+      "Pulitzer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "SZA",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "November 8, 1989",
+    "birthPlace": "St. Louis, United States",
+    "nationality": "American",
+    "excerpt": "SZA's album 'SOS' broke streaming records, solidifying her as one of contemporary music's most important voices.",
+    "tags": [
+      "R&B",
+      "singer",
+      "American",
+      "songwriter",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Rosal\u00eda",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "September 25, 1992",
+    "birthPlace": "Sant Esteve Sesrovires, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rosal\u00eda blends flamenco with contemporary pop, and her album 'Motomami' won a Grammy.",
+    "tags": [
+      "flamenco",
+      "pop",
+      "Spanish",
+      "singer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Rema",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "May 1, 2000",
+    "birthPlace": "Benin City, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Rema's hit 'Calm Down' became one of the most-streamed African songs ever.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "singer",
+      "rapper",
+      "viral"
+    ]
+  },
+  {
+    "name": "Tyla",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "January 30, 2002",
+    "birthPlace": "Edenvale, South Africa",
+    "nationality": "South African",
+    "excerpt": "Tyla's 'Water' became the most-streamed song by an African artist on Spotify.",
+    "tags": [
+      "Amapiano",
+      "South-African",
+      "singer",
+      "viral",
+      "breakout"
+    ]
+  },
+  {
+    "name": "Arijit Singh",
+    "category": "singer",
+    "profession": "Playback singer",
+    "born": "April 25, 1987",
+    "birthPlace": "Jiaganj, India",
+    "nationality": "Indian",
+    "excerpt": "Arijit Singh is India's most popular playback singer with a soulful voice across multiple languages.",
+    "tags": [
+      "Bollywood",
+      "Indian",
+      "singer",
+      "playback",
+      "soulful"
+    ]
+  },
+  {
+    "name": "PSY",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "December 31, 1977",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "PSY's 'Gangnam Style' was the first YouTube video to reach one billion views.",
+    "tags": [
+      "K-pop",
+      "South-Korean",
+      "singer",
+      "viral",
+      "Gangnam-Style"
+    ]
+  },
+  {
+    "name": "Ed Sheeran",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 17, 1991",
+    "birthPlace": "Halifax, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Ed Sheeran is one of the best-selling music artists of all time with hits like 'Shape of You'.",
+    "tags": [
+      "pop",
+      "British",
+      "singer",
+      "songwriter",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Snoop Dogg",
+    "category": "singer",
+    "profession": "Rapper and entrepreneur",
+    "born": "October 20, 1971",
+    "birthPlace": "Long Beach, United States",
+    "nationality": "American",
+    "excerpt": "Snoop Dogg is a cultural icon who has remained relevant across decades in hip-hop.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "American",
+      "entrepreneur",
+      "icon"
+    ]
+  },
+  {
+    "name": "Tyler, the Creator",
+    "category": "singer",
+    "profession": "Rapper and producer",
+    "born": "March 6, 1991",
+    "birthPlace": "Ladera Heights, United States",
+    "nationality": "American",
+    "excerpt": "Tyler, the Creator won Grammys for genre-bending albums 'Igor' and 'Call Me If You Get Lost'.",
+    "tags": [
+      "rap",
+      "alternative",
+      "American",
+      "producer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Olivia Rodrigo",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 20, 2003",
+    "birthPlace": "Temecula, United States",
+    "nationality": "American",
+    "excerpt": "Olivia Rodrigo burst onto the scene with 'drivers license' and her debut album 'SOUR'.",
+    "tags": [
+      "pop",
+      "rock",
+      "American",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Chappell Roan",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 19, 1998",
+    "birthPlace": "Willard, United States",
+    "nationality": "American",
+    "excerpt": "Chappell Roan is known for camp-pop hits like 'Good Luck, Babe!' and theatrical performances.",
+    "tags": [
+      "pop",
+      "camp",
+      "American",
+      "singer",
+      "breakout-star"
+    ]
+  },
+  {
+    "name": "Sabrina Carpenter",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "May 11, 1999",
+    "birthPlace": "Quakertown, United States",
+    "nationality": "American",
+    "excerpt": "Sabrina Carpenter transitioned from Disney star to pop sensation with hits like 'Espresso'.",
+    "tags": [
+      "pop",
+      "American",
+      "singer",
+      "actress",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Central Cee",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "June 4, 1998",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Central Cee is a British rapper known for UK drill hits like 'Doja' and 'Sprinter'.",
+    "tags": [
+      "rap",
+      "UK-drill",
+      "British",
+      "London",
+      "global-star"
+    ]
+  },
+  {
+    "name": "Dave",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "June 5, 1998",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Dave won the Mercury Prize for 'Psychodrama' and is known for introspective storytelling.",
+    "tags": [
+      "rap",
+      "UK",
+      "British",
+      "Mercury-Prize",
+      "storyteller"
+    ]
+  },
+  {
+    "name": "Stormzy",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "July 26, 1993",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "Stormzy headlined Glastonbury and is one of the UK's biggest music stars.",
+    "tags": [
+      "rap",
+      "grime",
+      "British",
+      "London",
+      "headliner"
+    ]
+  },
+  {
+    "name": "Asake",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "January 13, 1995",
+    "birthPlace": "Lagos, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Asake blends Afrobeats and Amapiano, breaking streaming records for African music.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "singer",
+      "Amapiano",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Ayra Starr",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "June 14, 2002",
+    "birthPlace": "Cotonou, Benin",
+    "nationality": "Nigerian",
+    "excerpt": "Ayra Starr's hit 'Rush' went viral globally as one of the most exciting new Afrobeats voices.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "singer",
+      "rising-star",
+      "viral"
+    ]
+  },
+  {
+    "name": "Timoth\u00e9e Chalamet",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "December 27, 1995",
+    "birthPlace": "New York City, United States",
+    "nationality": "American-French",
+    "excerpt": "Timoth\u00e9e Chalamet is known for 'Call Me by Your Name', 'Dune', and 'Wonka'.",
+    "tags": [
+      "actor",
+      "Hollywood",
+      "French",
+      "indie",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Florence Pugh",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "January 3, 1996",
+    "birthPlace": "Oxford, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Florence Pugh is known for 'Little Women', 'Midsommar', and 'Oppenheimer'.",
+    "tags": [
+      "actress",
+      "British",
+      "Hollywood",
+      "drama",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Austin Butler",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 17, 1991",
+    "birthPlace": "Anaheim, United States",
+    "nationality": "American",
+    "excerpt": "Austin Butler earned an Oscar nomination for portraying Elvis Presley in 'Elvis'.",
+    "tags": [
+      "actor",
+      "Hollywood",
+      "Elvis",
+      "biopic",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Anya Taylor-Joy",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 16, 1996",
+    "birthPlace": "Miami, United States",
+    "nationality": "American-British",
+    "excerpt": "Anya Taylor-Joy starred in 'The Queen's Gambit', 'Furiosa', and 'The Witch'.",
+    "tags": [
+      "actress",
+      "Hollywood",
+      "British",
+      "thriller",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Donnie Yen",
+    "category": "actor",
+    "profession": "Actor and martial artist",
+    "born": "July 27, 1963",
+    "birthPlace": "Guangzhou, China",
+    "nationality": "Hong Kong-Chinese",
+    "excerpt": "Donnie Yen is known for the 'Ip Man' series and is one of the most influential martial arts film stars.",
+    "tags": [
+      "martial-arts",
+      "Hong Kong",
+      "actor",
+      "Ip Man",
+      "action"
+    ]
+  },
+  {
+    "name": "Tony Leung",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 27, 1962",
+    "birthPlace": "Hong Kong",
+    "nationality": "Hong Kong-Chinese",
+    "excerpt": "Tony Leung is one of Asia's most acclaimed actors, known for Wong Kar-wai films like 'In the Mood for Love'.",
+    "tags": [
+      "Hong Kong",
+      "actor",
+      "Wong Kar-wai",
+      "drama",
+      "Asian-cinema"
+    ]
+  },
+  {
+    "name": "Song Kang-ho",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "January 17, 1967",
+    "birthPlace": "Gimhae, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Song Kang-ho starred in 'Parasite' and is one of the most internationally recognized Korean actors.",
+    "tags": [
+      "South Korean",
+      "actor",
+      "Parasite",
+      "Bong Joon-ho",
+      "Asian-cinema"
+    ]
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 2, 1965",
+    "birthPlace": "New Delhi, India",
+    "nationality": "Indian",
+    "excerpt": "Shah Rukh Khan is the 'King of Bollywood' with over 90 films and billions of fans worldwide.",
+    "tags": [
+      "Bollywood",
+      "Indian",
+      "actor",
+      "King-of-Bollywood",
+      "global-star"
+    ]
+  },
+  {
+    "name": "Priyanka Chopra",
+    "category": "actor",
+    "profession": "Actress and singer",
+    "born": "July 18, 1982",
+    "birthPlace": "Jamshedpur, India",
+    "nationality": "Indian",
+    "excerpt": "Priyanka Chopra is a former Miss World who became a global entertainment icon in Hollywood.",
+    "tags": [
+      "Bollywood",
+      "Hollywood",
+      "Indian",
+      "actress",
+      "global-star"
+    ]
+  },
+  {
+    "name": "Mads Mikkelsen",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 22, 1965",
+    "birthPlace": "Copenhagen, Denmark",
+    "nationality": "Danish",
+    "excerpt": "Mads Mikkelsen is known for 'Hannibal', 'Casino Royale', and 'Another Round'.",
+    "tags": [
+      "Danish",
+      "actor",
+      "European-cinema",
+      "Hollywood",
+      "villain-roles"
+    ]
+  },
+  {
+    "name": "Dev Patel",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "April 23, 1990",
+    "birthPlace": "Harrow, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Dev Patel starred in 'Slumdog Millionaire' and 'Lion', and made his directorial debut with 'The Monkey Man'.",
+    "tags": [
+      "British",
+      "Indian-descent",
+      "actor",
+      "directorial-debut",
+      "Hollywood"
+    ]
+  },
+  {
+    "name": "Bryan Cranston",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "March 7, 1956",
+    "birthPlace": "Canoga Park, United States",
+    "nationality": "American",
+    "excerpt": "Bryan Cranston is best known for Walter White in 'Breaking Bad', winning multiple Emmys.",
+    "tags": [
+      "actor",
+      "Breaking-Bad",
+      "American",
+      "Emmy",
+      "television"
+    ]
+  },
+  {
+    "name": "Ke Huy Quan",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "August 20, 1971",
+    "birthPlace": "Saigon, Vietnam",
+    "nationality": "American-Vietnamese",
+    "excerpt": "Ke Huy Quan won the Oscar for Best Supporting Actor for 'Everything Everywhere All at Once'.",
+    "tags": [
+      "actor",
+      "Oscar",
+      "Vietnamese",
+      "comeback",
+      "Everything-Everywhere"
+    ]
+  },
+  {
+    "name": "Michelle Yeoh",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 6, 1962",
+    "birthPlace": "Ipoh, Malaysia",
+    "nationality": "Malaysian",
+    "excerpt": "Michelle Yeoh won the Best Actress Oscar for 'Everything Everywhere All at Once'.",
+    "tags": [
+      "actress",
+      "Oscar",
+      "Malaysian",
+      "action",
+      "legend"
+    ]
+  },
+  {
+    "name": "Emma Stone",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 6, 1988",
+    "birthPlace": "Scottsdale, United States",
+    "nationality": "American",
+    "excerpt": "Emma Stone won Oscars for 'La La Land' and 'Poor Things'.",
+    "tags": [
+      "actress",
+      "Oscar",
+      "American",
+      "comedic",
+      "dramatic"
+    ]
+  },
+  {
+    "name": "Ryan Gosling",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "November 12, 1980",
+    "birthPlace": "London, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Ryan Gosling is known for 'The Notebook', 'La La Land', and 'Barbie'.",
+    "tags": [
+      "actor",
+      "Canadian",
+      "Hollywood",
+      "romance",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Keanu Reeves",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "September 2, 1964",
+    "birthPlace": "Beirut, Lebanon",
+    "nationality": "Canadian",
+    "excerpt": "Keanu Reeves is known for 'The Matrix' and 'John Wick', beloved for his kindness.",
+    "tags": [
+      "actor",
+      "Canadian",
+      "action",
+      "Matrix",
+      "John-Wick"
+    ]
+  },
+  {
+    "name": "Joaquin Phoenix",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "October 28, 1974",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "American",
+    "excerpt": "Joaquin Phoenix won the Best Actor Oscar for 'Joker'.",
+    "tags": [
+      "actor",
+      "Oscar",
+      "American",
+      "method-acting",
+      "Joker"
+    ]
+  },
+  {
+    "name": "Saoirse Ronan",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "April 12, 1994",
+    "birthPlace": "New York City, United States",
+    "nationality": "Irish-American",
+    "excerpt": "Saoirse Ronan has received multiple Oscar nominations for films like 'Brooklyn' and 'Lady Bird'.",
+    "tags": [
+      "actress",
+      "Irish",
+      "Oscar-nominee",
+      "versatile",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Sydney Sweeney",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "September 12, 1997",
+    "birthPlace": "Spokane, United States",
+    "nationality": "American",
+    "excerpt": "Sydney Sweeney is known for 'Euphoria' and 'The White Lotus'.",
+    "tags": [
+      "actress",
+      "American",
+      "Euphoria",
+      "rising-star",
+      "Hollywood"
+    ]
+  },
+  {
+    "name": "Jenna Ortega",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "September 27, 2002",
+    "birthPlace": "Coachella Valley, United States",
+    "nationality": "American",
+    "excerpt": "Jenna Ortega became a Gen Z star with her role in 'Wednesday'.",
+    "tags": [
+      "actress",
+      "American",
+      "Wednesday",
+      "rising-star",
+      "Gen-Z"
+    ]
+  },
+  {
+    "name": "Cate Blanchett",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "May 14, 1969",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "Australian",
+    "excerpt": "Cate Blanchett has won two Academy Awards for her versatile performances.",
+    "tags": [
+      "actress",
+      "Australian",
+      "Oscar",
+      "versatile",
+      "icon"
+    ]
+  },
+  {
+    "name": "Winona Ryder",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "October 29, 1971",
+    "birthPlace": "Winona, United States",
+    "nationality": "American",
+    "excerpt": "Winona Ryder experienced a major career resurgence with 'Stranger Things'.",
+    "tags": [
+      "actress",
+      "Stranger-Things",
+      "American",
+      "comeback",
+      "90s-icon"
+    ]
+  },
+  {
+    "name": "Meryl Streep",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "June 22, 1949",
+    "birthPlace": "Summit, United States",
+    "nationality": "American",
+    "excerpt": "Meryl Streep holds a record 21 Oscar nominations and three wins.",
+    "tags": [
+      "actress",
+      "Oscar",
+      "American",
+      "legend",
+      "icon"
+    ]
+  },
+  {
+    "name": "Kylian Mbapp\u00e9",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "December 20, 1998",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "Kylian Mbapp\u00e9 plays for Real Madrid and helped France win the 2018 World Cup.",
+    "tags": [
+      "football",
+      "Real-Madrid",
+      "French",
+      "World-Cup",
+      "striker"
+    ]
+  },
+  {
+    "name": "Mohamed Salah",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 15, 1992",
+    "birthPlace": "Nagrig, Egypt",
+    "nationality": "Egyptian",
+    "excerpt": "Mohamed Salah is the top African scorer in Premier League history.",
+    "tags": [
+      "football",
+      "Liverpool",
+      "Egyptian",
+      "Premier-League",
+      "striker"
+    ]
+  },
+  {
+    "name": "Erling Haaland",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 21, 2000",
+    "birthPlace": "Leeds, England",
+    "nationality": "Norwegian",
+    "excerpt": "Erling Haaland holds the record for most goals in a single Premier League season.",
+    "tags": [
+      "football",
+      "Manchester-City",
+      "Norwegian",
+      "Premier-League",
+      "striker"
+    ]
+  },
+  {
+    "name": "Luka Modri\u0107",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 9, 1985",
+    "birthPlace": "Zadar, Croatia",
+    "nationality": "Croatian",
+    "excerpt": "Luka Modri\u0107 won the 2018 Ballon d'Or and has been key to Real Madrid's Champions League dominance.",
+    "tags": [
+      "football",
+      "Real-Madrid",
+      "Croatian",
+      "Ballon-dOr",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Vinicius Junior",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 12, 2000",
+    "birthPlace": "S\u00e3o Gon\u00e7alo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Vinicius Junior scored the winning goal in the 2024 Champions League final.",
+    "tags": [
+      "football",
+      "Real-Madrid",
+      "Brazilian",
+      "Champions-League",
+      "winger"
+    ]
+  },
+  {
+    "name": "Bukayo Saka",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 5, 2001",
+    "birthPlace": "London, England",
+    "nationality": "British-Nigerian",
+    "excerpt": "Bukayo Saka was crucial in England's run to the Euro 2024 final.",
+    "tags": [
+      "football",
+      "Arsenal",
+      "English",
+      "Premier-League",
+      "winger"
+    ]
+  },
+  {
+    "name": "Jude Bellingham",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 29, 2003",
+    "birthPlace": "Birmingham, England",
+    "nationality": "English",
+    "excerpt": "Jude Bellingham won the Kopa Trophy and became a star at Real Madrid.",
+    "tags": [
+      "football",
+      "Real-Madrid",
+      "English",
+      "midfielder",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Sam Kerr",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 10, 1993",
+    "birthPlace": "Perth, Australia",
+    "nationality": "Australian",
+    "excerpt": "Sam Kerr is the all-time leading scorer for Chelsea and the Matildas.",
+    "tags": [
+      "football",
+      "Chelsea",
+      "Australian",
+      "WSL",
+      "striker"
+    ]
+  },
+  {
+    "name": "Ada Hegerberg",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 10, 1995",
+    "birthPlace": "Molde, Norway",
+    "nationality": "Norwegian",
+    "excerpt": "Ada Hegerberg was the first-ever Ballon d'Or F\u00e9minin winner.",
+    "tags": [
+      "football",
+      "Lyon",
+      "Norwegian",
+      "Ballon-dOr",
+      "striker"
+    ]
+  },
+  {
+    "name": "Gareth Bale",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 16, 1989",
+    "birthPlace": "Cardiff, Wales",
+    "nationality": "Welsh",
+    "excerpt": "Gareth Bale won five Champions League titles with Real Madrid and is Wales' all-time leading scorer.",
+    "tags": [
+      "football",
+      "Real-Madrid",
+      "Welsh",
+      "Champions-League",
+      "winger"
+    ]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "August 21, 1988",
+    "birthPlace": "Warsaw, Poland",
+    "nationality": "Polish",
+    "excerpt": "Robert Lewandowski holds the record for most goals in a single Bundesliga season.",
+    "tags": [
+      "football",
+      "Barcelona",
+      "Polish",
+      "striker",
+      "record-breaker"
+    ]
+  },
+  {
+    "name": "Pedri",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "November 25, 2002",
+    "birthPlace": "Bajamar, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Pedri won the Kopa Trophy and Golden Boy award as a Barcelona midfielder.",
+    "tags": [
+      "football",
+      "Barcelona",
+      "Spanish",
+      "midfielder",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Phil Foden",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 28, 2000",
+    "birthPlace": "Stockport, England",
+    "nationality": "English",
+    "excerpt": "Phil Foden has won multiple Premier League titles with Manchester City.",
+    "tags": [
+      "football",
+      "Manchester-City",
+      "English",
+      "Premier-League",
+      "midfielder"
+    ]
+  },
+  {
+    "name": "Florian Wirtz",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "May 3, 2003",
+    "birthPlace": "Pulheim, Germany",
+    "nationality": "German",
+    "excerpt": "Florian Wirtz became the youngest Bundesliga player at 16 and has dazzled at Leverkusen.",
+    "tags": [
+      "football",
+      "Leverkusen",
+      "German",
+      "Bundesliga",
+      "wonderkid"
+    ]
+  },
+  {
+    "name": "Federico Valverde",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "July 22, 1998",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Federico Valverde is a versatile midfielder key to Real Madrid's success.",
+    "tags": [
+      "football",
+      "Real-Madrid",
+      "Uruguayan",
+      "midfielder",
+      "versatile"
+    ]
+  },
+  {
+    "name": "Bruno Fernandes",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "September 8, 1994",
+    "birthPlace": "Nova Ponte, Brazil",
+    "nationality": "Portuguese",
+    "excerpt": "Bruno Fernandes has been Manchester United's Player of the Year multiple times.",
+    "tags": [
+      "football",
+      "Manchester-United",
+      "Portuguese",
+      "midfielder",
+      "captain"
+    ]
+  },
+  {
+    "name": "Aitana Bonmat\u00ed",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 18, 1998",
+    "birthPlace": "Sant Celoni, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Aitana Bonmat\u00ed won the 2023 Ballon d'Or F\u00e9minin and was key to Spain's World Cup win.",
+    "tags": [
+      "football",
+      "Barcelona",
+      "Spanish",
+      "Ballon-dOr",
+      "World-Cup"
+    ]
+  },
+  {
+    "name": "Viktor Gy\u00f6keres",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "June 4, 1998",
+    "birthPlace": "Stockholm, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "Viktor Gy\u00f6keres became one of Europe's most prolific strikers with Sporting CP.",
+    "tags": [
+      "football",
+      "Sporting",
+      "Swedish",
+      "striker",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Zlatan Ibrahimovi\u0107",
+    "category": "footballer",
+    "profession": "Professional footballer",
+    "born": "October 3, 1981",
+    "birthPlace": "Malm\u00f6, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "Zlatan Ibrahimovi\u0107 is known for incredible acrobatic goals and a larger-than-life personality.",
+    "tags": [
+      "football",
+      "Swedish",
+      "striker",
+      "personality",
+      "legend"
+    ]
+  },
+  {
+    "name": "Virat Kohli",
+    "category": "sports",
+    "profession": "Cricketer",
+    "born": "November 5, 1988",
+    "birthPlace": "Delhi, India",
+    "nationality": "Indian",
+    "excerpt": "Virat Kohli has scored over 25,000 international runs and is one of cricket's greatest batsmen.",
+    "tags": [
+      "cricket",
+      "Indian",
+      "batsman",
+      "champion",
+      "legend"
+    ]
+  },
+  {
+    "name": "Max Verstappen",
+    "category": "racing",
+    "profession": "Formula One driver",
+    "born": "September 30, 1997",
+    "birthPlace": "Hasselt, Belgium",
+    "nationality": "Dutch-Belgian",
+    "excerpt": "Max Verstappen holds the record for most wins in a single F1 season.",
+    "tags": [
+      "F1",
+      "Red-Bull",
+      "Dutch",
+      "champion",
+      "racing"
+    ]
+  },
+  {
+    "name": "Charles Leclerc",
+    "category": "racing",
+    "profession": "Formula One driver",
+    "born": "October 16, 1997",
+    "birthPlace": "Monte Carlo, Monaco",
+    "nationality": "Mon\u00e9gasque",
+    "excerpt": "Charles Leclerc is a Ferrari driver known for his raw speed and multiple Grand Prix wins.",
+    "tags": [
+      "F1",
+      "Ferrari",
+      "Mon\u00e9gasque",
+      "driver",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Lando Norris",
+    "category": "racing",
+    "profession": "Formula One driver",
+    "born": "November 13, 1999",
+    "birthPlace": "Bristol, United Kingdom",
+    "nationality": "British-Belgian",
+    "excerpt": "Lando Norris has become one of McLaren's most popular and consistent drivers.",
+    "tags": [
+      "F1",
+      "McLaren",
+      "British",
+      "driver",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Oscar Piastri",
+    "category": "racing",
+    "profession": "Formula One driver",
+    "born": "April 6, 2001",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "Australian",
+    "excerpt": "Oscar Piastri won the F2 championship before quickly establishing himself in F1 with McLaren.",
+    "tags": [
+      "F1",
+      "McLaren",
+      "Australian",
+      "driver",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Caeleb Dressel",
+    "category": "swimming",
+    "profession": "Competitive swimmer",
+    "born": "August 16, 1996",
+    "birthPlace": "Jacksonville, United States",
+    "nationality": "American",
+    "excerpt": "Caeleb Dressel has won seven Olympic gold medals in sprint freestyle and butterfly.",
+    "tags": [
+      "swimming",
+      "Olympic",
+      "American",
+      "gold-medalist",
+      "sprinter"
+    ]
+  },
+  {
+    "name": "Katie Ledecky",
+    "category": "swimming",
+    "profession": "Competitive swimmer",
+    "born": "March 17, 1997",
+    "birthPlace": "Washington, D.C., United States",
+    "nationality": "American",
+    "excerpt": "Katie Ledecky has won seven Olympic gold medals and holds world records in distance freestyle.",
+    "tags": [
+      "swimming",
+      "Olympic",
+      "American",
+      "gold-medalist",
+      "distance"
+    ]
+  },
+  {
+    "name": "Noah Lyles",
+    "category": "olympic",
+    "profession": "Track and field athlete",
+    "born": "July 18, 1997",
+    "birthPlace": "Gainesville, United States",
+    "nationality": "American",
+    "excerpt": "Noah Lyles won the 100m gold medal at the 2024 Paris Olympics.",
+    "tags": [
+      "track",
+      "sprinting",
+      "Olympic",
+      "American",
+      "champion"
+    ]
+  },
+  {
+    "name": "Sha'Carri Richardson",
+    "category": "olympic",
+    "profession": "Track and field athlete",
+    "born": "March 25, 2000",
+    "birthPlace": "Dallas, United States",
+    "nationality": "American",
+    "excerpt": "Sha'Carri Richardson won the 100m World Championship in 2023.",
+    "tags": [
+      "track",
+      "sprinting",
+      "Olympic",
+      "American",
+      "star"
+    ]
+  },
+  {
+    "name": "Khabib Nurmagomedov",
+    "category": "mma",
+    "profession": "Mixed martial artist",
+    "born": "September 20, 1988",
+    "birthPlace": "Sildi, Russia",
+    "nationality": "Russian",
+    "excerpt": "Khabib retired undefeated at 29-0 as UFC Lightweight Champion.",
+    "tags": [
+      "MMA",
+      "UFC",
+      "Russian",
+      "champion",
+      "undefeated"
+    ]
+  },
+  {
+    "name": "Jon Jones",
+    "category": "mma",
+    "profession": "Mixed martial artist",
+    "born": "July 19, 1987",
+    "birthPlace": "Rochester, United States",
+    "nationality": "American",
+    "excerpt": "Jon Jones is widely considered the greatest UFC fighter ever.",
+    "tags": [
+      "MMA",
+      "UFC",
+      "American",
+      "champion",
+      "GOAT"
+    ]
+  },
+  {
+    "name": "Islam Makhachev",
+    "category": "mma",
+    "profession": "Mixed martial artist",
+    "born": "October 27, 1991",
+    "birthPlace": "Makhachkala, Russia",
+    "nationality": "Russian",
+    "excerpt": "Islam Makhachev is the current UFC Lightweight Champion and training partner of Khabib.",
+    "tags": [
+      "MMA",
+      "UFC",
+      "Russian",
+      "champion",
+      "lightweight"
+    ]
+  },
+  {
+    "name": "Amanda Nunes",
+    "category": "mma",
+    "profession": "Mixed martial artist",
+    "born": "April 30, 1988",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Amanda Nunes is widely considered the greatest female UFC fighter ever.",
+    "tags": [
+      "MMA",
+      "UFC",
+      "Brazilian",
+      "champion",
+      "GOAT"
+    ]
+  },
+  {
+    "name": "Naomi Osaka",
+    "category": "tennis",
+    "profession": "Tennis player",
+    "born": "October 16, 1997",
+    "birthPlace": "Chuo, Japan",
+    "nationality": "Japanese-Haitian",
+    "excerpt": "Naomi Osaka has won four Grand Slam titles and is an advocate for social justice.",
+    "tags": [
+      "tennis",
+      "Grand-Slam",
+      "Japanese",
+      "champion",
+      "advocate"
+    ]
+  },
+  {
+    "name": "Coco Gauff",
+    "category": "tennis",
+    "profession": "Tennis player",
+    "born": "March 13, 2004",
+    "birthPlace": "Atlanta, United States",
+    "nationality": "American",
+    "excerpt": "Coco Gauff won the 2023 US Open at age 19.",
+    "tags": [
+      "tennis",
+      "Grand-Slam",
+      "American",
+      "rising-star",
+      "champion"
+    ]
+  },
+  {
+    "name": "Carlos Alcaraz",
+    "category": "tennis",
+    "profession": "Tennis player",
+    "born": "May 5, 2003",
+    "birthPlace": "El Palmar, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Carlos Alcaraz won the US Open at 19 and Wimbledon at 20, the youngest world No. 1.",
+    "tags": [
+      "tennis",
+      "Grand-Slam",
+      "Spanish",
+      "rising-star",
+      "No-1"
+    ]
+  },
+  {
+    "name": "Iga \u015awi\u0105tek",
+    "category": "tennis",
+    "profession": "Tennis player",
+    "born": "May 31, 2001",
+    "birthPlace": "Warsaw, Poland",
+    "nationality": "Polish",
+    "excerpt": "Iga \u015awi\u0105tek has won multiple Grand Slam titles and dominated WTA rankings.",
+    "tags": [
+      "tennis",
+      "Grand-Slam",
+      "Polish",
+      "champion",
+      "No-1"
+    ]
+  },
+  {
+    "name": "Victor Wembanyama",
+    "category": "basketball",
+    "profession": "Basketball player",
+    "born": "January 4, 2004",
+    "birthPlace": "Le Chesnay, France",
+    "nationality": "French",
+    "excerpt": "Victor Wembanyama is a 7'4\" unicorn with guard-like skills, the No. 1 pick in 2023.",
+    "tags": [
+      "NBA",
+      "basketball",
+      "French",
+      "rising-star",
+      "Spurs"
+    ]
+  },
+  {
+    "name": "Luka Don\u010di\u0107",
+    "category": "basketball",
+    "profession": "Basketball player",
+    "born": "February 28, 1999",
+    "birthPlace": "Ljubljana, Slovenia",
+    "nationality": "Slovenian",
+    "excerpt": "Luka Don\u010di\u0107 is one of the most versatile offensive players in the NBA.",
+    "tags": [
+      "NBA",
+      "basketball",
+      "Slovenian",
+      "All-Star",
+      "Lakers"
+    ]
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "category": "basketball",
+    "profession": "Basketball player",
+    "born": "December 6, 1994",
+    "birthPlace": "Athens, Greece",
+    "nationality": "Greek-Nigerian",
+    "excerpt": "Giannis won the 2021 NBA Championship and is a two-time MVP known as the 'Greek Freak'.",
+    "tags": [
+      "NBA",
+      "basketball",
+      "Greek",
+      "MVP",
+      "Bucks"
+    ]
+  },
+  {
+    "name": "Nikola Joki\u0107",
+    "category": "basketball",
+    "profession": "Basketball player",
+    "born": "February 19, 1995",
+    "birthPlace": "Sombor, Serbia",
+    "nationality": "Serbian",
+    "excerpt": "Nikola Joki\u0107 won three NBA MVP awards and led Denver to its first championship.",
+    "tags": [
+      "NBA",
+      "basketball",
+      "Serbian",
+      "MVP",
+      "champion"
+    ]
+  },
+  {
+    "name": "Kyrie Irving",
+    "category": "basketball",
+    "profession": "Basketball player",
+    "born": "March 23, 1992",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "American-Australian",
+    "excerpt": "Kyrie Irving hit the championship-winning shot in the 2016 NBA Finals.",
+    "tags": [
+      "NBA",
+      "basketball",
+      "American",
+      "All-Star",
+      "Mavericks"
+    ]
+  },
+  {
+    "name": "Kevin Durant",
+    "category": "basketball",
+    "profession": "Basketball player",
+    "born": "September 29, 1988",
+    "birthPlace": "Washington, D.C., United States",
+    "nationality": "American",
+    "excerpt": "Kevin Durant is a two-time NBA champion and four-time scoring champion.",
+    "tags": [
+      "NBA",
+      "basketball",
+      "American",
+      "champion",
+      "scorer"
+    ]
+  },
+  {
+    "name": "Shohei Ohtani",
+    "category": "baseball",
+    "profession": "Baseball player",
+    "born": "July 5, 1994",
+    "birthPlace": "Oshu, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Shohei Ohtani excels as both a pitcher and hitter, winning MVP awards.",
+    "tags": [
+      "MLB",
+      "baseball",
+      "Japanese",
+      "MVP",
+      "two-way"
+    ]
+  },
+  {
+    "name": "Juan Soto",
+    "category": "baseball",
+    "profession": "Baseball player",
+    "born": "October 25, 1998",
+    "birthPlace": "Santo Domingo, Dominican Republic",
+    "nationality": "Dominican",
+    "excerpt": "Juan Soto signed one of the largest contracts in sports history with the Mets.",
+    "tags": [
+      "MLB",
+      "baseball",
+      "Dominican",
+      "hitter",
+      "record-contract"
+    ]
+  },
+  {
+    "name": "Ronald Acu\u00f1a Jr.",
+    "category": "baseball",
+    "profession": "Baseball player",
+    "born": "June 18, 1997",
+    "birthPlace": "La Guaira, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Ronald Acu\u00f1a Jr. became the first player to record 40 HR and 70 stolen bases in a season.",
+    "tags": [
+      "MLB",
+      "baseball",
+      "Venezuelan",
+      "MVP",
+      "record-breaker"
+    ]
+  },
+  {
+    "name": "Greta Gerwig",
+    "category": "director",
+    "profession": "Director and screenwriter",
+    "born": "August 4, 1983",
+    "birthPlace": "Sacramento, United States",
+    "nationality": "American",
+    "excerpt": "Greta Gerwig became the highest-grossing female director with 'Barbie'.",
+    "tags": [
+      "director",
+      "filmmaker",
+      "Hollywood",
+      "feminist",
+      "box-office"
+    ]
+  },
+  {
+    "name": "Chlo\u00e9 Zhao",
+    "category": "director",
+    "profession": "Director and screenwriter",
+    "born": "March 31, 1982",
+    "birthPlace": "Beijing, China",
+    "nationality": "Chinese-American",
+    "excerpt": "Chlo\u00e9 Zhao won the Best Director Oscar for 'Nomadland'.",
+    "tags": [
+      "director",
+      "Oscar",
+      "Chinese",
+      "indie",
+      "Marvel"
+    ]
+  },
+  {
+    "name": "Bong Joon-ho",
+    "category": "director",
+    "profession": "Director and screenwriter",
+    "born": "September 14, 1969",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Bong Joon-ho's 'Parasite' won the Best Picture Oscar.",
+    "tags": [
+      "director",
+      "Oscar",
+      "South-Korean",
+      "Parasite",
+      "social-commentary"
+    ]
+  },
+  {
+    "name": "Jordan Peele",
+    "category": "director",
+    "profession": "Director and screenwriter",
+    "born": "February 21, 1979",
+    "birthPlace": "New York City, United States",
+    "nationality": "American",
+    "excerpt": "Jordan Peele redefined horror with 'Get Out' and 'Nope'.",
+    "tags": [
+      "director",
+      "horror",
+      "social-commentary",
+      "Oscar",
+      "innovator"
+    ]
+  },
+  {
+    "name": "Sam Altman",
+    "category": "tech",
+    "profession": "Technology entrepreneur",
+    "born": "April 22, 1985",
+    "birthPlace": "Chicago, United States",
+    "nationality": "American",
+    "excerpt": "Sam Altman is the CEO of OpenAI and a leading figure in the AI revolution.",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "tech",
+      "entrepreneur",
+      "influential"
+    ]
+  },
+  {
+    "name": "Satya Nadella",
+    "category": "tech",
+    "profession": "Technology executive",
+    "born": "August 19, 1967",
+    "birthPlace": "Hyderabad, India",
+    "nationality": "Indian-American",
+    "excerpt": "Satya Nadella transformed Microsoft into a cloud computing and AI leader.",
+    "tags": [
+      "Microsoft",
+      "tech",
+      "CEO",
+      "cloud",
+      "Indian"
+    ]
+  },
+  {
+    "name": "Sundar Pichai",
+    "category": "tech",
+    "profession": "Technology executive",
+    "born": "June 10, 1972",
+    "birthPlace": "Chennai, India",
+    "nationality": "Indian-American",
+    "excerpt": "Sundar Pichai leads Alphabet and Google through AI and cloud expansion.",
+    "tags": [
+      "Google",
+      "Alphabet",
+      "tech",
+      "CEO",
+      "Indian"
+    ]
+  },
+  {
+    "name": "Tim Cook",
+    "category": "tech",
+    "profession": "Technology executive",
+    "born": "November 1, 1960",
+    "birthPlace": "Mobile, United States",
+    "nationality": "American",
+    "excerpt": "Tim Cook has led Apple to become the world's most valuable company.",
+    "tags": [
+      "Apple",
+      "tech",
+      "CEO",
+      "business",
+      "leadership"
+    ]
+  },
+  {
+    "name": "Reese Witherspoon",
+    "category": "producer",
+    "profession": "Actress and producer",
+    "born": "March 22, 1976",
+    "birthPlace": "New Orleans, United States",
+    "nationality": "American",
+    "excerpt": "Reese Witherspoon founded Hello Sunshine, focusing on female-driven stories.",
+    "tags": [
+      "actress",
+      "producer",
+      "American",
+      "Hello-Sunshine",
+      "Oscar"
+    ]
+  },
+  {
+    "name": "Bella Hadid",
+    "category": "model",
+    "profession": "Supermodel",
+    "born": "October 9, 1996",
+    "birthPlace": "Washington, D.C., United States",
+    "nationality": "American-Palestinian",
+    "excerpt": "Bella Hadid has been on the cover of Vogue multiple times.",
+    "tags": [
+      "model",
+      "supermodel",
+      "Vogue",
+      "fashion",
+      "American"
+    ]
+  },
+  {
+    "name": "Gigi Hadid",
+    "category": "model",
+    "profession": "Supermodel",
+    "born": "April 23, 1995",
+    "birthPlace": "Los Angeles, United States",
+    "nationality": "American-Palestinian",
+    "excerpt": "Gigi Hadid has walked for major fashion houses and is a global style icon.",
+    "tags": [
+      "model",
+      "supermodel",
+      "fashion",
+      "American",
+      "icon"
+    ]
+  },
+  {
+    "name": "Trevor Noah",
+    "category": "comedian",
+    "profession": "Comedian and host",
+    "born": "February 20, 1984",
+    "birthPlace": "Johannesburg, South Africa",
+    "nationality": "South African",
+    "excerpt": "Trevor Noah hosted 'The Daily Show' and wrote the bestselling memoir 'Born a Crime'.",
+    "tags": [
+      "comedian",
+      "South-African",
+      "host",
+      "political-comedy",
+      "author"
+    ]
+  },
+  {
+    "name": "Kevin Hart",
+    "category": "comedian",
+    "profession": "Comedian and actor",
+    "born": "July 6, 1989",
+    "birthPlace": "Philadelphia, United States",
+    "nationality": "American",
+    "excerpt": "Kevin Hart is one of the highest-grossing comedians in the world.",
+    "tags": [
+      "comedian",
+      "actor",
+      "American",
+      "stand-up",
+      "box-office"
+    ]
+  },
+  {
+    "name": "Ali Wong",
+    "category": "comedian",
+    "profession": "Comedian and actress",
+    "born": "April 19, 1982",
+    "birthPlace": "San Francisco, United States",
+    "nationality": "American",
+    "excerpt": "Ali Wong is known for Netflix specials and starring in 'Beef'.",
+    "tags": [
+      "comedian",
+      "actress",
+      "American",
+      "Netflix",
+      "Asian-American"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "category": "sports",
+    "profession": "Former footballer and businessman",
+    "born": "May 2, 1975",
+    "birthPlace": "London, England",
+    "nationality": "British",
+    "excerpt": "David Beckham is one of the most recognized sports figures in the world.",
+    "tags": [
+      "football",
+      "British",
+      "businessman",
+      "fashion-icon",
+      "Inter-Miami"
+    ]
+  },
+  {
+    "name": "Simone Biles",
+    "category": "olympic",
+    "profession": "Artistic gymnast",
+    "born": "March 14, 1997",
+    "birthPlace": "Columbus, United States",
+    "nationality": "American",
+    "excerpt": "Simone Biles is the most decorated gymnast in history with 37 World and Olympic medals.",
+    "tags": [
+      "gymnastics",
+      "Olympic",
+      "American",
+      "champion",
+      "mental-health"
+    ]
+  },
+  {
+    "name": "Usain Bolt",
+    "category": "olympic",
+    "profession": "Track and field athlete",
+    "born": "August 21, 1986",
+    "birthPlace": "Trelawny, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Usain Bolt is the fastest human ever timed with eight Olympic gold medals.",
+    "tags": [
+      "sprinting",
+      "Olympic",
+      "Jamaican",
+      "world-record",
+      "legend"
+    ]
+  },
+  {
+    "name": "Oleksandr Usyk",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "January 17, 1987",
+    "birthPlace": "Simferopol, Ukraine",
+    "nationality": "Ukrainian",
+    "excerpt": "Oleksandr Usyk became the undisputed cruiserweight and then heavyweight champion.",
+    "tags": [
+      "boxing",
+      "Ukrainian",
+      "heavyweight",
+      "champion",
+      "undisputed"
+    ]
+  },
+  {
+    "name": "Floyd Mayweather",
+    "category": "boxer",
+    "profession": "Professional boxer",
+    "born": "February 24, 1977",
+    "birthPlace": "Grand Rapids, United States",
+    "nationality": "American",
+    "excerpt": "Floyd Mayweather retired with a perfect 50-0 record.",
+    "tags": [
+      "boxing",
+      "American",
+      "undefeated",
+      "champion",
+      "defense"
+    ]
+  },
+  {
+    "name": "Tua Tagovailoa",
+    "category": "sports",
+    "profession": "American football quarterback",
+    "born": "March 2, 1998",
+    "birthPlace": "Ewa Beach, United States",
+    "nationality": "American-Samoan",
+    "excerpt": "Tua Tagovailoa led Alabama to a national championship and is a top NFL quarterback.",
+    "tags": [
+      "NFL",
+      "football",
+      "American",
+      "quarterback",
+      "Dolphins"
+    ]
+  },
+  {
+    "name": "Justin Jefferson",
+    "category": "sports",
+    "profession": "American football wide receiver",
+    "born": "June 16, 1999",
+    "birthPlace": "St. Rose, United States",
+    "nationality": "American",
+    "excerpt": "Justin Jefferson holds the NFL record for most receiving yards in a player's first three seasons.",
+    "tags": [
+      "NFL",
+      "football",
+      "American",
+      "wide-receiver",
+      "record-breaker"
+    ]
+  },
+  {
+    "name": "Mark Wahlberg",
+    "category": "actor",
+    "profession": "Actor and producer",
+    "born": "June 5, 1971",
+    "birthPlace": "Boston, United States",
+    "nationality": "American",
+    "excerpt": "Mark Wahlberg transitioned from rapper to one of Hollywood's most successful actors.",
+    "tags": [
+      "actor",
+      "producer",
+      "American",
+      "action",
+      "drama"
+    ]
+  },
+  {
+    "name": "James Corden",
+    "category": "tv",
+    "profession": "Television host and actor",
+    "born": "August 22, 1978",
+    "birthPlace": "Hillingdon, United Kingdom",
+    "nationality": "British",
+    "excerpt": "James Corden is known for hosting 'The Late Late Show' and 'Carpool Karaoke'.",
+    "tags": [
+      "TV",
+      "host",
+      "British",
+      "Carpool-Karaoke",
+      "actor"
+    ]
+  },
+  {
+    "name": "Jimmy Fallon",
+    "category": "tv",
+    "profession": "Television host and comedian",
+    "born": "September 19, 1974",
+    "birthPlace": "Bayshore, United States",
+    "nationality": "American",
+    "excerpt": "Jimmy Fallon hosts 'The Tonight Show' with his playful interview style.",
+    "tags": [
+      "TV",
+      "host",
+      "comedian",
+      "American",
+      "Tonight-Show"
+    ]
+  },
+  {
+    "name": "Hannah Gadsby",
+    "category": "comedian",
+    "profession": "Comedian and writer",
+    "born": "January 12, 1985",
+    "birthPlace": "Smithton, Australia",
+    "nationality": "Australian",
+    "excerpt": "Hannah Gadsby's 'Nanette' challenged the conventions of stand-up comedy.",
+    "tags": [
+      "comedian",
+      "Australian",
+      "Netflix",
+      "LGBTQ",
+      "innovator"
+    ]
+  },
+  {
+    "name": "Ice Spice",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "January 1, 2000",
+    "birthPlace": "Bronx, United States",
+    "nationality": "American",
+    "excerpt": "Ice Spice rose to fame with viral drill hits and is a prominent new voice in rap.",
+    "tags": [
+      "rap",
+      "drill",
+      "American",
+      "viral",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Lizzo",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "April 27, 1988",
+    "birthPlace": "Detroit, United States",
+    "nationality": "American",
+    "excerpt": "Lizzo is a body positivity icon with Grammy-winning hits like 'Truth Hurts'.",
+    "tags": [
+      "pop",
+      "rap",
+      "American",
+      "singer",
+      "empowerment"
+    ]
+  },
+  {
+    "name": "Jack Harlow",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "March 13, 1998",
+    "birthPlace": "Louisville, United States",
+    "nationality": "American",
+    "excerpt": "Jack Harlow is known for 'What's Poppin' and 'First Class'.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "pop-rap",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "21 Savage",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "October 22, 1992",
+    "birthPlace": "London, England",
+    "nationality": "British-American",
+    "excerpt": "21 Savage won multiple Grammys for his dark trap sound.",
+    "tags": [
+      "rap",
+      "trap",
+      "American",
+      "Grammy",
+      "British"
+    ]
+  },
+  {
+    "name": "Metro Boomin",
+    "category": "singer",
+    "profession": "Record producer and DJ",
+    "born": "September 16, 1993",
+    "birthPlace": "St. Louis, United States",
+    "nationality": "American",
+    "excerpt": "Metro Boomin is one of hip-hop's most prolific producers with multiple number-one albums.",
+    "tags": [
+      "production",
+      "hip-hop",
+      "American",
+      "DJ",
+      "hits"
+    ]
+  },
+  {
+    "name": "Travis Scott",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "April 30, 1992",
+    "birthPlace": "Houston, United States",
+    "nationality": "American",
+    "excerpt": "Travis Scott is known for psychedelic rap and hits like 'Sicko Mode'.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "psychedelic",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "GloRilla",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "July 28, 1999",
+    "birthPlace": "Memphis, United States",
+    "nationality": "American",
+    "excerpt": "GloRilla is one of the most exciting new voices in rap with 'Tomorrow 2'.",
+    "tags": [
+      "rap",
+      "Southern",
+      "American",
+      "rising-star",
+      "hitmaker"
+    ]
+  },
+  {
+    "name": "Polo G",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "January 6, 1999",
+    "birthPlace": "Chicago, United States",
+    "nationality": "American",
+    "excerpt": "Polo G is known for melodic hits like 'Pop Out' and 'RAPSTAR'.",
+    "tags": [
+      "rap",
+      "melodic",
+      "American",
+      "Chicago",
+      "hitmaker"
+    ]
+  },
+  {
+    "name": "Baby Keem",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "October 22, 2000",
+    "birthPlace": "Las Vegas, United States",
+    "nationality": "American",
+    "excerpt": "Baby Keem won a Grammy for Best Rap Song for 'Family Ties'.",
+    "tags": [
+      "rap",
+      "experimental",
+      "American",
+      "Grammy",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "NLE Choppa",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "November 1, 2002",
+    "birthPlace": "Memphis, United States",
+    "nationality": "American",
+    "excerpt": "NLE Choppa burst onto the scene with 'Shotta Flow'.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "Memphis",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Lil Baby",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "December 3, 1994",
+    "birthPlace": "Atlanta, United States",
+    "nationality": "American",
+    "excerpt": "Lil Baby is one of the most commercially successful rappers in the world.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "trap",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Future",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "November 20, 1983",
+    "birthPlace": "Atlanta, United States",
+    "nationality": "American",
+    "excerpt": "Future has been one of the most influential figures in modern trap music.",
+    "tags": [
+      "rap",
+      "trap",
+      "American",
+      "hitmaker",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Lil Durk",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "October 19, 1992",
+    "birthPlace": "Chicago, United States",
+    "nationality": "American",
+    "excerpt": "Lil Durk has been a key figure in the drill music movement.",
+    "tags": [
+      "rap",
+      "drill",
+      "American",
+      "Chicago",
+      "hitmaker"
+    ]
+  },
+  {
+    "name": "Lil Uzi Vert",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "July 31, 1995",
+    "birthPlace": "Philadelphia, United States",
+    "nationality": "American",
+    "excerpt": "Lil Uzi Vert is influential in emo rap with hits like 'XO Tour Llif3'.",
+    "tags": [
+      "rap",
+      "emo-rap",
+      "American",
+      "alternative",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Kacey Musgraves",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "August 21, 1988",
+    "birthPlace": "Golden, United States",
+    "nationality": "American",
+    "excerpt": "Kacey Musgraves won Album of the Year for 'Golden Hour'.",
+    "tags": [
+      "country",
+      "American",
+      "singer",
+      "Grammy",
+      "progressive"
+    ]
+  },
+  {
+    "name": "Jelly Roll",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "December 4, 1984",
+    "birthPlace": "Antioch, United States",
+    "nationality": "American",
+    "excerpt": "Jelly Roll blends country, rock, and hip-hop with hits like 'Need a Favor'.",
+    "tags": [
+      "country",
+      "rock",
+      "American",
+      "singer",
+      "breakout"
+    ]
+  },
+  {
+    "name": "Zach Bryan",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "April 2, 1996",
+    "birthPlace": "Okinawa, Japan",
+    "nationality": "American",
+    "excerpt": "Zach Bryan's raw emotional songwriting topped the Billboard 200.",
+    "tags": [
+      "country",
+      "folk",
+      "American",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Garth Brooks",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "February 7, 1962",
+    "birthPlace": "Tulsa, United States",
+    "nationality": "American",
+    "excerpt": "Garth Brooks is one of the best-selling solo artists in U.S. history with 170 million records sold.",
+    "tags": [
+      "country",
+      "American",
+      "singer",
+      "bestseller",
+      "legend"
+    ]
+  },
+  {
+    "name": "Dolly Parton",
+    "category": "singer",
+    "profession": "Country singer and businesswoman",
+    "born": "January 19, 1946",
+    "birthPlace": "Sevier County, United States",
+    "nationality": "American",
+    "excerpt": "Dolly Parton has written over 3,000 songs and is one of country music's greatest icons.",
+    "tags": [
+      "country",
+      "American",
+      "singer",
+      "businesswoman",
+      "legend"
+    ]
+  },
+  {
+    "name": "George Strait",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "May 18, 1952",
+    "birthPlace": "Poteet, United States",
+    "nationality": "American",
+    "excerpt": "George Strait has more number-one hits than any other artist in any genre.",
+    "tags": [
+      "country",
+      "American",
+      "singer",
+      "legend",
+      "record-holder"
+    ]
+  },
+  {
+    "name": "Shania Twain",
+    "category": "singer",
+    "profession": "Country singer",
+    "born": "August 28, 1965",
+    "birthPlace": "Windsor, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Shania Twain's 'Come On Over' is the best-selling studio album by a female act.",
+    "tags": [
+      "country",
+      "pop",
+      "Canadian",
+      "singer",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Marc Anthony",
+    "category": "singer",
+    "profession": "Singer and actor",
+    "born": "September 16, 1968",
+    "birthPlace": "New York City, United States",
+    "nationality": "American",
+    "excerpt": "Marc Anthony is the 'King of Salsa' with multiple Grammy and Latin Grammy Awards.",
+    "tags": [
+      "salsa",
+      "Latin",
+      "American",
+      "singer",
+      "icon"
+    ]
+  },
+  {
+    "name": "Thal\u00eda",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "August 26, 1971",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Thal\u00eda is the 'Queen of Latin Pop' with over 40 million records sold.",
+    "tags": [
+      "Latin-pop",
+      "Mexican",
+      "singer",
+      "actress",
+      "icon"
+    ]
+  },
+  {
+    "name": "Luis Miguel",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "April 19, 1970",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Mexican-Puerto Rican",
+    "excerpt": "Luis Miguel has won six Grammy Awards and sold over 60 million records.",
+    "tags": [
+      "Latin",
+      "ballad",
+      "Mexican",
+      "singer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Alejandro Sanz",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "December 18, 1968",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Alejandro Sanz has won 20 Latin Grammy Awards.",
+    "tags": [
+      "Latin",
+      "pop",
+      "Spanish",
+      "singer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Enrique Iglesias",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "May 8, 1975",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Enrique Iglesias has sold over 100 million records as 'The King of Latin Pop'.",
+    "tags": [
+      "Latin-pop",
+      "pop",
+      "Spanish",
+      "singer",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "David Guetta",
+    "category": "singer",
+    "profession": "DJ and record producer",
+    "born": "November 7, 1967",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "David Guetta has been one of the most influential figures in electronic dance music.",
+    "tags": [
+      "EDM",
+      "French",
+      "DJ",
+      "Grammy",
+      "dance"
+    ]
+  },
+  {
+    "name": "Calvin Harris",
+    "category": "singer",
+    "profession": "DJ and record producer",
+    "born": "January 17, 1984",
+    "birthPlace": "Dumfries, Scotland",
+    "nationality": "British",
+    "excerpt": "Calvin Harris has had more UK number-one singles than any other artist.",
+    "tags": [
+      "EDM",
+      "British",
+      "DJ",
+      "producer",
+      "dance"
+    ]
+  },
+  {
+    "name": "Ti\u00ebsto",
+    "category": "singer",
+    "profession": "DJ and record producer",
+    "born": "January 17, 1969",
+    "birthPlace": "Breda, Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "Ti\u00ebsto is the 'Godfather of EDM' and a pioneer in trance music.",
+    "tags": [
+      "EDM",
+      "trance",
+      "Dutch",
+      "DJ",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Nelly",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "November 2, 1977",
+    "birthPlace": "Austin, United States",
+    "nationality": "American",
+    "excerpt": "Nelly has sold over 21 million albums with hits like 'Hot in Herre'.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "American",
+      "singer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Lil Wayne",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "September 27, 1982",
+    "birthPlace": "New Orleans, United States",
+    "nationality": "American",
+    "excerpt": "Lil Wayne influenced a generation of rappers with his 'Tha Carter' series.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "mixtape",
+      "legend"
+    ]
+  },
+  {
+    "name": "Dr. Dre",
+    "category": "singer",
+    "profession": "Rapper and producer",
+    "born": "February 18, 1965",
+    "birthPlace": "Compton, United States",
+    "nationality": "American",
+    "excerpt": "Dr. Dre founded Aftermath Entertainment and Beats Electronics, shaping hip-hop for decades.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "American",
+      "producer",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Skrillex",
+    "category": "singer",
+    "profession": "DJ and record producer",
+    "born": "November 15, 1988",
+    "birthPlace": "Highland Park, United States",
+    "nationality": "American",
+    "excerpt": "Skrillex won eight Grammy Awards and helped popularize dubstep.",
+    "tags": [
+      "EDM",
+      "dubstep",
+      "American",
+      "DJ",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Marshmello",
+    "category": "singer",
+    "profession": "DJ and record producer",
+    "born": "May 19, 1992",
+    "birthPlace": "Philadelphia, United States",
+    "nationality": "American",
+    "excerpt": "Marshmello is known for his signature white helmet and hits like 'Happier'.",
+    "tags": [
+      "EDM",
+      "American",
+      "DJ",
+      "pop",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Paquita la del Barrio",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 2, 1948",
+    "birthPlace": "Veracruz, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Paquita la del Barrio is a feminist icon in Mexican music.",
+    "tags": [
+      "ranchera",
+      "Mexican",
+      "singer",
+      "feminist",
+      "legend"
+    ]
+  },
+  {
+    "name": "Vicente Fern\u00e1ndez",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 17, 1940",
+    "birthPlace": "Huentit\u00e1n, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Vicente Fern\u00e1ndez sold over 50 million albums as a ranchera music legend.",
+    "tags": [
+      "ranchera",
+      "Mexican",
+      "singer",
+      "legend",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Gloria Trevi",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 15, 1968",
+    "birthPlace": "Monterrey, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Gloria Trevi has sold over 20 million records as 'La Supreme'.",
+    "tags": [
+      "Latin-pop",
+      "Mexican",
+      "singer",
+      "controversial",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Alejandra Guzm\u00e1n",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 9, 1968",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Alejandra Guzm\u00e1n is the 'Queen of Rock' in Latin music.",
+    "tags": [
+      "rock",
+      "Latin",
+      "Mexican",
+      "singer",
+      "reina"
+    ]
+  },
+  {
+    "name": "Lila Downs",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "September 9, 1968",
+    "birthPlace": "Tlaxiaco, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Lila Downs fuses traditional Mexican music with indigenous influences.",
+    "tags": [
+      "folk",
+      "Mexican",
+      "singer",
+      "songwriter",
+      "indigenous"
+    ]
+  },
+  {
+    "name": "Natalia Lafourcade",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 26, 1984",
+    "birthPlace": "Coatepec, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Natalia Lafourcade won a Grammy for reinterpreting traditional Mexican music.",
+    "tags": [
+      "folk",
+      "Mexican",
+      "singer",
+      "Grammy",
+      "traditional"
+    ]
+  },
+  {
+    "name": "Alejandro Fern\u00e1ndez",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "April 24, 1971",
+    "birthPlace": "Guadalajara, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Alejandro Fern\u00e1ndez is one of the most successful regional Mexican artists.",
+    "tags": [
+      "ranchera",
+      "Latin-pop",
+      "Mexican",
+      "singer",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Paulina Rubio",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "June 17, 1971",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Paulina Rubio is 'La Chica Dorada' with over 20 million records sold.",
+    "tags": [
+      "Latin-pop",
+      "Mexican",
+      "singer",
+      "bestseller",
+      "pop"
+    ]
+  },
+  {
+    "name": "David Bisbal",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "June 5, 1979",
+    "birthPlace": "Almer\u00eda, Spain",
+    "nationality": "Spanish",
+    "excerpt": "David Bisbal has sold over 5 million records with flamenco-influenced pop.",
+    "tags": [
+      "Latin-pop",
+      "flamenco",
+      "Spanish",
+      "singer",
+      "powerful-voice"
+    ]
+  },
+  {
+    "name": "Carin Le\u00f3n",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "June 26, 1989",
+    "birthPlace": "Hermosillo, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Carin Le\u00f3n's 'El Pasito Perr\u00f3n' went viral and established him in regional Mexican music.",
+    "tags": [
+      "regional-Mexican",
+      "Mexican",
+      "singer",
+      "songwriter",
+      "viral"
+    ]
+  },
+  {
+    "name": "Natalia Oreiro",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "May 19, 1977",
+    "birthPlace": "Montevideo, Uruguay",
+    "nationality": "Uruguayan",
+    "excerpt": "Natalia Oreiro is a Uruguayan singer and actress known across Latin America and Eastern Europe.",
+    "tags": [
+      "pop",
+      "Uruguayan",
+      "singer",
+      "actress",
+      "telenovela"
+    ]
+  },
+  {
+    "name": "Yuri",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "January 24, 1964",
+    "birthPlace": "M\u00e9rida, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Yuri is a Mexican pop singer who has been a major Latin music figure for over four decades.",
+    "tags": [
+      "Latin-pop",
+      "Mexican",
+      "singer",
+      "veteran",
+      "ballad"
+    ]
+  },
+  {
+    "name": "Franco De Vita",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "January 23, 1954",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "Franco De Vita is a Venezuelan singer-songwriter with multiple Latin Grammy Awards.",
+    "tags": [
+      "Latin-pop",
+      "Venezuelan",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Jesse & Joy",
+    "category": "singer",
+    "profession": "Musical duo",
+    "born": "June 5, 1986",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Jesse & Joy are a Mexican sibling duo known for romantic ballads and Grammy wins.",
+    "tags": [
+      "Latin-pop",
+      "Mexican",
+      "duo",
+      "Grammy",
+      "romantic"
+    ]
+  },
+  {
+    "name": "Reik",
+    "category": "singer",
+    "profession": "Musical group",
+    "born": "March 10, 2003",
+    "birthPlace": "Mexicali, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Reik is a Mexican pop group known for romantic hits and Latin Grammy Awards.",
+    "tags": [
+      "Latin-pop",
+      "Mexican",
+      "group",
+      "romantic",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Belinda",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "August 15, 1989",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish-Mexican",
+    "excerpt": "Belinda is a Spanish-Mexican pop singer and actress with millions of fans.",
+    "tags": [
+      "Latin-pop",
+      "Spanish",
+      "singer",
+      "actress",
+      "pop"
+    ]
+  },
+  {
+    "name": "Ha*Ash",
+    "category": "singer",
+    "profession": "Musical duo",
+    "born": "June 27, 1985",
+    "birthPlace": "Lake Charles, United States",
+    "nationality": "American-Mexican",
+    "excerpt": "Ha*Ash is a Mexican-American country-pop duo with multiple Latin Grammy nominations.",
+    "tags": [
+      "Latin-pop",
+      "country",
+      "Mexican",
+      "duo",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Christian Nodal",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "January 11, 1999",
+    "birthPlace": "Caborca, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Christian Nodal is a regional Mexican singer who modernized mariachi and ranchera music.",
+    "tags": [
+      "regional-Mexican",
+      "Mexican",
+      "singer",
+      "mariachi",
+      "breakout"
+    ]
+  },
+  {
+    "name": "Eslabon Armado",
+    "category": "singer",
+    "profession": "Musical group",
+    "born": "January 1, 2017",
+    "birthPlace": "Greenfield, United States",
+    "nationality": "American-Mexican",
+    "excerpt": "Eslabon Armado is a regional Mexican group that broke streaming records.",
+    "tags": [
+      "regional-Mexican",
+      "Mexican",
+      "group",
+      "streaming",
+      "sierre\u00f1o"
+    ]
+  },
+  {
+    "name": "Grupo Firme",
+    "category": "singer",
+    "profession": "Musical group",
+    "born": "January 1, 2014",
+    "birthPlace": "Tijuana, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Grupo Firme is one of the most popular regional Mexican bands, winning a Grammy.",
+    "tags": [
+      "banda",
+      "Mexican",
+      "group",
+      "Grammy",
+      "live-performance"
+    ]
+  },
+  {
+    "name": "Karol G",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "February 14, 1991",
+    "birthPlace": "Medell\u00edn, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Karol G broke records with 'Tusa' and 'Provenza', becoming one of Latin music's biggest stars.",
+    "tags": [
+      "reggaeton",
+      "Colombian",
+      "singer",
+      "Latin",
+      "record-breaker"
+    ]
+  },
+  {
+    "name": "Nicky Jam",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "March 17, 1981",
+    "birthPlace": "Boston, United States",
+    "nationality": "American-Puerto Rican",
+    "excerpt": "Nicky Jam is known for reggaeton hits like 'Travesuras' and 'El Perd\u00f3n'.",
+    "tags": [
+      "reggaeton",
+      "Puerto-Rican",
+      "singer",
+      "Latin",
+      "hitmaker"
+    ]
+  },
+  {
+    "name": "Wisin & Yandel",
+    "category": "singer",
+    "profession": "Reggaeton duo",
+    "born": "July 14, 1979",
+    "birthPlace": "Cayey, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Wisin & Yandel are reggaeton pioneers known as 'Los Jefes del Jefe'.",
+    "tags": [
+      "reggaeton",
+      "Puerto-Rican",
+      "duo",
+      "Latin",
+      "pioneers"
+    ]
+  },
+  {
+    "name": "Anitta",
+    "category": "singer",
+    "profession": "Singer and dancer",
+    "born": "March 30, 1993",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Anitta blends reggaeton and baile funk, becoming one of Brazil's biggest exports.",
+    "tags": [
+      "baile-funk",
+      "Brazilian",
+      "singer",
+      "dancer",
+      "global-star"
+    ]
+  },
+  {
+    "name": "Doja Cat",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "October 21, 1995",
+    "birthPlace": "Los Angeles, United States",
+    "nationality": "American",
+    "excerpt": "Doja Cat blends pop, rap, and dance with hits like 'Say So' and 'Paint The Town Red'.",
+    "tags": [
+      "pop",
+      "rap",
+      "American",
+      "singer",
+      "viral"
+    ]
+  },
+  {
+    "name": "Nle Choppa",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "November 1, 2002",
+    "birthPlace": "Memphis, United States",
+    "nationality": "American",
+    "excerpt": "Nle Choppa burst onto the scene at 16 with viral hit 'Shotta Flow'.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "Memphis",
+      "rising-star"
+    ]
+  },
+  {
+    "name": "Diddy",
+    "category": "singer",
+    "profession": "Rapper and entrepreneur",
+    "born": "November 4, 1969",
+    "birthPlace": "New York City, United States",
+    "nationality": "American",
+    "excerpt": "Diddy built a hip-hop empire with Bad Boy Records and multiple business ventures.",
+    "tags": [
+      "hip-hop",
+      "rap",
+      "American",
+      "entrepreneur",
+      "mogul"
+    ]
+  },
+  {
+    "name": "50 Cent",
+    "category": "singer",
+    "profession": "Rapper and actor",
+    "born": "July 6, 1975",
+    "birthPlace": "Queens, United States",
+    "nationality": "American",
+    "excerpt": "50 Cent's 'Get Rich or Die Tryin' became one of the best-selling rap albums ever.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "actor",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Nas",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "September 14, 1973",
+    "birthPlace": "Brooklyn, United States",
+    "nationality": "American",
+    "excerpt": "Nas's 'Illmatic' is widely considered one of the greatest hip-hop albums of all time.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "legend",
+      "classic"
+    ]
+  },
+  {
+    "name": "Lauryn Hill",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "May 26, 1975",
+    "birthPlace": "Newark, United States",
+    "nationality": "American",
+    "excerpt": "Lauryn Hill's 'The Miseducation' won five Grammys and is a hip-hop classic.",
+    "tags": [
+      "hip-hop",
+      "R&B",
+      "American",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Andrea Bocelli",
+    "category": "singer",
+    "profession": "Tenor and singer",
+    "born": "September 22, 1958",
+    "birthPlace": "Lajatico, Italy",
+    "nationality": "Italian",
+    "excerpt": "Andrea Bocelli is one of the most famous opera singers in the world.",
+    "tags": [
+      "classical",
+      "Italian",
+      "tenor",
+      "singer",
+      "opera"
+    ]
+  },
+  {
+    "name": "Luciano Pavarotti",
+    "category": "singer",
+    "profession": "Tenor",
+    "born": "October 12, 1935",
+    "birthPlace": "Modena, Italy",
+    "nationality": "Italian",
+    "excerpt": "Luciano Pavarotti was one of the Three Tenors and brought opera to mainstream audiences.",
+    "tags": [
+      "classical",
+      "Italian",
+      "tenor",
+      "legend",
+      "opera"
+    ]
+  },
+  {
+    "name": "Celine Dion",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 30, 1968",
+    "birthPlace": "Charlemagne, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Celine Dion is known for 'My Heart Will Go On' and is one of the best-selling artists ever.",
+    "tags": [
+      "pop",
+      "ballad",
+      "Canadian",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Whitney Houston",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "August 9, 1963",
+    "birthPlace": "Newark, United States",
+    "nationality": "American",
+    "excerpt": "Whitney Houston had seven consecutive number-one hits and is one of music's greatest vocalists.",
+    "tags": [
+      "pop",
+      "R&B",
+      "American",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Aretha Franklin",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 25, 1942",
+    "birthPlace": "Memphis, United States",
+    "nationality": "American",
+    "excerpt": "Aretha Franklin is the 'Queen of Soul' with hits like 'Respect'.",
+    "tags": [
+      "soul",
+      "R&B",
+      "American",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Stevie Wonder",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "May 13, 1950",
+    "birthPlace": "Saginaw, United States",
+    "nationality": "American",
+    "excerpt": "Stevie Wonder has won 25 Grammy Awards and is one of music's most celebrated artists.",
+    "tags": [
+      "soul",
+      "pop",
+      "American",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Bob Dylan",
+    "category": "writer",
+    "profession": "Singer-songwriter and author",
+    "born": "May 24, 1941",
+    "birthPlace": "Duluth, United States",
+    "nationality": "American",
+    "excerpt": "Bob Dylan won the Nobel Prize in Literature and is one of the most influential musicians ever.",
+    "tags": [
+      "folk",
+      "rock",
+      "American",
+      "Nobel",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Paul McCartney",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "June 18, 1942",
+    "birthPlace": "Liverpool, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Paul McCartney is a Beatle and one of the most successful songwriters in history.",
+    "tags": [
+      "rock",
+      "British",
+      "Beatle",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Mick Jagger",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "July 26, 1943",
+    "birthPlace": "Dartford, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Mick Jagger is the frontman of The Rolling Stones, one of rock's greatest bands.",
+    "tags": [
+      "rock",
+      "British",
+      "Rolling-Stones",
+      "singer",
+      "icon"
+    ]
+  },
+  {
+    "name": "David Bowie",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "January 8, 1947",
+    "birthPlace": "London, United Kingdom",
+    "nationality": "British",
+    "excerpt": "David Bowie reinvented pop music with personas like Ziggy Stardust.",
+    "tags": [
+      "rock",
+      "glam",
+      "British",
+      "singer",
+      "innovator"
+    ]
+  },
+  {
+    "name": "Freddie Mercury",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "September 5, 1946",
+    "birthPlace": "Stone Town, Tanzania",
+    "nationality": "British-Tanzanian",
+    "excerpt": "Freddie Mercury was Queen's legendary frontman with one of rock's greatest voices.",
+    "tags": [
+      "rock",
+      "British",
+      "Queen",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Elton John",
+    "category": "singer",
+    "profession": "Singer and pianist",
+    "born": "March 25, 1947",
+    "birthPlace": "Pinner, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Elton John has sold over 300 million records and won an Oscar for 'Rocketman'.",
+    "tags": [
+      "pop",
+      "rock",
+      "British",
+      "singer",
+      "pianist"
+    ]
+  },
+  {
+    "name": "Sting",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "October 2, 1951",
+    "birthPlace": "Wallsend, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Sting led The Police before becoming a successful solo artist with 16 Grammys.",
+    "tags": [
+      "rock",
+      "pop",
+      "British",
+      "singer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Phil Collins",
+    "category": "singer",
+    "profession": "Singer and drummer",
+    "born": "January 30, 1951",
+    "birthPlace": "Chiswick, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Phil Collins fronted Genesis and won an Oscar for the 'Tarzan' soundtrack.",
+    "tags": [
+      "rock",
+      "pop",
+      "British",
+      "singer",
+      "drummer"
+    ]
+  },
+  {
+    "name": "Tina Turner",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "November 26, 1939",
+    "birthPlace": "Nutbush, United States",
+    "nationality": "American",
+    "excerpt": "Tina Turner was the 'Queen of Rock' with hits like 'What's Love Got to Do with It'.",
+    "tags": [
+      "rock",
+      "pop",
+      "American",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Cher",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "May 20, 1946",
+    "birthPlace": "El Centro, United States",
+    "nationality": "American",
+    "excerpt": "Cher has had top hits in every decade since the 1960s and is a pop culture icon.",
+    "tags": [
+      "pop",
+      "American",
+      "singer",
+      "actress",
+      "icon"
+    ]
+  },
+  {
+    "name": "Madonna",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "August 16, 1958",
+    "birthPlace": "Bay City, United States",
+    "nationality": "American",
+    "excerpt": "Madonna is the 'Queen of Pop' and one of the best-selling music artists of all time.",
+    "tags": [
+      "pop",
+      "American",
+      "singer",
+      "songwriter",
+      "icon"
+    ]
+  },
+  {
+    "name": "Janet Jackson",
+    "category": "singer",
+    "profession": "Singer and dancer",
+    "born": "May 16, 1966",
+    "birthPlace": "Gary, United States",
+    "nationality": "American",
+    "excerpt": "Janet Jackson has sold over 100 million records and influenced generations of performers.",
+    "tags": [
+      "pop",
+      "R&B",
+      "American",
+      "singer",
+      "dancer"
+    ]
+  },
+  {
+    "name": "Prince",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "June 7, 1958",
+    "birthPlace": "Minneapolis, United States",
+    "nationality": "American",
+    "excerpt": "Prince blended funk, rock, R&B, and pop with hits like 'Purple Rain'.",
+    "tags": [
+      "funk",
+      "rock",
+      "American",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Michael Jackson",
+    "category": "singer",
+    "profession": "Singer and dancer",
+    "born": "August 29, 1958",
+    "birthPlace": "Gary, United States",
+    "nationality": "American",
+    "excerpt": "Michael Jackson is the 'King of Pop' with the best-selling album of all time, 'Thriller'.",
+    "tags": [
+      "pop",
+      "American",
+      "singer",
+      "dancer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Amy Winehouse",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "September 14, 1983",
+    "birthPlace": "London, United Kingdom",
+    "nationality": "British",
+    "excerpt": "Amy Winehouse's 'Back to Black' is a modern classic, winning five Grammys.",
+    "tags": [
+      "soul",
+      "jazz",
+      "British",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Etta James",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "January 25, 1938",
+    "birthPlace": "Los Angeles, United States",
+    "nationality": "American",
+    "excerpt": "Etta James is known for 'At Last' and being one of blues and soul's greatest voices.",
+    "tags": [
+      "blues",
+      "soul",
+      "American",
+      "singer",
+      "legend"
+    ]
+  },
+  {
+    "name": "Bill Withers",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "July 4, 1938",
+    "birthPlace": "Slab Fork, United States",
+    "nationality": "American",
+    "excerpt": "Bill Withers wrote timeless classics like 'Lean on Me' and 'Ain't No Sunshine'.",
+    "tags": [
+      "soul",
+      "R&B",
+      "American",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "John Legend",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "December 28, 1978",
+    "birthPlace": "Springfield, United States",
+    "nationality": "American",
+    "excerpt": "John Legend won an Oscar and 12 Grammys for his soul and R&B music.",
+    "tags": [
+      "R&B",
+      "soul",
+      "American",
+      "singer",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Ne-Yo",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "October 18, 1979",
+    "birthPlace": "Camden, United States",
+    "nationality": "American",
+    "excerpt": "Ne-Yo has written hits for many artists and is known for 'So Sick' and 'Closer'.",
+    "tags": [
+      "R&B",
+      "pop",
+      "American",
+      "singer",
+      "songwriter"
+    ]
+  },
+  {
+    "name": "Alicia Keys",
+    "category": "singer",
+    "profession": "Singer and pianist",
+    "born": "January 25, 1981",
+    "birthPlace": "New York City, United States",
+    "nationality": "American",
+    "excerpt": "Alicia Keys has won 15 Grammys and is known for 'No One' and 'Fallin''.",
+    "tags": [
+      "R&B",
+      "soul",
+      "American",
+      "singer",
+      "pianist"
+    ]
+  },
+  {
+    "name": "Burna Boy",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "July 2, 1991",
+    "birthPlace": "Port Harcourt, Nigeria",
+    "nationality": "Nigerian",
+    "excerpt": "Burna Boy blends Afrobeat, dancehall, and reggae, winning a Grammy for Best Global Music Album.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "Grammy",
+      "singer",
+      "African"
+    ]
+  },
+  {
+    "name": "Davido",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "November 21, 1992",
+    "birthPlace": "Atlanta, United States",
+    "nationality": "Nigerian",
+    "excerpt": "Davido is one of Africa's biggest music stars with hits like 'Fall' and 'If'.",
+    "tags": [
+      "Afrobeats",
+      "Nigerian",
+      "singer",
+      "songwriter",
+      "African"
+    ]
+  },
+  {
+    "name": "Sebasti\u00e1n Yatra",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "October 15, 1994",
+    "birthPlace": "Medell\u00edn, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sebasti\u00e1n Yatra is a Colombian pop singer known for romantic Latin hits.",
+    "tags": [
+      "pop",
+      "Colombian",
+      "singer",
+      "Latin",
+      "romantic"
+    ]
+  },
+  {
+    "name": "Camilo",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "March 16, 1994",
+    "birthPlace": "Medell\u00edn, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camilo is a Colombian singer-songwriter known for romantic pop hits and Latin Grammy wins.",
+    "tags": [
+      "pop",
+      "Colombian",
+      "singer",
+      "songwriter",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Carlos Vives",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "August 7, 1961",
+    "birthPlace": "Santa Marta, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carlos Vives is a pioneer of Colombian vallenato music with multiple Grammy Awards.",
+    "tags": [
+      "vallenato",
+      "Colombian",
+      "singer",
+      "Grammy",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Juanes",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "August 9, 1972",
+    "birthPlace": "Carolina, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juanes has won 26 Latin Grammy Awards and sold over 20 million albums.",
+    "tags": [
+      "Latin-rock",
+      "Colombian",
+      "singer",
+      "Grammy",
+      "influencer"
+    ]
+  },
+  {
+    "name": "J Balvin",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "May 7, 1985",
+    "birthPlace": "Medell\u00edn, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "J Balvin has been one of the most successful reggaeton artists of the 2010s and 2020s.",
+    "tags": [
+      "reggaeton",
+      "Colombian",
+      "singer",
+      "Latin",
+      "global-hit"
+    ]
+  },
+  {
+    "name": "Ozuna",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "March 13, 1992",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Ozuna broke multiple streaming records with hits like 'Taki Taki'.",
+    "tags": [
+      "reggaeton",
+      "Puerto-Rican",
+      "singer",
+      "streaming",
+      "Latin"
+    ]
+  },
+  {
+    "name": "Daddy Yankee",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "February 3, 1977",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Daddy Yankee is the 'King of Reggaeton' with 'Despacito' being one of the most-viewed videos ever.",
+    "tags": [
+      "reggaeton",
+      "Puerto-Rican",
+      "singer",
+      "rapper",
+      "legend"
+    ]
+  },
+  {
+    "name": "Pitbull",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "January 15, 1981",
+    "birthPlace": "Miami, United States",
+    "nationality": "American-Cuban",
+    "excerpt": "Pitbull is known for hits like 'Give Me Everything' and 'Timber'.",
+    "tags": [
+      "pop",
+      "Latin",
+      "American",
+      "rapper",
+      "hitmaker"
+    ]
+  },
+  {
+    "name": "Ricky Martin",
+    "category": "singer",
+    "profession": "Singer and actor",
+    "born": "December 24, 1971",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Ricky Martin helped bring Latin music to mainstream American audiences with 'Livin' la Vida Loca'.",
+    "tags": [
+      "Latin-pop",
+      "Puerto-Rican",
+      "singer",
+      "actor",
+      "icon"
+    ]
+  },
+  {
+    "name": "Peso Pluma",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "July 15, 1999",
+    "birthPlace": "Zapopan, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Peso Pluma became the first Mexican artist to reach the top five of the Billboard Hot 100.",
+    "tags": [
+      "regional-Mexican",
+      "Mexican",
+      "singer",
+      "record-breaker",
+      "breakout"
+    ]
+  },
+  {
+    "name": "Shakira",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "February 2, 1977",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Shakira is one of the best-selling Latin artists ever with hits like 'Hips Don't Lie'.",
+    "tags": [
+      "pop",
+      "Latin",
+      "Colombian",
+      "singer",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Bad Bunny",
+    "category": "singer",
+    "profession": "Singer and rapper",
+    "born": "March 10, 1994",
+    "birthPlace": "Vega Baja, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Bad Bunny is one of the most-streamed artists globally, blending reggaeton, trap, and rock.",
+    "tags": [
+      "reggaeton",
+      "Puerto-Rican",
+      "singer",
+      "rapper",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Wiz Khalifa",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "September 8, 1987",
+    "birthPlace": "Minot, United States",
+    "nationality": "American",
+    "excerpt": "Wiz Khalifa is known for 'See You Again' and 'Black and Yellow', blending hip-hop with pop sensibility.",
+    "tags": [
+      "rap",
+      "hip-hop",
+      "American",
+      "pop-rap",
+      "Grammy"
+    ]
+  },
+  {
+    "name": "Badshah",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "November 19, 1985",
+    "birthPlace": "New Delhi, India",
+    "nationality": "Indian",
+    "excerpt": "Badshah is one of India's biggest music stars, known for breaking YouTube records with his Bollywood and pop hits.",
+    "tags": [
+      "Bollywood",
+      "rap",
+      "Indian",
+      "pop",
+      "YouTube"
+    ]
+  },
+  {
+    "name": "BLACKPINK",
+    "category": "singer",
+    "profession": "Musical group",
+    "born": "August 8, 2016",
+    "birthPlace": "Seoul, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "BLACKPINK is the biggest K-pop girl group globally, known for 'DDU-DU DDU-DU' and headlining Coachella.",
+    "tags": [
+      "K-pop",
+      "BLACKPINK",
+      "girl-group",
+      "global-star",
+      "Coachella"
+    ]
+  }
+]

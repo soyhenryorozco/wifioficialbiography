@@ -1,0 +1,3202 @@
+[
+  {
+    "name": "Barack Obama",
+    "category": "politician",
+    "profession": "Former President of the United States",
+    "born": "August 4, 1961",
+    "birthPlace": "Honolulu, Hawaii, USA",
+    "nationality": "American",
+    "excerpt": "Barack Obama served as the 44th President of the United States from 2009 to 2017, becoming the first African American to hold the office. He was awarded the Nobel Peace Prize in 2009.",
+    "tags": [
+      "politician",
+      "president",
+      "nobel laureate",
+      "democrat",
+      "author"
+    ]
+  },
+  {
+    "name": "Donald Trump",
+    "category": "politician",
+    "profession": "Former President of the United States",
+    "born": "June 14, 1946",
+    "birthPlace": "Queens, New York, USA",
+    "nationality": "American",
+    "excerpt": "Donald Trump served as the 45th President of the United States from 2017 to 2021. Before politics, he was a real estate mogul and television personality on The Apprentice.",
+    "tags": [
+      "politician",
+      "president",
+      "republican",
+      "businessman",
+      "tv personality"
+    ]
+  },
+  {
+    "name": "Joe Biden",
+    "category": "politician",
+    "profession": "President of the United States",
+    "born": "November 20, 1942",
+    "birthPlace": "Scranton, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Joe Biden is the 46th President of the United States, taking office in 2021. He previously served as Vice President under Barack Obama and as a U.S. Senator from Delaware.",
+    "tags": [
+      "politician",
+      "president",
+      "democrat",
+      "senator",
+      "vice president"
+    ]
+  },
+  {
+    "name": "Angela Merkel",
+    "category": "politician",
+    "profession": "Former Chancellor of Germany",
+    "born": "July 17, 1954",
+    "birthPlace": "Hamburg, West Germany",
+    "nationality": "German",
+    "excerpt": "Angela Merkel served as Chancellor of Germany from 2005 to 2021, leading the country for 16 years. She was widely regarded as the de facto leader of the European Union.",
+    "tags": [
+      "politician",
+      "chancellor",
+      "germany",
+      "europe",
+      "leader"
+    ]
+  },
+  {
+    "name": "Emmanuel Macron",
+    "category": "politician",
+    "profession": "President of France",
+    "born": "December 21, 1977",
+    "birthPlace": "Amiens, France",
+    "nationality": "French",
+    "excerpt": "Emmanuel Macron is the President of France, in office since 2017. He founded the centrist political movement En Marche! and previously served as Minister of Economy.",
+    "tags": [
+      "politician",
+      "president",
+      "france",
+      "centrist",
+      "europe"
+    ]
+  },
+  {
+    "name": "Boris Johnson",
+    "category": "politician",
+    "profession": "Former Prime Minister of the United Kingdom",
+    "born": "June 19, 1964",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "British",
+    "excerpt": "Boris Johnson served as Prime Minister of the United Kingdom from 2019 to 2022. He previously served as Mayor of London and was a leading figure in the Brexit campaign.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "uk",
+      "conservative",
+      "brexit"
+    ]
+  },
+  {
+    "name": "Justin Trudeau",
+    "category": "politician",
+    "profession": "Prime Minister of Canada",
+    "born": "December 25, 1971",
+    "birthPlace": "Ottawa, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Justin Trudeau has served as Prime Minister of Canada since 2015, leading the Liberal Party. He is the son of former Prime Minister Pierre Trudeau.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "canada",
+      "liberal",
+      "trudeau"
+    ]
+  },
+  {
+    "name": "Jacinda Ardern",
+    "category": "politician",
+    "profession": "Former Prime Minister of New Zealand",
+    "born": "July 26, 1980",
+    "birthPlace": "Hamilton, New Zealand",
+    "nationality": "New Zealander",
+    "excerpt": "Jacinda Ardern served as Prime Minister of New Zealand from 2017 to 2023. She gained international acclaim for her handling of the Christchurch mosque shootings and the COVID-19 pandemic.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "new zealand",
+      "labour",
+      "leader"
+    ]
+  },
+  {
+    "name": "Narendra Modi",
+    "category": "politician",
+    "profession": "Prime Minister of India",
+    "born": "September 17, 1950",
+    "birthPlace": "Vadnagar, Gujarat, India",
+    "nationality": "Indian",
+    "excerpt": "Narendra Modi has served as Prime Minister of India since 2014. He previously served as Chief Minister of Gujarat and is a member of the Bharatiya Janata Party.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "india",
+      "bjp",
+      "modi"
+    ]
+  },
+  {
+    "name": "Vladimir Putin",
+    "category": "politician",
+    "profession": "President of Russia",
+    "born": "October 7, 1952",
+    "birthPlace": "Leningrad, Soviet Union",
+    "nationality": "Russian",
+    "excerpt": "Vladimir Putin has been President of Russia since 2000, with a brief stint as Prime Minister. He is the longest-serving Russian leader since Joseph Stalin.",
+    "tags": [
+      "politician",
+      "president",
+      "russia",
+      "putin",
+      "world leader"
+    ]
+  },
+  {
+    "name": "Xi Jinping",
+    "category": "politician",
+    "profession": "President of China",
+    "born": "June 15, 1953",
+    "birthPlace": "Beijing, China",
+    "nationality": "Chinese",
+    "excerpt": "Xi Jinping is the General Secretary of the Communist Party of China and President of the People's Republic of China. He is considered the most powerful Chinese leader since Mao Zedong.",
+    "tags": [
+      "politician",
+      "president",
+      "china",
+      "communist",
+      "world leader"
+    ]
+  },
+  {
+    "name": "Volodymyr Zelenskyy",
+    "category": "politician",
+    "profession": "President of Ukraine",
+    "born": "January 25, 1978",
+    "birthPlace": "Kryvyi Rih, Ukrainian SSR, Soviet Union",
+    "nationality": "Ukrainian",
+    "excerpt": "Volodymyr Zelenskyy is the President of Ukraine, in office since 2019. A former comedian and actor, he gained worldwide recognition for his leadership during the Russian invasion.",
+    "tags": [
+      "politician",
+      "president",
+      "ukraine",
+      "zelenskyy",
+      "war"
+    ]
+  },
+  {
+    "name": "Theresa May",
+    "category": "politician",
+    "profession": "Former Prime Minister of the United Kingdom",
+    "born": "October 1, 1956",
+    "birthPlace": "Eastbourne, England, UK",
+    "nationality": "British",
+    "excerpt": "Theresa May served as Prime Minister of the United Kingdom from 2016 to 2019. She was the second female Prime Minister of the UK after Margaret Thatcher.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "uk",
+      "conservative",
+      "brexit"
+    ]
+  },
+  {
+    "name": "Hillary Clinton",
+    "category": "politician",
+    "profession": "Former U.S. Secretary of State",
+    "born": "October 26, 1947",
+    "birthPlace": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Hillary Clinton served as U.S. Secretary of State from 2009 to 2013 and was the Democratic nominee for President in 2016. She also served as a U.S. Senator from New York.",
+    "tags": [
+      "politician",
+      "secretary of state",
+      "senator",
+      "democrat",
+      "first lady"
+    ]
+  },
+  {
+    "name": "Bernie Sanders",
+    "category": "politician",
+    "profession": "U.S. Senator",
+    "born": "September 8, 1941",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Bernie Sanders is a U.S. Senator from Vermont and a prominent progressive voice in American politics. He ran for President in 2016 and 2020.",
+    "tags": [
+      "politician",
+      "senator",
+      "vermont",
+      "independent",
+      "progressive"
+    ]
+  },
+  {
+    "name": "Nancy Pelosi",
+    "category": "politician",
+    "profession": "Former Speaker of the U.S. House",
+    "born": "March 26, 1940",
+    "birthPlace": "Baltimore, Maryland, USA",
+    "nationality": "American",
+    "excerpt": "Nancy Pelosi served as Speaker of the United States House of Representatives from 2007 to 2011 and again from 2019 to 2023. She was the first woman to hold the office.",
+    "tags": [
+      "politician",
+      "speaker",
+      "house of representatives",
+      "democrat",
+      "california"
+    ]
+  },
+  {
+    "name": "Jeremy Corbyn",
+    "category": "politician",
+    "profession": "Former Leader of the Labour Party",
+    "born": "May 26, 1949",
+    "birthPlace": "Chippenham, England, UK",
+    "nationality": "British",
+    "excerpt": "Jeremy Corbyn served as Leader of the Labour Party and Leader of the Opposition from 2015 to 2020. He is a lifelong anti-war activist and socialist.",
+    "tags": [
+      "politician",
+      "labour",
+      "uk",
+      "opposition",
+      "socialist"
+    ]
+  },
+  {
+    "name": "Tony Blair",
+    "category": "politician",
+    "profession": "Former Prime Minister of the United Kingdom",
+    "born": "May 6, 1953",
+    "birthPlace": "Edinburgh, Scotland, UK",
+    "nationality": "British",
+    "excerpt": "Tony Blair served as Prime Minister of the United Kingdom from 1997 to 2007, the longest-serving Labour Prime Minister. He led the UK during the Iraq War.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "uk",
+      "labour",
+      "new labour"
+    ]
+  },
+  {
+    "name": "Olaf Scholz",
+    "category": "politician",
+    "profession": "Chancellor of Germany",
+    "born": "June 14, 1958",
+    "birthPlace": "Osnabrueck, West Germany",
+    "nationality": "German",
+    "excerpt": "Olaf Scholz has served as Chancellor of Germany since 2021. He previously served as Vice Chancellor and Minister of Finance under Angela Merkel.",
+    "tags": [
+      "politician",
+      "chancellor",
+      "germany",
+      "spd",
+      "europe"
+    ]
+  },
+  {
+    "name": "Jair Bolsonaro",
+    "category": "politician",
+    "profession": "Former President of Brazil",
+    "born": "March 21, 1955",
+    "birthPlace": "Glicerio, Sao Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Jair Bolsonaro served as President of Brazil from 2019 to 2023. A former military officer, he was known for his far-right populist views.",
+    "tags": [
+      "politician",
+      "president",
+      "brazil",
+      "conservative",
+      "populist"
+    ]
+  },
+  {
+    "name": "Luiz Inacio Lula da Silva",
+    "category": "politician",
+    "profession": "President of Brazil",
+    "born": "October 27, 1945",
+    "birthPlace": "Caetes, Pernambuco, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Luiz Inacio Lula da Silva is the President of Brazil, serving since 2023 after previously holding office from 2003 to 2010. He is a founding member of the Workers Party.",
+    "tags": [
+      "politician",
+      "president",
+      "brazil",
+      "workers party",
+      "lula"
+    ]
+  },
+  {
+    "name": "Scott Morrison",
+    "category": "politician",
+    "profession": "Former Prime Minister of Australia",
+    "born": "May 13, 1968",
+    "birthPlace": "Waverley, New South Wales, Australia",
+    "nationality": "Australian",
+    "excerpt": "Scott Morrison served as Prime Minister of Australia from 2018 to 2022. He led the country through the devastating 2019-2020 bushfire season.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "australia",
+      "liberal",
+      "conservative"
+    ]
+  },
+  {
+    "name": "Anthony Albanese",
+    "category": "politician",
+    "profession": "Prime Minister of Australia",
+    "born": "March 2, 1963",
+    "birthPlace": "Darlinghurst, New South Wales, Australia",
+    "nationality": "Australian",
+    "excerpt": "Anthony Albanese has served as Prime Minister of Australia since 2022. He is the leader of the Australian Labor Party.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "australia",
+      "labour",
+      "albanese"
+    ]
+  },
+  {
+    "name": "Rishi Sunak",
+    "category": "politician",
+    "profession": "Prime Minister of the United Kingdom",
+    "born": "May 12, 1980",
+    "birthPlace": "Southampton, England, UK",
+    "nationality": "British",
+    "excerpt": "Rishi Sunak became Prime Minister of the United Kingdom in October 2022. He previously served as Chancellor of the Exchequer under Boris Johnson.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "uk",
+      "conservative",
+      "sunak"
+    ]
+  },
+  {
+    "name": "Ursula von der Leyen",
+    "category": "politician",
+    "profession": "President of the European Commission",
+    "born": "October 8, 1958",
+    "birthPlace": "Ixelles, Belgium",
+    "nationality": "German",
+    "excerpt": "Ursula von der Leyen has served as President of the European Commission since 2019. She previously served as German Minister of Defence.",
+    "tags": [
+      "politician",
+      "european commission",
+      "eu",
+      "germany",
+      "von der leyen"
+    ]
+  },
+  {
+    "name": "Shinzo Abe",
+    "category": "politician",
+    "profession": "Former Prime Minister of Japan",
+    "born": "September 21, 1954",
+    "birthPlace": "Shinjuku, Tokyo, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Shinzo Abe served as Prime Minister of Japan from 2006 to 2007 and again from 2012 to 2020. He was the longest-serving Prime Minister in Japanese history.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "japan",
+      "abe",
+      "ldp"
+    ]
+  },
+  {
+    "name": "Imran Khan",
+    "category": "politician",
+    "profession": "Former Prime Minister of Pakistan",
+    "born": "October 5, 1952",
+    "birthPlace": "Lahore, Pakistan",
+    "nationality": "Pakistani",
+    "excerpt": "Imran Khan served as Prime Minister of Pakistan from 2018 to 2022. Before politics, he was a legendary cricketer who captained Pakistan to World Cup victory in 1992.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "pakistan",
+      "cricketer",
+      "pti"
+    ]
+  },
+  {
+    "name": "Cyril Ramaphosa",
+    "category": "politician",
+    "profession": "President of South Africa",
+    "born": "November 17, 1952",
+    "birthPlace": "Johannesburg, South Africa",
+    "nationality": "South African",
+    "excerpt": "Cyril Ramaphosa has served as President of South Africa since 2018. A former anti-apartheid activist and trade union leader, he also became a successful businessman.",
+    "tags": [
+      "politician",
+      "president",
+      "south africa",
+      "anc",
+      "ramaphosa"
+    ]
+  },
+  {
+    "name": "Pedro Sanchez",
+    "category": "politician",
+    "profession": "Prime Minister of Spain",
+    "born": "February 29, 1972",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Pedro Sanchez has served as Prime Minister of Spain since 2018. He is the leader of the Spanish Socialist Workers Party.",
+    "tags": [
+      "politician",
+      "prime minister",
+      "spain",
+      "socialist",
+      "sanchez"
+    ]
+  },
+  {
+    "name": "MrBeast",
+    "category": "influencer",
+    "profession": "YouTuber and Philanthropist",
+    "born": "May 7, 1998",
+    "birthPlace": "Wichita, Kansas, USA",
+    "nationality": "American",
+    "excerpt": "MrBeast, whose real name is Jimmy Donaldson, is the most-subscribed individual YouTuber known for his expensive stunts and philanthropic giveaways. He founded Feastables and TeamTrees.",
+    "tags": [
+      "youtuber",
+      "philanthropist",
+      "influencer",
+      "mrbeast",
+      "feastables"
+    ]
+  },
+  {
+    "name": "PewDiePie",
+    "category": "influencer",
+    "profession": "YouTuber",
+    "born": "October 24, 1989",
+    "birthPlace": "Gothenburg, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "PewDiePie, born Felix Kjellberg, is one of the most subscribed individual YouTubers, known for his video game commentaries and meme reviews. He has been a dominant force on the platform since 2010.",
+    "tags": [
+      "youtuber",
+      "influencer",
+      "gaming",
+      "pewdiepie",
+      "swedish"
+    ]
+  },
+  {
+    "name": "Logan Paul",
+    "category": "influencer",
+    "profession": "YouTuber and Boxer",
+    "born": "April 1, 1995",
+    "birthPlace": "Westlake, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Logan Paul is a YouTuber, actor, and professional boxer. He rose to fame on Vine before transitioning to YouTube and later co-founding the sports drink Prime with KSI.",
+    "tags": [
+      "youtuber",
+      "influencer",
+      "boxer",
+      "prime",
+      "vine"
+    ]
+  },
+  {
+    "name": "Jake Paul",
+    "category": "influencer",
+    "profession": "YouTuber and Professional Boxer",
+    "born": "January 17, 1997",
+    "birthPlace": "Cleveland, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Jake Paul is a YouTuber turned professional boxer who gained fame on Vine and Disney Channel. He has headlined major pay-per-view boxing events.",
+    "tags": [
+      "youtuber",
+      "influencer",
+      "boxer",
+      "disney",
+      "vine"
+    ]
+  },
+  {
+    "name": "KSI",
+    "category": "influencer",
+    "profession": "YouTuber, Rapper, and Boxer",
+    "born": "June 19, 1993",
+    "birthPlace": "London, England, UK",
+    "nationality": "British",
+    "excerpt": "KSI, born Olajide Olatunji, is a British YouTuber, rapper, and professional boxer. He co-founded Prime Hydration with Logan Paul and has released multiple music albums.",
+    "tags": [
+      "youtuber",
+      "rapper",
+      "boxer",
+      "ksi",
+      "prime"
+    ]
+  },
+  {
+    "name": "David Dobrik",
+    "category": "influencer",
+    "profession": "YouTuber and Social Media Personality",
+    "born": "July 23, 1996",
+    "birthPlace": "Kosice, Slovakia",
+    "nationality": "Slovak-American",
+    "excerpt": "David Dobrik is a Slovak-American YouTuber known for his high-energy vlogs featuring his friend group. He co-founded the photo app Dispo.",
+    "tags": [
+      "youtuber",
+      "influencer",
+      "vlogger",
+      "dobrik",
+      "dispo"
+    ]
+  },
+  {
+    "name": "Emma Chamberlain",
+    "category": "influencer",
+    "profession": "YouTuber and Entrepreneur",
+    "born": "May 22, 2001",
+    "birthPlace": "San Bruno, California, USA",
+    "nationality": "American",
+    "excerpt": "Emma Chamberlain is a YouTuber known for her innovative editing style and relatable content. She founded Chamberlain Coffee and has collaborated with major fashion brands.",
+    "tags": [
+      "youtuber",
+      "influencer",
+      "fashion",
+      "entrepreneur",
+      "chamberlain"
+    ]
+  },
+  {
+    "name": "Charli D'Amelio",
+    "category": "influencer",
+    "profession": "TikTok Personality and Dancer",
+    "born": "May 1, 2004",
+    "birthPlace": "Norwalk, Connecticut, USA",
+    "nationality": "American",
+    "excerpt": "Charli D'Amelio is a social media personality and dancer who became the most-followed creator on TikTok. She has appeared in films and launched her own products.",
+    "tags": [
+      "tiktok",
+      "influencer",
+      "dancer",
+      "damelio",
+      "social media"
+    ]
+  },
+  {
+    "name": "Dixie D'Amelio",
+    "category": "influencer",
+    "profession": "Singer and Social Media Personality",
+    "born": "August 12, 2001",
+    "birthPlace": "Norwalk, Connecticut, USA",
+    "nationality": "American",
+    "excerpt": "Dixie D'Amelio is a singer and social media personality who rose to fame alongside her sister Charli on TikTok. She has released multiple singles and an EP.",
+    "tags": [
+      "tiktok",
+      "influencer",
+      "singer",
+      "damelio",
+      "social media"
+    ]
+  },
+  {
+    "name": "Addison Rae",
+    "category": "influencer",
+    "profession": "TikTok Personality and Actress",
+    "born": "October 6, 2000",
+    "birthPlace": "Lafayette, Louisiana, USA",
+    "nationality": "American",
+    "excerpt": "Addison Rae is a TikTok personality, actress, and singer who became one of the platform's most followed creators. She starred in the film He's All That.",
+    "tags": [
+      "tiktok",
+      "influencer",
+      "actress",
+      "singer",
+      "rae"
+    ]
+  },
+  {
+    "name": "Bella Poarch",
+    "category": "influencer",
+    "profession": "Singer and TikTok Personality",
+    "born": "February 8, 1997",
+    "birthPlace": "San Manuel, Pangasinan, Philippines",
+    "nationality": "Filipino-American",
+    "excerpt": "Bella Poarch is a Filipino-American singer and TikTok personality who became famous for her lip-sync videos. Her single Build a Bitch went viral globally.",
+    "tags": [
+      "tiktok",
+      "influencer",
+      "singer",
+      "poarch",
+      "viral"
+    ]
+  },
+  {
+    "name": "Zach King",
+    "category": "influencer",
+    "profession": "Filmmaker and Social Media Personality",
+    "born": "February 4, 1990",
+    "birthPlace": "Portland, Oregon, USA",
+    "nationality": "American",
+    "excerpt": "Zach King is a filmmaker and social media personality known for his viral magic vines and trick videos. He won the first Vine European Film Festival.",
+    "tags": [
+      "influencer",
+      "filmmaker",
+      "magic",
+      "vine",
+      "tiktok"
+    ]
+  },
+  {
+    "name": "Loren Gray",
+    "category": "influencer",
+    "profession": "Singer and Social Media Personality",
+    "born": "April 19, 2002",
+    "birthPlace": "Pottstown, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Loren Gray is a singer and social media personality who was the most-followed person on TikTok before Charli D'Amelio. She has released several music singles.",
+    "tags": [
+      "tiktok",
+      "influencer",
+      "singer",
+      "gray",
+      "social media"
+    ]
+  },
+  {
+    "name": "James Charles",
+    "category": "influencer",
+    "profession": "Makeup Artist and YouTuber",
+    "born": "May 23, 1999",
+    "birthPlace": "Albany, New York, USA",
+    "nationality": "American",
+    "excerpt": "James Charles is a makeup artist and beauty YouTuber who became the first male CoverGirl ambassador. He has amassed millions of followers across social media platforms.",
+    "tags": [
+      "influencer",
+      "makeup",
+      "youtuber",
+      "beauty",
+      "covergirl"
+    ]
+  },
+  {
+    "name": "Jeffree Star",
+    "category": "influencer",
+    "profession": "Makeup Artist and Entrepreneur",
+    "born": "November 15, 1985",
+    "birthPlace": "Orange County, California, USA",
+    "nationality": "American",
+    "excerpt": "Jeffree Star is a makeup artist, entrepreneur, and social media personality who founded Jeffree Star Cosmetics. He is one of the most influential figures in the beauty industry.",
+    "tags": [
+      "influencer",
+      "makeup",
+      "entrepreneur",
+      "beauty",
+      "youtuber"
+    ]
+  },
+  {
+    "name": "NikkieTutorials",
+    "category": "influencer",
+    "profession": "Makeup Artist and YouTuber",
+    "born": "March 2, 1994",
+    "birthPlace": "Wageningen, Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "Nikkie de Jager, known as NikkieTutorials, is a Dutch makeup artist and YouTuber. She gained worldwide attention for her Power of Makeup video and coming out as transgender.",
+    "tags": [
+      "influencer",
+      "makeup",
+      "youtuber",
+      "beauty",
+      "dutch"
+    ]
+  },
+  {
+    "name": "Marques Brownlee",
+    "category": "influencer",
+    "profession": "Tech YouTuber",
+    "born": "December 3, 1993",
+    "birthPlace": "Maplewood, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Marques Brownlee, known as MKBHD, is a tech reviewer and YouTuber known for his high-quality gadget reviews. He has interviewed major tech CEOs including Elon Musk and Bill Gates.",
+    "tags": [
+      "youtuber",
+      "tech",
+      "reviewer",
+      "mkbhd",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Casey Neistat",
+    "category": "influencer",
+    "profession": "YouTuber and Filmmaker",
+    "born": "March 25, 1981",
+    "birthPlace": "New London, Connecticut, USA",
+    "nationality": "American",
+    "excerpt": "Casey Neistat is a YouTuber, filmmaker, and vlogger known for his daily vlogs and creative storytelling. He co-founded the multimedia company Beme.",
+    "tags": [
+      "youtuber",
+      "filmmaker",
+      "vlogger",
+      "neistat",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Lilly Singh",
+    "category": "influencer",
+    "profession": "YouTuber and Comedian",
+    "born": "September 26, 1988",
+    "birthPlace": "Scarborough, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Lilly Singh is a Canadian YouTuber, comedian, and actress known for her channel IISuperwomanII. She hosted her own late-night talk show A Little Late with Lilly Singh.",
+    "tags": [
+      "youtuber",
+      "comedian",
+      "canadian",
+      "talk show",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Markiplier",
+    "category": "influencer",
+    "profession": "YouTuber and Gaming Personality",
+    "born": "June 28, 1989",
+    "birthPlace": "Honolulu, Hawaii, USA",
+    "nationality": "American",
+    "excerpt": "Markiplier, born Mark Fischbach, is a gaming YouTuber known for his energetic commentary and Let's Play videos. He has also ventured into scripted content and film production.",
+    "tags": [
+      "youtuber",
+      "gaming",
+      "markiplier",
+      "influencer",
+      "entertainer"
+    ]
+  },
+  {
+    "name": "Jacksepticeye",
+    "category": "influencer",
+    "profession": "YouTuber and Gaming Personality",
+    "born": "February 7, 1990",
+    "birthPlace": "Athlone, County Westmeath, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Jacksepticeye, born Sean McLoughlin, is an Irish gaming YouTuber known for his high-energy Let's Play videos. He founded the charity clothing line Cloak.",
+    "tags": [
+      "youtuber",
+      "gaming",
+      "irish",
+      "influencer",
+      "cloak"
+    ]
+  },
+  {
+    "name": "Dream",
+    "category": "influencer",
+    "profession": "YouTuber and Gaming Personality",
+    "born": "August 12, 1999",
+    "birthPlace": "United States",
+    "nationality": "American",
+    "excerpt": "Dream is a Minecraft YouTuber known for his speedruns, manhunt videos, and face reveal. He is one of the most popular gaming creators on the platform.",
+    "tags": [
+      "youtuber",
+      "minecraft",
+      "gaming",
+      "dream",
+      "influencer"
+    ]
+  },
+  {
+    "name": "GeorgeNotFound",
+    "category": "influencer",
+    "profession": "YouTuber and Streamer",
+    "born": "November 1, 1996",
+    "birthPlace": "United States",
+    "nationality": "American",
+    "excerpt": "GeorgeNotFound is a Minecraft YouTuber and Twitch streamer known for his collaborations with Dream and Sapnap. He is a member of the Dream SMP.",
+    "tags": [
+      "youtuber",
+      "minecraft",
+      "streamer",
+      "dream smp",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Sapnap",
+    "category": "influencer",
+    "profession": "YouTuber and Streamer",
+    "born": "March 1, 2001",
+    "birthPlace": "United States",
+    "nationality": "American",
+    "excerpt": "Sapnap is a Minecraft YouTuber and Twitch streamer and a core member of the Dream SMP. He is also the founder of the gaming organization Sapnap.",
+    "tags": [
+      "youtuber",
+      "minecraft",
+      "streamer",
+      "dream smp",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Elon Musk",
+    "category": "tech",
+    "profession": "CEO of Tesla and SpaceX",
+    "born": "June 28, 1971",
+    "birthPlace": "Pretoria, South Africa",
+    "nationality": "South African-Canadian-American",
+    "excerpt": "Elon Musk is the CEO of Tesla, SpaceX, and X (formerly Twitter). He is one of the wealthiest people in the world and a pioneer in electric vehicles and space exploration.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "tesla",
+      "spacex",
+      "ceo"
+    ]
+  },
+  {
+    "name": "Jeff Bezos",
+    "category": "tech",
+    "profession": "Founder of Amazon",
+    "born": "January 12, 1964",
+    "birthPlace": "Albuquerque, New Mexico, USA",
+    "nationality": "American",
+    "excerpt": "Jeff Bezos founded Amazon in 1994 and grew it into the world's largest e-commerce company. He also owns The Washington Post and founded the aerospace company Blue Origin.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "amazon",
+      "bezos",
+      "blue origin"
+    ]
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "category": "tech",
+    "profession": "CEO of Meta",
+    "born": "May 14, 1984",
+    "birthPlace": "White Plains, New York, USA",
+    "nationality": "American",
+    "excerpt": "Mark Zuckerberg co-founded Facebook in 2004 and serves as CEO of Meta Platforms. He is one of the most influential figures in social media and technology.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "facebook",
+      "meta",
+      "zuckerberg"
+    ]
+  },
+  {
+    "name": "Bill Gates",
+    "category": "tech",
+    "profession": "Co-founder of Microsoft",
+    "born": "October 28, 1955",
+    "birthPlace": "Seattle, Washington, USA",
+    "nationality": "American",
+    "excerpt": "Bill Gates co-founded Microsoft and led it to become the world's largest personal computer software company. He now focuses on philanthropy through the Bill & Melinda Gates Foundation.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "microsoft",
+      "philanthropy",
+      "gates"
+    ]
+  },
+  {
+    "name": "Steve Jobs",
+    "category": "tech",
+    "profession": "Co-founder of Apple",
+    "born": "February 24, 1955",
+    "birthPlace": "San Francisco, California, USA",
+    "nationality": "American",
+    "excerpt": "Steve Jobs co-founded Apple Inc. and served as its CEO, leading the development of the Mac, iPhone, and iPad. He transformed multiple industries from personal computing to music.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "apple",
+      "iphone",
+      "innovator"
+    ]
+  },
+  {
+    "name": "Tim Cook",
+    "category": "tech",
+    "profession": "CEO of Apple",
+    "born": "November 1, 1960",
+    "birthPlace": "Robertsdale, Alabama, USA",
+    "nationality": "American",
+    "excerpt": "Tim Cook has served as CEO of Apple since 2011, succeeding Steve Jobs. He previously served as Apple's Chief Operating Officer and is known for his supply chain expertise.",
+    "tags": [
+      "tech",
+      "ceo",
+      "apple",
+      "cook",
+      "business"
+    ]
+  },
+  {
+    "name": "Sundar Pichai",
+    "category": "tech",
+    "profession": "CEO of Alphabet and Google",
+    "born": "June 10, 1972",
+    "birthPlace": "Madurai, Tamil Nadu, India",
+    "nationality": "Indian-American",
+    "excerpt": "Sundar Pichai is the CEO of Alphabet Inc. and Google LLC. He played a key role in developing Google Chrome and Chrome OS.",
+    "tags": [
+      "tech",
+      "ceo",
+      "google",
+      "alphabet",
+      "pichai"
+    ]
+  },
+  {
+    "name": "Satya Nadella",
+    "category": "tech",
+    "profession": "CEO of Microsoft",
+    "born": "August 19, 1967",
+    "birthPlace": "Hyderabad, Telangana, India",
+    "nationality": "Indian-American",
+    "excerpt": "Satya Nadella has served as CEO of Microsoft since 2014, focusing on cloud computing and AI. He has led Microsoft to become one of the most valuable companies in the world.",
+    "tags": [
+      "tech",
+      "ceo",
+      "microsoft",
+      "nadella",
+      "cloud"
+    ]
+  },
+  {
+    "name": "Jensen Huang",
+    "category": "tech",
+    "profession": "CEO of NVIDIA",
+    "born": "February 17, 1963",
+    "birthPlace": "Tainan, Taiwan",
+    "nationality": "Taiwanese-American",
+    "excerpt": "Jensen Huang co-founded NVIDIA and serves as its CEO, leading the company to become the dominant player in AI chips and graphics processing units.",
+    "tags": [
+      "tech",
+      "ceo",
+      "nvidia",
+      "ai",
+      "gpu"
+    ]
+  },
+  {
+    "name": "Sam Altman",
+    "category": "tech",
+    "profession": "CEO of OpenAI",
+    "born": "April 22, 1985",
+    "birthPlace": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Sam Altman is the CEO of OpenAI, the company behind ChatGPT. He previously served as president of Y Combinator and has been a leading voice in AI development.",
+    "tags": [
+      "tech",
+      "ceo",
+      "openai",
+      "ai",
+      "altman"
+    ]
+  },
+  {
+    "name": "Sheryl Sandberg",
+    "category": "tech",
+    "profession": "Former COO of Meta",
+    "born": "August 28, 1969",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Sheryl Sandberg served as COO of Facebook (Meta) from 2008 to 2022. She is the author of the bestselling book Lean In.",
+    "tags": [
+      "tech",
+      "business",
+      "meta",
+      "facebook",
+      "sandberg"
+    ]
+  },
+  {
+    "name": "Susan Wojcicki",
+    "category": "tech",
+    "profession": "Former CEO of YouTube",
+    "born": "July 5, 1968",
+    "birthPlace": "Santa Clara, California, USA",
+    "nationality": "American",
+    "excerpt": "Susan Wojcicki served as CEO of YouTube from 2014 to 2023. She was Google's first marketing manager and played a key role in the acquisition of YouTube.",
+    "tags": [
+      "tech",
+      "ceo",
+      "youtube",
+      "google",
+      "wojcicki"
+    ]
+  },
+  {
+    "name": "Jack Dorsey",
+    "category": "tech",
+    "profession": "Co-founder of Twitter and Block",
+    "born": "November 19, 1976",
+    "birthPlace": "St. Louis, Missouri, USA",
+    "nationality": "American",
+    "excerpt": "Jack Dorsey co-founded Twitter and served as its CEO twice, and also co-founded Block (formerly Square). He is a prominent figure in fintech and social media.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "twitter",
+      "block",
+      "dorsey"
+    ]
+  },
+  {
+    "name": "Reed Hastings",
+    "category": "tech",
+    "profession": "Co-founder of Netflix",
+    "born": "October 8, 1960",
+    "birthPlace": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Reed Hastings co-founded Netflix in 1997 and served as its CEO until 2023. He transformed the company from a DVD rental service into a global streaming giant.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "netflix",
+      "streaming",
+      "hastings"
+    ]
+  },
+  {
+    "name": "Brian Chesky",
+    "category": "tech",
+    "profession": "CEO of Airbnb",
+    "born": "August 29, 1981",
+    "birthPlace": "Niskayuna, New York, USA",
+    "nationality": "American",
+    "excerpt": "Brian Chesky co-founded Airbnb in 2008 and serves as its CEO. He has transformed the hospitality industry by creating the world's largest home-sharing platform.",
+    "tags": [
+      "tech",
+      "ceo",
+      "airbnb",
+      "entrepreneur",
+      "chesky"
+    ]
+  },
+  {
+    "name": "Travis Kalanick",
+    "category": "tech",
+    "profession": "Co-founder of Uber",
+    "born": "August 6, 1976",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Travis Kalanick co-founded Uber and served as its CEO from 2010 to 2017. He also co-founded the cloud kitchen company CloudKitchens.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "uber",
+      "kalanick",
+      "startup"
+    ]
+  },
+  {
+    "name": "Demis Hassabis",
+    "category": "tech",
+    "profession": "CEO of DeepMind",
+    "born": "July 27, 1976",
+    "birthPlace": "London, England, UK",
+    "nationality": "British",
+    "excerpt": "Demis Hassabis is the co-founder and CEO of DeepMind, the AI research lab acquired by Google. He is a former child chess prodigy and neuroscience researcher.",
+    "tags": [
+      "tech",
+      "ai",
+      "deepmind",
+      "hassabis",
+      "science"
+    ]
+  },
+  {
+    "name": "Larry Page",
+    "category": "tech",
+    "profession": "Co-founder of Google",
+    "born": "March 26, 1973",
+    "birthPlace": "East Lansing, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Larry Page co-founded Google with Sergey Brin in 1998. He served as CEO of Alphabet from 2015 to 2019.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "google",
+      "page",
+      "alphabet"
+    ]
+  },
+  {
+    "name": "Sergey Brin",
+    "category": "tech",
+    "profession": "Co-founder of Google",
+    "born": "August 21, 1973",
+    "birthPlace": "Moscow, Soviet Union",
+    "nationality": "Russian-American",
+    "excerpt": "Sergey Brin co-founded Google with Larry Page. He is a computer scientist and has focused on special projects at Alphabet.",
+    "tags": [
+      "tech",
+      "entrepreneur",
+      "google",
+      "brin",
+      "alphabet"
+    ]
+  },
+  {
+    "name": "Peter Thiel",
+    "category": "tech",
+    "profession": "Entrepreneur and Venture Capitalist",
+    "born": "October 11, 1967",
+    "birthPlace": "Frankfurt, West Germany",
+    "nationality": "German-American",
+    "excerpt": "Peter Thiel is a venture capitalist, entrepreneur, and author who co-founded PayPal and Palantir Technologies. He was an early investor in Facebook.",
+    "tags": [
+      "tech",
+      "venture capital",
+      "paypal",
+      "palantir",
+      "thiel"
+    ]
+  },
+  {
+    "name": "Gordon Ramsay",
+    "category": "tv",
+    "profession": "Chef and Television Personality",
+    "born": "November 8, 1966",
+    "birthPlace": "Johnstone, Scotland, UK",
+    "nationality": "British",
+    "excerpt": "Gordon Ramsay is a Michelin-starred chef, restaurateur, and television personality known for shows like Hell's Kitchen and MasterChef.",
+    "tags": [
+      "chef",
+      "tv",
+      "ramsay",
+      "michelin",
+      "hells kitchen"
+    ]
+  },
+  {
+    "name": "Simon Cowell",
+    "category": "tv",
+    "profession": "Television Producer and Talent Judge",
+    "born": "October 7, 1959",
+    "birthPlace": "London, England, UK",
+    "nationality": "British",
+    "excerpt": "Simon Cowell is a television producer and talent show judge known for his blunt critiques on American Idol, The X Factor, and Britain's Got Talent.",
+    "tags": [
+      "tv",
+      "producer",
+      "judge",
+      "cowell",
+      "talent show"
+    ]
+  },
+  {
+    "name": "Ryan Seacrest",
+    "category": "tv",
+    "profession": "Television Host and Producer",
+    "born": "December 24, 1974",
+    "birthPlace": "Atlanta, Georgia, USA",
+    "nationality": "American",
+    "excerpt": "Ryan Seacrest is a television host, radio personality, and producer best known for hosting American Idol and Live with Kelly and Ryan.",
+    "tags": [
+      "tv",
+      "host",
+      "producer",
+      "seacrest",
+      "american idol"
+    ]
+  },
+  {
+    "name": "Oprah Winfrey",
+    "category": "tv",
+    "profession": "Talk Show Host and Media Mogul",
+    "born": "January 29, 1954",
+    "birthPlace": "Kosciusko, Mississippi, USA",
+    "nationality": "American",
+    "excerpt": "Oprah Winfrey is a talk show host, media executive, and philanthropist who created The Oprah Winfrey Show. She is one of the most influential women in media.",
+    "tags": [
+      "tv",
+      "talk show",
+      "media mogul",
+      "philanthropist",
+      "oprah"
+    ]
+  },
+  {
+    "name": "Ellen DeGeneres",
+    "category": "tv",
+    "profession": "Comedian and Talk Show Host",
+    "born": "January 26, 1958",
+    "birthPlace": "Metairie, Louisiana, USA",
+    "nationality": "American",
+    "excerpt": "Ellen DeGeneres is a comedian and television host who hosted The Ellen DeGeneres Show for 19 seasons. She is a prominent LGBTQ+ advocate.",
+    "tags": [
+      "tv",
+      "comedian",
+      "talk show",
+      "ellen",
+      "lgbtq"
+    ]
+  },
+  {
+    "name": "Dr. Phil McGraw",
+    "category": "tv",
+    "profession": "Television Host and Psychologist",
+    "born": "September 1, 1950",
+    "birthPlace": "Vinita, Oklahoma, USA",
+    "nationality": "American",
+    "excerpt": "Dr. Phil McGraw is a television personality and author who hosted the talk show Dr. Phil. He gained fame through regular appearances on The Oprah Winfrey Show.",
+    "tags": [
+      "tv",
+      "psychologist",
+      "talk show",
+      "dr phil",
+      "author"
+    ]
+  },
+  {
+    "name": "Jimmy Fallon",
+    "category": "tv",
+    "profession": "Talk Show Host and Comedian",
+    "born": "September 19, 1974",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Jimmy Fallon is a comedian and host of The Tonight Show Starring Jimmy Fallon. He is known for his musical comedy sketches and celebrity impressions.",
+    "tags": [
+      "tv",
+      "comedian",
+      "talk show",
+      "fallon",
+      "snl"
+    ]
+  },
+  {
+    "name": "Jimmy Kimmel",
+    "category": "tv",
+    "profession": "Talk Show Host and Comedian",
+    "born": "November 13, 1967",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Jimmy Kimmel is a comedian and host of Jimmy Kimmel Live! He has hosted the Academy Awards multiple times.",
+    "tags": [
+      "tv",
+      "comedian",
+      "talk show",
+      "kimmel",
+      "late night"
+    ]
+  },
+  {
+    "name": "Stephen Colbert",
+    "category": "tv",
+    "profession": "Talk Show Host and Comedian",
+    "born": "May 13, 1964",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Stephen Colbert is a comedian and host of The Late Show with Stephen Colbert. He previously hosted The Colbert Report on Comedy Central.",
+    "tags": [
+      "tv",
+      "comedian",
+      "talk show",
+      "colbert",
+      "political satire"
+    ]
+  },
+  {
+    "name": "James Corden",
+    "category": "tv",
+    "profession": "Talk Show Host and Actor",
+    "born": "August 22, 1978",
+    "birthPlace": "London, England, UK",
+    "nationality": "British",
+    "excerpt": "James Corden is a British actor, comedian, and host of The Late Late Show. He created the popular Carpool Karaoke segment.",
+    "tags": [
+      "tv",
+      "comedian",
+      "actor",
+      "corden",
+      "carpool karaoke"
+    ]
+  },
+  {
+    "name": "Andy Cohen",
+    "category": "tv",
+    "profession": "Television Host and Producer",
+    "born": "June 2, 1968",
+    "birthPlace": "St. Louis, Missouri, USA",
+    "nationality": "American",
+    "excerpt": "Andy Cohen is a television host and producer best known for executive producing the Real Housewives franchise and hosting Watch What Happens Live.",
+    "tags": [
+      "tv",
+      "producer",
+      "host",
+      "bravo",
+      "real housewives"
+    ]
+  },
+  {
+    "name": "Steve Harvey",
+    "category": "tv",
+    "profession": "Comedian and Talk Show Host",
+    "born": "January 17, 1957",
+    "birthPlace": "Welch, West Virginia, USA",
+    "nationality": "American",
+    "excerpt": "Steve Harvey is a comedian and television host who hosts Family Feud and The Steve Harvey Show. He also hosted the Miss Universe pageant.",
+    "tags": [
+      "tv",
+      "comedian",
+      "host",
+      "steve harvey",
+      "family feud"
+    ]
+  },
+  {
+    "name": "Wendy Williams",
+    "category": "tv",
+    "profession": "Talk Show Host and Media Personality",
+    "born": "July 18, 1964",
+    "birthPlace": "Asbury Park, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Wendy Williams is a television host and former radio DJ who hosted The Wendy Williams Show. She is known for her candid style.",
+    "tags": [
+      "tv",
+      "talk show",
+      "media personality",
+      "williams",
+      "radio"
+    ]
+  },
+  {
+    "name": "Martha Stewart",
+    "category": "tv",
+    "profession": "Lifestyle Guru and TV Personality",
+    "born": "August 3, 1941",
+    "birthPlace": "Jersey City, New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Martha Stewart is a lifestyle expert, television host, and businesswoman who built a media empire around cooking, entertaining, and home decor.",
+    "tags": [
+      "tv",
+      "lifestyle",
+      "business",
+      "stewart",
+      "cooking"
+    ]
+  },
+  {
+    "name": "Judge Judy",
+    "category": "tv",
+    "profession": "Television Judge and TV Personality",
+    "born": "October 21, 1942",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Judge Judith Sheindlin, known as Judge Judy, is a television personality and former family court judge who presides over the courtroom show Judge Judy.",
+    "tags": [
+      "tv",
+      "judge",
+      "court show",
+      "judy",
+      "tv personality"
+    ]
+  },
+  {
+    "name": "Kris Jenner",
+    "category": "tv",
+    "profession": "TV Personality and Manager",
+    "born": "November 5, 1955",
+    "birthPlace": "San Diego, California, USA",
+    "nationality": "American",
+    "excerpt": "Kris Jenner is a television personality and businesswoman who stars in Keeping Up with the Kardashians and manages her children's careers.",
+    "tags": [
+      "tv",
+      "reality tv",
+      "manager",
+      "kardashians",
+      "jenner"
+    ]
+  },
+  {
+    "name": "Kim Kardashian",
+    "category": "tv",
+    "profession": "Reality TV Star and Businesswoman",
+    "born": "October 21, 1980",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Kim Kardashian is a reality television star and businesswoman who rose to fame through Keeping Up with the Kardashians. She founded SKIMS and KKW Beauty.",
+    "tags": [
+      "tv",
+      "reality tv",
+      "businesswoman",
+      "kardashian",
+      "skims"
+    ]
+  },
+  {
+    "name": "Kylie Jenner",
+    "category": "tv",
+    "profession": "Reality TV Star and Entrepreneur",
+    "born": "August 10, 1997",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Kylie Jenner is a reality television star and entrepreneur who founded Kylie Cosmetics. She was named the world's youngest self-made billionaire by Forbes.",
+    "tags": [
+      "tv",
+      "reality tv",
+      "entrepreneur",
+      "jenner",
+      "cosmetics"
+    ]
+  },
+  {
+    "name": "Khloe Kardashian",
+    "category": "tv",
+    "profession": "Reality TV Star and Businesswoman",
+    "born": "June 27, 1984",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Khloe Kardashian is a reality television star known for Keeping Up with the Kardashians. She founded the fashion brand Good American.",
+    "tags": [
+      "tv",
+      "reality tv",
+      "businesswoman",
+      "kardashian",
+      "fashion"
+    ]
+  },
+  {
+    "name": "Kourtney Kardashian",
+    "category": "tv",
+    "profession": "Reality TV Star and Businesswoman",
+    "born": "April 18, 1979",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Kourtney Kardashian is a reality television star known for Keeping Up with the Kardashians. She founded the lifestyle brand Poosh.",
+    "tags": [
+      "tv",
+      "reality tv",
+      "businesswoman",
+      "kardashian",
+      "lifestyle"
+    ]
+  },
+  {
+    "name": "Paris Hilton",
+    "category": "tv",
+    "profession": "Socialite and TV Personality",
+    "born": "February 17, 1981",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Paris Hilton is a socialite and media personality who rose to fame through The Simple Life. She is an heiress to the Hilton Hotels fortune.",
+    "tags": [
+      "tv",
+      "socialite",
+      "businesswoman",
+      "hilton",
+      "the simple life"
+    ]
+  },
+  {
+    "name": "Nicole Richie",
+    "category": "tv",
+    "profession": "TV Personality and Fashion Designer",
+    "born": "September 21, 1981",
+    "birthPlace": "Berkeley, California, USA",
+    "nationality": "American",
+    "excerpt": "Nicole Richie is a television personality and fashion designer known for starring in The Simple Life alongside Paris Hilton.",
+    "tags": [
+      "tv",
+      "fashion",
+      "personality",
+      "richie",
+      "the simple life"
+    ]
+  },
+  {
+    "name": "Snooki",
+    "category": "tv",
+    "profession": "Reality TV Star",
+    "born": "November 23, 1987",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean-American",
+    "excerpt": "Nicole Polizzi, known as Snooki, is a reality television star who gained fame on MTV's Jersey Shore.",
+    "tags": [
+      "tv",
+      "reality tv",
+      "jersey shore",
+      "snooki",
+      "mtv"
+    ]
+  },
+  {
+    "name": "Jamie Oliver",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "May 27, 1975",
+    "birthPlace": "Clavering, Essex, England, UK",
+    "nationality": "British",
+    "excerpt": "Jamie Oliver is a celebrity chef, restaurateur, and cookbook author known for his campaign for healthier school meals.",
+    "tags": [
+      "chef",
+      "restaurateur",
+      "cookbook",
+      "oliver",
+      "tv"
+    ]
+  },
+  {
+    "name": "Anthony Bourdain",
+    "category": "chef",
+    "profession": "Chef, Author, and TV Host",
+    "born": "June 25, 1956",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Anthony Bourdain was a celebrated chef, author, and television host known for Parts Unknown and Kitchen Confidential.",
+    "tags": [
+      "chef",
+      "author",
+      "tv host",
+      "bourdain",
+      "travel"
+    ]
+  },
+  {
+    "name": "Julia Child",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "August 15, 1912",
+    "birthPlace": "Pasadena, California, USA",
+    "nationality": "American",
+    "excerpt": "Julia Child was an American chef and television personality who introduced French cuisine to American audiences through Mastering the Art of French Cooking.",
+    "tags": [
+      "chef",
+      "author",
+      "tv personality",
+      "french cuisine",
+      "child"
+    ]
+  },
+  {
+    "name": "Massimo Bottura",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "September 30, 1962",
+    "birthPlace": "Modena, Italy",
+    "nationality": "Italian",
+    "excerpt": "Massimo Bottura is a Michelin-starred Italian chef and owner of Osteria Francescana, ranked among the best restaurants in the world.",
+    "tags": [
+      "chef",
+      "michelin",
+      "italian",
+      "bottura",
+      "restaurateur"
+    ]
+  },
+  {
+    "name": "Rene Redzepi",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "December 16, 1977",
+    "birthPlace": "Copenhagen, Denmark",
+    "nationality": "Danish",
+    "excerpt": "Rene Redzepi is a Danish chef and co-owner of Noma, a multiple-time winner of the World's Best Restaurant award.",
+    "tags": [
+      "chef",
+      "michelin",
+      "noma",
+      "nordic",
+      "redzepi"
+    ]
+  },
+  {
+    "name": "Wolfgang Puck",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "July 8, 1949",
+    "birthPlace": "Sankt Veit an der Glan, Austria",
+    "nationality": "Austrian-American",
+    "excerpt": "Wolfgang Puck is an Austrian-American chef and restaurateur known for his fine dining and celebrity catering.",
+    "tags": [
+      "chef",
+      "restaurateur",
+      "austrian",
+      "puck",
+      "fine dining"
+    ]
+  },
+  {
+    "name": "Emeril Lagasse",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "October 15, 1959",
+    "birthPlace": "Fall River, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Emeril Lagasse is a celebrity chef and television personality known for his catchphrase Bam!",
+    "tags": [
+      "chef",
+      "tv personality",
+      "food network",
+      "lagasse",
+      "bam"
+    ]
+  },
+  {
+    "name": "Bobby Flay",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "December 10, 1964",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Bobby Flay is a celebrity chef and Food Network star known for shows like Bobby Flay's Throwdown and Beat Bobby Flay.",
+    "tags": [
+      "chef",
+      "tv personality",
+      "food network",
+      "flay",
+      "grill"
+    ]
+  },
+  {
+    "name": "Guy Fieri",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "January 22, 1968",
+    "birthPlace": "Columbus, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Guy Fieri is a celebrity chef and Food Network host known for Diners, Drive-Ins and Dives.",
+    "tags": [
+      "chef",
+      "tv personality",
+      "food network",
+      "fieri",
+      "diners"
+    ]
+  },
+  {
+    "name": "Ina Garten",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "February 2, 1948",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Ina Garten is a celebrity chef and host of Barefoot Contessa on Food Network.",
+    "tags": [
+      "chef",
+      "tv personality",
+      "barefoot contessa",
+      "garten",
+      "cookbook"
+    ]
+  },
+  {
+    "name": "Nigella Lawson",
+    "category": "chef",
+    "profession": "Chef and Food Writer",
+    "born": "January 6, 1960",
+    "birthPlace": "Wimbledon, London, England, UK",
+    "nationality": "British",
+    "excerpt": "Nigella Lawson is a British food writer and television presenter known for her sensual cooking style.",
+    "tags": [
+      "chef",
+      "food writer",
+      "tv presenter",
+      "lawson",
+      "cookbook"
+    ]
+  },
+  {
+    "name": "Giada De Laurentiis",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "August 22, 1970",
+    "birthPlace": "Rome, Italy",
+    "nationality": "Italian-American",
+    "excerpt": "Giada De Laurentiis is a celebrity chef and Food Network star known for her Italian cuisine shows including Everyday Italian.",
+    "tags": [
+      "chef",
+      "tv personality",
+      "italian",
+      "food network",
+      "de laurentiis"
+    ]
+  },
+  {
+    "name": "Alton Brown",
+    "category": "chef",
+    "profession": "Chef and Television Personality",
+    "born": "July 30, 1962",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Alton Brown is a chef and food scientist known for hosting Good Eats and Iron Chef America.",
+    "tags": [
+      "chef",
+      "tv personality",
+      "food science",
+      "brown",
+      "good eats"
+    ]
+  },
+  {
+    "name": "David Chang",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "August 5, 1977",
+    "birthPlace": "Vienna, Virginia, USA",
+    "nationality": "American",
+    "excerpt": "David Chang is a chef and founder of the Momofuku restaurant group. He is also the host of the Netflix series Ugly Delicious.",
+    "tags": [
+      "chef",
+      "restaurateur",
+      "momofuku",
+      "chang",
+      "ugly delicious"
+    ]
+  },
+  {
+    "name": "Heston Blumenthal",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "May 27, 1966",
+    "birthPlace": "London, England, UK",
+    "nationality": "British",
+    "excerpt": "Heston Blumenthal is a multi-Michelin-starred chef and owner of The Fat Duck, known for his innovative molecular gastronomy approach.",
+    "tags": [
+      "chef",
+      "michelin",
+      "molecular gastronomy",
+      "blumenthal",
+      "fat duck"
+    ]
+  },
+  {
+    "name": "Thomas Keller",
+    "category": "chef",
+    "profession": "Chef and Restaurateur",
+    "born": "October 14, 1955",
+    "birthPlace": "Camp Pendleton, California, USA",
+    "nationality": "American",
+    "excerpt": "Thomas Keller is a world-renowned chef and restaurateur behind The French Laundry and Per Se.",
+    "tags": [
+      "chef",
+      "michelin",
+      "french laundry",
+      "keller",
+      "fine dining"
+    ]
+  },
+  {
+    "name": "Jose Andres",
+    "category": "chef",
+    "profession": "Chef and Humanitarian",
+    "born": "July 13, 1969",
+    "birthPlace": "Mieres, Asturias, Spain",
+    "nationality": "Spanish-American",
+    "excerpt": "Jose Andres is a Michelin-starred chef and humanitarian who founded World Central Kitchen.",
+    "tags": [
+      "chef",
+      "humanitarian",
+      "michelin",
+      "andres",
+      "world central kitchen"
+    ]
+  },
+  {
+    "name": "Warren Buffett",
+    "category": "business",
+    "profession": "Investor and CEO of Berkshire Hathaway",
+    "born": "August 30, 1930",
+    "birthPlace": "Omaha, Nebraska, USA",
+    "nationality": "American",
+    "excerpt": "Warren Buffett is one of the most successful investors in the world and the CEO of Berkshire Hathaway. He is known as the Oracle of Omaha.",
+    "tags": [
+      "business",
+      "investor",
+      "buffett",
+      "berkshire hathaway",
+      "philanthropy"
+    ]
+  },
+  {
+    "name": "Richard Branson",
+    "category": "business",
+    "profession": "Founder of Virgin Group",
+    "born": "July 18, 1950",
+    "birthPlace": "Blackheath, London, England, UK",
+    "nationality": "British",
+    "excerpt": "Richard Branson is a British entrepreneur who founded the Virgin Group, which controls more than 400 companies.",
+    "tags": [
+      "business",
+      "entrepreneur",
+      "virgin",
+      "branson",
+      "space tourism"
+    ]
+  },
+  {
+    "name": "Bernard Arnault",
+    "category": "business",
+    "profession": "CEO of LVMH",
+    "born": "March 5, 1949",
+    "birthPlace": "Roubaix, France",
+    "nationality": "French",
+    "excerpt": "Bernard Arnault is the chairman and CEO of LVMH Moet Hennessy Louis Vuitton, the world's largest luxury goods company.",
+    "tags": [
+      "business",
+      "luxury",
+      "lvmh",
+      "arnault",
+      "ceo"
+    ]
+  },
+  {
+    "name": "Michael Bloomberg",
+    "category": "business",
+    "profession": "Businessman and Former Mayor of New York",
+    "born": "February 14, 1942",
+    "birthPlace": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Michael Bloomberg is a businessman and philanthropist who co-founded Bloomberg L.P. and served as Mayor of New York City.",
+    "tags": [
+      "business",
+      "politician",
+      "bloomberg",
+      "mayor",
+      "philanthropy"
+    ]
+  },
+  {
+    "name": "Larry Ellison",
+    "category": "business",
+    "profession": "Co-founder of Oracle",
+    "born": "August 17, 1944",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Larry Ellison co-founded Oracle Corporation and served as its CEO for 37 years.",
+    "tags": [
+      "business",
+      "tech",
+      "oracle",
+      "ellison",
+      "ceo"
+    ]
+  },
+  {
+    "name": "Carlos Slim",
+    "category": "business",
+    "profession": "Businessman and Investor",
+    "born": "January 28, 1940",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Carlos Slim Helu is a Mexican business magnate who controls America Movil and has been ranked among the wealthiest people in the world.",
+    "tags": [
+      "business",
+      "investor",
+      "mexico",
+      "slim",
+      "telecom"
+    ]
+  },
+  {
+    "name": "Mukesh Ambani",
+    "category": "business",
+    "profession": "Chairman of Reliance Industries",
+    "born": "April 19, 1957",
+    "birthPlace": "Aden, Yemen",
+    "nationality": "Indian",
+    "excerpt": "Mukesh Ambani is the chairman of Reliance Industries Limited, one of India's most valuable companies.",
+    "tags": [
+      "business",
+      "india",
+      "reliance",
+      "ambani",
+      "energy"
+    ]
+  },
+  {
+    "name": "Jack Ma",
+    "category": "business",
+    "profession": "Founder of Alibaba Group",
+    "born": "September 10, 1964",
+    "birthPlace": "Hangzhou, Zhejiang, China",
+    "nationality": "Chinese",
+    "excerpt": "Jack Ma is a Chinese business magnate who co-founded Alibaba Group, one of the world's largest e-commerce companies.",
+    "tags": [
+      "business",
+      "ecommerce",
+      "alibaba",
+      "ma",
+      "china"
+    ]
+  },
+  {
+    "name": "Masayoshi Son",
+    "category": "business",
+    "profession": "CEO of SoftBank Group",
+    "born": "August 11, 1957",
+    "birthPlace": "Tosu, Saga, Japan",
+    "nationality": "Japanese",
+    "excerpt": "Masayoshi Son is a Japanese business magnate and CEO of SoftBank Group, a conglomerate with massive investments in technology companies.",
+    "tags": [
+      "business",
+      "tech",
+      "softbank",
+      "son",
+      "investor"
+    ]
+  },
+  {
+    "name": "Howard Schultz",
+    "category": "business",
+    "profession": "Former CEO of Starbucks",
+    "born": "July 19, 1953",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Howard Schultz is the former CEO and chairman of Starbucks who transformed the company into a global coffee empire.",
+    "tags": [
+      "business",
+      "starbucks",
+      "schultz",
+      "ceo",
+      "coffee"
+    ]
+  },
+  {
+    "name": "Bob Iger",
+    "category": "business",
+    "profession": "Former CEO of The Walt Disney Company",
+    "born": "February 10, 1951",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Bob Iger served as CEO of The Walt Disney Company and oversaw the acquisitions of Pixar, Marvel, and Lucasfilm.",
+    "tags": [
+      "business",
+      "disney",
+      "iger",
+      "ceo",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Indra Nooyi",
+    "category": "business",
+    "profession": "Former CEO of PepsiCo",
+    "born": "October 28, 1955",
+    "birthPlace": "Madras, Tamil Nadu, India",
+    "nationality": "Indian-American",
+    "excerpt": "Indra Nooyi served as CEO of PepsiCo from 2006 to 2018, one of the most prominent female CEOs in the world.",
+    "tags": [
+      "business",
+      "pepsico",
+      "nooyi",
+      "ceo",
+      "leadership"
+    ]
+  },
+  {
+    "name": "Steven Spielberg",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "December 18, 1946",
+    "birthPlace": "Cincinnati, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Steven Spielberg is one of the most influential film directors in history, known for classics like Jaws, E.T., Jurassic Park, and Schindler's List.",
+    "tags": [
+      "director",
+      "producer",
+      "hollywood",
+      "spielberg",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Martin Scorsese",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "November 17, 1942",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Martin Scorsese is a legendary film director known for his work in crime dramas like Goodfellas, Taxi Driver, and The Irishman.",
+    "tags": [
+      "director",
+      "film",
+      "scorsese",
+      "oscar",
+      "crime drama"
+    ]
+  },
+  {
+    "name": "Christopher Nolan",
+    "category": "director",
+    "profession": "Film Director and Screenwriter",
+    "born": "July 30, 1970",
+    "birthPlace": "London, England, UK",
+    "nationality": "British-American",
+    "excerpt": "Christopher Nolan is an acclaimed film director known for mind-bending films like Inception, The Dark Knight trilogy, and Oppenheimer.",
+    "tags": [
+      "director",
+      "screenwriter",
+      "nolan",
+      "oscar",
+      "blockbuster"
+    ]
+  },
+  {
+    "name": "Quentin Tarantino",
+    "category": "director",
+    "profession": "Film Director and Screenwriter",
+    "born": "March 27, 1963",
+    "birthPlace": "Knoxville, Tennessee, USA",
+    "nationality": "American",
+    "excerpt": "Quentin Tarantino is an acclaimed film director known for his distinctive style in films like Pulp Fiction, Kill Bill, and Inglourious Basterds.",
+    "tags": [
+      "director",
+      "screenwriter",
+      "tarantino",
+      "oscar",
+      "cult"
+    ]
+  },
+  {
+    "name": "James Cameron",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "August 16, 1954",
+    "birthPlace": "Kapuskasing, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "James Cameron is a film director known for blockbusters like Titanic, Avatar, and Terminator 2. Avatar remains the highest-grossing film ever.",
+    "tags": [
+      "director",
+      "producer",
+      "cameron",
+      "avatar",
+      "titanic"
+    ]
+  },
+  {
+    "name": "David Fincher",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "August 28, 1962",
+    "birthPlace": "Denver, Colorado, USA",
+    "nationality": "American",
+    "excerpt": "David Fincher is a film director known for his dark, stylish thrillers including Fight Club, Seven, and The Social Network.",
+    "tags": [
+      "director",
+      "film",
+      "fincher",
+      "thriller",
+      "seven"
+    ]
+  },
+  {
+    "name": "Ridley Scott",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "November 30, 1937",
+    "birthPlace": "South Shields, England, UK",
+    "nationality": "British",
+    "excerpt": "Ridley Scott is a prolific film director known for iconic films including Alien, Blade Runner, Gladiator, and The Martian.",
+    "tags": [
+      "director",
+      "producer",
+      "scott",
+      "alien",
+      "gladiator"
+    ]
+  },
+  {
+    "name": "Peter Jackson",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "October 31, 1961",
+    "birthPlace": "Pukerua Bay, New Zealand",
+    "nationality": "New Zealander",
+    "excerpt": "Peter Jackson is a film director best known for adapting The Lord of the Rings and The Hobbit trilogies.",
+    "tags": [
+      "director",
+      "producer",
+      "jackson",
+      "lord of the rings",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Alfonso Cuaron",
+    "category": "director",
+    "profession": "Film Director and Screenwriter",
+    "born": "November 28, 1961",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Alfonso Cuaron is an acclaimed Mexican film director known for films like Roma, Gravity, and Children of Men.",
+    "tags": [
+      "director",
+      "screenwriter",
+      "cuaron",
+      "mexican",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Guillermo del Toro",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "October 9, 1964",
+    "birthPlace": "Guadalajara, Jalisco, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Guillermo del Toro is a Mexican film director known for fantasy films like Pan's Labyrinth and The Shape of Water.",
+    "tags": [
+      "director",
+      "producer",
+      "del toro",
+      "fantasy",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Wes Anderson",
+    "category": "director",
+    "profession": "Film Director and Screenwriter",
+    "born": "May 1, 1969",
+    "birthPlace": "Houston, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Wes Anderson is a film director known for his distinctive visual style in films like The Grand Budapest Hotel and Fantastic Mr. Fox.",
+    "tags": [
+      "director",
+      "screenwriter",
+      "anderson",
+      "indie",
+      "wes anderson"
+    ]
+  },
+  {
+    "name": "Kathryn Bigelow",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "November 27, 1951",
+    "birthPlace": "San Carlos, California, USA",
+    "nationality": "American",
+    "excerpt": "Kathryn Bigelow became the first woman to win the Academy Award for Best Director for The Hurt Locker.",
+    "tags": [
+      "director",
+      "producer",
+      "bigelow",
+      "oscar",
+      "first woman"
+    ]
+  },
+  {
+    "name": "Greta Gerwig",
+    "category": "director",
+    "profession": "Film Director and Actress",
+    "born": "August 4, 1983",
+    "birthPlace": "Sacramento, California, USA",
+    "nationality": "American",
+    "excerpt": "Greta Gerwig is a film director and writer known for Lady Bird, Little Women, and the blockbuster Barbie.",
+    "tags": [
+      "director",
+      "actress",
+      "gerwig",
+      "barbie",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Bong Joon-ho",
+    "category": "director",
+    "profession": "Film Director and Screenwriter",
+    "born": "September 14, 1969",
+    "birthPlace": "Daegu, South Korea",
+    "nationality": "South Korean",
+    "excerpt": "Bong Joon-ho is a South Korean film director who won the Academy Award for Best Picture and Best Director for Parasite.",
+    "tags": [
+      "director",
+      "screenwriter",
+      "bong",
+      "parasite",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Taika Waititi",
+    "category": "director",
+    "profession": "Film Director and Actor",
+    "born": "August 16, 1975",
+    "birthPlace": "Wellington, New Zealand",
+    "nationality": "New Zealander",
+    "excerpt": "Taika Waititi is a New Zealand film director known for Thor: Ragnarok, Jojo Rabbit, and What We Do in the Shadows.",
+    "tags": [
+      "director",
+      "actor",
+      "waititi",
+      "thor",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Jordan Peele",
+    "category": "director",
+    "profession": "Film Director and Comedian",
+    "born": "February 21, 1979",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Jordan Peele is a film director known for horror films Get Out, Us, and Nope. He won the Oscar for Best Original Screenplay.",
+    "tags": [
+      "director",
+      "comedian",
+      "peele",
+      "horror",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Denis Villeneuve",
+    "category": "director",
+    "profession": "Film Director and Producer",
+    "born": "October 3, 1967",
+    "birthPlace": "Trois-Rivieres, Quebec, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Denis Villeneuve is a Canadian film director known for epic sci-fi films including Arrival, Blade Runner 2049, and Dune.",
+    "tags": [
+      "director",
+      "producer",
+      "villeneuve",
+      "dune",
+      "sci-fi"
+    ]
+  },
+  {
+    "name": "Jerry Bruckheimer",
+    "category": "producer",
+    "profession": "Film and Television Producer",
+    "born": "September 21, 1943",
+    "birthPlace": "Detroit, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Jerry Bruckheimer is a prolific producer behind blockbuster franchises like Pirates of the Caribbean, Bad Boys, and Top Gun.",
+    "tags": [
+      "producer",
+      "film",
+      "tv",
+      "bruckheimer",
+      "blockbuster"
+    ]
+  },
+  {
+    "name": "Kevin Feige",
+    "category": "producer",
+    "profession": "President of Marvel Studios",
+    "born": "June 2, 1973",
+    "birthPlace": "Boston, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Kevin Feige is the President of Marvel Studios and the producer of the Marvel Cinematic Universe, the highest-grossing film franchise of all time.",
+    "tags": [
+      "producer",
+      "marvel",
+      "feige",
+      "mcu",
+      "blockbuster"
+    ]
+  },
+  {
+    "name": "Shonda Rhimes",
+    "category": "producer",
+    "profession": "Television Producer and Screenwriter",
+    "born": "January 13, 1970",
+    "birthPlace": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Shonda Rhimes created Grey's Anatomy, Scandal, and Bridgerton. She is one of the most powerful showrunners in TV.",
+    "tags": [
+      "producer",
+      "tv",
+      "rhimes",
+      "greys anatomy",
+      "bridgerton"
+    ]
+  },
+  {
+    "name": "Ryan Murphy",
+    "category": "producer",
+    "profession": "Television Producer and Writer",
+    "born": "November 30, 1965",
+    "birthPlace": "Indianapolis, Indiana, USA",
+    "nationality": "American",
+    "excerpt": "Ryan Murphy is a television producer known for creating Glee, American Horror Story, and The Crown.",
+    "tags": [
+      "producer",
+      "tv",
+      "murphy",
+      "glee",
+      "american horror story"
+    ]
+  },
+  {
+    "name": "Dick Wolf",
+    "category": "producer",
+    "profession": "Television Producer",
+    "born": "December 20, 1946",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Dick Wolf created the Law & Order franchise, one of the longest-running and most successful TV series.",
+    "tags": [
+      "producer",
+      "tv",
+      "law and order",
+      "wolf",
+      "crime drama"
+    ]
+  },
+  {
+    "name": "Tyler Perry",
+    "category": "producer",
+    "profession": "Filmmaker and Producer",
+    "born": "September 13, 1969",
+    "birthPlace": "New Orleans, Louisiana, USA",
+    "nationality": "American",
+    "excerpt": "Tyler Perry created the Madea franchise and owns Tyler Perry Studios in Atlanta.",
+    "tags": [
+      "producer",
+      "director",
+      "perry",
+      "madea",
+      "studio owner"
+    ]
+  },
+  {
+    "name": "J.J. Abrams",
+    "category": "producer",
+    "profession": "Film and Television Producer",
+    "born": "June 27, 1966",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "J.J. Abrams is a film producer and director known for creating Lost and directing Star Wars and Star Trek films.",
+    "tags": [
+      "producer",
+      "director",
+      "abrams",
+      "star wars",
+      "lost"
+    ]
+  },
+  {
+    "name": "Kathleen Kennedy",
+    "category": "producer",
+    "profession": "President of Lucasfilm",
+    "born": "June 5, 1953",
+    "birthPlace": "Berkeley, California, USA",
+    "nationality": "American",
+    "excerpt": "Kathleen Kennedy is President of Lucasfilm, overseeing the Star Wars franchise, and has produced some of the highest-grossing films ever.",
+    "tags": [
+      "producer",
+      "lucasfilm",
+      "star wars",
+      "kennedy",
+      "film"
+    ]
+  },
+  {
+    "name": "Amy Pascal",
+    "category": "producer",
+    "profession": "Film Producer",
+    "born": "March 25, 1958",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Amy Pascal is a film producer and former co-chairman of Sony Pictures Entertainment, known for producing the Spider-Man films.",
+    "tags": [
+      "producer",
+      "film",
+      "sony",
+      "spider-man",
+      "pascal"
+    ]
+  },
+  {
+    "name": "Kevin Hart",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "July 6, 1979",
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Kevin Hart is a stand-up comedian and actor who has starred in numerous comedy films. He is one of the highest-grossing comedians.",
+    "tags": [
+      "comedian",
+      "actor",
+      "hart",
+      "stand-up",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Dave Chappelle",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "August 24, 1973",
+    "birthPlace": "Washington, D.C., USA",
+    "nationality": "American",
+    "excerpt": "Dave Chappelle is a legendary stand-up comedian known for Chappelle's Show and his critically acclaimed Netflix comedy specials.",
+    "tags": [
+      "comedian",
+      "actor",
+      "chappelle",
+      "stand-up",
+      "netflix"
+    ]
+  },
+  {
+    "name": "Jerry Seinfeld",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "April 29, 1954",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Jerry Seinfeld is a stand-up comedian best known for creating and starring in the iconic sitcom Seinfeld.",
+    "tags": [
+      "comedian",
+      "actor",
+      "seinfeld",
+      "sitcom",
+      "stand-up"
+    ]
+  },
+  {
+    "name": "Chris Rock",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "February 7, 1965",
+    "birthPlace": "Andrews, South Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Chris Rock is a stand-up comedian known for his sharp social commentary. He has won multiple Emmy and Grammy Awards.",
+    "tags": [
+      "comedian",
+      "actor",
+      "rock",
+      "stand-up",
+      "social commentary"
+    ]
+  },
+  {
+    "name": "Trevor Noah",
+    "category": "comedian",
+    "profession": "Comedian and Talk Show Host",
+    "born": "February 20, 1984",
+    "birthPlace": "Johannesburg, South Africa",
+    "nationality": "South African",
+    "excerpt": "Trevor Noah is a South African comedian who hosted The Daily Show from 2015 to 2022. He is also a bestselling author.",
+    "tags": [
+      "comedian",
+      "talk show host",
+      "noah",
+      "daily show",
+      "author"
+    ]
+  },
+  {
+    "name": "Ricky Gervais",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "June 25, 1961",
+    "birthPlace": "Reading, Berkshire, England, UK",
+    "nationality": "British",
+    "excerpt": "Ricky Gervais is a British comedian and writer who created The Office. He is known for his controversial stand-up comedy.",
+    "tags": [
+      "comedian",
+      "actor",
+      "gervais",
+      "the office",
+      "british"
+    ]
+  },
+  {
+    "name": "John Mulaney",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "August 26, 1982",
+    "birthPlace": "Chicago, Illinois, USA",
+    "nationality": "American",
+    "excerpt": "John Mulaney is a stand-up comedian known for his Netflix specials and work on Saturday Night Live.",
+    "tags": [
+      "comedian",
+      "actor",
+      "mulaney",
+      "snl",
+      "stand-up"
+    ]
+  },
+  {
+    "name": "Ali Wong",
+    "category": "comedian",
+    "profession": "Comedian and Actress",
+    "born": "April 19, 1982",
+    "birthPlace": "San Francisco, California, USA",
+    "nationality": "American",
+    "excerpt": "Ali Wong is a stand-up comedian known for her Netflix specials Baby Cobra and Hard Knock Wife.",
+    "tags": [
+      "comedian",
+      "actress",
+      "wong",
+      "stand-up",
+      "netflix"
+    ]
+  },
+  {
+    "name": "Amy Schumer",
+    "category": "comedian",
+    "profession": "Comedian and Actress",
+    "born": "June 1, 1981",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Amy Schumer is a stand-up comedian and writer known for Inside Amy Schumer and the film Trainwreck.",
+    "tags": [
+      "comedian",
+      "actress",
+      "schumer",
+      "stand-up",
+      "trainwreck"
+    ]
+  },
+  {
+    "name": "Bill Burr",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "June 10, 1968",
+    "birthPlace": "Canton, Massachusetts, USA",
+    "nationality": "American",
+    "excerpt": "Bill Burr is a stand-up comedian known for his acerbic comedy style. He also hosts the Monday Morning Podcast.",
+    "tags": [
+      "comedian",
+      "actor",
+      "burr",
+      "stand-up",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Gabriel Iglesias",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "July 15, 1976",
+    "birthPlace": "San Diego, California, USA",
+    "nationality": "American",
+    "excerpt": "Gabriel Iglesias, known as Fluffy, is a stand-up comedian known for his clean comedy and sound effects.",
+    "tags": [
+      "comedian",
+      "actor",
+      "iglesias",
+      "fluffy",
+      "clean comedy"
+    ]
+  },
+  {
+    "name": "Jim Carrey",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "January 17, 1962",
+    "birthPlace": "Newmarket, Ontario, Canada",
+    "nationality": "Canadian-American",
+    "excerpt": "Jim Carrey is a comedian known for his energetic slapstick performances in films like Ace Ventura, The Mask, and Dumb and Dumber.",
+    "tags": [
+      "comedian",
+      "actor",
+      "carrey",
+      "slapstick",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Eddie Murphy",
+    "category": "comedian",
+    "profession": "Comedian and Actor",
+    "born": "April 3, 1961",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Eddie Murphy is a legendary comedian who rose to fame on Saturday Night Live and starred in Beverly Hills Cop and Coming to America.",
+    "tags": [
+      "comedian",
+      "actor",
+      "murphy",
+      "snl",
+      "beverly hills cop"
+    ]
+  },
+  {
+    "name": "Lionel Messi",
+    "category": "footballer",
+    "profession": "Professional Footballer",
+    "born": "June 24, 1987",
+    "birthPlace": "Rosario, Santa Fe, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Lionel Messi is widely regarded as one of the greatest footballers of all time. He has won multiple Ballon d'Or awards and the FIFA World Cup with Argentina.",
+    "tags": [
+      "footballer",
+      "argentina",
+      "messi",
+      "world cup",
+      "ballon d'or"
+    ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "category": "footballer",
+    "profession": "Professional Footballer",
+    "born": "February 5, 1985",
+    "birthPlace": "Funchal, Madeira, Portugal",
+    "nationality": "Portuguese",
+    "excerpt": "Cristiano Ronaldo is one of the greatest footballers of all time, having played for Manchester United, Real Madrid, and Al Nassr.",
+    "tags": [
+      "footballer",
+      "portugal",
+      "ronaldo",
+      "real madrid",
+      "ballon d'or"
+    ]
+  },
+  {
+    "name": "Neymar",
+    "category": "footballer",
+    "profession": "Professional Footballer",
+    "born": "February 5, 1992",
+    "birthPlace": "Mogi das Cruzes, Sao Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Neymar is a Brazilian professional footballer known for his flair and dribbling skills. He has played for Santos, Barcelona, and PSG.",
+    "tags": [
+      "footballer",
+      "brazil",
+      "neymar",
+      "barcelona",
+      "psg"
+    ]
+  },
+  {
+    "name": "Kylian Mbappe",
+    "category": "footballer",
+    "profession": "Professional Footballer",
+    "born": "December 20, 1998",
+    "birthPlace": "Bondy, France",
+    "nationality": "French",
+    "excerpt": "Kylian Mbappe is a French professional footballer who won the World Cup in 2018. He has starred for Paris Saint-Germain and Real Madrid.",
+    "tags": [
+      "footballer",
+      "france",
+      "mbappe",
+      "world cup",
+      "psg"
+    ]
+  },
+  {
+    "name": "Serena Williams",
+    "category": "tennis",
+    "profession": "Professional Tennis Player",
+    "born": "September 26, 1981",
+    "birthPlace": "Saginaw, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Serena Williams is considered one of the greatest tennis players of all time with 23 Grand Slam singles titles.",
+    "tags": [
+      "tennis",
+      "sports",
+      "serena",
+      "grand slam",
+      "champion"
+    ]
+  },
+  {
+    "name": "Roger Federer",
+    "category": "tennis",
+    "profession": "Professional Tennis Player",
+    "born": "August 8, 1981",
+    "birthPlace": "Basel, Switzerland",
+    "nationality": "Swiss",
+    "excerpt": "Roger Federer is a Swiss tennis legend who won 20 Grand Slam singles titles.",
+    "tags": [
+      "tennis",
+      "sports",
+      "federer",
+      "grand slam",
+      "swiss"
+    ]
+  },
+  {
+    "name": "Michael Jordan",
+    "category": "basketball",
+    "profession": "Professional Basketball Player",
+    "born": "February 17, 1963",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Michael Jordan is widely regarded as the greatest basketball player of all time, winning six NBA championships with the Chicago Bulls.",
+    "tags": [
+      "basketball",
+      "sports",
+      "jordan",
+      "nba",
+      "chicago bulls"
+    ]
+  },
+  {
+    "name": "LeBron James",
+    "category": "basketball",
+    "profession": "Professional Basketball Player",
+    "born": "December 30, 1984",
+    "birthPlace": "Akron, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "LeBron James is one of the greatest basketball players in NBA history with four championships and multiple MVP awards.",
+    "tags": [
+      "basketball",
+      "sports",
+      "lebron",
+      "nba",
+      "lakers"
+    ]
+  },
+  {
+    "name": "Usain Bolt",
+    "category": "sports",
+    "profession": "Professional Sprinter",
+    "born": "August 21, 1986",
+    "birthPlace": "Sherwood Content, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Usain Bolt is the fastest person in history, holding world records in the 100m and 200m. He won eight Olympic gold medals.",
+    "tags": [
+      "sports",
+      "sprinter",
+      "bolt",
+      "jamaica",
+      "olympic"
+    ]
+  },
+  {
+    "name": "Mike Tyson",
+    "category": "boxer",
+    "profession": "Professional Boxer",
+    "born": "June 30, 1966",
+    "birthPlace": "Brooklyn, New York, USA",
+    "nationality": "American",
+    "excerpt": "Mike Tyson is a former undisputed heavyweight champion who became the youngest heavyweight champion at age 20.",
+    "tags": [
+      "boxer",
+      "sports",
+      "tyson",
+      "heavyweight",
+      "champion"
+    ]
+  },
+  {
+    "name": "Floyd Mayweather",
+    "category": "boxer",
+    "profession": "Professional Boxer",
+    "born": "February 24, 1977",
+    "birthPlace": "Grand Rapids, Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Floyd Mayweather remains undefeated with a 50-0 record and won world titles in five weight classes.",
+    "tags": [
+      "boxer",
+      "sports",
+      "mayweather",
+      "undefeated",
+      "champion"
+    ]
+  },
+  {
+    "name": "Conor McGregor",
+    "category": "boxer",
+    "profession": "Mixed Martial Artist and Boxer",
+    "born": "July 14, 1988",
+    "birthPlace": "Dublin, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Conor McGregor is an Irish MMA fighter and former UFC featherweight and lightweight champion.",
+    "tags": [
+      "boxer",
+      "ufc",
+      "mcgregor",
+      "mma",
+      "irish"
+    ]
+  },
+  {
+    "name": "Stephen Curry",
+    "category": "basketball",
+    "profession": "Professional Basketball Player",
+    "born": "March 14, 1988",
+    "birthPlace": "Akron, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Stephen Curry revolutionized basketball with his three-point shooting and has won four NBA championships with the Golden State Warriors.",
+    "tags": [
+      "basketball",
+      "nba",
+      "curry",
+      "warriors",
+      "mvp"
+    ]
+  },
+  {
+    "name": "Simone Biles",
+    "category": "sports",
+    "profession": "Professional Gymnast",
+    "born": "March 14, 1997",
+    "birthPlace": "Columbus, Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Simone Biles is the most decorated gymnast in history with 32 Olympic and World Championship medals.",
+    "tags": [
+      "sports",
+      "gymnastics",
+      "biles",
+      "olympic",
+      "champion"
+    ]
+  },
+  {
+    "name": "Rafael Nadal",
+    "category": "tennis",
+    "profession": "Professional Tennis Player",
+    "born": "June 3, 1986",
+    "birthPlace": "Manacor, Mallorca, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rafael Nadal is known as the King of Clay with a record 14 French Open titles and 22 Grand Slam singles titles.",
+    "tags": [
+      "tennis",
+      "sports",
+      "nadal",
+      "french open",
+      "spain"
+    ]
+  },
+  {
+    "name": "Novak Djokovic",
+    "category": "tennis",
+    "profession": "Professional Tennis Player",
+    "born": "May 22, 1987",
+    "birthPlace": "Belgrade, Serbia",
+    "nationality": "Serbian",
+    "excerpt": "Novak Djokovic holds the record for most Grand Slam singles titles in men's tennis history.",
+    "tags": [
+      "tennis",
+      "sports",
+      "djokovic",
+      "grand slam",
+      "serbia"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "category": "footballer",
+    "profession": "Professional Footballer and Businessman",
+    "born": "May 2, 1975",
+    "birthPlace": "Leytonstone, London, England, UK",
+    "nationality": "British",
+    "excerpt": "David Beckham is a former professional footballer and global icon known for his free kicks. He is co-owner of Inter Miami CF.",
+    "tags": [
+      "footballer",
+      "england",
+      "beckham",
+      "manchester united",
+      "icon"
+    ]
+  },
+  {
+    "name": "Taylor Swift",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "December 13, 1989",
+    "birthPlace": "West Reading, Pennsylvania, USA",
+    "nationality": "American",
+    "excerpt": "Taylor Swift is a globally renowned singer-songwriter known for her narrative songwriting. She has won numerous Grammy Awards.",
+    "tags": [
+      "singer",
+      "songwriter",
+      "swift",
+      "pop",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Beyonce",
+    "category": "singer",
+    "profession": "Singer and Performer",
+    "born": "September 4, 1981",
+    "birthPlace": "Houston, Texas, USA",
+    "nationality": "American",
+    "excerpt": "Beyonce is a legendary singer and cultural icon who has won 32 Grammy Awards, more than any other artist.",
+    "tags": [
+      "singer",
+      "performer",
+      "beyonce",
+      "destinys child",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Adele",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "May 5, 1988",
+    "birthPlace": "Tottenham, London, England, UK",
+    "nationality": "British",
+    "excerpt": "Adele is a British singer-songwriter known for her powerful voice and emotional ballads. Her albums have sold millions worldwide.",
+    "tags": [
+      "singer",
+      "songwriter",
+      "adele",
+      "pop",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Ed Sheeran",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "February 17, 1991",
+    "birthPlace": "Halifax, West Yorkshire, England, UK",
+    "nationality": "British",
+    "excerpt": "Ed Sheeran is a British singer-songwriter known for his acoustic pop hits and multiple Grammy wins.",
+    "tags": [
+      "singer",
+      "songwriter",
+      "sheeran",
+      "pop",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Ariana Grande",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "June 26, 1993",
+    "birthPlace": "Boca Raton, Florida, USA",
+    "nationality": "American",
+    "excerpt": "Ariana Grande is a singer known for her wide vocal range and has become one of the best-selling music artists in the world.",
+    "tags": [
+      "singer",
+      "actress",
+      "grande",
+      "pop",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Billie Eilish",
+    "category": "singer",
+    "profession": "Singer-Songwriter",
+    "born": "December 18, 2001",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Billie Eilish gained fame as a teenager with her debut single Ocean Eyes and has won multiple Grammy Awards.",
+    "tags": [
+      "singer",
+      "songwriter",
+      "eilish",
+      "pop",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Drake",
+    "category": "singer",
+    "profession": "Rapper and Singer",
+    "born": "October 24, 1986",
+    "birthPlace": "Toronto, Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Drake is a Canadian rapper and singer who is one of the best-selling music artists of all time.",
+    "tags": [
+      "singer",
+      "rapper",
+      "drake",
+      "hip hop",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Bruno Mars",
+    "category": "singer",
+    "profession": "Singer-Songwriter and Producer",
+    "born": "October 8, 1985",
+    "birthPlace": "Honolulu, Hawaii, USA",
+    "nationality": "American",
+    "excerpt": "Bruno Mars is a singer-songwriter known for his retro showmanship and has won multiple Grammy Awards.",
+    "tags": [
+      "singer",
+      "songwriter",
+      "producer",
+      "mars",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Lady Gaga",
+    "category": "singer",
+    "profession": "Singer and Actress",
+    "born": "March 28, 1986",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Lady Gaga is a singer and actress known for her provocative style. She won an Oscar for her role in A Star Is Born.",
+    "tags": [
+      "singer",
+      "actress",
+      "gaga",
+      "pop",
+      "oscar"
+    ]
+  },
+  {
+    "name": "Rihanna",
+    "category": "singer",
+    "profession": "Singer and Businesswoman",
+    "born": "February 20, 1988",
+    "birthPlace": "Saint Michael, Barbados",
+    "nationality": "Barbadian",
+    "excerpt": "Rihanna is a singer and businesswoman who founded Fenty Beauty. She is one of the best-selling music artists of all time.",
+    "tags": [
+      "singer",
+      "businesswoman",
+      "rihanna",
+      "fenty",
+      "barbados"
+    ]
+  },
+  {
+    "name": "Dwayne Johnson",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "May 2, 1972",
+    "birthPlace": "Hayward, California, USA",
+    "nationality": "American",
+    "excerpt": "Dwayne The Rock Johnson is an actor and former professional wrestler. He is one of the highest-paid actors in the world.",
+    "tags": [
+      "actor",
+      "producer",
+      "wrestler",
+      "the rock",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Tom Cruise",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "July 3, 1962",
+    "birthPlace": "Syracuse, New York, USA",
+    "nationality": "American",
+    "excerpt": "Tom Cruise is known for the Mission: Impossible franchise and his dedication to performing his own stunts.",
+    "tags": [
+      "actor",
+      "producer",
+      "cruise",
+      "mission impossible",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "November 11, 1974",
+    "birthPlace": "Los Angeles, California, USA",
+    "nationality": "American",
+    "excerpt": "Leonardo DiCaprio is an acclaimed actor who won an Oscar for The Revenant. He is also a prominent environmental activist.",
+    "tags": [
+      "actor",
+      "producer",
+      "dicaprio",
+      "oscar",
+      "environmentalist"
+    ]
+  },
+  {
+    "name": "Brad Pitt",
+    "category": "actor",
+    "profession": "Actor and Producer",
+    "born": "December 18, 1963",
+    "birthPlace": "Shawnee, Oklahoma, USA",
+    "nationality": "American",
+    "excerpt": "Brad Pitt is an award-winning actor known for films like Fight Club and Once Upon a Time in Hollywood. He founded Plan B Entertainment.",
+    "tags": [
+      "actor",
+      "producer",
+      "pitt",
+      "oscar",
+      "plan b"
+    ]
+  },
+  {
+    "name": "Scarlett Johansson",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "November 22, 1984",
+    "birthPlace": "New York City, New York, USA",
+    "nationality": "American",
+    "excerpt": "Scarlett Johansson is one of the highest-grossing actresses of all time, known for her role as Black Widow in the Marvel Cinematic Universe.",
+    "tags": [
+      "actress",
+      "marvel",
+      "black widow",
+      "johansson",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Jennifer Lawrence",
+    "category": "actor",
+    "profession": "Actress",
+    "born": "August 15, 1990",
+    "birthPlace": "Indian Hills, Kentucky, USA",
+    "nationality": "American",
+    "excerpt": "Jennifer Lawrence is an Oscar-winning actress known for The Hunger Games series and Silver Linings Playbook.",
+    "tags": [
+      "actress",
+      "hunger games",
+      "lawrence",
+      "oscar",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Zendaya",
+    "category": "actor",
+    "profession": "Actress and Singer",
+    "born": "September 1, 1996",
+    "birthPlace": "Oakland, California, USA",
+    "nationality": "American",
+    "excerpt": "Zendaya is an actress known for her Emmy-winning role in Euphoria and starring in Spider-Man and Dune.",
+    "tags": [
+      "actress",
+      "singer",
+      "zendaya",
+      "euphoria",
+      "emmy"
+    ]
+  },
+  {
+    "name": "Tom Holland",
+    "category": "actor",
+    "profession": "Actor",
+    "born": "June 1, 1996",
+    "birthPlace": "Kingston upon Thames, London, England, UK",
+    "nationality": "British",
+    "excerpt": "Tom Holland is best known for playing Spider-Man in the Marvel Cinematic Universe.",
+    "tags": [
+      "actor",
+      "spider-man",
+      "holland",
+      "marvel",
+      "british"
+    ]
+  },
+  {
+    "name": "Margot Robbie",
+    "category": "actor",
+    "profession": "Actress and Producer",
+    "born": "July 2, 1990",
+    "birthPlace": "Dalby, Queensland, Australia",
+    "nationality": "Australian",
+    "excerpt": "Margot Robbie is an Australian actress known for her roles in Barbie, The Wolf of Wall Street, and I, Tonya.",
+    "tags": [
+      "actress",
+      "producer",
+      "robbie",
+      "barbie",
+      "australian"
+    ]
+  }
+]

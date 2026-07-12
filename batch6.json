@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Juan Garnica",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "January 28, 1993",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Garnica is a popular Colombian YouTuber known for his comedy sketches, challenges, and vlogs. He has amassed millions of subscribers with his entertaining and relatable content.",
+    "tags": ["YouTube", "comedy", "content creator", "Medellín"]
+  },
+  {
+    "name": "Fernando Borrero",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "July 14, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Fernando Borrero, known as FerBorrero, is a Colombian YouTuber and comedian famous for his humorous commentary and reaction videos. He engages audiences with his witty personality.",
+    "tags": ["YouTube", "comedy", "reactions", "Bogotá"]
+  },
+  {
+    "name": "Felipe Cano",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "March 22, 1995",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Felipe Cano is a Colombian YouTuber known for his lifestyle vlogs, travel content, and challenges. He has built a large following with his charismatic and authentic style.",
+    "tags": ["YouTube", "vlogs", "lifestyle", "Barranquilla"]
+  },
+  {
+    "name": "Jorge Osorio",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "September 10, 1990",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Jorge Osorio is a Colombian YouTuber and content creator known for his travel vlogs and comedic skits. He shares adventures from around the world with his audience.",
+    "tags": ["YouTube", "travel", "comedy", "Cali"]
+  },
+  {
+    "name": "Luis Fernando Valencia",
+    "category": "influencer",
+    "profession": "YouTuber and educator",
+    "born": "May 3, 1988",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Luis Fernando Valencia is a Colombian YouTuber known for his educational content and tutorials. He helps millions learn new skills through engaging video lessons.",
+    "tags": ["YouTube", "education", "tutorials", "Bogotá"]
+  },
+  {
+    "name": "Julio Profe",
+    "category": "influencer",
+    "profession": "YouTuber and educator",
+    "born": "February 19, 1985",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Julio Profe is one of Colombia's most popular educational YouTubers, teaching mathematics and science to students across Latin America. His clear explanations have helped millions.",
+    "tags": ["YouTube", "education", "mathematics", "Bogotá"]
+  },
+  {
+    "name": "Kevin Arboleda",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "August 15, 1994",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Kevin Arboleda, known as Kevsho, is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and commentary for his dedicated fanbase.",
+    "tags": ["YouTube", "gaming", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Nicolás Muñoz",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "November 28, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Nicolás Muñoz, known as Nicoloox, is a Colombian YouTuber known for his reaction videos and pop culture commentary. He connects with audiences through his genuine reactions.",
+    "tags": ["YouTube", "reactions", "pop culture", "Barranquilla"]
+  },
+  {
+    "name": "Santiago Vesga",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "April 8, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Vesga, known as SantiVesga, is a Colombian YouTuber and comedian who creates funny skits and social commentary videos. His humor resonates with young audiences.",
+    "tags": ["YouTube", "comedy", "social commentary", "Bogotá"]
+  },
+  {
+    "name": "Andrea Valo",
+    "category": "influencer",
+    "profession": "YouTuber and influencer",
+    "born": "June 17, 1996",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrea Valo is a Colombian YouTuber and social media influencer known for her lifestyle, beauty, and fashion content. She inspires her followers with trendy looks and tips.",
+    "tags": ["YouTube", "beauty", "fashion", "Cali"]
+  },
+  {
+    "name": "Gabriela Herrera",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "January 5, 1994",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Gabriela Herrera, known as GabyHerrera, is a Colombian YouTuber who shares lifestyle vlogs, challenges, and daily life content. Her authentic approach attracts a loyal audience.",
+    "tags": ["YouTube", "lifestyle", "vlogs", "Medellín"]
+  },
+  {
+    "name": "Julián Castaño",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "October 20, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Julián Castaño is a Colombian YouTuber known for his comedic content and entertaining challenges. He has gained popularity for his energetic and fun videos.",
+    "tags": ["YouTube", "comedy", "challenges", "Bogotá"]
+  },
+  {
+    "name": "Camila Lozano",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "March 12, 1995",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Lozano is a Colombian YouTuber and gaming content creator. She brings a unique perspective to gaming videos and has a growing community of followers.",
+    "tags": ["YouTube", "gaming", "content creator", "Barranquilla"]
+  },
+  {
+    "name": "Daniel Saavedra",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "July 30, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniel Saavedra is a Colombian YouTuber known for his comedy sketches and relatable content. He creates videos that resonate with young Colombian audiences.",
+    "tags": ["YouTube", "comedy", "sketches", "Cali"]
+  },
+  {
+    "name": "Laura Sánchez",
+    "category": "influencer",
+    "profession": "YouTuber and lifestyle creator",
+    "born": "December 3, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sánchez is a Colombian YouTuber and lifestyle content creator. She shares fashion tips, beauty tutorials, and daily vlogs with her growing audience.",
+    "tags": ["YouTube", "lifestyle", "fashion", "Bogotá"]
+  },
+  {
+    "name": "Martina López",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "February 14, 2000",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Martina López, known as MartinaTutu, is a Colombian TikToker and content creator famous for her dance videos and creative content. She has millions of followers on TikTok.",
+    "tags": ["TikTok", "dance", "content creator", "Medellín"]
+  },
+  {
+    "name": "Ana María Montenegro",
+    "category": "influencer",
+    "profession": "YouTuber and influencer",
+    "born": "August 22, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ana María Montenegro is a Colombian YouTuber and influencer known for her lifestyle and beauty content. She shares tips and experiences with her dedicated followers.",
+    "tags": ["YouTube", "beauty", "lifestyle", "Barranquilla"]
+  },
+  {
+    "name": "Karem Suárez",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "May 18, 1992",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Karem Suárez is a Colombian YouTuber known for her entertaining videos and relatable personality. She creates content that connects with young audiences across Colombia.",
+    "tags": ["YouTube", "entertainment", "lifestyle", "Cali"]
+  },
+  {
+    "name": "María Fernanda Yazbek",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "September 5, 1989",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María Fernanda Yazbek is a Colombian Instagram influencer and model known for her fashion and lifestyle content. She collaborates with major brands and inspires her followers.",
+    "tags": ["Instagram", "fashion", "model", "Bogotá"]
+  },
+  {
+    "name": "María José Duque",
+    "category": "influencer",
+    "profession": "YouTuber and lifestyle creator",
+    "born": "April 11, 1993",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María José Duque is a Colombian YouTuber and lifestyle content creator known for her authentic and relatable videos. She shares daily life experiences and tips.",
+    "tags": ["YouTube", "lifestyle", "vlogs", "Medellín"]
+  },
+  {
+    "name": "Susana Giraldo",
+    "category": "influencer",
+    "profession": "YouTuber and beauty influencer",
+    "born": "January 25, 1994",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Susana Giraldo is a Colombian YouTuber and beauty influencer known for her makeup tutorials and beauty reviews. She has become a trusted voice in the beauty community.",
+    "tags": ["YouTube", "beauty", "makeup", "Barranquilla"]
+  },
+  {
+    "name": "Natalia Parra",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "June 30, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Parra is a Colombian YouTuber and content creator known for her fun and engaging videos. She creates challenges, vlogs, and lifestyle content for her audience.",
+    "tags": ["YouTube", "challenges", "lifestyle", "Cali"]
+  },
+  {
+    "name": "Juliana Caicedo",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "October 12, 1998",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juliana Caicedo is a Colombian TikToker and social media influencer known for her creative content and dance videos. She has built a strong presence on multiple platforms.",
+    "tags": ["TikTok", "dance", "social media", "Bogotá"]
+  },
+  {
+    "name": "Sofía Araujo",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "March 8, 1996",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sofía Araujo is a Colombian Instagram influencer and model known for her stunning photos and fashion content. She collaborates with fashion and beauty brands.",
+    "tags": ["Instagram", "model", "fashion", "Medellín"]
+  },
+  {
+    "name": "Laura Barragán",
+    "category": "influencer",
+    "profession": "YouTuber and lifestyle creator",
+    "born": "July 20, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Barragán is a Colombian YouTuber and lifestyle content creator. She shares travel, food, and lifestyle videos that inspire her followers to explore Colombia.",
+    "tags": ["YouTube", "travel", "lifestyle", "Barranquilla"]
+  },
+  {
+    "name": "Camila Zapata",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "November 15, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Zapata is a Colombian YouTuber known for her entertaining content and vibrant personality. She creates videos on lifestyle, beauty, and daily experiences.",
+    "tags": ["YouTube", "lifestyle", "entertainment", "Cali"]
+  },
+  {
+    "name": "Daniela Ospina",
+    "category": "influencer",
+    "profession": "Instagram influencer and fitness model",
+    "born": "September 22, 1992",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniela Ospina is a Colombian Instagram influencer, fitness model, and entrepreneur. She is known for her fitness content and lifestyle brand collaborations.",
+    "tags": ["Instagram", "fitness", "model", "Barranquilla"]
+  },
+  {
+    "name": "Isabella Santiago",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "February 28, 1994",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Isabella Santiago is a Colombian YouTuber and content creator known for her beauty tutorials and lifestyle vlogs. She has a dedicated following for her helpful content.",
+    "tags": ["YouTube", "beauty", "lifestyle", "Bogotá"]
+  },
+  {
+    "name": "Mariana Garcés",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "May 5, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Mariana Garcés is a Colombian TikToker and social media influencer known for her dance and comedy content. She has gained millions of followers with her creative videos.",
+    "tags": ["TikTok", "dance", "comedy", "Medellín"]
+  },
+  {
+    "name": "Valentina Ríos",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "August 18, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valentina Ríos is a Colombian Instagram influencer and model known for her fashion and lifestyle content. She partners with brands and inspires her followers with her style.",
+    "tags": ["Instagram", "fashion", "model", "Cali"]
+  },
+  {
+    "name": "Carolina Rojas",
+    "category": "influencer",
+    "profession": "Instagram influencer and blogger",
+    "born": "January 12, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carolina Rojas is a Colombian Instagram influencer and blogger known for her fashion and lifestyle content. She shares daily inspiration and style tips with her audience.",
+    "tags": ["Instagram", "fashion", "blogging", "Bogotá"]
+  },
+  {
+    "name": "Daniela Botero",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "April 25, 1993",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniela Botero is a Colombian Instagram influencer and model known for her stunning fashion content. She has collaborated with numerous international and local brands.",
+    "tags": ["Instagram", "model", "fashion", "Medellín"]
+  },
+  {
+    "name": "Mariana Di Nezza",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "June 8, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Mariana Di Nezza is a Colombian YouTuber and content creator known for her lifestyle and beauty videos. She shares authentic experiences and tips with her followers.",
+    "tags": ["YouTube", "beauty", "lifestyle", "Barranquilla"]
+  },
+  {
+    "name": "Valentina Zapata",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "December 1, 1997",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valentina Zapata is a Colombian TikToker and social media influencer known for her creative and entertaining content. She engages audiences with her unique style.",
+    "tags": ["TikTok", "content creator", "entertainment", "Cali"]
+  },
+  {
+    "name": "Daniela Castro",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "October 8, 1994",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniela Castro is a Colombian Instagram influencer and model known for her fashion and lifestyle content. She inspires her followers with her elegant and trendy style.",
+    "tags": ["Instagram", "model", "fashion", "Bogotá"]
+  },
+  {
+    "name": "Laura Acuña",
+    "category": "influencer",
+    "profession": "YouTuber and lifestyle creator",
+    "born": "March 15, 1992",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Acuña is a Colombian YouTuber and lifestyle content creator known for her vlogs and daily life content. She connects with her audience through relatable stories.",
+    "tags": ["YouTube", "lifestyle", "vlogs", "Medellín"]
+  },
+  {
+    "name": "Valeria Angélica",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "July 7, 1996",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valeria Angélica is a Colombian Instagram influencer and model known for her fashion and beauty content. She collaborates with major brands in Colombia and Latin America.",
+    "tags": ["Instagram", "fashion", "model", "Barranquilla"]
+  },
+  {
+    "name": "Daniela Arredondo",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "November 20, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniela Arredondo is a Colombian YouTuber and content creator known for her entertaining videos and engaging personality. She creates content on various lifestyle topics.",
+    "tags": ["YouTube", "entertainment", "lifestyle", "Cali"]
+  },
+  {
+    "name": "Alejandro González",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "February 3, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Alejandro González is a Colombian YouTuber known for his commentary and reaction videos. He provides insightful analysis on trending topics and pop culture.",
+    "tags": ["YouTube", "commentary", "pop culture", "Bogotá"]
+  },
+  {
+    "name": "Santiago Múnera",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "September 14, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Múnera is a Colombian TikToker known for his comedy and dance content. He has quickly gained a massive following with his creative and funny videos.",
+    "tags": ["TikTok", "comedy", "dance", "Medellín"]
+  },
+  {
+    "name": "Andrés Velásquez",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "May 28, 1994",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Velásquez is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and live streams for his dedicated community.",
+    "tags": ["YouTube", "gaming", "streaming", "Barranquilla"]
+  },
+  {
+    "name": "Camila Restrepo",
+    "category": "influencer",
+    "profession": "Instagram influencer and fashion blogger",
+    "born": "January 30, 1991",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Restrepo is a Colombian Instagram influencer and fashion blogger known for her chic style and lifestyle content. She inspires her followers with fashion tips.",
+    "tags": ["Instagram", "fashion", "blogging", "Cali"]
+  },
+  {
+    "name": "Nicolás Herrera",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "August 12, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Nicolás Herrera is a Colombian YouTuber and vlogger known for his travel and lifestyle content. He explores destinations and shares experiences with his audience.",
+    "tags": ["YouTube", "travel", "vlogs", "Bogotá"]
+  },
+  {
+    "name": "Daniela Moreno",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "April 5, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniela Moreno is a Colombian TikToker known for her lip-sync and dance videos. She has built a strong presence on TikTok with her engaging content.",
+    "tags": ["TikTok", "dance", "lip-sync", "Medellín"]
+  },
+  {
+    "name": "Sebastián López",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "December 18, 1993",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sebastián López is a Colombian YouTuber known for his comedy sketches and social media content. He creates humorous videos that resonate with young audiences.",
+    "tags": ["YouTube", "comedy", "sketches", "Barranquilla"]
+  },
+  {
+    "name": "Laura Sofía Arango",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "March 22, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sofía Arango is a Colombian Instagram influencer and model known for her stunning photos and fashion content. She has collaborated with major fashion brands.",
+    "tags": ["Instagram", "model", "fashion", "Cali"]
+  },
+  {
+    "name": "Carlos Martínez",
+    "category": "influencer",
+    "profession": "YouTuber and food content creator",
+    "born": "July 8, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carlos Martínez is a Colombian YouTuber known for his food reviews and cooking content. He explores Colombian cuisine and shares recipes with his audience.",
+    "tags": ["YouTube", "food", "cooking", "Bogotá"]
+  },
+  {
+    "name": "María Camila Torres",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "October 15, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María Camila Torres is a Colombian TikToker known for her creative and entertaining content. She has gained millions of followers with her unique video style.",
+    "tags": ["TikTok", "creative", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Juan David Rodríguez",
+    "category": "influencer",
+    "profession": "YouTuber and fitness influencer",
+    "born": "June 20, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Rodríguez is a Colombian YouTuber and fitness influencer known for his workout routines and fitness tips. He inspires his audience to lead healthier lives.",
+    "tags": ["YouTube", "fitness", "health", "Barranquilla"]
+  },
+  {
+    "name": "Ana María Londoño",
+    "category": "influencer",
+    "profession": "Instagram influencer and lifestyle blogger",
+    "born": "February 10, 1992",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ana María Londoño is a Colombian Instagram influencer and lifestyle blogger known for her elegant and sophisticated content. She shares fashion and lifestyle inspiration.",
+    "tags": ["Instagram", "lifestyle", "fashion", "Cali"]
+  },
+  {
+    "name": "Andrés Felipe Martínez",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "September 3, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Martínez is a Colombian YouTuber and comedian known for his hilarious sketches and commentary. He brings humor to everyday situations.",
+    "tags": ["YouTube", "comedy", "sketches", "Bogotá"]
+  },
+  {
+    "name": "Natalia Gómez",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "November 25, 1997",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Gómez is a Colombian TikToker known for her fashion and beauty content. She creates engaging videos that inspire her followers with style tips.",
+    "tags": ["TikTok", "fashion", "beauty", "Medellín"]
+  },
+  {
+    "name": "Diego Fernando Pérez",
+    "category": "influencer",
+    "profession": "YouTuber and travel vlogger",
+    "born": "January 8, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Diego Fernando Pérez is a Colombian YouTuber and travel vlogger known for exploring destinations across Colombia and Latin America. He shares travel tips and experiences.",
+    "tags": ["YouTube", "travel", "vlogs", "Barranquilla"]
+  },
+  {
+    "name": "Valentina García",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "May 15, 1994",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valentina García is a Colombian Instagram influencer and model known for her fashion and beauty content. She collaborates with international brands and inspires her followers.",
+    "tags": ["Instagram", "model", "fashion", "Cali"]
+  },
+  {
+    "name": "Santiago Cardona",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "August 28, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Cardona is a Colombian YouTuber known for his educational and entertaining content. He creates videos that inform and amuse his growing audience.",
+    "tags": ["YouTube", "education", "entertainment", "Bogotá"]
+  },
+  {
+    "name": "Laura Daniela Vargas",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "March 5, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Daniela Vargas is a Colombian TikToker known for her dance and comedy content. She has a vibrant presence on social media with millions of followers.",
+    "tags": ["TikTok", "dance", "comedy", "Medellín"]
+  },
+  {
+    "name": "Juan Camilo González",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "July 12, 1995",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo González is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and has a loyal community of followers.",
+    "tags": ["YouTube", "gaming", "entertainment", "Barranquilla"]
+  },
+  {
+    "name": "Camila Andrea Patiño",
+    "category": "influencer",
+    "profession": "Instagram influencer and blogger",
+    "born": "October 20, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Patiño is a Colombian Instagram influencer and blogger known for her lifestyle and beauty content. She shares tips and experiences with her audience.",
+    "tags": ["Instagram", "lifestyle", "beauty", "Cali"]
+  },
+  {
+    "name": "Andrés Felipe Rojas",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "December 1, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Rojas is a Colombian YouTuber known for his reaction videos and commentary. He provides entertaining and insightful content on trending topics.",
+    "tags": ["YouTube", "reactions", "commentary", "Bogotá"]
+  },
+  {
+    "name": "Natalia Ramírez",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "April 18, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Ramírez is a Colombian TikToker known for her lifestyle and fashion content. She creates engaging videos that inspire her followers.",
+    "tags": ["TikTok", "lifestyle", "fashion", "Medellín"]
+  },
+  {
+    "name": "Sebastián Muñoz",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "June 5, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sebastián Muñoz is a Colombian YouTuber and vlogger known for his daily life content and challenges. He connects with his audience through authentic storytelling.",
+    "tags": ["YouTube", "vlogs", "challenges", "Barranquilla"]
+  },
+  {
+    "name": "Laura Camila Suárez",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "February 28, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Suárez is a Colombian Instagram influencer and model known for her fashion and lifestyle content. She has a strong presence in the Colombian influencer scene.",
+    "tags": ["Instagram", "model", "fashion", "Cali"]
+  },
+  {
+    "name": "Juan Pablo Gaviria",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "September 15, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Pablo Gaviria is a Colombian YouTuber known for his comedy and entertainment content. He creates videos that bring joy and laughter to his viewers.",
+    "tags": ["YouTube", "comedy", "entertainment", "Bogotá"]
+  },
+  {
+    "name": "Camila Alejandra Ospina",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "January 10, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Alejandra Ospina is a Colombian TikToker known for her creative and entertaining content. She has built a large following with her unique style.",
+    "tags": ["TikTok", "creative", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Andrés Mauricio Vélez",
+    "category": "influencer",
+    "profession": "YouTuber and fitness influencer",
+    "born": "May 22, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Mauricio Vélez is a Colombian YouTuber and fitness influencer known for his workout content and healthy lifestyle tips. He motivates his audience to stay fit.",
+    "tags": ["YouTube", "fitness", "health", "Barranquilla"]
+  },
+  {
+    "name": "María Alejandra Díaz",
+    "category": "influencer",
+    "profession": "Instagram influencer and beauty blogger",
+    "born": "August 5, 1994",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María Alejandra Díaz is a Colombian Instagram influencer and beauty blogger known for her makeup tutorials and beauty reviews. She is a trusted voice in the beauty community.",
+    "tags": ["Instagram", "beauty", "makeup", "Cali"]
+  },
+  {
+    "name": "Daniel Santiago Moreno",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "November 8, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniel Santiago Moreno is a Colombian YouTuber known for his entertaining and educational content. He covers various topics from technology to lifestyle.",
+    "tags": ["YouTube", "technology", "lifestyle", "Bogotá"]
+  },
+  {
+    "name": "Laura Valentina Restrepo",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "March 30, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Valentina Restrepo is a Colombian TikToker known for her dance and lifestyle content. She engages her audience with creative and fun videos.",
+    "tags": ["TikTok", "dance", "lifestyle", "Medellín"]
+  },
+  {
+    "name": "Juan Sebastián Quintero",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "July 18, 1995",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Sebastián Quintero is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and has a growing community of followers.",
+    "tags": ["YouTube", "gaming", "streaming", "Barranquilla"]
+  },
+  {
+    "name": "Camila Andrea Gómez",
+    "category": "influencer",
+    "profession": "Instagram influencer and lifestyle blogger",
+    "born": "October 12, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Gómez is a Colombian Instagram influencer and lifestyle blogger known for her chic style and daily inspiration. She shares fashion and lifestyle tips.",
+    "tags": ["Instagram", "lifestyle", "fashion", "Cali"]
+  },
+  {
+    "name": "Andrés Felipe Parra",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "February 5, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Parra is a Colombian YouTuber and comedian known for his funny sketches and commentary. He brings humor to everyday situations.",
+    "tags": ["YouTube", "comedy", "sketches", "Bogotá"]
+  },
+  {
+    "name": "Natalia Andrea Castillo",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "June 25, 1997",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Andrea Castillo is a Colombian TikToker known for her creative and engaging content. She has gained a large following with her unique video style.",
+    "tags": ["TikTok", "creative", "content creator", "Medellín"]
+  },
+  {
+    "name": "Santiago Andrés Mejía",
+    "category": "influencer",
+    "profession": "YouTuber and travel vlogger",
+    "born": "September 8, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Andrés Mejía is a Colombian YouTuber and travel vlogger known for exploring destinations across Latin America. He shares travel tips and cultural experiences.",
+    "tags": ["YouTube", "travel", "culture", "Barranquilla"]
+  },
+  {
+    "name": "Laura María Rodríguez",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "January 22, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura María Rodríguez is a Colombian Instagram influencer and model known for her fashion and lifestyle content. She collaborates with brands and inspires her followers.",
+    "tags": ["Instagram", "model", "fashion", "Cali"]
+  },
+  {
+    "name": "Juan Camilo Herrera",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "April 15, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo Herrera is a Colombian YouTuber known for his entertaining and informative content. He creates videos on various topics including technology and lifestyle.",
+    "tags": ["YouTube", "technology", "lifestyle", "Bogotá"]
+  },
+  {
+    "name": "Valentina García López",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "August 18, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valentina García López is a Colombian TikToker known for her fashion and beauty content. She creates engaging videos that inspire her followers with style tips.",
+    "tags": ["TikTok", "fashion", "beauty", "Medellín"]
+  },
+  {
+    "name": "Andrés Felipe Sánchez",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "December 10, 1994",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Sánchez is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and has a loyal community of followers.",
+    "tags": ["YouTube", "gaming", "entertainment", "Barranquilla"]
+  },
+  {
+    "name": "Laura Camila Torres",
+    "category": "influencer",
+    "profession": "Instagram influencer and beauty blogger",
+    "born": "May 5, 1992",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Torres is a Colombian Instagram influencer and beauty blogger known for her makeup tutorials and beauty reviews. She has a dedicated following for her helpful content.",
+    "tags": ["Instagram", "beauty", "makeup", "Cali"]
+  },
+  {
+    "name": "Juan David Muñoz",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "March 18, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Muñoz is a Colombian YouTuber known for his commentary and reaction videos. He provides entertaining and insightful content on trending topics.",
+    "tags": ["YouTube", "commentary", "reactions", "Bogotá"]
+  },
+  {
+    "name": "Natalia Sofía Giraldo",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "July 28, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Sofía Giraldo is a Colombian TikToker known for her dance and comedy content. She has built a strong presence on TikTok with her engaging videos.",
+    "tags": ["TikTok", "dance", "comedy", "Medellín"]
+  },
+  {
+    "name": "Santiago López Gutiérrez",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "October 5, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago López Gutiérrez is a Colombian YouTuber and vlogger known for his daily life content and challenges. He connects with his audience through authentic storytelling.",
+    "tags": ["YouTube", "vlogs", "challenges", "Barranquilla"]
+  },
+  {
+    "name": "Camila Valentina Rojas",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "February 15, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Valentina Rojas is a Colombian Instagram influencer and model known for her fashion and lifestyle content. She has a strong presence in the Colombian influencer scene.",
+    "tags": ["Instagram", "model", "fashion", "Cali"]
+  },
+  {
+    "name": "Juan Sebastián Ospina",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "June 30, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Sebastián Ospina is a Colombian YouTuber known for his comedy and entertainment content. He creates videos that bring joy and laughter to his viewers.",
+    "tags": ["YouTube", "comedy", "entertainment", "Bogotá"]
+  },
+  {
+    "name": "Andrea Cristina Restrepo",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "November 12, 1997",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrea Cristina Restrepo is a Colombian TikToker known for her creative and entertaining content. She has gained millions of followers with her unique video style.",
+    "tags": ["TikTok", "creative", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Carlos Andrés Martínez",
+    "category": "influencer",
+    "profession": "YouTuber and fitness influencer",
+    "born": "August 20, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carlos Andrés Martínez is a Colombian YouTuber and fitness influencer known for his workout routines and fitness tips. He inspires his audience to lead healthier lives.",
+    "tags": ["YouTube", "fitness", "health", "Barranquilla"]
+  },
+  {
+    "name": "Laura Daniela Moreno",
+    "category": "influencer",
+    "profession": "Instagram influencer and lifestyle blogger",
+    "born": "January 5, 1994",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Daniela Moreno is a Colombian Instagram influencer and lifestyle blogger known for her elegant and sophisticated content. She shares fashion and lifestyle inspiration.",
+    "tags": ["Instagram", "lifestyle", "fashion", "Cali"]
+  },
+  {
+    "name": "Juan Camilo Vélez",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "April 25, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo Vélez is a Colombian YouTuber known for his reaction videos and commentary. He provides entertaining and insightful content on trending topics.",
+    "tags": ["YouTube", "reactions", "commentary", "Bogotá"]
+  },
+  {
+    "name": "Valentina Andrea Suárez",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "September 8, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valentina Andrea Suárez is a Colombian TikToker known for her lifestyle and fashion content. She creates engaging videos that inspire her followers.",
+    "tags": ["TikTok", "lifestyle", "fashion", "Medellín"]
+  },
+  {
+    "name": "Andrés Felipe Castillo",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "July 5, 1995",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Castillo is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and has a growing community of followers.",
+    "tags": ["YouTube", "gaming", "streaming", "Barranquilla"]
+  },
+  {
+    "name": "Camila Andrea Díaz",
+    "category": "influencer",
+    "profession": "Instagram influencer and fashion blogger",
+    "born": "October 30, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Díaz is a Colombian Instagram influencer and fashion blogger known for her chic style and lifestyle content. She inspires her followers with fashion tips.",
+    "tags": ["Instagram", "fashion", "blogging", "Cali"]
+  },
+  {
+    "name": "Juan David López",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "March 12, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David López is a Colombian YouTuber known for his educational and entertaining content. He creates videos that inform and amuse his growing audience.",
+    "tags": ["YouTube", "education", "entertainment", "Bogotá"]
+  },
+  {
+    "name": "Natalia María Gómez",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "June 15, 1999",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia María Gómez is a Colombian TikToker known for her dance and comedy content. She has a vibrant presence on social media with millions of followers.",
+    "tags": ["TikTok", "dance", "comedy", "Medellín"]
+  },
+  {
+    "name": "Santiago Cardona Mejía",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "December 20, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Cardona Mejía is a Colombian YouTuber and vlogger known for his travel and lifestyle content. He explores destinations and shares experiences with his audience.",
+    "tags": ["YouTube", "travel", "vlogs", "Barranquilla"]
+  },
+  {
+    "name": "Laura Sofía Arango Restrepo",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "February 8, 1995",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sofía Arango Restrepo is a Colombian Instagram influencer and model known for her stunning photos and fashion content. She has collaborated with major fashion brands.",
+    "tags": ["Instagram", "model", "fashion", "Cali"]
+  },
+  {
+    "name": "Juan Camilo Rodríguez",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "August 15, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo Rodríguez is a Colombian YouTuber and comedian known for his hilarious sketches and commentary. He brings humor to everyday situations.",
+    "tags": ["YouTube", "comedy", "sketches", "Bogotá"]
+  },
+  {
+    "name": "Camila Valentina Muñoz",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "May 22, 1998",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Valentina Muñoz is a Colombian TikToker known for her creative and entertaining content. She has built a large following with her unique style.",
+    "tags": ["TikTok", "creative", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Andrés Mauricio López",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "November 3, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Mauricio López is a Colombian YouTuber known for his entertaining and informative content. He covers various topics from technology to lifestyle.",
+    "tags": ["YouTube", "technology", "lifestyle", "Barranquilla"]
+  },
+  {
+    "name": "Natalia Andrea Vargas",
+    "category": "influencer",
+    "profession": "Instagram influencer and beauty blogger",
+    "born": "January 18, 1994",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Andrea Vargas is a Colombian Instagram influencer and beauty blogger known for her makeup tutorials and beauty reviews. She is a trusted voice in the beauty community.",
+    "tags": ["Instagram", "beauty", "makeup", "Cali"]
+  },
+  {
+    "name": "Juan Sebastián Martínez",
+    "category": "influencer",
+    "profession": "YouTuber and gamer",
+    "born": "April 10, 1995",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Sebastián Martínez is a Colombian YouTuber and gaming content creator. He produces entertaining gaming videos and has a loyal community of followers.",
+    "tags": ["YouTube", "gaming", "streaming", "Bogotá"]
+  },
+  {
+    "name": "Laura Camila Giraldo",
+    "category": "influencer",
+    "profession": "TikToker and influencer",
+    "born": "July 25, 1997",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Giraldo is a Colombian TikToker known for her fashion and beauty content. She creates engaging videos that inspire her followers with style tips.",
+    "tags": ["TikTok", "fashion", "beauty", "Medellín"]
+  },
+  {
+    "name": "Camila Andrea Pérez",
+    "category": "journalist",
+    "profession": "News anchor and journalist",
+    "born": "March 8, 1985",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Pérez is a Colombian journalist and news anchor known for her work on major Colombian news networks. She has covered significant national and international events.",
+    "tags": ["journalism", "news anchor", "Bogotá", "media"]
+  },
+  {
+    "name": "Jorge Alfredo Vargas",
+    "category": "journalist",
+    "profession": "News anchor and journalist",
+    "born": "June 12, 1965",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Jorge Alfredo Vargas is one of Colombia's most recognized news anchors, known for hosting Noticiero Caracol. He has decades of experience in broadcast journalism.",
+    "tags": ["journalism", "news anchor", "Caracol", "Bogotá"]
+  },
+  {
+    "name": "Diana Coronado",
+    "category": "journalist",
+    "profession": "News anchor and journalist",
+    "born": "September 5, 1978",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Diana Coronado is a Colombian journalist and news anchor known for her work on Noticiero Caracol. She is recognized for her professional and empathetic reporting style.",
+    "tags": ["journalism", "news anchor", "Caracol", "Medellín"]
+  },
+  {
+    "name": "Claudia Palacios",
+    "category": "journalist",
+    "profession": "News anchor and journalist",
+    "born": "April 15, 1972",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Claudia Palacios is a Colombian journalist and news anchor known for hosting Noticiero RCN. She has been a prominent figure in Colombian broadcast journalism for decades.",
+    "tags": ["journalism", "news anchor", "RCN", "Cali"]
+  },
+  {
+    "name": "Vanessa de la Torre",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "February 28, 1980",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Vanessa de la Torre is a Colombian journalist known for her investigative reporting and work on Noticias RCN. She has won awards for her journalistic excellence.",
+    "tags": ["journalism", "investigative", "RCN", "Bogotá"]
+  },
+  {
+    "name": "Cristina Botero",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "July 20, 1975",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Cristina Botero is a Colombian journalist and presenter known for her work on national television. She has covered major political and social events in Colombia.",
+    "tags": ["journalism", "television", "Barranquilla", "politics"]
+  },
+  {
+    "name": "Iván Mejía",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "November 10, 1978",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Iván Mejía is a Colombian journalist and news anchor known for his work on Blu Radio and television news. He provides insightful analysis on current events.",
+    "tags": ["journalism", "Blu Radio", "news anchor", "Bogotá"]
+  },
+  {
+    "name": "Luis Carlos Vélez",
+    "category": "journalist",
+    "profession": "Journalist and radio host",
+    "born": "May 5, 1977",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Luis Carlos Vélez is a Colombian journalist and radio host known for his work on Blu Radio. He is recognized for his incisive political commentary and reporting.",
+    "tags": ["journalism", "radio", "Blu Radio", "Bogotá"]
+  },
+  {
+    "name": "Marcela Acuña",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "August 22, 1982",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Marcela Acuña is a Colombian journalist and news anchor known for her work on national news programs. She has built a reputation for professional and balanced reporting.",
+    "tags": ["journalism", "news anchor", "Medellín", "television"]
+  },
+  {
+    "name": "Ana María Trujillo",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "January 15, 1980",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ana María Trujillo is a Colombian journalist and presenter known for her work on major Colombian news networks. She covers political and social issues with depth.",
+    "tags": ["journalism", "television", "Cali", "politics"]
+  },
+  {
+    "name": "Daniel Samper",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "October 8, 1963",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniel Samper Pizano is a Colombian journalist and commentator known for his humorous and insightful columns. He has been a prominent voice in Colombian media for decades.",
+    "tags": ["journalism", "commentary", "columns", "Bogotá"]
+  },
+  {
+    "name": "María Paula Correa",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "March 30, 1985",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María Paula Correa is a Colombian journalist and news anchor known for her work on Noticias Caracol. She is recognized for her professional reporting style.",
+    "tags": ["journalism", "news anchor", "Caracol", "Bogotá"]
+  },
+  {
+    "name": "María Emma Mejía",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "June 18, 1976",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María Emma Mejía is a Colombian journalist and news anchor known for her work on major news programs. She has covered significant events in Colombian history.",
+    "tags": ["journalism", "news anchor", "Barranquilla", "television"]
+  },
+  {
+    "name": "Juliana Galán",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "September 12, 1983",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juliana Galán is a Colombian journalist and presenter known for her work on entertainment and lifestyle programs. She brings a fresh perspective to television journalism.",
+    "tags": ["journalism", "entertainment", "television", "Bogotá"]
+  },
+  {
+    "name": "Andrea Serna",
+    "category": "journalist",
+    "profession": "Journalist and TV presenter",
+    "born": "April 4, 1977",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrea Serna is a Colombian journalist and TV presenter known for hosting entertainment and news programs. She has been a prominent figure on Colombian television for years.",
+    "tags": ["journalism", "television", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Vicky Dávila",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "January 28, 1972",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Vicky Dávila is a Colombian journalist and commentator known for her political analysis and media work. She hosts radio and television programs on current affairs.",
+    "tags": ["journalism", "political commentary", "radio", "Bogotá"]
+  },
+  {
+    "name": "Ricardo Callejas",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "July 8, 1970",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ricardo Callejas is a Colombian journalist and news anchor known for his work on major Colombian news networks. He has decades of experience in broadcast journalism.",
+    "tags": ["journalism", "news anchor", "television", "Bogotá"]
+  },
+  {
+    "name": "Silvia Corzo",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "November 22, 1979",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Silvia Corzo is a Colombian journalist and news anchor known for hosting Noticiero Caracol. She is recognized for her professional and authoritative presence on screen.",
+    "tags": ["journalism", "news anchor", "Caracol", "Barranquilla"]
+  },
+  {
+    "name": "Ana María Camacho",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "February 14, 1981",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ana María Camacho is a Colombian journalist and presenter known for her work on lifestyle and entertainment programs. She brings warmth and professionalism to her reporting.",
+    "tags": ["journalism", "lifestyle", "television", "Cali"]
+  },
+  {
+    "name": "Alejandro Pera",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "May 28, 1984",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Alejandro Pera is a Colombian journalist and news anchor known for his work on Noticias RCN. He provides insightful coverage of national and international events.",
+    "tags": ["journalism", "news anchor", "RCN", "Bogotá"]
+  },
+  {
+    "name": "Diana Uribe",
+    "category": "journalist",
+    "profession": "Journalist and cultural commentator",
+    "born": "August 15, 1974",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Diana Uribe is a Colombian journalist and cultural commentator known for her engaging storytelling and historical narratives. She has written books and hosted television programs.",
+    "tags": ["journalism", "culture", "history", "Bogotá"]
+  },
+  {
+    "name": "Francisco Santos",
+    "category": "journalist",
+    "profession": "Journalist and media executive",
+    "born": "April 22, 1966",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Francisco Santos is a Colombian journalist and media executive known for his work at El Tiempo and as former Vice President of Colombia. He has been influential in Colombian media.",
+    "tags": ["journalism", "media", "El Tiempo", "Bogotá"]
+  },
+  {
+    "name": "Fanny Garita",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "October 5, 1982",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Fanny Garita is a Colombian journalist and presenter known for her work on entertainment and news programs. She brings energy and professionalism to her broadcasts.",
+    "tags": ["journalism", "entertainment", "television", "Medellín"]
+  },
+  {
+    "name": "Manuel de los Ríos",
+    "category": "journalist",
+    "profession": "Journalist and radio host",
+    "born": "January 30, 1980",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Manuel de los Ríos is a Colombian journalist and radio host known for his work on Blu Radio. He provides insightful analysis on current events and politics.",
+    "tags": ["journalism", "radio", "Blu Radio", "Bogotá"]
+  },
+  {
+    "name": "Liliana Lozano",
+    "category": "journalist",
+    "profession": "Journalist and TV presenter",
+    "born": "June 18, 1978",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Liliana Lozano is a Colombian journalist and TV presenter known for her work on major news and entertainment programs. She has a strong presence on Colombian television.",
+    "tags": ["journalism", "television", "Barranquilla", "news"]
+  },
+  {
+    "name": "Julio Sánchez Cristo",
+    "category": "journalist",
+    "profession": "Journalist and radio host",
+    "born": "March 15, 1985",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Julio Sánchez Cristo is a Colombian journalist and radio host known for his work on W Radio. He is recognized for his incisive political commentary and interviews.",
+    "tags": ["journalism", "radio", "W Radio", "Bogotá"]
+  },
+  {
+    "name": "Mónica Jaramillo",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "September 8, 1983",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Mónica Jaramillo is a Colombian journalist and news anchor known for her work on Noticias Caracol. She is recognized for her professional and empathetic reporting style.",
+    "tags": ["journalism", "news anchor", "Caracol", "Medellín"]
+  },
+  {
+    "name": "César Augusto Londoño",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "December 1, 1975",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "César Augusto Londoño is a Colombian journalist and presenter known for his work on national news programs. He has covered major political and social events in Colombia.",
+    "tags": ["journalism", "television", "Bogotá", "politics"]
+  },
+  {
+    "name": "María del Rosario Guerrero",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "April 12, 1981",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María del Rosario Guerrero is a Colombian journalist and news anchor known for her work on major Colombian news networks. She brings professionalism to her broadcasts.",
+    "tags": ["journalism", "news anchor", "television", "Cali"]
+  },
+  {
+    "name": "Alejandro Echeverría",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "July 25, 1979",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Alejandro Echeverría is a Colombian journalist and commentator known for his political analysis and media work. He provides insightful commentary on current affairs.",
+    "tags": ["journalism", "political commentary", "media", "Bogotá"]
+  },
+  {
+    "name": "Laura Montoya",
+    "category": "journalist",
+    "profession": "Journalist and TV presenter",
+    "born": "November 20, 1984",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Montoya is a Colombian journalist and TV presenter known for her work on entertainment and lifestyle programs. She brings a fresh perspective to television journalism.",
+    "tags": ["journalism", "entertainment", "television", "Barranquilla"]
+  },
+  {
+    "name": "Ricardo González",
+    "category": "journalist",
+    "profession": "Journalist and radio host",
+    "born": "February 8, 1977",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ricardo González is a Colombian journalist and radio host known for his work on major radio stations. He provides insightful analysis on current events and culture.",
+    "tags": ["journalism", "radio", "culture", "Bogotá"]
+  },
+  {
+    "name": "Adriana Tono",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "May 18, 1982",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Adriana Tono is a Colombian journalist and presenter known for her work on news and entertainment programs. She brings energy and professionalism to her broadcasts.",
+    "tags": ["journalism", "entertainment", "television", "Medellín"]
+  },
+  {
+    "name": "Juan Carlos Álvarez",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "October 15, 1980",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Carlos Álvarez is a Colombian journalist and news anchor known for his work on major Colombian news networks. He has decades of experience in broadcast journalism.",
+    "tags": ["journalism", "news anchor", "television", "Bogotá"]
+  },
+  {
+    "name": "Daniela Salazar",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "January 25, 1985",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Daniela Salazar is a Colombian journalist and presenter known for her work on lifestyle and entertainment programs. She brings warmth and professionalism to her reporting.",
+    "tags": ["journalism", "lifestyle", "television", "Cali"]
+  },
+  {
+    "name": "Carlos Eduardo Huertas",
+    "category": "journalist",
+    "profession": "Journalist and investigative reporter",
+    "born": "August 10, 1978",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carlos Eduardo Huertas is a Colombian journalist and investigative reporter known for his work at El Espectador. He has won awards for his investigative journalism.",
+    "tags": ["journalism", "investigative", "El Espectador", "Bogotá"]
+  },
+  {
+    "name": "Lina Juanes",
+    "category": "journalist",
+    "profession": "Journalist and TV presenter",
+    "born": "March 5, 1983",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Lina Juanes is a Colombian journalist and TV presenter known for her work on news and entertainment programs. She has a strong presence on Colombian television.",
+    "tags": ["journalism", "television", "Barranquilla", "news"]
+  },
+  {
+    "name": "Sergio Guzmán",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "June 22, 1981",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sergio Guzmán is a Colombian journalist and commentator known for his political analysis and media work. He hosts programs on current affairs and politics.",
+    "tags": ["journalism", "political commentary", "media", "Bogotá"]
+  },
+  {
+    "name": "Natalia Springer",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "September 18, 1984",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Springer is a Colombian journalist and news anchor known for her work on Noticias RCN. She is recognized for her professional and authoritative presence on screen.",
+    "tags": ["journalism", "news anchor", "RCN", "Medellín"]
+  },
+  {
+    "name": "Diego Londoño",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "December 5, 1979",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Diego Londoño is a Colombian journalist and presenter known for his work on national news programs. He has covered major political and social events in Colombia.",
+    "tags": ["journalism", "television", "Bogotá", "politics"]
+  },
+  {
+    "name": "María Fernanda Velásquez",
+    "category": "journalist",
+    "profession": "Journalist and radio host",
+    "born": "April 18, 1982",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "María Fernanda Velásquez is a Colombian journalist and radio host known for her work on Blu Radio. She provides insightful analysis on current events and culture.",
+    "tags": ["journalism", "radio", "Blu Radio", "Cali"]
+  },
+  {
+    "name": "Juan Diego Fernández",
+    "category": "journalist",
+    "profession": "Journalist and news anchor",
+    "born": "July 30, 1986",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Diego Fernández is a Colombian journalist and news anchor known for his work on Noticias Caracol. He is recognized for his professional reporting style.",
+    "tags": ["journalism", "news anchor", "Caracol", "Bogotá"]
+  },
+  {
+    "name": "Carolina Arango",
+    "category": "journalist",
+    "profession": "Journalist and presenter",
+    "born": "October 12, 1983",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carolina Arango is a Colombian journalist and presenter known for her work on entertainment and lifestyle programs. She brings a fresh perspective to television journalism.",
+    "tags": ["journalism", "entertainment", "television", "Barranquilla"]
+  },
+  {
+    "name": "Andrés Felipe Arias",
+    "category": "journalist",
+    "profession": "Journalist and commentator",
+    "born": "February 15, 1980",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Arias is a Colombian journalist and commentator known for his political analysis and media work. He provides insightful commentary on current affairs.",
+    "tags": ["journalism", "political commentary", "media", "Bogotá"]
+  },
+  {
+    "name": "Tatiana Vélez",
+    "category": "tv",
+    "profession": "TV presenter and actress",
+    "born": "March 12, 1985",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Tatiana Vélez is a Colombian TV presenter and actress known for hosting entertainment shows and appearing in telenovelas. She has a charismatic presence on screen.",
+    "tags": ["television", "presenter", "actress", "Bogotá"]
+  },
+  {
+    "name": "Manuela González",
+    "category": "tv",
+    "profession": "TV presenter and actress",
+    "born": "June 28, 1982",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Manuela González is a Colombian TV presenter and actress known for hosting entertainment programs and her work in telenovelas. She has been a prominent figure on Colombian television.",
+    "tags": ["television", "presenter", "actress", "Medellín"]
+  },
+  {
+    "name": "Isabella Santodomingo",
+    "category": "tv",
+    "profession": "TV presenter and actress",
+    "born": "January 5, 1979",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Isabella Santodomingo is a Colombian TV presenter and actress known for her work on entertainment and news programs. She has a strong presence on Colombian television.",
+    "tags": ["television", "presenter", "actress", "Cali"]
+  },
+  {
+    "name": "Vargas Torrado",
+    "category": "tv",
+    "profession": "TV presenter and comedian",
+    "born": "September 15, 1975",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Vargas Torrado is a Colombian TV presenter and comedian known for his humorous commentary and entertainment shows. He brings laughter to audiences across Colombia.",
+    "tags": ["television", "comedy", "presenter", "Barranquilla"]
+  },
+  {
+    "name": "Alejandro Riaño",
+    "category": "comedian",
+    "profession": "Comedian and actor",
+    "born": "April 20, 1977",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Alejandro Riaño is one of Colombia's most beloved comedians, known for his stand-up comedy and humorous characters. He has performed sold-out shows across Latin America.",
+    "tags": ["comedy", "stand-up", "entertainment", "Bogotá"]
+  },
+  {
+    "name": "Kevin Florez",
+    "category": "comedian",
+    "profession": "Comedian and content creator",
+    "born": "August 12, 1990",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Kevin Florez is a Colombian comedian and content creator known for his social media comedy and sketches. He has gained a massive following with his humorous content.",
+    "tags": ["comedy", "social media", "content creator", "Medellín"]
+  },
+  {
+    "name": "Beto Mayorca",
+    "category": "comedian",
+    "profession": "Comedian and actor",
+    "born": "November 8, 1978",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Beto Mayorca is a Colombian comedian and actor known for his work on television and theater. He brings humor and talent to every role he takes on.",
+    "tags": ["comedy", "television", "theater", "Barranquilla"]
+  },
+  {
+    "name": "Ana María Orozco",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "July 25, 1973",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Ana María Orozco is a Colombian actress best known for her role as Betty in the internationally acclaimed telenovela 'Yo Soy Betty, La Fea'. She is a beloved figure in Latin American television.",
+    "tags": ["television", "actress", "telenovela", "Bogotá"]
+  },
+  {
+    "name": "Lorna Cepeda",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "March 21, 1970",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Lorna Cepeda is a Colombian actress known for her roles in telenovelas and television series. She has been a prominent figure in Colombian entertainment for decades.",
+    "tags": ["television", "actress", "telenovela", "Barranquilla"]
+  },
+  {
+    "name": "Julián Arango",
+    "category": "tv",
+    "profession": "Actor and TV personality",
+    "born": "October 5, 1969",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Julián Arango is a Colombian actor known for his roles in telenovelas and television series. He has appeared in numerous productions throughout his career.",
+    "tags": ["television", "actor", "telenovela", "Medellín"]
+  },
+  {
+    "name": "Majida Issa",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "June 30, 1981",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Majida Issa is a Colombian actress known for her roles in telenovelas and television series. She has been recognized for her versatile acting performances.",
+    "tags": ["television", "actress", "telenovela", "Bogotá"]
+  },
+  {
+    "name": "Rodolfo Silva",
+    "category": "tv",
+    "profession": "TV presenter and host",
+    "born": "February 14, 1980",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Rodolfo Silva is a Colombian TV presenter and host known for his work on entertainment and variety shows. He brings energy and charisma to his presentations.",
+    "tags": ["television", "presenter", "entertainment", "Cali"]
+  },
+  {
+    "name": "Giovanni López",
+    "category": "tv",
+    "profession": "TV presenter and comedian",
+    "born": "July 22, 1982",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Giovanni López is a Colombian TV presenter and comedian known for his work on entertainment shows. He brings humor and energy to Colombian television.",
+    "tags": ["television", "comedy", "presenter", "Bogotá"]
+  },
+  {
+    "name": "Carolina Cuervo",
+    "category": "tv",
+    "profession": "Actress and model",
+    "born": "September 10, 1983",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carolina Cuervo is a Colombian actress and model known for her roles in telenovelas and television series. She has a strong presence in Colombian entertainment.",
+    "tags": ["television", "actress", "model", "Medellín"]
+  },
+  {
+    "name": "Jorge Enrique Abello",
+    "category": "tv",
+    "profession": "Actor",
+    "born": "January 28, 1968",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Jorge Enrique Abello is a Colombian actor best known for his role as Armando Mendoza in the telenovela 'Yo Soy Betty, La Fea'. He is one of Colombia's most recognized actors.",
+    "tags": ["television", "actor", "telenovela", "Bogotá"]
+  },
+  {
+    "name": "Kathy Sáenz",
+    "category": "tv",
+    "profession": "Actress and TV presenter",
+    "born": "April 5, 1978",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Kathy Sáenz is a Colombian actress and TV presenter known for her roles in telenovelas and her work on entertainment programs. She has been a beloved figure on Colombian television.",
+    "tags": ["television", "actress", "presenter", "Barranquilla"]
+  },
+  {
+    "name": "Diego Trujillo",
+    "category": "tv",
+    "profession": "Actor",
+    "born": "November 12, 1972",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Diego Trujillo is a Colombian actor known for his roles in television series and telenovelas. He has been recognized for his versatile acting performances.",
+    "tags": ["television", "actor", "series", "Cali"]
+  },
+  {
+    "name": "Clemencia Guillén",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "June 18, 1975",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Clemencia Guillén is a Colombian actress known for her roles in telenovelas and television series. She has been a prominent figure in Colombian entertainment.",
+    "tags": ["television", "actress", "telenovela", "Bogotá"]
+  },
+  {
+    "name": "Robinson Díaz",
+    "category": "tv",
+    "profession": "Actor",
+    "born": "March 8, 1970",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Robinson Díaz is a Colombian actor known for his roles in telenovelas and television series. He has been recognized for his compelling performances.",
+    "tags": ["television", "actor", "telenovela", "Medellín"]
+  },
+  {
+    "name": "Tatiana Rentería",
+    "category": "tv",
+    "profession": "TV presenter and journalist",
+    "born": "August 25, 1984",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Tatiana Rentería is a Colombian TV presenter and journalist known for her work on news and entertainment programs. She brings professionalism to her broadcasts.",
+    "tags": ["television", "journalism", "presenter", "Barranquilla"]
+  },
+  {
+    "name": "Edwin Luna",
+    "category": "tv",
+    "profession": "TV presenter and entertainer",
+    "born": "January 20, 1978",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Edwin Luna is a Colombian TV presenter and entertainer known for his work on variety and entertainment shows. He brings energy and humor to Colombian television.",
+    "tags": ["television", "presenter", "entertainment", "Cali"]
+  },
+  {
+    "name": "Liliana López",
+    "category": "tv",
+    "profession": "Actress and TV presenter",
+    "born": "May 15, 1980",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Liliana López is a Colombian actress and TV presenter known for her work on telenovelas and entertainment programs. She has a charismatic presence on screen.",
+    "tags": ["television", "actress", "presenter", "Bogotá"]
+  },
+  {
+    "name": "Alejandro Martínez",
+    "category": "tv",
+    "profession": "TV presenter and host",
+    "born": "October 30, 1982",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Alejandro Martínez is a Colombian TV presenter and host known for his work on entertainment and variety shows. He brings charisma and professionalism to his presentations.",
+    "tags": ["television", "presenter", "entertainment", "Medellín"]
+  },
+  {
+    "name": "Laura Victoria Muñoz",
+    "category": "tv",
+    "profession": "Actress and model",
+    "born": "February 8, 1985",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Victoria Muñoz is a Colombian actress and model known for her roles in telenovelas and television series. She has been recognized for her versatile performances.",
+    "tags": ["television", "actress", "model", "Barranquilla"]
+  },
+  {
+    "name": "Sebastián Caicedo",
+    "category": "tv",
+    "profession": "Actor",
+    "born": "July 12, 1986",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sebastián Caicedo is a Colombian actor known for his roles in telenovelas and television series. He has gained recognition for his talent and on-screen presence.",
+    "tags": ["television", "actor", "telenovela", "Cali"]
+  },
+  {
+    "name": "Catalina Londoño",
+    "category": "tv",
+    "profession": "Actress",
+    "born": "November 5, 1983",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Catalina Londoño is a Colombian actress known for her roles in television series and telenovelas. She has been recognized for her compelling performances.",
+    "tags": ["television", "actress", "series", "Bogotá"]
+  },
+  {
+    "name": "Juan Pablo Urrego",
+    "category": "tv",
+    "profession": "Actor",
+    "born": "March 25, 1981",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Pablo Urrego is a Colombian actor known for his roles in television series and films. He has been recognized for his versatile acting performances.",
+    "tags": ["television", "actor", "series", "Medellín"]
+  },
+  {
+    "name": "Lina Raquel Reina",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "September 18, 1984",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Lina Raquel Reina is a Colombian actress and TV personality known for her work on telenovelas and entertainment programs. She has a strong presence on Colombian television.",
+    "tags": ["television", "actress", "entertainment", "Barranquilla"]
+  },
+  {
+    "name": "Carlos Hurtado",
+    "category": "tv",
+    "profession": "TV presenter and host",
+    "born": "June 8, 1979",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carlos Hurtado is a Colombian TV presenter and host known for his work on entertainment and variety shows. He brings energy and humor to Colombian television.",
+    "tags": ["television", "presenter", "entertainment", "Cali"]
+  },
+  {
+    "name": "Sandra Liliana Vásquez",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "January 30, 1982",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Sandra Liliana Vásquez is a Colombian actress and TV personality known for her work on telenovelas and entertainment programs. She has a charismatic presence on screen.",
+    "tags": ["television", "actress", "telenovela", "Bogotá"]
+  },
+  {
+    "name": "David Prada",
+    "category": "tv",
+    "profession": "TV presenter and comedian",
+    "born": "August 15, 1983",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "David Prada is a Colombian TV presenter and comedian known for his work on entertainment shows. He brings humor and energy to Colombian television.",
+    "tags": ["television", "comedy", "presenter", "Medellín"]
+  },
+  {
+    "name": "Adriana Arboleda",
+    "category": "tv",
+    "profession": "Model and TV presenter",
+    "born": "April 22, 1978",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Adriana Arboleda is a Colombian model and TV presenter known for her work on beauty pageants and entertainment programs. She has been a prominent figure in Colombian media.",
+    "tags": ["television", "model", "presenter", "Cali"]
+  },
+  {
+    "name": "Miguel Ángel Kuroki",
+    "category": "tv",
+    "profession": "TV presenter and host",
+    "born": "December 12, 1980",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Miguel Ángel Kuroki is a Colombian TV presenter and host known for his work on entertainment and variety shows. He brings charisma and professionalism to his presentations.",
+    "tags": ["television", "presenter", "entertainment", "Barranquilla"]
+  },
+  {
+    "name": "Juliana Galvis",
+    "category": "tv",
+    "profession": "Actress and TV personality",
+    "born": "March 5, 1985",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juliana Galvis is a Colombian actress and TV personality known for her work on telenovelas and entertainment programs. She has a strong presence on Colombian television.",
+    "tags": ["television", "actress", "telenovela", "Bogotá"]
+  },
+  {
+    "name": "Viviana Serna",
+    "category": "tv",
+    "profession": "Actress",
+    "born": "July 20, 1982",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Viviana Serna is a Colombian actress known for her roles in telenovelas and television series. She has been recognized for her talent and on-screen presence.",
+    "tags": ["television", "actress", "telenovela", "Medellín"]
+  },
+  {
+    "name": "Nathalia Torres",
+    "category": "fitness",
+    "profession": "Fitness influencer and trainer",
+    "born": "February 20, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Nathalia Torres is a Colombian fitness influencer and trainer known for her workout programs and healthy lifestyle content. She inspires her followers to stay fit and healthy.",
+    "tags": ["fitness", "health", "wellness", "Bogotá"]
+  },
+  {
+    "name": "Santiago Parra",
+    "category": "fitness",
+    "profession": "Fitness influencer and personal trainer",
+    "born": "June 15, 1988",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Parra is a Colombian fitness influencer and personal trainer known for his workout routines and fitness tips. He has a strong presence in the Colombian fitness community.",
+    "tags": ["fitness", "personal training", "health", "Medellín"]
+  },
+  {
+    "name": "Laura Montoya fitness",
+    "category": "fitness",
+    "profession": "Fitness influencer and wellness coach",
+    "born": "October 8, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Montoya is a Colombian fitness influencer and wellness coach known for her holistic approach to health and fitness. She inspires her followers with healthy lifestyle tips.",
+    "tags": ["fitness", "wellness", "health", "Barranquilla"]
+  },
+  {
+    "name": "Andrés Felipe Restrepo",
+    "category": "fitness",
+    "profession": "Fitness influencer and bodybuilder",
+    "born": "March 12, 1989",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Restrepo is a Colombian fitness influencer and bodybuilder known for his impressive physique and workout content. He motivates his audience to achieve their fitness goals.",
+    "tags": ["fitness", "bodybuilding", "health", "Cali"]
+  },
+  {
+    "name": "Camila Andrea López",
+    "category": "fitness",
+    "profession": "Fitness influencer and yoga instructor",
+    "born": "August 25, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea López is a Colombian fitness influencer and yoga instructor known for her calming and effective workout routines. She promotes mind-body wellness.",
+    "tags": ["fitness", "yoga", "wellness", "Bogotá"]
+  },
+  {
+    "name": "Juan David Gómez",
+    "category": "fitness",
+    "profession": "Fitness influencer and CrossFit athlete",
+    "born": "January 18, 1990",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Gómez is a Colombian fitness influencer and CrossFit athlete known for his intense workout routines. He inspires his followers with his dedication to fitness.",
+    "tags": ["fitness", "CrossFit", "health", "Medellín"]
+  },
+  {
+    "name": "Valentina García fitness",
+    "category": "fitness",
+    "profession": "Fitness influencer and pilates instructor",
+    "born": "May 5, 1993",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Valentina García is a Colombian fitness influencer and pilates instructor known for her effective and accessible workout content. She promotes fitness for all levels.",
+    "tags": ["fitness", "pilates", "health", "Barranquilla"]
+  },
+  {
+    "name": "Santiago Moreno fitness",
+    "category": "fitness",
+    "profession": "Fitness influencer and personal trainer",
+    "born": "November 10, 1988",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Moreno is a Colombian fitness influencer and personal trainer known for his customized workout programs. He helps clients achieve their fitness goals.",
+    "tags": ["fitness", "personal training", "health", "Cali"]
+  },
+  {
+    "name": "Laura Sofía Ramírez",
+    "category": "fitness",
+    "profession": "Fitness influencer and wellness blogger",
+    "born": "April 22, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sofía Ramírez is a Colombian fitness influencer and wellness blogger known for her holistic approach to health. She shares tips on nutrition, fitness, and mental wellness.",
+    "tags": ["fitness", "wellness", "nutrition", "Bogotá"]
+  },
+  {
+    "name": "Andrés Mauricio Giraldo",
+    "category": "fitness",
+    "profession": "Fitness influencer and athlete",
+    "born": "September 5, 1990",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Mauricio Giraldo is a Colombian fitness influencer and athlete known for his athletic training content. He inspires his audience with his dedication and discipline.",
+    "tags": ["fitness", "athletics", "health", "Medellín"]
+  },
+  {
+    "name": "Camila Valentina Moreno",
+    "category": "fitness",
+    "profession": "Fitness influencer and dance fitness instructor",
+    "born": "July 15, 1992",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Valentina Moreno is a Colombian fitness influencer and dance fitness instructor known for her fun and energetic workout routines. She makes fitness enjoyable.",
+    "tags": ["fitness", "dance", "health", "Barranquilla"]
+  },
+  {
+    "name": "Juan Sebastián Rodríguez",
+    "category": "fitness",
+    "profession": "Fitness influencer and nutrition coach",
+    "born": "December 8, 1989",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Sebastián Rodríguez is a Colombian fitness influencer and nutrition coach known for his balanced approach to health. He provides guidance on diet and exercise.",
+    "tags": ["fitness", "nutrition", "health", "Cali"]
+  },
+  {
+    "name": "Natalia Andrea Castillo fitness",
+    "category": "fitness",
+    "profession": "Fitness influencer and wellness advocate",
+    "born": "February 28, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Andrea Castillo is a Colombian fitness influencer and wellness advocate known for her holistic health content. She promotes balanced living and self-care.",
+    "tags": ["fitness", "wellness", "self-care", "Bogotá"]
+  },
+  {
+    "name": "Carlos Eduardo Martínez",
+    "category": "fitness",
+    "profession": "Fitness influencer and gym owner",
+    "born": "June 18, 1987",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Carlos Eduardo Martínez is a Colombian fitness influencer and gym owner known for his expertise in strength training. He has built a successful fitness business.",
+    "tags": ["fitness", "strength training", "business", "Medellín"]
+  },
+  {
+    "name": "Laura Camila Vargas",
+    "category": "fitness",
+    "profession": "Fitness influencer and sports enthusiast",
+    "born": "October 3, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Vargas is a Colombian fitness influencer and sports enthusiast known for her active lifestyle content. She inspires her followers to stay active and healthy.",
+    "tags": ["fitness", "sports", "health", "Barranquilla"]
+  },
+  {
+    "name": "Andrés Felipe Torres",
+    "category": "fitness",
+    "profession": "Fitness influencer and martial arts instructor",
+    "born": "March 25, 1990",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Torres is a Colombian fitness influencer and martial arts instructor known for his combat fitness content. He combines martial arts with fitness training.",
+    "tags": ["fitness", "martial arts", "combat", "Cali"]
+  },
+  {
+    "name": "Camila Andrea Guzmán",
+    "category": "food",
+    "profession": "Food blogger and chef",
+    "born": "January 10, 1988",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Guzmán is a Colombian food blogger and chef known for her Colombian recipes and cooking tutorials. She shares traditional and modern recipes with her audience.",
+    "tags": ["food", "cooking", "recipes", "Bogotá"]
+  },
+  {
+    "name": "Santiago Castellanos",
+    "category": "food",
+    "profession": "Food influencer and chef",
+    "born": "April 15, 1990",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Castellanos is a Colombian food influencer and chef known for his culinary content and restaurant reviews. He explores Colombian cuisine with passion.",
+    "tags": ["food", "chef", "restaurant reviews", "Medellín"]
+  },
+  {
+    "name": "Laura Sofía Martínez",
+    "category": "food",
+    "profession": "Food blogger and recipe developer",
+    "born": "August 22, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sofía Martínez is a Colombian food blogger and recipe developer known for her creative and accessible recipes. She inspires her followers to cook at home.",
+    "tags": ["food", "recipes", "cooking", "Barranquilla"]
+  },
+  {
+    "name": "Juan David Ospina",
+    "category": "food",
+    "profession": "Food content creator and chef",
+    "born": "November 5, 1989",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Ospina is a Colombian food content creator and chef known for his innovative cooking videos. He brings creativity to Colombian cuisine.",
+    "tags": ["food", "cooking", "innovation", "Cali"]
+  },
+  {
+    "name": "Camila Valentina Rojas food",
+    "category": "food",
+    "profession": "Food influencer and nutritionist",
+    "born": "February 18, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Valentina Rojas is a Colombian food influencer and nutritionist known for her healthy recipe content. She promotes nutritious and delicious eating.",
+    "tags": ["food", "nutrition", "healthy eating", "Bogotá"]
+  },
+  {
+    "name": "Andrés Felipe López food",
+    "category": "food",
+    "profession": "Food blogger and street food enthusiast",
+    "born": "June 28, 1990",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe López is a Colombian food blogger and street food enthusiast known for exploring street food across Colombia. He shares his culinary adventures with his audience.",
+    "tags": ["food", "street food", "travel", "Medellín"]
+  },
+  {
+    "name": "Laura Camila Díaz food",
+    "category": "food",
+    "profession": "Food influencer and baking enthusiast",
+    "born": "September 12, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Díaz is a Colombian food influencer and baking enthusiast known for her dessert and baking content. She creates beautiful and delicious treats.",
+    "tags": ["food", "baking", "desserts", "Barranquilla"]
+  },
+  {
+    "name": "Santiago Giraldo food",
+    "category": "food",
+    "profession": "Food content creator and food critic",
+    "born": "May 5, 1988",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Giraldo is a Colombian food content creator and food critic known for his honest restaurant reviews. He provides valuable insights into Colombian dining.",
+    "tags": ["food", "restaurant reviews", "criticism", "Cali"]
+  },
+  {
+    "name": "Natalia Andrea Mejía",
+    "category": "food",
+    "profession": "Food blogger and home cook",
+    "born": "October 20, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Andrea Mejía is a Colombian food blogger and home cook known for her easy and delicious recipes. She makes cooking accessible for everyone.",
+    "tags": ["food", "recipes", "home cooking", "Bogotá"]
+  },
+  {
+    "name": "Camila Andrea Herrera food",
+    "category": "food",
+    "profession": "Food influencer and healthy eating advocate",
+    "born": "January 25, 1992",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Herrera is a Colombian food influencer and healthy eating advocate known for her nutritious recipes. She promotes balanced and healthy lifestyles.",
+    "tags": ["food", "healthy eating", "nutrition", "Medellín"]
+  },
+  {
+    "name": "Juan Camilo Suárez food",
+    "category": "food",
+    "profession": "Food content creator and chef",
+    "born": "July 8, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo Suárez is a Colombian food content creator and chef known for his professional cooking tutorials. He shares his culinary expertise with home cooks.",
+    "tags": ["food", "cooking tutorials", "chef", "Barranquilla"]
+  },
+  {
+    "name": "Laura Valentina Ospina",
+    "category": "food",
+    "profession": "Food influencer and recipe developer",
+    "born": "March 15, 1991",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Valentina Ospina is a Colombian food influencer and recipe developer known for her creative and delicious recipes. She inspires her followers to explore new flavors.",
+    "tags": ["food", "recipes", "creativity", "Cali"]
+  },
+  {
+    "name": "Santiago Andrés Moreno food",
+    "category": "food",
+    "profession": "Food blogger and culinary explorer",
+    "born": "November 18, 1989",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Andrés Moreno is a Colombian food blogger and culinary explorer known for his food travel content. He discovers hidden culinary gems across Colombia.",
+    "tags": ["food", "travel", "culinary", "Bogotá"]
+  },
+  {
+    "name": "Camila Sofía Gómez",
+    "category": "business",
+    "profession": "Entrepreneur and digital creator",
+    "born": "April 8, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Sofía Gómez is a Colombian entrepreneur and digital creator known for her successful fashion brand and social media presence. She inspires young entrepreneurs.",
+    "tags": ["entrepreneurship", "fashion", "digital creator", "Bogotá"]
+  },
+  {
+    "name": "Andrés Felipe Martínez business",
+    "category": "business",
+    "profession": "Entrepreneur and influencer",
+    "born": "September 22, 1988",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Martínez is a Colombian entrepreneur and influencer known for his tech startup and business insights. He shares entrepreneurship advice with his audience.",
+    "tags": ["entrepreneurship", "technology", "business", "Medellín"]
+  },
+  {
+    "name": "Laura Camila Restrepo",
+    "category": "business",
+    "profession": "Businesswoman and content creator",
+    "born": "January 30, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Restrepo is a Colombian businesswoman and content creator known for her beauty brand and lifestyle content. She has built a successful business empire.",
+    "tags": ["business", "beauty", "content creator", "Barranquilla"]
+  },
+  {
+    "name": "Juan David Vélez",
+    "category": "business",
+    "profession": "Entrepreneur and digital marketer",
+    "born": "June 15, 1989",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Vélez is a Colombian entrepreneur and digital marketer known for his expertise in online business. He helps brands grow through digital strategies.",
+    "tags": ["entrepreneurship", "digital marketing", "business", "Cali"]
+  },
+  {
+    "name": "Camila Andrea Torres business",
+    "category": "business",
+    "profession": "Entrepreneur and fashion designer",
+    "born": "October 5, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Torres is a Colombian entrepreneur and fashion designer known for her sustainable fashion brand. She promotes ethical and stylish fashion.",
+    "tags": ["entrepreneurship", "fashion", "sustainability", "Bogotá"]
+  },
+  {
+    "name": "Andrés Mauricio Ospina",
+    "category": "business",
+    "profession": "Entrepreneur and startup founder",
+    "born": "March 20, 1987",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Mauricio Ospina is a Colombian entrepreneur and startup founder known for his innovative tech solutions. He has raised funding for his successful ventures.",
+    "tags": ["entrepreneurship", "technology", "startups", "Medellín"]
+  },
+  {
+    "name": "Laura Sofía Giraldo business",
+    "category": "business",
+    "profession": "Businesswoman and influencer",
+    "born": "August 12, 1992",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sofía Giraldo is a Colombian businesswoman and influencer known for her wellness brand and lifestyle content. She inspires healthy living through her products.",
+    "tags": ["business", "wellness", "influencer", "Barranquilla"]
+  },
+  {
+    "name": "Santiago Castillo business",
+    "category": "business",
+    "profession": "Entrepreneur and venture capitalist",
+    "born": "November 8, 1985",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Castillo is a Colombian entrepreneur and venture capitalist known for investing in Latin American startups. He supports innovation and entrepreneurship in the region.",
+    "tags": ["entrepreneurship", "venture capital", "investment", "Cali"]
+  },
+  {
+    "name": "Camila Valentina Muñoz business",
+    "category": "business",
+    "profession": "Entrepreneur and content creator",
+    "born": "February 15, 1993",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Valentina Muñoz is a Colombian entrepreneur and content creator known for her successful lifestyle brand. She combines business acumen with creative content.",
+    "tags": ["entrepreneurship", "lifestyle", "content creator", "Bogotá"]
+  },
+  {
+    "name": "Juan Sebastián Ramírez",
+    "category": "business",
+    "profession": "Entrepreneur and tech innovator",
+    "born": "July 25, 1988",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Sebastián Ramírez is a Colombian entrepreneur and tech innovator known for his fintech startup. He is revolutionizing financial services in Latin America.",
+    "tags": ["entrepreneurship", "fintech", "technology", "Medellín"]
+  },
+  {
+    "name": "Laura Camila Suárez business",
+    "category": "business",
+    "profession": "Businesswoman and social entrepreneur",
+    "born": "May 10, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Suárez is a Colombian businesswoman and social entrepreneur known for her impact-driven ventures. She creates businesses that benefit communities.",
+    "tags": ["entrepreneurship", "social impact", "business", "Barranquilla"]
+  },
+  {
+    "name": "Camila Andrea García",
+    "category": "model",
+    "profession": "Model and influencer",
+    "born": "January 8, 1992",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea García is a Colombian model and influencer known for her work with international fashion brands. She has graced runways and magazine covers.",
+    "tags": ["model", "fashion", "influencer", "Cali"]
+  },
+  {
+    "name": "Santiago Ríos",
+    "category": "model",
+    "profession": "Model and actor",
+    "born": "April 22, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Ríos is a Colombian model and actor known for his work in fashion campaigns and television. He has a strong presence in the Colombian entertainment industry.",
+    "tags": ["model", "fashion", "actor", "Bogotá"]
+  },
+  {
+    "name": "Laura Valentina Castaño",
+    "category": "model",
+    "profession": "Model and beauty queen",
+    "born": "September 15, 1993",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Valentina Castaño is a Colombian model and beauty queen known for her pageant success and modeling career. She represents Colombian beauty internationally.",
+    "tags": ["model", "beauty queen", "fashion", "Medellín"]
+  },
+  {
+    "name": "Juan Camilo López model",
+    "category": "model",
+    "profession": "Model and fitness influencer",
+    "born": "June 28, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo López is a Colombian model and fitness influencer known for his work in fitness modeling and brand campaigns. He combines fitness with fashion.",
+    "tags": ["model", "fitness", "fashion", "Barranquilla"]
+  },
+  {
+    "name": "Camila Sofía Vargas",
+    "category": "model",
+    "profession": "Model and social media personality",
+    "born": "November 3, 1994",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Sofía Vargas is a Colombian model and social media personality known for her stunning photos and fashion content. She has a strong presence on Instagram.",
+    "tags": ["model", "fashion", "Instagram", "Cali"]
+  },
+  {
+    "name": "Andrés Felipe Ramírez model",
+    "category": "model",
+    "profession": "Model and actor",
+    "born": "February 20, 1989",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Ramírez is a Colombian model and actor known for his work in fashion and television. He has appeared in numerous campaigns and productions.",
+    "tags": ["model", "fashion", "actor", "Bogotá"]
+  },
+  {
+    "name": "Laura Camila Mendoza",
+    "category": "model",
+    "profession": "Model and influencer",
+    "born": "August 8, 1992",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Mendoza is a Colombian model and influencer known for her fashion and lifestyle content. She collaborates with international brands and inspires her followers.",
+    "tags": ["model", "fashion", "influencer", "Medellín"]
+  },
+  {
+    "name": "Santiago Mejía model",
+    "category": "model",
+    "profession": "Model and fashion influencer",
+    "born": "May 15, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Mejía is a Colombian model and fashion influencer known for his work in men's fashion. He has a strong presence in the Colombian fashion scene.",
+    "tags": ["model", "fashion", "influencer", "Barranquilla"]
+  },
+  {
+    "name": "Camila Andrea Parra",
+    "category": "model",
+    "profession": "Model and beauty influencer",
+    "born": "October 12, 1993",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Parra is a Colombian model and beauty influencer known for her makeup tutorials and beauty content. She has a dedicated following for her expertise.",
+    "tags": ["model", "beauty", "makeup", "Cali"]
+  },
+  {
+    "name": "Juan David García",
+    "category": "model",
+    "profession": "Model and fitness enthusiast",
+    "born": "January 5, 1990",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David García is a Colombian model and fitness enthusiast known for his athletic physique and modeling work. He inspires fitness and fashion.",
+    "tags": ["model", "fitness", "fashion", "Bogotá"]
+  },
+  {
+    "name": "Laura Valentina Ospina model",
+    "category": "model",
+    "profession": "Model and pageant titleholder",
+    "born": "March 18, 1994",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Valentina Ospina is a Colombian model and pageant titleholder known for her beauty and grace. She has represented Colombia in international pageants.",
+    "tags": ["model", "pageant", "beauty", "Medellín"]
+  },
+  {
+    "name": "Andrés Felipe Gómez",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "April 18, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Gómez is a Colombian YouTuber known for his travel and lifestyle content. He shares adventures from across Colombia and Latin America.",
+    "tags": ["YouTube", "travel", "lifestyle", "Bogotá"]
+  },
+  {
+    "name": "Camila Andrea Moreno",
+    "category": "influencer",
+    "profession": "Instagram influencer and fashion blogger",
+    "born": "September 28, 1993",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Moreno is a Colombian Instagram influencer and fashion blogger known for her chic style. She inspires her followers with fashion tips and lifestyle content.",
+    "tags": ["Instagram", "fashion", "blogging", "Medellín"]
+  },
+  {
+    "name": "Juan Camilo Sánchez",
+    "category": "influencer",
+    "profession": "YouTuber and comedian",
+    "born": "January 10, 1991",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo Sánchez is a Colombian YouTuber and comedian known for his hilarious sketches. He creates content that brings joy to audiences across Colombia.",
+    "tags": ["YouTube", "comedy", "entertainment", "Barranquilla"]
+  },
+  {
+    "name": "Laura Valentina Rojas",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "July 5, 1998",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Valentina Rojas is a Colombian TikToker known for her dance videos and lifestyle content. She has built a strong following with her engaging personality.",
+    "tags": ["TikTok", "dance", "lifestyle", "Cali"]
+  },
+  {
+    "name": "Santiago Ríos López",
+    "category": "influencer",
+    "profession": "YouTuber and gaming creator",
+    "born": "October 22, 1994",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Ríos López is a Colombian YouTuber and gaming creator known for his entertaining gaming content. He has a loyal community of followers.",
+    "tags": ["YouTube", "gaming", "streaming", "Bogotá"]
+  },
+  {
+    "name": "Natalia Andrea Suárez",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "March 15, 1995",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Andrea Suárez is a Colombian Instagram influencer and model known for her stunning fashion content. She collaborates with major brands in Colombia.",
+    "tags": ["Instagram", "model", "fashion", "Medellín"]
+  },
+  {
+    "name": "Andrés Mauricio Díaz",
+    "category": "influencer",
+    "profession": "YouTuber and fitness content creator",
+    "born": "June 12, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Mauricio Díaz is a Colombian YouTuber and fitness content creator known for his workout videos. He inspires his audience to live healthier lives.",
+    "tags": ["YouTube", "fitness", "health", "Barranquilla"]
+  },
+  {
+    "name": "Camila Sofía Martínez",
+    "category": "influencer",
+    "profession": "TikToker and beauty influencer",
+    "born": "August 25, 1997",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Sofía Martínez is a Colombian TikToker known for her beauty tutorials and makeup content. She has gained millions of followers with her helpful tips.",
+    "tags": ["TikTok", "beauty", "makeup", "Cali"]
+  },
+  {
+    "name": "Juan David Castellanos",
+    "category": "influencer",
+    "profession": "YouTuber and vlogger",
+    "born": "November 8, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Castellanos is a Colombian YouTuber and vlogger known for his daily life content. He connects with his audience through relatable storytelling.",
+    "tags": ["YouTube", "vlogs", "lifestyle", "Bogotá"]
+  },
+  {
+    "name": "Laura Camila Guzmán",
+    "category": "influencer",
+    "profession": "Instagram influencer and lifestyle blogger",
+    "born": "February 20, 1994",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Camila Guzmán is a Colombian Instagram influencer and lifestyle blogger known for her elegant content. She shares fashion and wellness inspiration.",
+    "tags": ["Instagram", "lifestyle", "fashion", "Medellín"]
+  },
+  {
+    "name": "Andrés Felipe Mejía",
+    "category": "influencer",
+    "profession": "YouTuber and content creator",
+    "born": "May 30, 1993",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Mejía is a Colombian YouTuber known for his reaction and commentary videos. He provides entertaining content on trending topics.",
+    "tags": ["YouTube", "reactions", "commentary", "Barranquilla"]
+  },
+  {
+    "name": "Natalia Sofía Vargas",
+    "category": "influencer",
+    "profession": "TikToker and content creator",
+    "born": "October 5, 1999",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Natalia Sofía Vargas is a Colombian TikToker known for her creative and fun content. She has quickly gained a large following with her unique style.",
+    "tags": ["TikTok", "creative", "entertainment", "Cali"]
+  },
+  {
+    "name": "Santiago Cardona Ríos",
+    "category": "influencer",
+    "profession": "YouTuber and travel content creator",
+    "born": "January 22, 1992",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Santiago Cardona Ríos is a Colombian YouTuber and travel content creator known for exploring destinations. He shares travel tips and cultural experiences.",
+    "tags": ["YouTube", "travel", "culture", "Bogotá"]
+  },
+  {
+    "name": "Camila Valentina Sánchez",
+    "category": "influencer",
+    "profession": "Instagram influencer and model",
+    "born": "April 8, 1996",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Valentina Sánchez is a Colombian Instagram influencer and model known for her fashion content. She collaborates with brands and inspires her followers.",
+    "tags": ["Instagram", "model", "fashion", "Medellín"]
+  },
+  {
+    "name": "Juan Camilo Torres",
+    "category": "influencer",
+    "profession": "YouTuber and entertainment creator",
+    "born": "September 18, 1990",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan Camilo Torres is a Colombian YouTuber known for his entertaining content. He creates videos that bring joy and laughter to his viewers.",
+    "tags": ["YouTube", "entertainment", "comedy", "Barranquilla"]
+  },
+  {
+    "name": "Laura Sofía Ospina",
+    "category": "influencer",
+    "profession": "TikToker and fitness influencer",
+    "born": "December 12, 1998",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Sofía Ospina is a Colombian TikToker and fitness influencer known for her workout content. She motivates her audience to stay active and healthy.",
+    "tags": ["TikTok", "fitness", "health", "Cali"]
+  },
+  {
+    "name": "Andrés Felipe Vargas",
+    "category": "influencer",
+    "profession": "YouTuber and tech content creator",
+    "born": "July 28, 1991",
+    "birthPlace": "Bogotá, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Andrés Felipe Vargas is a Colombian YouTuber known for his tech reviews and gadget content. He provides insightful analysis on the latest technology.",
+    "tags": ["YouTube", "technology", "reviews", "Bogotá"]
+  },
+  {
+    "name": "Camila Andrea Rodríguez",
+    "category": "influencer",
+    "profession": "Instagram influencer and food blogger",
+    "born": "March 5, 1993",
+    "birthPlace": "Medellín, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Camila Andrea Rodríguez is a Colombian Instagram influencer and food blogger known for her delicious recipes. She shares cooking tips and food content.",
+    "tags": ["Instagram", "food", "recipes", "Medellín"]
+  },
+  {
+    "name": "Juan David Moreno",
+    "category": "influencer",
+    "profession": "YouTuber and music content creator",
+    "born": "August 15, 1992",
+    "birthPlace": "Barranquilla, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Juan David Moreno is a Colombian YouTuber known for his music content and covers. He shares his musical talent with audiences across Colombia.",
+    "tags": ["YouTube", "music", "covers", "Barranquilla"]
+  },
+  {
+    "name": "Laura Valentina Arango",
+    "category": "influencer",
+    "profession": "TikToker and dance influencer",
+    "born": "November 28, 1997",
+    "birthPlace": "Cali, Colombia",
+    "nationality": "Colombian",
+    "excerpt": "Laura Valentina Arango is a Colombian TikToker known for her dance content and choreography. She has gained a massive following with her energetic videos.",
+    "tags": ["TikTok", "dance", "choreography", "Cali"]
+  }
+]

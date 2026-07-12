@@ -1,0 +1,3722 @@
+[
+  {
+    "name": "Dude Perfect",
+    "category": "youtuber",
+    "profession": "YouTube sports entertainment group",
+    "born": "2009",
+    "birthPlace": "Dallas, USA",
+    "nationality": "American",
+    "excerpt": "Dude Perfect is a YouTube channel featuring five friends who perform elaborate sports trick shots and stunts. They are one of the most subscribed YouTube channels globally.",
+    "tags": [
+      "youtube",
+      "sports",
+      "trickshots",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Smosh",
+    "category": "youtuber",
+    "profession": "YouTube comedy duo",
+    "born": "2005",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Smosh is a comedy YouTube channel founded by Ian Hecox and Anthony Padilla, known for sketch comedy, parodies, and gaming content.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "sketch",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Jenna Marbles",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1986-09-15",
+    "birthPlace": "Rochester, USA",
+    "nationality": "American",
+    "excerpt": "Jenna Marbles was one of the most popular female YouTubers, known for her comedic vlogs and relatable content before retiring in 2020.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "vlogs",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Zoella",
+    "category": "influencer",
+    "profession": "Beauty and lifestyle YouTuber",
+    "born": "1990-03-28",
+    "birthPlace": "Lewes, UK",
+    "nationality": "British",
+    "excerpt": "Zoella (Zoe Sugg) is a British YouTuber and author who rose to fame with beauty and lifestyle content, becoming one of the UK's most influential digital creators.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "lifestyle",
+      "influencer"
+    ]
+  },
+  {
+    "name": "Tati Westbrook",
+    "category": "youtuber",
+    "profession": "Beauty YouTuber",
+    "born": "1982-02-14",
+    "birthPlace": "Seattle, USA",
+    "nationality": "American",
+    "excerpt": "Tati Westbrook is a beauty YouTuber known for her detailed makeup reviews and beauty tutorials on her channel Tati.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "makeup",
+      "reviews"
+    ]
+  },
+  {
+    "name": "Shane Dawson",
+    "category": "youtuber",
+    "profession": "YouTuber and filmmaker",
+    "born": "1988-07-19",
+    "birthPlace": "Long Beach, USA",
+    "nationality": "American",
+    "excerpt": "Shane Dawson is a YouTuber known for his documentary series, conspiracy theory videos, and collaborations with other major creators.",
+    "tags": [
+      "youtube",
+      "documentary",
+      "comedy",
+      "collaborations"
+    ]
+  },
+  {
+    "name": "Trisha Paytas",
+    "category": "influencer",
+    "profession": "YouTuber and media personality",
+    "born": "1988-05-08",
+    "birthPlace": "Riverside, USA",
+    "nationality": "American",
+    "excerpt": "Trisha Paytas is a YouTuber and media personality known for her controversial and dramatic content across multiple platforms.",
+    "tags": [
+      "youtube",
+      "drama",
+      "reality",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Philip DeFranco",
+    "category": "youtuber",
+    "profession": "News commentator and YouTuber",
+    "born": "1985-12-01",
+    "birthPlace": "Atlanta, USA",
+    "nationality": "American",
+    "excerpt": "Philip DeFranco is a YouTube news commentator known for his daily show covering internet culture, politics, and trending topics.",
+    "tags": [
+      "youtube",
+      "news",
+      "commentary",
+      "culture"
+    ]
+  },
+  {
+    "name": "Linus Tech Tips",
+    "category": "youtuber",
+    "profession": "Tech YouTuber",
+    "born": "1986-08-25",
+    "birthPlace": "Vancouver, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Linus Sebastian runs Linus Tech Tips, one of the largest tech review channels on YouTube covering hardware, software, and tech news.",
+    "tags": [
+      "youtube",
+      "tech",
+      "reviews",
+      "hardware"
+    ]
+  },
+  {
+    "name": "iJustine",
+    "category": "youtuber",
+    "profession": "Tech and lifestyle YouTuber",
+    "born": "1984-03-20",
+    "birthPlace": "Pittsburgh, USA",
+    "nationality": "American",
+    "excerpt": "iJustine (Justine Ezarik) is a tech YouTuber and actress known for her unboxing videos, tech reviews, and vlogs.",
+    "tags": [
+      "youtube",
+      "tech",
+      "lifestyle",
+      "unboxing"
+    ]
+  },
+  {
+    "name": "Rosanna Pansino",
+    "category": "youtuber",
+    "profession": "Baking YouTuber",
+    "born": "1985-06-08",
+    "birthPlace": "Seattle, USA",
+    "nationality": "American",
+    "excerpt": "Rosanna Pansino is a baking YouTuber known for her show Nerdy Nummies and creative baking tutorials.",
+    "tags": [
+      "youtube",
+      "baking",
+      "cooking",
+      "nerdy"
+    ]
+  },
+  {
+    "name": "Rhett and Link",
+    "category": "youtuber",
+    "profession": "Comedy duo and YouTubers",
+    "born": "1977-06-11",
+    "birthPlace": "Buies Creek, USA",
+    "nationality": "American",
+    "excerpt": "Rhett McLaughlin and Link Neal are a comedy duo known for their YouTube show Good Mythical Morning and Mythical Entertainment.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "talkshow",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "The Try Guys",
+    "category": "youtuber",
+    "profession": "YouTube comedy group",
+    "born": "2014",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "The Try Guys are a group of content creators known for trying everything from food challenges to unusual activities in entertaining videos.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "challenges",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Cody Ko",
+    "category": "youtuber",
+    "profession": "Comedy YouTuber",
+    "born": "1990-11-22",
+    "birthPlace": "Colorado Springs, USA",
+    "nationality": "American",
+    "excerpt": "Cody Ko is a comedian and YouTuber known for his commentary videos and the podcast That's Cringe with Noel Miller.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "commentary",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Noel Miller",
+    "category": "youtuber",
+    "profession": "Comedian and YouTuber",
+    "born": "1989-09-19",
+    "birthPlace": "Nashville, USA",
+    "nationality": "American",
+    "excerpt": "Noel Miller is a comedian and YouTuber known for his comedy sketches, commentary videos, and music.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "music",
+      "commentary"
+    ]
+  },
+  {
+    "name": "Ethan Klein",
+    "category": "streamer",
+    "profession": "Podcast host and YouTuber",
+    "born": "1985-06-02",
+    "birthPlace": "Ventura, USA",
+    "nationality": "American",
+    "excerpt": "Ethan Klein is the co-host of the H3 Podcast and host of the H3H3 Productions YouTube channel known for commentary and comedy.",
+    "tags": [
+      "youtube",
+      "podcast",
+      "commentary",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Hila Klein",
+    "category": "influencer",
+    "profession": "YouTuber and fashion designer",
+    "born": "1987-07-12",
+    "birthPlace": "Israel",
+    "nationality": "Israeli-American",
+    "excerpt": "Hila Klein is a YouTuber and co-founder of the clothing brand Teddy Fresh, known for her role on the H3 Podcast.",
+    "tags": [
+      "youtube",
+      "fashion",
+      "podcast",
+      "designer"
+    ]
+  },
+  {
+    "name": "Hank Green",
+    "category": "youtuber",
+    "profession": "YouTuber and author",
+    "born": "1977-05-05",
+    "birthPlace": "Birmingham, USA",
+    "nationality": "American",
+    "excerpt": "Hank Green is a YouTuber, author, and science communicator known for Vlogbrothers, Crash Course, and SciShow.",
+    "tags": [
+      "youtube",
+      "science",
+      "education",
+      "author"
+    ]
+  },
+  {
+    "name": "John Green",
+    "category": "youtuber",
+    "profession": "Author and YouTuber",
+    "born": "1977-08-24",
+    "birthPlace": "Indianapolis, USA",
+    "nationality": "American",
+    "excerpt": "John Green is a bestselling author of The Fault in Our Stars and co-creator of the Vlogbrothers YouTube channel.",
+    "tags": [
+      "youtube",
+      "author",
+      "education",
+      "writing"
+    ]
+  },
+  {
+    "name": "Vsauce",
+    "category": "youtuber",
+    "profession": "Science educator and YouTuber",
+    "born": "1986-01-22",
+    "birthPlace": "Kansas City, USA",
+    "nationality": "American",
+    "excerpt": "Vsauce (Michael Stevens) creates educational videos exploring science, mathematics, and philosophy in an engaging way.",
+    "tags": [
+      "youtube",
+      "science",
+      "education",
+      "philosophy"
+    ]
+  },
+  {
+    "name": "Mark Rober",
+    "category": "youtuber",
+    "profession": "Engineer and YouTuber",
+    "born": "1981-03-11",
+    "birthPlace": "Orange County, USA",
+    "nationality": "American",
+    "excerpt": "Mark Rober is a former NASA engineer turned YouTuber known for elaborate science experiments and engineering projects.",
+    "tags": [
+      "youtube",
+      "science",
+      "engineering",
+      "experiments"
+    ]
+  },
+  {
+    "name": "Veritasium",
+    "category": "youtuber",
+    "profession": "Science communicator",
+    "born": "1986-07-09",
+    "birthPlace": "Sydney, Australia",
+    "nationality": "Australian",
+    "excerpt": "Veritasium (Derek Muller) creates science education videos exploring physics, engineering, and scientific misconceptions.",
+    "tags": [
+      "youtube",
+      "science",
+      "physics",
+      "education"
+    ]
+  },
+  {
+    "name": "SmarterEveryDay",
+    "category": "youtuber",
+    "profession": "Science educator and YouTuber",
+    "born": "1981-01-17",
+    "birthPlace": "Decatur, USA",
+    "nationality": "American",
+    "excerpt": "SmarterEveryDay (Destin Sandlin) creates science and engineering videos exploring the world through slow motion and experiments.",
+    "tags": [
+      "youtube",
+      "science",
+      "slowmotion",
+      "engineering"
+    ]
+  },
+  {
+    "name": "LazarBeam",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1995-12-14",
+    "birthPlace": "Newcastle, Australia",
+    "nationality": "Australian",
+    "excerpt": "LazarBeam (Lannan Eacott) is an Australian YouTuber known for his gaming content, Fortnite videos, and comedic commentary.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fortnite",
+      "comedy"
+    ]
+  },
+  {
+    "name": "DanTDM",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1991-11-08",
+    "birthPlace": "Aldershot, UK",
+    "nationality": "British",
+    "excerpt": "DanTDM (Daniel Middleton) is one of the biggest gaming YouTubers known for his Minecraft content and family-friendly videos.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "minecraft",
+      "family"
+    ]
+  },
+  {
+    "name": "MrWhoseTheBoss",
+    "category": "youtuber",
+    "profession": "Tech YouTuber",
+    "born": "1993-10-31",
+    "birthPlace": "Bristol, UK",
+    "nationality": "British",
+    "excerpt": "MrWhoseTheBoss (Arun Maini) is a British tech YouTuber known for his high-quality smartphone and gadget reviews.",
+    "tags": [
+      "youtube",
+      "tech",
+      "reviews",
+      "smartphones"
+    ]
+  },
+  {
+    "name": "iDubbbz",
+    "category": "youtuber",
+    "profession": "YouTuber and content creator",
+    "born": "1990-07-27",
+    "birthPlace": "San Antonio, USA",
+    "nationality": "American",
+    "excerpt": "iDubbbz is a YouTuber known for his Content Cop series and various comedy formats including documentary-style content.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "commentary",
+      "sketch"
+    ]
+  },
+  {
+    "name": "GradeAUnderA",
+    "category": "youtuber",
+    "profession": "YouTuber and commentator",
+    "born": "1991-04-01",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "GradeAUnderA is a British YouTuber known for his animated comedy and commentary videos with a simple visual style.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "animation",
+      "commentary"
+    ]
+  },
+  {
+    "name": "Pyrocynical",
+    "category": "youtuber",
+    "profession": "YouTuber and commentator",
+    "born": "1998-05-14",
+    "birthPlace": "England, UK",
+    "nationality": "British",
+    "excerpt": "Pyrocynical is a British YouTuber known for his commentary and reaction videos with a distinctive humor style.",
+    "tags": [
+      "youtube",
+      "commentary",
+      "reactions",
+      "british"
+    ]
+  },
+  {
+    "name": "MoistCr1TiKaL",
+    "category": "youtuber",
+    "profession": "YouTuber and commentator",
+    "born": "1994-08-02",
+    "birthPlace": "Tampa, USA",
+    "nationality": "American",
+    "excerpt": "MoistCr1TiKaL (Charlie) is a YouTuber known for his deadpan commentary on internet culture and gaming.",
+    "tags": [
+      "youtube",
+      "commentary",
+      "gaming",
+      "deadpan"
+    ]
+  },
+  {
+    "name": "Caddicarus",
+    "category": "youtuber",
+    "profession": "YouTuber and game reviewer",
+    "born": "1990-04-17",
+    "birthPlace": "Bournemouth, UK",
+    "nationality": "British",
+    "excerpt": "Caddicarus is a British YouTuber known for his entertaining retro gaming reviews and comedy format.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "reviews",
+      "retro"
+    ]
+  },
+  {
+    "name": "Scott The Woz",
+    "category": "youtuber",
+    "profession": "YouTuber and game reviewer",
+    "born": "1997-06-02",
+    "birthPlace": "Ohio, USA",
+    "nationality": "American",
+    "excerpt": "Scott The Woz is a YouTuber known for his comedic video game reviews, analysis content, and self-deprecating humor.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "reviews",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Summoning Salt",
+    "category": "youtuber",
+    "profession": "YouTuber and documentary creator",
+    "born": "1992-01-01",
+    "birthPlace": "Boston, USA",
+    "nationality": "American",
+    "excerpt": "Summoning Salt creates highly detailed documentaries about speedrunning and gaming history on YouTube.",
+    "tags": [
+      "youtube",
+      "documentary",
+      "speedrunning",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Internet Historian",
+    "category": "youtuber",
+    "profession": "YouTuber and animator",
+    "born": "1990-01-01",
+    "birthPlace": "New Zealand",
+    "nationality": "New Zealander",
+    "excerpt": "Internet Historian creates animated documentaries about internet culture, events, and history with a humorous tone.",
+    "tags": [
+      "youtube",
+      "animation",
+      "documentary",
+      "internetculture"
+    ]
+  },
+  {
+    "name": "Kurzgesagt",
+    "category": "youtuber",
+    "profession": "Educational YouTube channel",
+    "born": "2013-01-01",
+    "birthPlace": "Munich, Germany",
+    "nationality": "German",
+    "excerpt": "Kurzgesagt creates beautifully animated educational videos about science, technology, and philosophy.",
+    "tags": [
+      "youtube",
+      "science",
+      "animation",
+      "education"
+    ]
+  },
+  {
+    "name": "Tom Scott",
+    "category": "youtuber",
+    "profession": "YouTuber and presenter",
+    "born": "1984-01-01",
+    "birthPlace": "Nottingham, UK",
+    "nationality": "British",
+    "excerpt": "Tom Scott creates educational videos about technology, linguistics, and interesting places around the world.",
+    "tags": [
+      "youtube",
+      "education",
+      "technology",
+      "travel"
+    ]
+  },
+  {
+    "name": "NileRed",
+    "category": "youtuber",
+    "profession": "Chemistry YouTuber",
+    "born": "1997-03-01",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "NileRed creates fascinating chemistry experiment videos that have gone viral on YouTube for their visual appeal.",
+    "tags": [
+      "youtube",
+      "chemistry",
+      "science",
+      "experiments"
+    ]
+  },
+  {
+    "name": "Stuff Made Here",
+    "category": "youtuber",
+    "profession": "Engineering YouTuber",
+    "born": "1990-01-01",
+    "birthPlace": "North Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Stuff Made Here creates incredible engineering projects and inventions showcasing advanced maker skills.",
+    "tags": [
+      "youtube",
+      "engineering",
+      "inventions",
+      "diy"
+    ]
+  },
+  {
+    "name": "Colin Furze",
+    "category": "youtuber",
+    "profession": "Engineering YouTuber",
+    "born": "1979-10-14",
+    "birthPlace": "Northamptonshire, UK",
+    "nationality": "British",
+    "excerpt": "Colin Furze creates incredible engineering projects and inventions including jet-powered bikes and underground bunkers.",
+    "tags": [
+      "youtube",
+      "engineering",
+      "inventions",
+      "wild"
+    ]
+  },
+  {
+    "name": "Adam Savage",
+    "category": "youtuber",
+    "profession": "Maker and presenter",
+    "born": "1967-07-29",
+    "birthPlace": "New York, USA",
+    "nationality": "American",
+    "excerpt": "Adam Savage is a former MythBusters host who creates maker content and builds incredible projects on YouTube.",
+    "tags": [
+      "youtube",
+      "maker",
+      "mythbusters",
+      "engineering"
+    ]
+  },
+  {
+    "name": "MatPat",
+    "category": "youtuber",
+    "profession": "YouTuber and theorist",
+    "born": "1986-11-15",
+    "birthPlace": "New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "MatPat (Matthew Patrick) is the creator of Game Theory, Film Theory, and Food Theory YouTube channels analyzing pop culture.",
+    "tags": [
+      "youtube",
+      "theory",
+      "gaming",
+      "analysis"
+    ]
+  },
+  {
+    "name": "Grian",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1993-08-03",
+    "birthPlace": "England, UK",
+    "nationality": "British",
+    "excerpt": "Grian is a Minecraft YouTuber known for his building tutorials, survival multiplayer content, and Hermitcraft.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "building",
+      "hermitcraft"
+    ]
+  },
+  {
+    "name": "CaptainSparklez",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1992-05-29",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "CaptainSparklez is a gaming YouTuber known for his Minecraft content and viral music videos like Revenge.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "minecraft",
+      "music"
+    ]
+  },
+  {
+    "name": "Lachlan",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1997-08-24",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "Australian",
+    "excerpt": "Lachlan is an Australian gaming YouTuber known for his Fortnite content and family-friendly entertainment.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fortnite",
+      "australian"
+    ]
+  },
+  {
+    "name": "Ali-A",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1993-11-06",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "Ali-A is a British YouTuber known for his gaming content, particularly Fortnite and Call of Duty videos with epic intros.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fortnite",
+      "call of duty"
+    ]
+  },
+  {
+    "name": "Typical Gamer",
+    "category": "streamer",
+    "profession": "Gaming YouTuber",
+    "born": "1992-03-23",
+    "birthPlace": "Vancouver, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Typical Gamer is a Canadian YouTuber known for his gaming videos, live streams, and vlogs with millions of subscribers.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fortnite",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Loserfruit",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1992-07-22",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "Australian",
+    "excerpt": "Loserfruit is an Australian gaming streamer known for her variety gaming content and upbeat personality.",
+    "tags": [
+      "youtube",
+      "twitch",
+      "gaming",
+      "australian"
+    ]
+  },
+  {
+    "name": "CourageJD",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1994-04-23",
+    "birthPlace": "New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "CourageJD (Jack Dunlop) is a gaming streamer and caster known for his Call of Duty and variety content.",
+    "tags": [
+      "youtube",
+      "twitch",
+      "gaming",
+      "casting"
+    ]
+  },
+  {
+    "name": "FaZe Rug",
+    "category": "streamer",
+    "profession": "Gaming YouTuber",
+    "born": "1996-06-22",
+    "birthPlace": "San Diego, USA",
+    "nationality": "American",
+    "excerpt": "FaZe Rug is a member of FaZe Clan known for his gaming content, vlogs, and pranks with a massive following.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fazeclan",
+      "vlogs"
+    ]
+  },
+  {
+    "name": "SSSniperWolf",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1992-10-22",
+    "birthPlace": "Liverpool, UK",
+    "nationality": "British-American",
+    "excerpt": "SSSniperWolf is a YouTuber known for her reaction videos, gaming content, and cosplay with millions of subscribers.",
+    "tags": [
+      "youtube",
+      "reactions",
+      "gaming",
+      "cosplay"
+    ]
+  },
+  {
+    "name": "Nikocado Avocado",
+    "category": "youtuber",
+    "profession": "YouTuber and mukbang creator",
+    "born": "1992-05-19",
+    "birthPlace": "Pittsburgh, USA",
+    "nationality": "American",
+    "excerpt": "Nikocado Avocado is a YouTuber known for his controversial mukbang videos and dramatic personality on social media.",
+    "tags": [
+      "youtube",
+      "mukbang",
+      "food",
+      "controversial"
+    ]
+  },
+  {
+    "name": "Sam and Colby",
+    "category": "youtuber",
+    "profession": "YouTubers and explorers",
+    "born": "1996-01-01",
+    "birthPlace": "New York, USA",
+    "nationality": "American",
+    "excerpt": "Sam and Colby are YouTube explorers known for their paranormal investigations, abandoned location visits, and adventure content.",
+    "tags": [
+      "youtube",
+      "paranormal",
+      "exploration",
+      "adventure"
+    ]
+  },
+  {
+    "name": "Tana Mongeau",
+    "category": "youtuber",
+    "profession": "YouTuber and personality",
+    "born": "1998-06-04",
+    "birthPlace": "Las Vegas, USA",
+    "nationality": "American",
+    "excerpt": "Tana Mongeau is a YouTuber known for her storytime videos, controversial personality, and internet drama.",
+    "tags": [
+      "youtube",
+      "storytime",
+      "drama",
+      "vlogs"
+    ]
+  },
+  {
+    "name": "RiceGum",
+    "category": "youtuber",
+    "profession": "YouTuber and rapper",
+    "born": "1996-11-19",
+    "birthPlace": "Las Vegas, USA",
+    "nationality": "American",
+    "excerpt": "RiceGum is a controversial YouTuber known for his diss tracks, commentary videos, and flexing culture content.",
+    "tags": [
+      "youtube",
+      "commentary",
+      "music",
+      "controversial"
+    ]
+  },
+  {
+    "name": "Guava Juice",
+    "category": "youtuber",
+    "profession": "YouTuber and entertainer",
+    "born": "1997-04-21",
+    "birthPlace": "San Antonio, USA",
+    "nationality": "American",
+    "excerpt": "Guava Juice is a YouTuber known for his challenge videos, slime content, and family-friendly entertainment.",
+    "tags": [
+      "youtube",
+      "challenges",
+      "family",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Dobre Brothers",
+    "category": "youtuber",
+    "profession": "YouTuber duo",
+    "born": "1996-01-01",
+    "birthPlace": "Maryland, USA",
+    "nationality": "American",
+    "excerpt": "The Dobre Brothers are twin YouTubers known for their challenge videos, pranks, and luxury lifestyle content.",
+    "tags": [
+      "youtube",
+      "challenges",
+      "pranks",
+      "twins"
+    ]
+  },
+  {
+    "name": "Calfreezy",
+    "category": "youtuber",
+    "profession": "YouTuber and streamer",
+    "born": "1995-11-17",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "Calfreezy is a British YouTuber known for his reaction videos, challenges, and collaborations with other creators.",
+    "tags": [
+      "youtube",
+      "reactions",
+      "challenges",
+      "british"
+    ]
+  },
+  {
+    "name": "Kian Lawley",
+    "category": "youtuber",
+    "profession": "YouTuber and actor",
+    "born": "1995-09-24",
+    "birthPlace": "San Clemente, USA",
+    "nationality": "American",
+    "excerpt": "Kian Lawley is a YouTuber and actor who gained fame through Vine and YouTube before transitioning to acting in films.",
+    "tags": [
+      "youtube",
+      "vine",
+      "acting",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Ninja",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1991-06-05",
+    "birthPlace": "Detroit, USA",
+    "nationality": "American",
+    "excerpt": "Ninja (Tyler Blevins) is one of the most famous gaming streamers, known for popularizing Fortnite and his massive Twitch following.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "fortnite",
+      "streamer"
+    ]
+  },
+  {
+    "name": "Pokimane",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1996-05-14",
+    "birthPlace": "Morocco",
+    "nationality": "Moroccan-Canadian",
+    "excerpt": "Pokimane (Imane Anys) is one of the biggest female gaming streamers on Twitch known for her variety gaming content.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "variety",
+      "streamer"
+    ]
+  },
+  {
+    "name": "Shroud",
+    "category": "streamer",
+    "profession": "Professional gamer and streamer",
+    "born": "1994-06-02",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Shroud (Michael Grzesiek) is a former CS:GO professional turned streamer known for his incredible FPS skills.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "fps",
+      "professional"
+    ]
+  },
+  {
+    "name": "Valkyrae",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1992-01-08",
+    "birthPlace": "Washington, USA",
+    "nationality": "American",
+    "excerpt": "Valkyrae (Rachel Hofstetter) is a top gaming streamer and content creator known for her Among Us and variety gaming content.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "gaming",
+      "amongus"
+    ]
+  },
+  {
+    "name": "Sykkuno",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1992-06-04",
+    "birthPlace": "California, USA",
+    "nationality": "American",
+    "excerpt": "Sykkuno is a gaming streamer known for his wholesome personality and Among Us gameplay with other top creators.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "gaming",
+      "wholesome"
+    ]
+  },
+  {
+    "name": "Corpse Husband",
+    "category": "streamer",
+    "profession": "Streamer and musician",
+    "born": "1997-08-08",
+    "birthPlace": "California, USA",
+    "nationality": "American",
+    "excerpt": "Corpse Husband is a mysterious streamer and musician known for his deep voice, Among Us gameplay, and viral music.",
+    "tags": [
+      "youtube",
+      "twitch",
+      "music",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Tyler1",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1995-03-06",
+    "birthPlace": "Missouri, USA",
+    "nationality": "American",
+    "excerpt": "Tyler1 is a controversial and entertaining League of Legends streamer known for his over-the-top reactions.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "leagueoflegends",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Myth",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1999-05-02",
+    "birthPlace": "Michigan, USA",
+    "nationality": "American",
+    "excerpt": "Myth (Ali Kabbani) is a gaming streamer known for his Fortnite skills and was one of the youngest professional gamers.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "fortnite",
+      "esports"
+    ]
+  },
+  {
+    "name": "DrLupo",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1987-03-20",
+    "birthPlace": "North Dakota, USA",
+    "nationality": "American",
+    "excerpt": "DrLupo (Benjamin Lupo) is a gaming streamer known for his Fortnite and variety gaming content and charity streams.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "fortnite",
+      "charity"
+    ]
+  },
+  {
+    "name": "TimTheTatman",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1990-04-08",
+    "birthPlace": "New York, USA",
+    "nationality": "American",
+    "excerpt": "TimTheTatman (Timothy Betar) is a popular gaming streamer known for his Call of Duty and variety gaming content.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "callofduty",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Summit1g",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1987-04-23",
+    "birthPlace": "Colorado, USA",
+    "nationality": "American",
+    "excerpt": "Summit1g (Jaryd Lazar) is one of the longest-standing top streamers on Twitch known for variety gaming content.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "variety",
+      "fps"
+    ]
+  },
+  {
+    "name": "xQc",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1995-11-12",
+    "birthPlace": "Laval, Canada",
+    "nationality": "Canadian",
+    "excerpt": "xQc (F\u00e9lix Lengyel) is one of the most-watched streamers on Twitch known for his gaming and Just Chatting content.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "variety",
+      "justchatting"
+    ]
+  },
+  {
+    "name": "Amouranth",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1993-12-02",
+    "birthPlace": "Houston, USA",
+    "nationality": "American",
+    "excerpt": "Amouranth (Kaitlyn Siragusa) is a popular Twitch streamer known for ASMR, gaming, and variety content.",
+    "tags": [
+      "twitch",
+      "asmr",
+      "gaming",
+      "variety"
+    ]
+  },
+  {
+    "name": "DrDisrespect",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1982-03-10",
+    "birthPlace": "Kent, USA",
+    "nationality": "American",
+    "excerpt": "DrDisrespect (Guy Beahm) is an iconic gaming streamer known for his over-the-top persona and high production value.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "personality",
+      "fps"
+    ]
+  },
+  {
+    "name": "Asmongold",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1990-04-20",
+    "birthPlace": "Austin, USA",
+    "nationality": "American",
+    "excerpt": "Asmongold is one of the biggest World of Warcraft streamers on Twitch known for his commentary and reactions.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "wow",
+      "reactions"
+    ]
+  },
+  {
+    "name": "HasanAbi",
+    "category": "streamer",
+    "profession": "Political commentator and streamer",
+    "born": "1991-07-13",
+    "birthPlace": "New Jersey, USA",
+    "nationality": "Turkish-American",
+    "excerpt": "HasanAbi (Hasan Piker) is a political commentator and streamer known for his leftist commentary and gaming content.",
+    "tags": [
+      "twitch",
+      "politics",
+      "commentary",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Ludwig",
+    "category": "streamer",
+    "profession": "Gaming streamer and YouTuber",
+    "born": "1995-07-06",
+    "birthPlace": "Holland, USA",
+    "nationality": "American",
+    "excerpt": "Ludwig Ahgren is a streamer and YouTuber known for his subathons, gaming content, and variety entertainment.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "gaming",
+      "variety"
+    ]
+  },
+  {
+    "name": "Disguised Toast",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1992-03-25",
+    "birthPlace": "Taiwan",
+    "nationality": "Taiwanese-Canadian",
+    "excerpt": "Disguised Toast (Jeremy Wang) is a gaming streamer known for his Among Us content and clever gameplay strategies.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "gaming",
+      "amongus"
+    ]
+  },
+  {
+    "name": "iShowSpeed",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "2005-01-21",
+    "birthPlace": "Cincinnati, USA",
+    "nationality": "American",
+    "excerpt": "iShowSpeed is a young gaming streamer known for his energetic personality, viral moments, and football content.",
+    "tags": [
+      "youtube",
+      "twitch",
+      "gaming",
+      "viral"
+    ]
+  },
+  {
+    "name": "Kai Cenat",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "2001-12-16",
+    "birthPlace": "Bronx, USA",
+    "nationality": "American",
+    "excerpt": "Kai Cenat is one of the biggest streamers on Twitch known for his variety content and celebrity collaborations.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "variety",
+      "collaborations"
+    ]
+  },
+  {
+    "name": "Tfue",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1998-01-02",
+    "birthPlace": "Dade City, USA",
+    "nationality": "American",
+    "excerpt": "Tfue is a gaming streamer and former FaZe Clan member known for his Fortnite and variety gaming content.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "gaming",
+      "fortnite"
+    ]
+  },
+  {
+    "name": "Nadeshot",
+    "category": "streamer",
+    "profession": "Esports entrepreneur",
+    "born": "1992-08-03",
+    "birthPlace": "Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Nadeshot (Matthew Haag) is a former Call of Duty pro who founded 100 Thieves and is a major esports figure.",
+    "tags": [
+      "esports",
+      "gaming",
+      "call of duty",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Huda Kattan",
+    "category": "influencer",
+    "profession": "Beauty influencer and entrepreneur",
+    "born": "1983-10-02",
+    "birthPlace": "Oklahoma City, USA",
+    "nationality": "American-Iraqi",
+    "excerpt": "Huda Kattan is the founder of Huda Beauty and one of the most influential beauty influencers in the world.",
+    "tags": [
+      "instagram",
+      "beauty",
+      "makeup",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Chiara Ferragni",
+    "category": "influencer",
+    "profession": "Fashion blogger and influencer",
+    "born": "1987-05-07",
+    "birthPlace": "Cremona, Italy",
+    "nationality": "Italian",
+    "excerpt": "Chiara Ferragni is an Italian fashion influencer and entrepreneur behind The Blonde Salad, one of the first fashion blogs to go global.",
+    "tags": [
+      "instagram",
+      "fashion",
+      "blogging",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Cameron Dallas",
+    "category": "influencer",
+    "profession": "Social media personality",
+    "born": "1994-09-28",
+    "birthPlace": "Whittier, USA",
+    "nationality": "American",
+    "excerpt": "Cameron Dallas rose to fame on Vine and became a major social media star across Instagram, YouTube, and Netflix.",
+    "tags": [
+      "vine",
+      "instagram",
+      "youtube",
+      "acting"
+    ]
+  },
+  {
+    "name": "Nash Grier",
+    "category": "influencer",
+    "profession": "Social media personality",
+    "born": "1997-12-28",
+    "birthPlace": "Long Island, USA",
+    "nationality": "American",
+    "excerpt": "Nash Grier is a social media star who gained fame on Vine and became one of the most followed people on the platform.",
+    "tags": [
+      "vine",
+      "instagram",
+      "youtube",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Gigi Hadid",
+    "category": "model",
+    "profession": "Supermodel",
+    "born": "1995-04-23",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Gigi Hadid is a supermodel who has walked for top fashion houses and is one of the most recognizable faces in the industry.",
+    "tags": [
+      "model",
+      "fashion",
+      "instagram",
+      "runway"
+    ]
+  },
+  {
+    "name": "Bella Hadid",
+    "category": "model",
+    "profession": "Supermodel",
+    "born": "1996-10-09",
+    "birthPlace": "Washington, USA",
+    "nationality": "American",
+    "excerpt": "Bella Hadid is a supermodel known for her work with major fashion brands and her massive social media following.",
+    "tags": [
+      "model",
+      "fashion",
+      "instagram",
+      "runway"
+    ]
+  },
+  {
+    "name": "Kendall Jenner",
+    "category": "model",
+    "profession": "Model and reality TV star",
+    "born": "1995-11-03",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Kendall Jenner is a supermodel and TV personality who has become one of the highest-paid models in the world.",
+    "tags": [
+      "model",
+      "fashion",
+      "reality",
+      "instagram"
+    ]
+  },
+  {
+    "name": "Emily Ratajkowski",
+    "category": "model",
+    "profession": "Model and actress",
+    "born": "1991-06-07",
+    "birthPlace": "London, UK",
+    "nationality": "British-American",
+    "excerpt": "Emily Ratajkowski is a model and actress known for her roles in Gone Girl and her influential social media presence.",
+    "tags": [
+      "model",
+      "acting",
+      "instagram",
+      "fashion"
+    ]
+  },
+  {
+    "name": "Khaby Lame",
+    "category": "influencer",
+    "profession": "TikTok comedian",
+    "born": "2000-03-09",
+    "birthPlace": "Dakar, Senegal",
+    "nationality": "Senegalese-Italian",
+    "excerpt": "Khaby Lame is the most followed person on TikTok, known for his silent comedy videos mocking life hacks.",
+    "tags": [
+      "tiktok",
+      "comedy",
+      "viral",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Spencer X",
+    "category": "influencer",
+    "profession": "TikTok beatboxer",
+    "born": "1998-04-20",
+    "birthPlace": "New York, USA",
+    "nationality": "American",
+    "excerpt": "Spencer X is a TikTok star and beatboxer known for his impressive vocal percussion skills and collaborations.",
+    "tags": [
+      "tiktok",
+      "beatbox",
+      "music",
+      "viral"
+    ]
+  },
+  {
+    "name": "Michael Le",
+    "category": "influencer",
+    "profession": "TikTok dancer",
+    "born": "2000-03-19",
+    "birthPlace": "Florida, USA",
+    "nationality": "American",
+    "excerpt": "Michael Le is a TikTok star known for his dance tutorials and viral choreography videos with billions of views.",
+    "tags": [
+      "tiktok",
+      "dance",
+      "choreography",
+      "viral"
+    ]
+  },
+  {
+    "name": "Avani Gregg",
+    "category": "influencer",
+    "profession": "TikTok makeup artist",
+    "born": "2002-11-23",
+    "birthPlace": "Indiana, USA",
+    "nationality": "American",
+    "excerpt": "Avani Gregg is a TikTok star known as the Clown Girl for her creative makeup transformations and beauty content.",
+    "tags": [
+      "tiktok",
+      "makeup",
+      "beauty",
+      "transformations"
+    ]
+  },
+  {
+    "name": "Jacob Sartorius",
+    "category": "influencer",
+    "profession": "Social media personality",
+    "born": "2002-10-02",
+    "birthPlace": "Oklahoma, USA",
+    "nationality": "American",
+    "excerpt": "Jacob Sartorius rose to fame on Vine and became a major TikTok star known for lip-sync videos and music.",
+    "tags": [
+      "tiktok",
+      "vine",
+      "music",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Brent Rivera",
+    "category": "influencer",
+    "profession": "YouTuber and TikToker",
+    "born": "1998-01-24",
+    "birthPlace": "Huntington Beach, USA",
+    "nationality": "American",
+    "excerpt": "Brent Rivera is a social media star across YouTube and TikTok known for comedy sketches and pranks.",
+    "tags": [
+      "youtube",
+      "tiktok",
+      "comedy",
+      "pranks"
+    ]
+  },
+  {
+    "name": "Gavin Magnus",
+    "category": "influencer",
+    "profession": "TikTok and YouTube star",
+    "born": "2007-03-26",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Gavin Magnus is a young social media star known for his TikTok content, YouTube vlogs, and music career.",
+    "tags": [
+      "tiktok",
+      "youtube",
+      "music",
+      "vlogs"
+    ]
+  },
+  {
+    "name": "JoJo Siwa",
+    "category": "influencer",
+    "profession": "YouTuber and dancer",
+    "born": "2003-05-19",
+    "birthPlace": "Omaha, USA",
+    "nationality": "American",
+    "excerpt": "JoJo Siwa is a dancer, singer, and YouTuber who rose to fame on Dance Moms and built a massive kid-friendly brand.",
+    "tags": [
+      "youtube",
+      "dance",
+      "music",
+      "kidsculture"
+    ]
+  },
+  {
+    "name": "Liza Koshy",
+    "category": "youtuber",
+    "profession": "YouTuber and actress",
+    "born": "1996-03-18",
+    "birthPlace": "Houston, USA",
+    "nationality": "American",
+    "excerpt": "Liza Koshy is a YouTuber and actress known for her comedic videos and hosting duties on various TV shows.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "acting",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Ryan Higa",
+    "category": "youtuber",
+    "profession": "YouTuber and actor",
+    "born": "1990-06-06",
+    "birthPlace": "Hilo, USA",
+    "nationality": "American",
+    "excerpt": "Ryan Higa (Nigahiga) was one of YouTube's earliest superstars known for his comedy sketches and vlogs.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "sketch",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Jc Caylen",
+    "category": "youtuber",
+    "profession": "YouTuber and actor",
+    "born": "1992-09-11",
+    "birthPlace": "Houston, USA",
+    "nationality": "American",
+    "excerpt": "Jc Caylen is a YouTuber and actor known for his comedy content and collaborations with other creators.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "acting",
+      "collaborations"
+    ]
+  },
+  {
+    "name": "Ibai Llanos",
+    "category": "streamer",
+    "profession": "Streamer and esports host",
+    "born": "1995-03-26",
+    "birthPlace": "Bilbao, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Ibai Llanos is Spain's biggest streamer, known for his gaming content and hosting major events like La Velada del A\u00f1o.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "esports",
+      "events"
+    ]
+  },
+  {
+    "name": "ElRubius",
+    "category": "youtuber",
+    "profession": "YouTuber and streamer",
+    "born": "1990-02-08",
+    "birthPlace": "Murcia, Spain",
+    "nationality": "Spanish",
+    "excerpt": "ElRubius is one of the most subscribed Spanish-speaking YouTubers known for gaming, comedy, and vlogs.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "comedy",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Willyrex",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1993-05-30",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Willyrex is a Spanish YouTuber known for his gaming content and one of the pioneers of Spanish-language YouTube.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "spanish",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Vegetta777",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1990-04-12",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Vegetta777 is a Spanish YouTuber known for his Minecraft content and gaming videos with millions of subscribers.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "minecraft",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Fernanfloo",
+    "category": "youtuber",
+    "profession": "YouTuber and streamer",
+    "born": "1993-07-01",
+    "birthPlace": "San Salvador, El Salvador",
+    "nationality": "Salvadoran",
+    "excerpt": "Fernanfloo is one of the most subscribed Spanish-speaking YouTubers known for his gaming content and comedic style.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "spanish",
+      "comedy"
+    ]
+  },
+  {
+    "name": "JuegaGerman",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1992-06-28",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "JuegaGerman (Germ\u00e1n Garmendia) is a Chilean YouTuber known for gaming content and his channel HolaSoyGerman.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "spanish",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Mikecrack",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1994-04-18",
+    "birthPlace": "Madrid, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Mikecrack is a Spanish YouTuber known for his gaming videos, challenges, and family-friendly content.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "challenges",
+      "spanish"
+    ]
+  },
+  {
+    "name": "DjMaRiiO",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1993-11-27",
+    "birthPlace": "Santiago, Chile",
+    "nationality": "Chilean",
+    "excerpt": "DjMaRiiO is a Chilean YouTuber known for his gaming content, particularly FIFA and sports games.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fifa",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Luisito Comunica",
+    "category": "youtuber",
+    "profession": "Travel vlogger",
+    "born": "1991-03-20",
+    "birthPlace": "Puebla, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Luisito Comunica is a Mexican travel vlogger with millions of subscribers exploring cultures around the world.",
+    "tags": [
+      "youtube",
+      "travel",
+      "vlogs",
+      "mexican"
+    ]
+  },
+  {
+    "name": "Juanpa Zurita",
+    "category": "influencer",
+    "profession": "Social media personality",
+    "born": "1996-03-19",
+    "birthPlace": "Mexico City, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Juanpa Zurita is a Mexican social media star and actor who gained fame on Vine and built a massive following.",
+    "tags": [
+      "vine",
+      "youtube",
+      "tiktok",
+      "mexican"
+    ]
+  },
+  {
+    "name": "La Divaza",
+    "category": "influencer",
+    "profession": "Social media personality",
+    "born": "1996-05-01",
+    "birthPlace": "Caracas, Venezuela",
+    "nationality": "Venezuelan",
+    "excerpt": "La Divaza (Aldo Khan) is a Venezuelan social media star known for his comedy videos and vibrant personality.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "viral",
+      "venezuelan"
+    ]
+  },
+  {
+    "name": "Yuya",
+    "category": "youtuber",
+    "profession": "YouTuber and beauty influencer",
+    "born": "1993-03-25",
+    "birthPlace": "Monterrey, Mexico",
+    "nationality": "Mexican",
+    "excerpt": "Yuya (Martha Lozano) is one of the most subscribed Spanish-speaking YouTubers known for beauty and lifestyle content.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "lifestyle",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Whinderssonnunes",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1995-01-05",
+    "birthPlace": "Salvador, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Whinderssonnunes is one of Brazil's biggest YouTubers known for his comedy, music, and vlog content.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "music",
+      "brazilian"
+    ]
+  },
+  {
+    "name": "Felipe Neto",
+    "category": "youtuber",
+    "profession": "YouTuber and entrepreneur",
+    "born": "1988-01-21",
+    "birthPlace": "Rio de Janeiro, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Felipe Neto is a Brazilian YouTuber and entrepreneur who founded the Paramaker network and is known for commentary.",
+    "tags": [
+      "youtube",
+      "commentary",
+      "entrepreneur",
+      "brazilian"
+    ]
+  },
+  {
+    "name": "Gato Galactico",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1994-04-10",
+    "birthPlace": "S\u00e3o Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Gato Galactico is a Brazilian YouTuber known for gaming content and one of the most subscribed Portuguese-speaking channels.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "portuguese",
+      "brazilian"
+    ]
+  },
+  {
+    "name": "Nobru",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "2001-09-18",
+    "birthPlace": "S\u00e3o Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Nobru is a Brazilian gaming streamer and esports player known for Free Fire and competitive gaming.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "esports",
+      "brazilian"
+    ]
+  },
+  {
+    "name": "Caio Castro",
+    "category": "influencer",
+    "profession": "Actor and social media star",
+    "born": "1989-01-22",
+    "birthPlace": "S\u00e3o Paulo, Brazil",
+    "nationality": "Brazilian",
+    "excerpt": "Caio Castro is a Brazilian actor and social media star with one of the largest Instagram followings in Latin America.",
+    "tags": [
+      "instagram",
+      "acting",
+      "latinamerica",
+      "brazilian"
+    ]
+  },
+  {
+    "name": "Gianluca Vacchi",
+    "category": "influencer",
+    "profession": "DJ and social media personality",
+    "born": "1967-10-05",
+    "birthPlace": "Bologna, Italy",
+    "nationality": "Italian",
+    "excerpt": "Gianluca Vacchi is an Italian DJ and social media star known for his lavish lifestyle and viral dance videos.",
+    "tags": [
+      "instagram",
+      "tiktok",
+      "music",
+      "italian"
+    ]
+  },
+  {
+    "name": "Dagi Bee",
+    "category": "youtuber",
+    "profession": "YouTuber and beauty influencer",
+    "born": "1995-05-20",
+    "birthPlace": "Hanover, Germany",
+    "nationality": "German",
+    "excerpt": "Dagi Bee is a German YouTuber known for beauty, lifestyle, and DIY content that appeals to a young audience.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "lifestyle",
+      "german"
+    ]
+  },
+  {
+    "name": "UnsympathischTV",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1991-12-11",
+    "birthPlace": "Munich, Germany",
+    "nationality": "German",
+    "excerpt": "UnsympathischTV is one of Germany's biggest gaming YouTubers known for his entertaining game reviews and Let's Plays.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "reviews",
+      "german"
+    ]
+  },
+  {
+    "name": "HikakinTV",
+    "category": "youtuber",
+    "profession": "YouTuber and entertainer",
+    "born": "1985-04-29",
+    "birthPlace": "Toyama, Japan",
+    "nationality": "Japanese",
+    "excerpt": "HikakinTV is Japan's biggest YouTuber known for his beatbox videos, reactions, and gaming content.",
+    "tags": [
+      "youtube",
+      "entertainment",
+      "beatbox",
+      "japanese"
+    ]
+  },
+  {
+    "name": "HajimeSyacho",
+    "category": "youtuber",
+    "profession": "YouTuber and entertainer",
+    "born": "1993-02-14",
+    "birthPlace": "Kobe, Japan",
+    "nationality": "Japanese",
+    "excerpt": "HajimeSyacho is one of Japan's top YouTubers known for gaming content and comedic videos with a loyal fanbase.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "comedy",
+      "japanese"
+    ]
+  },
+  {
+    "name": "Sandeep Maheshwari",
+    "category": "influencer",
+    "profession": "Motivational speaker and entrepreneur",
+    "born": "1980-09-28",
+    "birthPlace": "New Delhi, India",
+    "nationality": "Indian",
+    "excerpt": "Sandeep Maheshwari is an Indian entrepreneur and motivational speaker with one of the most viewed YouTube channels in India.",
+    "tags": [
+      "youtube",
+      "motivation",
+      "entrepreneurship",
+      "indian"
+    ]
+  },
+  {
+    "name": "Carry Minati",
+    "category": "youtuber",
+    "profession": "YouTuber and streamer",
+    "born": "2000-06-12",
+    "birthPlace": "Faridabad, India",
+    "nationality": "Indian",
+    "excerpt": "Carry Minati is India's biggest YouTuber known for his roasts, comedy, and gaming content with millions of subscribers.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "roasts",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Bhuvan Bam",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1994-01-22",
+    "birthPlace": "New Delhi, India",
+    "nationality": "Indian",
+    "excerpt": "Bhuvan Bam is an Indian YouTuber known for his comedy series BB Ki Vines featuring multiple characters.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "sketch",
+      "indian"
+    ]
+  },
+  {
+    "name": "Ashish Chanchlani",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1993-12-08",
+    "birthPlace": "Ulhasnagar, India",
+    "nationality": "Indian",
+    "excerpt": "Ashish Chanchlani is an Indian YouTuber known for his comedy sketches and relatable content for Indian audiences.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "sketch",
+      "indian"
+    ]
+  },
+  {
+    "name": "Technical Guruji",
+    "category": "youtuber",
+    "profession": "Tech YouTuber",
+    "born": "1991-02-08",
+    "birthPlace": "Rajasthan, India",
+    "nationality": "Indian",
+    "excerpt": "Technical Guruji is India's biggest tech YouTuber known for his gadget reviews and tech explanations in Hindi.",
+    "tags": [
+      "youtube",
+      "tech",
+      "reviews",
+      "hindi"
+    ]
+  },
+  {
+    "name": "Noor Stars",
+    "category": "youtuber",
+    "profession": "YouTuber and actress",
+    "born": "1997-06-14",
+    "birthPlace": "Baghdad, Iraq",
+    "nationality": "Syrian-Lebanese",
+    "excerpt": "Noor Stars is the most subscribed female Arabic-speaking YouTuber known for her comedy and lifestyle content.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "arabic",
+      "lifestyle"
+    ]
+  },
+  {
+    "name": "Kayla Itsines",
+    "category": "influencer",
+    "profession": "Fitness influencer",
+    "born": "1991-05-07",
+    "birthPlace": "Adelaide, Australia",
+    "nationality": "Australian",
+    "excerpt": "Kayla Itsines is an Australian fitness trainer and entrepreneur who built a fitness empire through social media.",
+    "tags": [
+      "fitness",
+      "instagram",
+      "workout",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Simeon Panda",
+    "category": "influencer",
+    "profession": "Fitness influencer",
+    "born": "1986-05-28",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "Simeon Panda is a British fitness influencer and entrepreneur known for his impressive physique and motivational content.",
+    "tags": [
+      "fitness",
+      "instagram",
+      "bodybuilding",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Whitney Simmons",
+    "category": "influencer",
+    "profession": "Fitness YouTuber",
+    "born": "1993-09-25",
+    "birthPlace": "Utah, USA",
+    "nationality": "American",
+    "excerpt": "Whitney Simmons is a fitness YouTuber known for her workout routines, fitness apparel, and motivational content.",
+    "tags": [
+      "youtube",
+      "fitness",
+      "workout",
+      "motivation"
+    ]
+  },
+  {
+    "name": "David Laid",
+    "category": "influencer",
+    "profession": "Fitness influencer",
+    "born": "1998-01-17",
+    "birthPlace": "Estonia",
+    "nationality": "Estonian-American",
+    "excerpt": "David Laid is a fitness influencer known for his incredible physique transformation and workout content.",
+    "tags": [
+      "fitness",
+      "youtube",
+      "bodybuilding",
+      "transformation"
+    ]
+  },
+  {
+    "name": "Jeff Nippard",
+    "category": "influencer",
+    "profession": "Fitness YouTuber",
+    "born": "1990-10-06",
+    "birthPlace": "Ontario, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Jeff Nippard is a science-based fitness YouTuber known for his evidence-backed workout and nutrition content.",
+    "tags": [
+      "youtube",
+      "fitness",
+      "science",
+      "nutrition"
+    ]
+  },
+  {
+    "name": "Jeffree Star",
+    "category": "influencer",
+    "profession": "Beauty influencer and entrepreneur",
+    "born": "1985-11-15",
+    "birthPlace": "Orange County, USA",
+    "nationality": "American",
+    "excerpt": "Jeffree Star is a beauty influencer and entrepreneur behind Jeffree Star Cosmetics, known for his controversial personality.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "makeup",
+      "entrepreneur"
+    ]
+  },
+  {
+    "name": "Jackie Aina",
+    "category": "influencer",
+    "profession": "Beauty YouTuber",
+    "born": "1989-08-04",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Jackie Aina is a beauty YouTuber known for her makeup reviews and advocacy for diversity in the beauty industry.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "diversity",
+      "reviews"
+    ]
+  },
+  {
+    "name": "Desi Perkins",
+    "category": "influencer",
+    "profession": "Beauty influencer",
+    "born": "1987-03-03",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Desi Perkins is a beauty influencer known for her makeup tutorials and collaborations with major beauty brands.",
+    "tags": [
+      "instagram",
+      "youtube",
+      "beauty",
+      "makeup"
+    ]
+  },
+  {
+    "name": "Tones and I",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "2000-06-15",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "Australian",
+    "excerpt": "Tones and I is an Australian singer known for her viral hit Dance Monkey which broke records worldwide.",
+    "tags": [
+      "music",
+      "viral",
+      "pop",
+      "australian"
+    ]
+  },
+  {
+    "name": "Lil Nas X",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "1999-04-09",
+    "birthPlace": "Atlanta, USA",
+    "nationality": "American",
+    "excerpt": "Lil Nas X broke records with Old Town Road and became one of the biggest pop stars to emerge from social media.",
+    "tags": [
+      "music",
+      "rap",
+      "viral",
+      "pop"
+    ]
+  },
+  {
+    "name": "Ice Spice",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "2000-01-01",
+    "birthPlace": "Bronx, USA",
+    "nationality": "American",
+    "excerpt": "Ice Spice is a rapper who gained fame on TikTok and became one of the most popular new artists in hip-hop.",
+    "tags": [
+      "music",
+      "rap",
+      "tiktok",
+      "hiphop"
+    ]
+  },
+  {
+    "name": "Joji",
+    "category": "singer",
+    "profession": "Singer and songwriter",
+    "born": "1992-09-18",
+    "birthPlace": "Osaka, Japan",
+    "nationality": "Japanese-Australian",
+    "excerpt": "Joji transitioned from being a YouTuber (Filthy Frank) to a successful musician known for his R&B and lo-fi music.",
+    "tags": [
+      "music",
+      "rnb",
+      "youtube",
+      "japanese"
+    ]
+  },
+  {
+    "name": "Steve Aoki",
+    "category": "producer",
+    "profession": "DJ and music producer",
+    "born": "1977-11-30",
+    "birthPlace": "Miami, USA",
+    "nationality": "American",
+    "excerpt": "Steve Aoki is a world-famous DJ and producer known for his energetic performances and massive social media presence.",
+    "tags": [
+      "music",
+      "dj",
+      "edm",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Marshmello",
+    "category": "producer",
+    "profession": "DJ and music producer",
+    "born": "1992-05-19",
+    "birthPlace": "Philadelphia, USA",
+    "nationality": "American",
+    "excerpt": "Marshmello is a masked DJ and producer known for his chart-topping collaborations and massive YouTube following.",
+    "tags": [
+      "music",
+      "dj",
+      "edm",
+      "youtube"
+    ]
+  },
+  {
+    "name": "David Guetta",
+    "category": "producer",
+    "profession": "DJ and music producer",
+    "born": "1967-11-07",
+    "birthPlace": "Paris, France",
+    "nationality": "French",
+    "excerpt": "David Guetta is a legendary French DJ and producer who helped popularize EDM globally with chart-topping hits.",
+    "tags": [
+      "music",
+      "dj",
+      "edm",
+      "french"
+    ]
+  },
+  {
+    "name": "Calvin Harris",
+    "category": "producer",
+    "profession": "DJ and music producer",
+    "born": "1984-01-17",
+    "birthPlace": "Dumfries, UK",
+    "nationality": "British",
+    "excerpt": "Calvin Harris is one of the most successful DJs and music producers in history with numerous chart-topping hits.",
+    "tags": [
+      "music",
+      "dj",
+      "edm",
+      "pop"
+    ]
+  },
+  {
+    "name": "Zedd",
+    "category": "producer",
+    "profession": "DJ and music producer",
+    "born": "1989-09-02",
+    "birthPlace": "Saratov, Russia",
+    "nationality": "German-Russian",
+    "excerpt": "Zedd is a DJ and producer known for his electronic dance music and collaborations with major pop artists.",
+    "tags": [
+      "music",
+      "dj",
+      "edm",
+      "pop"
+    ]
+  },
+  {
+    "name": "The Chainsmokers",
+    "category": "producer",
+    "profession": "DJ duo",
+    "born": "2012-01-01",
+    "birthPlace": "New York, USA",
+    "nationality": "American",
+    "excerpt": "The Chainsmokers are a DJ duo known for their pop-EDM crossover hits like Closer and Something Just Like This.",
+    "tags": [
+      "music",
+      "dj",
+      "pop",
+      "edm"
+    ]
+  },
+  {
+    "name": "Pakratt13",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1975-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Pakratt13 is a veteran Minecraft YouTuber known for his Mindcrack and Ultra Hardcore content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "mindcrack",
+      "uhc"
+    ]
+  },
+  {
+    "name": "Etho",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1985-01-01",
+    "birthPlace": "Canada",
+    "nationality": "Canadian",
+    "excerpt": "Etho is a legendary Minecraft YouTuber known for his technical Minecraft content and long-running Let's Play series.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "technical",
+      "letsplay"
+    ]
+  },
+  {
+    "name": "BdoubleO100",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1979-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "BdoubleO100 is a Minecraft YouTuber known for his creative building projects and Hermitcraft series participation.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "building",
+      "hermitcraft"
+    ]
+  },
+  {
+    "name": "Docm77",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1982-01-01",
+    "birthPlace": "Germany",
+    "nationality": "German",
+    "excerpt": "Docm77 is a Minecraft YouTuber known for his technical redstone contraptions and Hermitcraft content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "redstone",
+      "hermitcraft"
+    ]
+  },
+  {
+    "name": "ImpulseSV",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1984-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "ImpulseSV is a Minecraft YouTuber known for his Hermitcraft content and technical Minecraft builds.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "hermitcraft",
+      "technical"
+    ]
+  },
+  {
+    "name": "VintageBeef",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1978-01-01",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "VintageBeef is a Minecraft YouTuber known for his building skills and participation in Hermitcraft and Mindcrack.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "hermitcraft",
+      "building"
+    ]
+  },
+  {
+    "name": "SethBling",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber and programmer",
+    "born": "1983-01-01",
+    "birthPlace": "Seattle, USA",
+    "nationality": "American",
+    "excerpt": "SethBling is a Minecraft YouTuber and programmer known for his technical redstone and command block creations.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "redstone",
+      "programming"
+    ]
+  },
+  {
+    "name": "Generikb",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1976-06-14",
+    "birthPlace": "California, USA",
+    "nationality": "American",
+    "excerpt": "Generikb is a Minecraft YouTuber and founder of the Hermitcraft server, a pioneer in Minecraft content creation.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "hermitcraft",
+      "founder"
+    ]
+  },
+  {
+    "name": "Tango Tek",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1985-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Tango Tek is a Minecraft YouTuber known for his technical redstone builds and Hermitcraft content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "redstone",
+      "hermitcraft"
+    ]
+  },
+  {
+    "name": "Rendog",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1980-01-01",
+    "birthPlace": "England, UK",
+    "nationality": "British",
+    "excerpt": "Rendog is a Minecraft YouTuber known for his creative Hermitcraft builds and unique storytelling playstyle.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "hermitcraft",
+      "creative"
+    ]
+  },
+  {
+    "name": "Xisumavoid",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1985-01-01",
+    "birthPlace": "England, UK",
+    "nationality": "British",
+    "excerpt": "Xisumavoid is a veteran Minecraft YouTuber known for his Hermitcraft series and detailed update reviews.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "hermitcraft",
+      "reviews"
+    ]
+  },
+  {
+    "name": "Guude",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1978-01-01",
+    "birthPlace": "North Carolina, USA",
+    "nationality": "American",
+    "excerpt": "Guude is a Minecraft YouTuber and founder of the Mindcrack network, a pioneer in collaborative Minecraft content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "mindcrack",
+      "founder"
+    ]
+  },
+  {
+    "name": "Zisteau",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1980-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Zisteau is a Minecraft YouTuber known for his creative builds and Mindcrack Ultra Hardcore content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "mindcrack",
+      "uhc"
+    ]
+  },
+  {
+    "name": "KurtJMac",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1978-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "KurtJMac is a Minecraft YouTuber known for his Far Lands or Bust series and Mindcrack content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "mindcrack",
+      "farlands"
+    ]
+  },
+  {
+    "name": "IlluminaHD",
+    "category": "streamer",
+    "profession": "Minecraft speedrunner",
+    "born": "1997-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "IlluminaHD is a legendary Minecraft speedrunner known for his world record attempts and UHC content.",
+    "tags": [
+      "youtube",
+      "twitch",
+      "speedrunning",
+      "minecraft"
+    ]
+  },
+  {
+    "name": "CallMeCarson",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1999-06-16",
+    "birthPlace": "Indiana, USA",
+    "nationality": "American",
+    "excerpt": "CallMeCarson is a Minecraft YouTuber known for his Old School RuneScape and variety gaming content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "gaming",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Antfrost",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2000-05-05",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Antfrost is a Minecraft streamer known for his Dream SMP content and speedrunning achievements.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "speedrun"
+    ]
+  },
+  {
+    "name": "Awesamdude",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "1999-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Awesamdude is a Minecraft streamer known for his Dream SMP participation and impressive building skills.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "building"
+    ]
+  },
+  {
+    "name": "Skeppy",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2001-01-08",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Skeppy is a Minecraft streamer known for his Bedwars content and pranks on the Dream SMP server.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "pranks"
+    ]
+  },
+  {
+    "name": "Hannahxxrose",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2001-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Hannahxxrose is a Minecraft streamer known for her Dream SMP participation and Bedwars content.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "bedwars"
+    ]
+  },
+  {
+    "name": "Ponk",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2000-01-01",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Ponk is a Minecraft streamer known for his Dream SMP participation and creative content on Twitch.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "creative"
+    ]
+  },
+  {
+    "name": "Punz",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2000-05-23",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Punz is a Minecraft streamer known for his Dream SMP content and competitive gameplay skills.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "competitive"
+    ]
+  },
+  {
+    "name": "Purpled",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2001-05-08",
+    "birthPlace": "USA",
+    "nationality": "American",
+    "excerpt": "Purpled is a Minecraft streamer known for his Bedwars content and Dream SMP participation.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "bedwars"
+    ]
+  },
+  {
+    "name": "Fundy",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2000-05-10",
+    "birthPlace": "Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "Fundy is a Dutch Minecraft streamer and animator known for his Dream SMP content and creative videos.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "animation"
+    ]
+  },
+  {
+    "name": "Niki Nihachu",
+    "category": "streamer",
+    "profession": "Minecraft streamer",
+    "born": "2001-11-03",
+    "birthPlace": "Germany",
+    "nationality": "German",
+    "excerpt": "Niki Nihachu is a Minecraft streamer known for her Dream SMP participation and variety streaming content.",
+    "tags": [
+      "twitch",
+      "youtube",
+      "minecraft",
+      "variety"
+    ]
+  },
+  {
+    "name": "NikkieTutorials",
+    "category": "influencer",
+    "profession": "Beauty YouTuber",
+    "born": "1994-03-02",
+    "birthPlace": " Wageningen, Netherlands",
+    "nationality": "Dutch",
+    "excerpt": "NikkieTutorials (Nikkie de Jager) is a Dutch beauty YouTuber known for her makeup tutorials and The Power of Makeup video.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "makeup",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "James Charles",
+    "category": "youtuber",
+    "profession": "Beauty YouTuber",
+    "born": "1999-05-23",
+    "birthPlace": "Bethlehem, USA",
+    "nationality": "American",
+    "excerpt": "James Charles is a beauty YouTuber known for his makeup tutorials and being the first male ambassador for CoverGirl.",
+    "tags": [
+      "youtube",
+      "beauty",
+      "makeup",
+      "covergirl"
+    ]
+  },
+  {
+    "name": "MrBeast",
+    "category": "youtuber",
+    "profession": "YouTuber and philanthropist",
+    "born": "1998-05-07",
+    "birthPlace": "Wichita, USA",
+    "nationality": "American",
+    "excerpt": "MrBeast (Jimmy Donaldson) is the most subscribed individual YouTuber known for elaborate stunts and philanthropy.",
+    "tags": [
+      "youtube",
+      "philanthropy",
+      "stunts",
+      "challenges"
+    ]
+  },
+  {
+    "name": "PewDiePie",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1989-10-24",
+    "birthPlace": "Gothenburg, Sweden",
+    "nationality": "Swedish",
+    "excerpt": "PewDiePie (Felix Kjellberg) is one of the most iconic YouTubers ever, known for his gaming and commentary content.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "commentary",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Logan Paul",
+    "category": "youtuber",
+    "profession": "YouTuber and boxer",
+    "born": "1995-04-01",
+    "birthPlace": "Westlake, USA",
+    "nationality": "American",
+    "excerpt": "Logan Paul is a YouTuber turned professional boxer known for his vlogs, controversies, and high-profile boxing matches.",
+    "tags": [
+      "youtube",
+      "boxing",
+      "vlogs",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "David Dobrik",
+    "category": "youtuber",
+    "profession": "YouTuber and vlogger",
+    "born": "1996-07-23",
+    "birthPlace": "Kosice, Slovakia",
+    "nationality": "Slovak-American",
+    "excerpt": "David Dobrik is a YouTuber known for his vlogs featuring elaborate stunts and celebrity collaborations.",
+    "tags": [
+      "youtube",
+      "vlogs",
+      "stunts",
+      "celebrity"
+    ]
+  },
+  {
+    "name": "Dixie D'Amelio",
+    "category": "influencer",
+    "profession": "TikTok star and singer",
+    "born": "2001-08-12",
+    "birthPlace": "Norwalk, USA",
+    "nationality": "American",
+    "excerpt": "Dixie D'Amelio is a TikTok star and singer known for her viral dance videos and music career.",
+    "tags": [
+      "tiktok",
+      "music",
+      "dance",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Addison Rae",
+    "category": "influencer",
+    "profession": "TikTok star and actress",
+    "born": "2000-10-06",
+    "birthPlace": "Lafayette, USA",
+    "nationality": "American",
+    "excerpt": "Addison Rae is a TikTok star turned actress known for her dance videos and acting debut in He's All That.",
+    "tags": [
+      "tiktok",
+      "dance",
+      "acting",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Bella Poarch",
+    "category": "influencer",
+    "profession": "TikTok star and singer",
+    "born": "1997-02-08",
+    "birthPlace": "Philippines",
+    "nationality": "Filipino-American",
+    "excerpt": "Bella Poarch is a TikTok star known for her most-liked TikTok video and her music career with Build a Bitch.",
+    "tags": [
+      "tiktok",
+      "music",
+      "viral",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Zach King",
+    "category": "youtuber",
+    "profession": "YouTuber and filmmaker",
+    "born": "1990-02-04",
+    "birthPlace": "Portland, USA",
+    "nationality": "American",
+    "excerpt": "Zach King is a digital magician known for his viral videos featuring incredible visual effects and illusions.",
+    "tags": [
+      "youtube",
+      "tiktok",
+      "magic",
+      "effects"
+    ]
+  },
+  {
+    "name": "Loren Gray",
+    "category": "influencer",
+    "profession": "TikTok star and singer",
+    "born": "2002-04-19",
+    "birthPlace": "Pottstown, USA",
+    "nationality": "American",
+    "excerpt": "Loren Gray is a social media star and singer who was one of the most followed people on TikTok.",
+    "tags": [
+      "tiktok",
+      "music",
+      "socialmedia",
+      "singing"
+    ]
+  },
+  {
+    "name": "Paris Hilton",
+    "category": "influencer",
+    "profession": "Socialite and media personality",
+    "born": "1981-02-17",
+    "birthPlace": "New York, USA",
+    "nationality": "American",
+    "excerpt": "Paris Hilton is an original influencer, socialite, and businesswoman who pioneered celebrity social media culture.",
+    "tags": [
+      "socialite",
+      "reality",
+      "business",
+      "fashion"
+    ]
+  },
+  {
+    "name": "Marques Brownlee",
+    "category": "youtuber",
+    "profession": "Tech reviewer and YouTuber",
+    "born": "1993-03-05",
+    "birthPlace": "New Jersey, USA",
+    "nationality": "American",
+    "excerpt": "Marques Brownlee (MKBHD) is a tech reviewer known for his in-depth smartphone and gadget reviews on YouTube.",
+    "tags": [
+      "youtube",
+      "tech",
+      "reviews",
+      "smartphones"
+    ]
+  },
+  {
+    "name": "Markiplier",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1989-06-28",
+    "birthPlace": "Honolulu, USA",
+    "nationality": "American",
+    "excerpt": "Markiplier is one of the most popular gaming YouTubers known for his Let's Plays, charity work, and comedy.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "letplays",
+      "charity"
+    ]
+  },
+  {
+    "name": "Jacksepticeye",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1990-02-07",
+    "birthPlace": "Dublin, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Jacksepticeye is an Irish YouTuber known for his energetic gaming content and positive attitude toward his audience.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "irish",
+      "positive"
+    ]
+  },
+  {
+    "name": "Taylor Swift",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1989-12-13",
+    "birthPlace": "West Reading, USA",
+    "nationality": "American",
+    "excerpt": "Taylor Swift is one of the best-selling music artists of all time, known for her narrative songwriting and cultural impact.",
+    "tags": [
+      "music",
+      "pop",
+      "songwriting",
+      "culturalicon"
+    ]
+  },
+  {
+    "name": "Beyonce",
+    "category": "singer",
+    "profession": "Singer and performer",
+    "born": "1981-09-04",
+    "birthPlace": "Houston, USA",
+    "nationality": "American",
+    "excerpt": "Beyonce is a global music icon and performer known for her powerful vocals, visual albums, and cultural influence.",
+    "tags": [
+      "music",
+      "pop",
+      "rnb",
+      "culturalicon"
+    ]
+  },
+  {
+    "name": "Drake",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "1986-10-24",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Drake is one of the best-selling music artists ever, blending rap and R&B with massive streaming numbers worldwide.",
+    "tags": [
+      "music",
+      "rap",
+      "rnb",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Ed Sheeran",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1991-02-17",
+    "birthPlace": "Halifax, UK",
+    "nationality": "British",
+    "excerpt": "Ed Sheeran is a British singer-songwriter known for his chart-topping hits and record-breaking global tours.",
+    "tags": [
+      "music",
+      "pop",
+      "songwriting",
+      "acoustic"
+    ]
+  },
+  {
+    "name": "Justin Bieber",
+    "category": "singer",
+    "profession": "Singer",
+    "born": "1994-03-01",
+    "birthPlace": "London, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Justin Bieber rose to fame as a teen via YouTube and became one of the biggest pop stars in the world.",
+    "tags": [
+      "music",
+      "pop",
+      "youtube",
+      "globalstar"
+    ]
+  },
+  {
+    "name": "Billie Eilish",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "2001-12-18",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Billie Eilish is a Grammy-winning artist who rose to fame on SoundCloud with her debut single Ocean Eyes.",
+    "tags": [
+      "music",
+      "pop",
+      "alternative",
+      "grammy"
+    ]
+  },
+  {
+    "name": "Ariana Grande",
+    "category": "singer",
+    "profession": "Singer and actress",
+    "born": "1993-06-26",
+    "birthPlace": "Boca Raton, USA",
+    "nationality": "American",
+    "excerpt": "Ariana Grande is one of the biggest pop stars in the world, known for her powerful vocals and social media empire.",
+    "tags": [
+      "music",
+      "pop",
+      "rnb",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Dua Lipa",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1995-08-22",
+    "birthPlace": "London, UK",
+    "nationality": "British-Albanian",
+    "excerpt": "Dua Lipa is a British-Albanian singer known for her disco-pop hits and becoming a global pop phenomenon.",
+    "tags": [
+      "music",
+      "pop",
+      "disco",
+      "global"
+    ]
+  },
+  {
+    "name": "The Weeknd",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1990-02-16",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "The Weeknd is a Canadian singer known for his dark R&B sound, chart-topping hits, and iconic Super Bowl halftime show.",
+    "tags": [
+      "music",
+      "rnb",
+      "pop",
+      "superstar"
+    ]
+  },
+  {
+    "name": "Bruno Mars",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1985-10-08",
+    "birthPlace": "Honolulu, USA",
+    "nationality": "American",
+    "excerpt": "Bruno Mars is a multi-Grammy winning artist known for his versatile music style and energetic live performances.",
+    "tags": [
+      "music",
+      "pop",
+      "funk",
+      "performance"
+    ]
+  },
+  {
+    "name": "Post Malone",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "1995-07-04",
+    "birthPlace": "Syracuse, USA",
+    "nationality": "American",
+    "excerpt": "Post Malone is a rapper and singer known for blending genres and creating massive hits like Sunflower and Circles.",
+    "tags": [
+      "music",
+      "rap",
+      "pop",
+      "genreblending"
+    ]
+  },
+  {
+    "name": "Kendrick Lamar",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "1987-06-17",
+    "birthPlace": "Compton, USA",
+    "nationality": "American",
+    "excerpt": "Kendrick Lamar is a Pulitzer Prize-winning rapper considered one of the greatest lyricists of his generation.",
+    "tags": [
+      "music",
+      "rap",
+      "hiphop",
+      "pulitzer"
+    ]
+  },
+  {
+    "name": "Snoop Dogg",
+    "category": "singer",
+    "profession": "Rapper and entertainer",
+    "born": "1971-10-20",
+    "birthPlace": "Long Beach, USA",
+    "nationality": "American",
+    "excerpt": "Snoop Dogg is a legendary rapper and cultural icon who has remained relevant across decades of entertainment.",
+    "tags": [
+      "music",
+      "rap",
+      "hiphop",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Cardi B",
+    "category": "singer",
+    "profession": "Rapper and media personality",
+    "born": "1992-10-11",
+    "birthPlace": "Bronx, USA",
+    "nationality": "American",
+    "excerpt": "Cardi B is a Grammy-winning rapper who rose to fame on social media and became one of hip-hop's biggest stars.",
+    "tags": [
+      "music",
+      "rap",
+      "hiphop",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Nicki Minaj",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "1982-12-08",
+    "birthPlace": "Trinidad",
+    "nationality": "Trinidadian-American",
+    "excerpt": "Nicki Minaj is a pioneering female rapper known for her versatile flow, colorful persona, and massive global hits.",
+    "tags": [
+      "music",
+      "rap",
+      "hiphop",
+      "pop"
+    ]
+  },
+  {
+    "name": "Doja Cat",
+    "category": "singer",
+    "profession": "Rapper and singer",
+    "born": "1995-10-21",
+    "birthPlace": "Los Angeles, USA",
+    "nationality": "American",
+    "excerpt": "Doja Cat is a Grammy-winning artist known for her genre-blending music and viral social media presence.",
+    "tags": [
+      "music",
+      "rap",
+      "pop",
+      "viral"
+    ]
+  },
+  {
+    "name": "SZA",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1989-11-08",
+    "birthPlace": "St. Louis, USA",
+    "nationality": "American",
+    "excerpt": "SZA is an R&B singer-songwriter known for her critically acclaimed albums and deeply personal lyrical style.",
+    "tags": [
+      "music",
+      "rnb",
+      "soul",
+      "criticallyacclaimed"
+    ]
+  },
+  {
+    "name": "Megan Thee Stallion",
+    "category": "singer",
+    "profession": "Rapper",
+    "born": "1995-02-15",
+    "birthPlace": "Houston, USA",
+    "nationality": "American",
+    "excerpt": "Megan Thee Stallion is a Grammy-winning rapper known for her confident lyrics and empowerment anthems.",
+    "tags": [
+      "music",
+      "rap",
+      "hiphop",
+      "empowerment"
+    ]
+  },
+  {
+    "name": "Rosal\u00eda",
+    "category": "singer",
+    "profession": "Singer-songwriter",
+    "born": "1992-09-25",
+    "birthPlace": "Barcelona, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rosal\u00eda is a Spanish singer who blends flamenco with modern pop and urban music, gaining global acclaim.",
+    "tags": [
+      "music",
+      "flamenco",
+      "pop",
+      "spanish"
+    ]
+  },
+  {
+    "name": "Bad Bunny",
+    "category": "singer",
+    "profession": "Reggaeton artist",
+    "born": "1994-03-10",
+    "birthPlace": "Vega Baja, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Bad Bunny is the biggest reggaeton artist in the world, breaking streaming records and crossing into mainstream pop.",
+    "tags": [
+      "music",
+      "reggaeton",
+      "latin",
+      "global"
+    ]
+  },
+  {
+    "name": "Daddy Yankee",
+    "category": "singer",
+    "profession": "Reggaeton artist",
+    "born": "1977-02-03",
+    "birthPlace": "San Juan, Puerto Rico",
+    "nationality": "Puerto Rican",
+    "excerpt": "Daddy Yankee is the King of Reggaeton who popularized the genre globally with hits like Gasolina and Despacito.",
+    "tags": [
+      "music",
+      "reggaeton",
+      "latin",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Tom Cruise",
+    "category": "actor",
+    "profession": "Actor and producer",
+    "born": "1962-07-03",
+    "birthPlace": "Syracuse, USA",
+    "nationality": "American",
+    "excerpt": "Tom Cruise is one of the biggest movie stars in history, known for the Mission Impossible franchise and doing his own stunts.",
+    "tags": [
+      "acting",
+      "action",
+      "movies",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Dwayne Johnson",
+    "category": "actor",
+    "profession": "Actor and producer",
+    "born": "1972-05-02",
+    "birthPlace": "Hayward, USA",
+    "nationality": "American",
+    "excerpt": "Dwayne Johnson (The Rock) is a former wrestler turned Hollywood's highest-paid actor and major social media personality.",
+    "tags": [
+      "acting",
+      "wrestling",
+      "socialmedia",
+      "hollywood"
+    ]
+  },
+  {
+    "name": "Oprah Winfrey",
+    "category": "tv",
+    "profession": "TV host and media mogul",
+    "born": "1954-01-29",
+    "birthPlace": "Kosciusko, USA",
+    "nationality": "American",
+    "excerpt": "Oprah Winfrey is a media mogul and TV host who became one of the most influential women in the world.",
+    "tags": [
+      "tv",
+      "media",
+      "philanthropy",
+      "influence"
+    ]
+  },
+  {
+    "name": "Gordon Ramsay",
+    "category": "chef",
+    "profession": "Chef and TV personality",
+    "born": "1966-11-08",
+    "birthPlace": "Johnstone, UK",
+    "nationality": "British",
+    "excerpt": "Gordon Ramsay is a world-famous chef and TV personality known for his restaurant empire and explosive TV shows.",
+    "tags": [
+      "chef",
+      "tv",
+      "restaurants",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "category": "influencer",
+    "profession": "Footballer",
+    "born": "1985-02-05",
+    "birthPlace": "Funchal, Portugal",
+    "nationality": "Portuguese",
+    "excerpt": "Cristiano Ronaldo is the most followed person on Instagram and one of the greatest football players of all time.",
+    "tags": [
+      "football",
+      "sports",
+      "instagram",
+      "global"
+    ]
+  },
+  {
+    "name": "Lionel Messi",
+    "category": "influencer",
+    "profession": "Footballer",
+    "born": "1987-06-24",
+    "birthPlace": "Rosario, Argentina",
+    "nationality": "Argentine",
+    "excerpt": "Lionel Messi is widely considered the greatest football player of all time with a record-breaking career.",
+    "tags": [
+      "football",
+      "sports",
+      "argentine",
+      "legend"
+    ]
+  },
+  {
+    "name": "LeBron James",
+    "category": "influencer",
+    "profession": "Basketball player",
+    "born": "1984-12-30",
+    "birthPlace": "Akron, USA",
+    "nationality": "American",
+    "excerpt": "LeBron James is one of the greatest basketball players ever and a major cultural figure with business ventures.",
+    "tags": [
+      "basketball",
+      "sports",
+      "business",
+      "cultural"
+    ]
+  },
+  {
+    "name": "Stephen Curry",
+    "category": "influencer",
+    "profession": "Basketball player",
+    "born": "1988-03-14",
+    "birthPlace": "Akron, USA",
+    "nationality": "American",
+    "excerpt": "Stephen Curry revolutionized basketball with his three-point shooting and is one of the sport's biggest stars.",
+    "tags": [
+      "basketball",
+      "sports",
+      "nba",
+      "innovation"
+    ]
+  },
+  {
+    "name": "Roger Federer",
+    "category": "influencer",
+    "profession": "Tennis player",
+    "born": "1981-08-08",
+    "birthPlace": "Basel, Switzerland",
+    "nationality": "Swiss",
+    "excerpt": "Roger Federer is considered one of the greatest tennis players of all time with 20 Grand Slam titles.",
+    "tags": [
+      "tennis",
+      "sports",
+      "swiss",
+      "legend"
+    ]
+  },
+  {
+    "name": "Rafael Nadal",
+    "category": "influencer",
+    "profession": "Tennis player",
+    "born": "1986-06-03",
+    "birthPlace": "Manacor, Spain",
+    "nationality": "Spanish",
+    "excerpt": "Rafael Nadal is a tennis legend known as the King of Clay with a record number of French Open titles.",
+    "tags": [
+      "tennis",
+      "sports",
+      "spanish",
+      "clay"
+    ]
+  },
+  {
+    "name": "Novak Djokovic",
+    "category": "influencer",
+    "profession": "Tennis player",
+    "born": "1987-05-22",
+    "birthPlace": "Belgrade, Serbia",
+    "nationality": "Serbian",
+    "excerpt": "Novak Djokovic holds the record for most Grand Slam titles in men's tennis and is a dominant force in the sport.",
+    "tags": [
+      "tennis",
+      "sports",
+      "serbian",
+      "records"
+    ]
+  },
+  {
+    "name": "Serena Williams",
+    "category": "influencer",
+    "profession": "Tennis player",
+    "born": "1981-09-26",
+    "birthPlace": "Saginaw, USA",
+    "nationality": "American",
+    "excerpt": "Serena Williams is one of the greatest tennis players ever with 23 Grand Slam singles titles.",
+    "tags": [
+      "tennis",
+      "sports",
+      "champion",
+      "icon"
+    ]
+  },
+  {
+    "name": "Conor McGregor",
+    "category": "influencer",
+    "profession": "MMA fighter",
+    "born": "1988-07-14",
+    "birthPlace": "Dublin, Ireland",
+    "nationality": "Irish",
+    "excerpt": "Conor McGregor is an MMA superstar known for his trash talk, knockout power, and building a business empire.",
+    "tags": [
+      "mma",
+      "ufc",
+      "boxing",
+      "business"
+    ]
+  },
+  {
+    "name": "Lewis Hamilton",
+    "category": "influencer",
+    "profession": "F1 driver",
+    "born": "1985-01-07",
+    "birthPlace": "Stevenage, UK",
+    "nationality": "British",
+    "excerpt": "Lewis Hamilton is one of the most successful Formula 1 drivers in history with a record number of race wins.",
+    "tags": [
+      "f1",
+      "racing",
+      "sports",
+      "champion"
+    ]
+  },
+  {
+    "name": "Max Verstappen",
+    "category": "influencer",
+    "profession": "F1 driver",
+    "born": "1997-09-30",
+    "birthPlace": "Hasselt, Belgium",
+    "nationality": "Dutch",
+    "excerpt": "Max Verstappen is a three-time Formula 1 World Champion and one of the youngest race winners in F1 history.",
+    "tags": [
+      "f1",
+      "racing",
+      "sports",
+      "champion"
+    ]
+  },
+  {
+    "name": "Simone Biles",
+    "category": "influencer",
+    "profession": "Gymnast",
+    "born": "1997-03-14",
+    "birthPlace": "Columbus, USA",
+    "nationality": "American",
+    "excerpt": "Simone Biles is the most decorated gymnast in history with a record number of World and Olympic medals.",
+    "tags": [
+      "gymnastics",
+      "sports",
+      "olympics",
+      "champion"
+    ]
+  },
+  {
+    "name": "Usain Bolt",
+    "category": "influencer",
+    "profession": "Sprinter",
+    "born": "1986-08-21",
+    "birthPlace": "Trelawny, Jamaica",
+    "nationality": "Jamaican",
+    "excerpt": "Usain Bolt is the fastest human in history, holding world records in the 100m and 200m sprints.",
+    "tags": [
+      "athletics",
+      "sprinting",
+      "olympics",
+      "records"
+    ]
+  },
+  {
+    "name": "Mike Tyson",
+    "category": "influencer",
+    "profession": "Boxer and media personality",
+    "born": "1966-06-30",
+    "birthPlace": "Brooklyn, USA",
+    "nationality": "American",
+    "excerpt": "Mike Tyson is a former heavyweight champion known for his devastating power and colorful post-boxing career.",
+    "tags": [
+      "boxing",
+      "sports",
+      "entertainment",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Floyd Mayweather",
+    "category": "influencer",
+    "profession": "Boxer and promoter",
+    "born": "1977-02-24",
+    "birthPlace": "Grand Rapids, USA",
+    "nationality": "American",
+    "excerpt": "Floyd Mayweather is an undefeated boxing champion and promoter known for his defensive style and business acumen.",
+    "tags": [
+      "boxing",
+      "sports",
+      "undefeated",
+      "business"
+    ]
+  },
+  {
+    "name": "Jake Paul",
+    "category": "youtuber",
+    "profession": "YouTuber and boxer",
+    "born": "1997-01-17",
+    "birthPlace": "Cleveland, USA",
+    "nationality": "American",
+    "excerpt": "Jake Paul is a YouTuber turned professional boxer known for his controversial content and high-profile boxing matches.",
+    "tags": [
+      "youtube",
+      "boxing",
+      "entertainment",
+      "controversial"
+    ]
+  },
+  {
+    "name": "KSI",
+    "category": "youtuber",
+    "profession": "YouTuber, rapper, and boxer",
+    "born": "1993-06-19",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "KSI (Olajide Olatunji) is a British YouTuber, rapper, and boxer who co-founded the Sidemen group.",
+    "tags": [
+      "youtube",
+      "boxing",
+      "music",
+      "sidemen"
+    ]
+  },
+  {
+    "name": "Sidemen",
+    "category": "youtuber",
+    "profession": "YouTube group",
+    "born": "2013-10-01",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "The Sidemen are a British YouTube group consisting of seven creators known for their group content and challenges.",
+    "tags": [
+      "youtube",
+      "group",
+      "challenges",
+      "british"
+    ]
+  },
+  {
+    "name": "W2S",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1996-11-22",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "W2S (Harry Lewis) is a British YouTuber and former Sidemen member known for his FIFA and gaming content.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fifa",
+      "sidemen"
+    ]
+  },
+  {
+    "name": "Zerkaa",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1992-09-04",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "Zerkaa (Josh Bradley) is a Sidemen member known for his gaming content and group collaborations.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "sidemen",
+      "british"
+    ]
+  },
+  {
+    "name": "Vikkstar",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1995-08-02",
+    "birthPlace": "Sheffield, UK",
+    "nationality": "British",
+    "excerpt": "Vikkstar is a Sidemen member known for his gaming content and being one of the group's most popular creators.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "sidemen",
+      "british"
+    ]
+  },
+  {
+    "name": "Miniminter",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1992-09-02",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "Miniminter (Simon Minter) is a Sidemen member known for his gaming content and collaborations with other creators.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "sidemen",
+      "british"
+    ]
+  },
+  {
+    "name": "TBJZL",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1992-04-08",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "TBJZL (Tobi Brown) is a Sidemen member known for his gaming content and being one of the group's founding members.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "sidemen",
+      "british"
+    ]
+  },
+  {
+    "name": "Behzinga",
+    "category": "youtuber",
+    "profession": "YouTuber and gamer",
+    "born": "1995-06-20",
+    "birthPlace": "London, UK",
+    "nationality": "British",
+    "excerpt": "Behzinga (Ethan Payne) is a Sidemen member known for his gaming content and impressive fitness transformation.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "sidemen",
+      "fitness"
+    ]
+  },
+  {
+    "name": "Filthy Frank",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1992-09-18",
+    "birthPlace": "Osaka, Japan",
+    "nationality": "Japanese-Australian",
+    "excerpt": "Filthy Frank (George Miller) was an iconic YouTube persona known for absurdist comedy before becoming Joji.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "absurdist",
+      "music"
+    ]
+  },
+  {
+    "name": "Lilly Singh",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1988-09-26",
+    "birthPlace": "Toronto, Canada",
+    "nationality": "Canadian",
+    "excerpt": "Lilly Singh is a YouTuber and comedian who became one of the highest-paid YouTubers and hosted her own late-night show.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "entertainment",
+      "canadian"
+    ]
+  },
+  {
+    "name": "Nigahiga",
+    "category": "youtuber",
+    "profession": "YouTuber and comedian",
+    "born": "1990-06-06",
+    "birthPlace": "Hilo, USA",
+    "nationality": "American",
+    "excerpt": "Nigahiga (Ryan Higa) was one of YouTube's earliest superstars and held the most-subscribed spot for years with comedy content.",
+    "tags": [
+      "youtube",
+      "comedy",
+      "sketch",
+      "pioneer"
+    ]
+  },
+  {
+    "name": "Tana Mongeau",
+    "category": "youtuber",
+    "profession": "YouTuber and personality",
+    "born": "1998-06-04",
+    "birthPlace": "Las Vegas, USA",
+    "nationality": "American",
+    "excerpt": "Tana Mongeau is a YouTuber known for her storytime videos, controversial personality, and internet drama.",
+    "tags": [
+      "youtube",
+      "storytime",
+      "drama",
+      "vlogs"
+    ]
+  },
+  {
+    "name": "RiceGum",
+    "category": "youtuber",
+    "profession": "YouTuber and rapper",
+    "born": "1996-11-19",
+    "birthPlace": "Las Vegas, USA",
+    "nationality": "American",
+    "excerpt": "RiceGum is a controversial YouTuber known for his diss tracks, commentary videos, and flexing culture content.",
+    "tags": [
+      "youtube",
+      "commentary",
+      "music",
+      "controversial"
+    ]
+  },
+  {
+    "name": "Corinna Kopf",
+    "category": "influencer",
+    "profession": "Social media personality",
+    "born": "1995-12-01",
+    "birthPlace": "Illinois, USA",
+    "nationality": "American",
+    "excerpt": "Corinna Kopf is a social media personality known for her Instagram content and streaming career on Twitch.",
+    "tags": [
+      "instagram",
+      "twitch",
+      "streaming",
+      "socialmedia"
+    ]
+  },
+  {
+    "name": "Alinity",
+    "category": "streamer",
+    "profession": "Gaming streamer",
+    "born": "1990-01-10",
+    "birthPlace": "Colombia",
+    "nationality": "Colombian-Canadian",
+    "excerpt": "Alinity is a Twitch streamer known for her gaming content and viral moments that have sparked online debate.",
+    "tags": [
+      "twitch",
+      "gaming",
+      "variety",
+      "controversial"
+    ]
+  },
+  {
+    "name": "MrWhoseTheBoss",
+    "category": "youtuber",
+    "profession": "Tech YouTuber",
+    "born": "1993-10-31",
+    "birthPlace": "Bristol, UK",
+    "nationality": "British",
+    "excerpt": "MrWhoseTheBoss (Arun Maini) is a British tech YouTuber known for his high-quality smartphone and gadget reviews.",
+    "tags": [
+      "youtube",
+      "tech",
+      "reviews",
+      "smartphones"
+    ]
+  },
+  {
+    "name": "Abroad in Japan",
+    "category": "youtuber",
+    "profession": "Travel YouTuber",
+    "born": "1989-06-15",
+    "birthPlace": "Durham, UK",
+    "nationality": "British",
+    "excerpt": "Abroad in Japan (Chris Broad) creates videos about Japanese culture and travel from his base in Japan.",
+    "tags": [
+      "youtube",
+      "travel",
+      "japan",
+      "culture"
+    ]
+  },
+  {
+    "name": "Peter Sripol",
+    "category": "youtuber",
+    "profession": "Maker YouTuber",
+    "born": "1985-01-01",
+    "birthPlace": "Finland",
+    "nationality": "Finnish-American",
+    "excerpt": "Peter Sripol creates maker and engineering content including DIY projects, product designs, and electric aircraft.",
+    "tags": [
+      "youtube",
+      "maker",
+      "engineering",
+      "diy"
+    ]
+  },
+  {
+    "name": "AntVenom",
+    "category": "youtuber",
+    "profession": "Minecraft YouTuber",
+    "born": "1990-05-28",
+    "birthPlace": "Virginia, USA",
+    "nationality": "American",
+    "excerpt": "AntVenom is a long-time Minecraft YouTuber known for his detailed analysis and educational Minecraft content.",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "analysis",
+      "education"
+    ]
+  },
+  {
+    "name": "Lachlan",
+    "category": "youtuber",
+    "profession": "Gaming YouTuber",
+    "born": "1997-08-24",
+    "birthPlace": "Melbourne, Australia",
+    "nationality": "Australian",
+    "excerpt": "Lachlan is an Australian gaming YouTuber known for his Fortnite content and family-friendly entertainment videos.",
+    "tags": [
+      "youtube",
+      "gaming",
+      "fortnite",
+      "australian"
+    ]
+  },
+  {
+    "name": "Wian",
+    "category": "influencer",
+    "profession": "TikTok magician",
+    "born": "1999-03-27",
+    "birthPlace": "Cape Town, South Africa",
+    "nationality": "South African",
+    "excerpt": "Wian is a South African TikTok star known for his incredible magic tricks and comedy videos that went viral.",
+    "tags": [
+      "tiktok",
+      "magic",
+      "comedy",
+      "southafrican"
+    ]
+  },
+  {
+    "name": "GZuz",
+    "category": "influencer",
+    "profession": "Rapper and YouTuber",
+    "born": "1990-06-29",
+    "birthPlace": "Hamburg, Germany",
+    "nationality": "German",
+    "excerpt": "GZuz is a German rapper and YouTuber who gained fame through music and social media, becoming one of Germany's biggest creators.",
+    "tags": [
+      "youtube",
+      "music",
+      "rap",
+      "german"
+    ]
+  }
+]
