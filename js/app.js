@@ -14040,6 +14040,19 @@
       tags: ['Influencer', 'YouTube', 'TikTok', 'Colombia', 'Family'],
       image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jose_Vasquez_2024.jpg/440px-Jose_Vasquez_2024.jpg'
     },
+    {
+      id: 'el-dukke',
+      name: 'Farid Duque El Dukke',
+      fullName: 'Farid Duque Chamie',
+      profession: 'Film Producer, Talent Manager, Entertainment Executive',
+      born: 'August 30, 1977',
+      birthPlace: 'Colombia',
+      nationality: 'Colombian',
+      excerpt: 'Colombian entertainment executive, film producer and international talent manager known as El Dukke. Creator of Cine Sin Parar and Non Stop Films.',
+      url: 'bios/el-dukke.html',
+      tags: ['Film Producer', 'Talent Manager', 'Entertainment', 'Colombia', 'Independent Cinema'],
+      image: 'images/el-dukke.jpg'
+    },
   ];
 
   // ── Search Functionality ────────────────────────────────
