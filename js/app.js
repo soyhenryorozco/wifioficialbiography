@@ -255,6 +255,32 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/2/27/Mensaje_de_fin_de_a%C3%B1o_del_Presidente_Alberto_Fern%C3%A1ndez_%28cropped%29.jpg'
     },
     {
+      id: 'alberto-lleras-camargo',
+      name: 'Alberto Lleras Camargo',
+      fullName: 'Alberto Lleras Camargo',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President, OAS Secretary General',
+      url: 'bios/alberto-lleras-camargo.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Alberto_Lleras.jpg'
+    },
+    {
+      id: 'alberto-santofimio',
+      name: 'Alberto Santofimio',
+      fullName: 'Alberto Santofimio',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Justice, Senator',
+      url: 'bios/alberto-santofimio.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'aldemar-reyes',
       name: 'Aldemar Reyes',
       fullName: 'Aldemar Reyes',
@@ -370,6 +396,19 @@
       url: 'bios/alejandro-fernández.html',
       tags: ["ranchera", "latin pop", "mexico", "legend"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/3/38/Alejandro_Fern%C3%A1ndez_en_entrevista.png'
+    },
+    {
+      id: 'alejandro-gaviria',
+      name: 'Alejandro Gaviria',
+      fullName: 'Alejandro Gaviria',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Education, former president of Uniandes',
+      url: 'bios/alejandro-gaviria.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Alejandro_Gaviria.jpg'
     },
     {
       id: 'alejandro-nieto',
@@ -528,6 +567,45 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Alexis_Zapata_USA-Columbia,_FIFA_U20_World_Cup_(18496446328)_(cropped).jpg'
     },
     {
+      id: 'alfonso-lopez-michelsen',
+      name: 'Alfonso López Michelsen',
+      fullName: 'Alfonso López Michelsen',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/alfonso-lopez-michelsen.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Alfonso_Lopez_Michelsen.jpg'
+    },
+    {
+      id: 'alfonso-lopez-pumarejo',
+      name: 'Alfonso López Pumarejo',
+      fullName: 'Alfonso López Pumarejo',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/alfonso-lopez-pumarejo.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/04/Alfonso_Lopez_Pumarejo.jpg'
+    },
+    {
+      id: 'alfonso-valdivieso',
+      name: 'Alfonso Valdivieso',
+      fullName: 'Alfonso Valdivieso',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Attorney General, senator',
+      url: 'bios/alfonso-valdivieso.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'alfredo-morelos',
       name: 'Alfredo Morelos',
       fullName: 'Alfredo Morelos',
@@ -604,6 +682,19 @@
       url: 'bios/alinne-moraes.html',
       tags: ["brazilian cinema", "telenovela", "television", "popular"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/9_-_Aline_Moraes_%2817107144586%29.jpg'
+    },
+    {
+      id: 'alirio-uribe',
+      name: 'Alirio Uribe',
+      fullName: 'Alirio Uribe',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Congressman, human rights lawyer',
+      url: 'bios/alirio-uribe.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'alisson-becker',
@@ -1568,6 +1659,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Kid_Pambel%C3%A9.jpg'
     },
     {
+      id: 'antonio-navarro-wolff',
+      name: 'Antonio Navarro Wolff',
+      fullName: 'Antonio Navarro Wolff',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former presidential candidate, former M-19',
+      url: 'bios/antonio-navarro-wolff.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Antonio_Navarro_Wolff.jpg'
+    },
+    {
       id: 'anya-taylor-joy',
       name: 'Anya Taylor-Joy',
       fullName: 'Anya Taylor-Joy',
@@ -1904,6 +2008,19 @@
       url: 'bios/belinda.html',
       tags: ["latin pop", "mexico", "spain", "latin grammy"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/8b/Meerbeke_glasraam_Sint-Berlindis.JPG'
+    },
+    {
+      id: 'belisario-betancur',
+      name: 'Belisario Betancur',
+      fullName: 'Belisario Betancur',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/belisario-betancur.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Belisario_Betancur.jpg'
     },
     {
       id: 'bella-hadid',
@@ -2712,6 +2829,19 @@
       image: '../images/camilo-cifuentes.jpg'
     },
     {
+      id: 'camilo-torres',
+      name: 'Camilo Torres',
+      fullName: 'Camilo Torres',
+      profession: 'ELN',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Priest, revolutionary, guerrilla',
+      url: 'bios/camilo-torres.html',
+      tags: ["Politics", "Colombia", "ELN"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Camilo_Torres_Restrepo.jpg'
+    },
+    {
       id: 'canelo-álvarez',
       name: 'Canelo Álvarez',
       fullName: 'Canelo Álvarez',
@@ -2855,6 +2985,32 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Carlosmunoz.jpg'
     },
     {
+      id: 'carlos-ardila-lulle',
+      name: 'Carlos Ardila Lülle',
+      fullName: 'Carlos Ardila Lülle',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Businessman, politician',
+      url: 'bios/carlos-ardila-lulle.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
+    },
+    {
+      id: 'carlos-arturo-marulanda',
+      name: 'Carlos Arturo Marulanda',
+      fullName: 'Carlos Arturo Marulanda',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Peace',
+      url: 'bios/carlos-arturo-marulanda.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'carlos-augusto-rivas',
       name: 'Carlos Augusto Rivas',
       fullName: 'Carlos Augusto Rivas',
@@ -2933,6 +3089,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Carlos_Carbonero_2014.jpg'
     },
     {
+      id: 'carlos-cuartas',
+      name: 'Carlos Cuartas',
+      fullName: 'Carlos Cuartas',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Senator, theologian',
+      url: 'bios/carlos-cuartas.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
+    },
+    {
       id: 'carlos-feria',
       name: 'Carlos Feria',
       fullName: 'Carlos Feria',
@@ -2944,6 +3113,32 @@
       url: 'bios/carlos-feria.html',
       tags: ["Influencer", "Family Entertainment", "YouTuber", "Colombia", "Pereira"],
       image: '../images/carlos-feria.jpg'
+    },
+    {
+      id: 'carlos-fernando-galan',
+      name: 'Carlos Fernando Galán',
+      fullName: 'Carlos Fernando Galán',
+      profession: 'Nuevo Liberalismo',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Mayor of Bogotá',
+      url: 'bios/carlos-fernando-galan.html',
+      tags: ["Politics", "Colombia", "Nuevo"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Carlos_Fernando_Galan.jpg'
+    },
+    {
+      id: 'carlos-holguin-sardi',
+      name: 'Carlos Holguín Sardi',
+      fullName: 'Carlos Holguín Sardi',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Interior Minister, diplomat',
+      url: 'bios/carlos-holguin-sardi.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'carlos-huertas',
@@ -2972,6 +3167,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Carlos_Kaju.jpg'
     },
     {
+      id: 'carlos-lleras-restrepo',
+      name: 'Carlos Lleras Restrepo',
+      fullName: 'Carlos Lleras Restrepo',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/carlos-lleras-restrepo.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/78/Carlos_Lleras_Restrepo.jpg'
+    },
+    {
       id: 'carlos-manuel-vesga',
       name: 'Carlos Manuel Vesga',
       fullName: 'Carlos Manuel Vesga',
@@ -2983,6 +3191,32 @@
       url: 'bios/carlos-manuel-vesga.html',
       tags: ["telenovela", "actor", "theater", "bogot\u00e1"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/16/Carlos_Manuel_Vesga_at_BAFTAs_2026_02.jpg'
+    },
+    {
+      id: 'carlos-moreno-de-caro',
+      name: 'Carlos Moreno de Caro',
+      fullName: 'Carlos Moreno de Caro',
+      profession: 'Partido Social de Unidad Nacional',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Senator, former mayor of Cartagena',
+      url: 'bios/carlos-moreno-de-caro.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
+      id: 'carlos-pizarro-leongomez',
+      name: 'Carlos Pizarro Leongómez',
+      fullName: 'Carlos Pizarro Leongómez',
+      profession: 'M-19',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former M-19 guerrillero, presidential candidate',
+      url: 'bios/carlos-pizarro-leongomez.html',
+      tags: ["Politics", "Colombia", "M-19"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Carlos_Pizarro.jpg'
     },
     {
       id: 'carlos-ramirez',
@@ -3100,6 +3334,19 @@
       url: 'bios/carolina-arias.html',
       tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f9/CarolinaArias.jpg'
+    },
+    {
+      id: 'carolina-corcho',
+      name: 'Carolina Corcho',
+      fullName: 'Carolina Corcho',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Health',
+      url: 'bios/carolina-corcho.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'carolina-cruz',
@@ -3373,6 +3620,19 @@
       url: 'bios/caterine-ibarguen.html',
       tags: ["Athlete", "Colombia", "Olympics", "Triple Jump", "Antioquia"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Caterine_Ibarg%C3%BCen_Beijing_2015.jpg'
+    },
+    {
+      id: 'cecilia-lopez',
+      name: 'Cecilia López',
+      fullName: 'Cecilia López',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Agriculture, economist',
+      url: 'bios/cecilia-lopez.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'celia-cruz',
@@ -3698,6 +3958,19 @@
       url: 'bios/claudia-abreu.html',
       tags: ["brazilian cinema", "telenovela", "veteran actress", "television"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Cl%C3%A1udia_Abreu.jpg'
+    },
+    {
+      id: 'claudia-lopez',
+      name: 'Claudia López',
+      fullName: 'Claudia López',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Mayor of Bogotá',
+      url: 'bios/claudia-lopez.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/3/37/Claudia_Lopez.jpg'
     },
     {
       id: 'claudia-palacios',
@@ -4049,6 +4322,19 @@
       url: 'bios/cesar-gaviria.html',
       tags: ["Politician", "Colombia", "President", "Risaralda", "Reform"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/82/C%C3%A9sar_Gaviria%2C_World_Economic_Forum_on_Latin_America_2009_%28cropped_2%29.jpg'
+    },
+    {
+      id: 'cesar-giraldo',
+      name: 'César Giraldo',
+      fullName: 'César Giraldo',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Defense',
+      url: 'bios/cesar-giraldo.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
     },
     {
       id: 'césar-gutiérrez',
@@ -4623,6 +4909,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/11/Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg'
     },
     {
+      id: 'dario-echandia',
+      name: 'Darío Echandía',
+      fullName: 'Darío Echandía',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President, lawyer',
+      url: 'bios/dario-echandia.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'dave-chappelle',
       name: 'Dave Chappelle',
       fullName: 'Dave Chappelle',
@@ -4751,6 +5050,19 @@
       url: 'bios/david-laid.html',
       tags: ["fitness", "youtube", "bodybuilding", "transformation"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/David_Laid_thirst_tweets_video_for_Gymshark_2021_03_%28cropped%29.jpg'
+    },
+    {
+      id: 'david-luna',
+      name: 'David Luna',
+      fullName: 'David Luna',
+      profession: 'Cambio Radical',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, former Minister of ICT',
+      url: 'bios/david-luna.html',
+      tags: ["Politics", "Colombia", "Cambio"],
+      image: ''
     },
     {
       id: 'david-ospina',
@@ -5728,6 +6040,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Eduardo_Estrada-2014.jpg'
     },
     {
+      id: 'eduardo-santos',
+      name: 'Eduardo Santos',
+      fullName: 'Eduardo Santos',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President, journalist',
+      url: 'bios/eduardo-santos.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Eduardo_Santos.jpg'
+    },
+    {
       id: 'eduardo-struvay',
       name: 'Eduardo Struvay',
       fullName: 'Eduardo Struvay',
@@ -5752,6 +6077,19 @@
       url: 'bios/eduardo-vargas.html',
       tags: ["football", "chile", "striker", "copa-america", "atletico-mineiro"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Spain_-_Chile_-_10-09-2013_-_Geneva_-_E._Vargas.jpg'
+    },
+    {
+      id: 'eduardo-verano-de-la-rosa',
+      name: 'Eduardo Verano de la Rosa',
+      fullName: 'Eduardo Verano de la Rosa',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Governor of Atlántico',
+      url: 'bios/eduardo-verano-de-la-rosa.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'edward-beltran',
@@ -5791,6 +6129,19 @@
       url: 'bios/edwin-avila.html',
       tags: ["Cyclist", "Colombia", "Sports", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/3/36/Edwin_Ávila_oro_2016_(cropped)_(cropped).jpg'
+    },
+    {
+      id: 'efrain-cepeda',
+      name: 'Efraín Cepeda',
+      fullName: 'Efraín Cepeda',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, former President of Congress',
+      url: 'bios/efrain-cepeda.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'egan-bernal',
@@ -6131,6 +6482,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/Enrique_Iglesias_2011%2C_2_%28cropped%29.jpg'
     },
     {
+      id: 'enrique-olaya-herrera',
+      name: 'Enrique Olaya Herrera',
+      fullName: 'Enrique Olaya Herrera',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/enrique-olaya-herrera.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'enrique-penalosa',
       name: 'Enrique Peñalosa',
       fullName: 'Enrique Peñalosa',
@@ -6233,6 +6597,19 @@
       url: 'bios/esmeralda-pimentel.html',
       tags: ["telenovela", "mexico", "model", "award winner"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/4/47/Esmeralda_Pimentel_F%C3%A9nix_2017_%28better_crop%29.jpg'
+    },
+    {
+      id: 'esperanza-andrade',
+      name: 'Esperanza Andrade',
+      fullName: 'Esperanza Andrade',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Labor',
+      url: 'bios/esperanza-andrade.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'esteban-chaves',
@@ -6350,6 +6727,19 @@
       url: 'bios/fabio-restrepo.html',
       tags: ["telenovela", "actor", "cinema", "bogot\u00e1"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Fabio_Restrepo.jpg'
+    },
+    {
+      id: 'fabio-valencia-cossio',
+      name: 'Fabio Valencia Cossio',
+      fullName: 'Fabio Valencia Cossio',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Interior Minister, Senator',
+      url: 'bios/fabio-valencia-cossio.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/6/62/Fabio_Valencia_Cossio.jpg'
     },
     {
       id: 'fabian-castillo',
@@ -6480,6 +6870,19 @@
       url: 'bios/fede-vigevani.html',
       tags: ["youtube", "argentina", "challenges", "pranks", "experiments"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Fede_Vigevani.jpg'
+    },
+    {
+      id: 'federico-gutierrez',
+      name: 'Federico Gutiérrez',
+      fullName: 'Federico Gutiérrez',
+      profession: 'Creemos Colombia',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Mayor of Medellín, presidential candidate',
+      url: 'bios/federico-gutierrez.html',
+      tags: ["Politics", "Colombia", "Creemos"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Federico_Gutierrez.jpg'
     },
     {
       id: 'federico-luppi',
@@ -6896,6 +7299,19 @@
       url: 'bios/francisca-gavilán.html',
       tags: ["chilean cinema", "drama", "singer", "award winner"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/6/63/Francisca_Gavilan_Foto.jpg'
+    },
+    {
+      id: 'francisco-de-paula-santander',
+      name: 'Francisco de Paula Santander',
+      fullName: 'Francisco de Paula Santander',
+      profession: 'Partido Federal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Hero of Independence, former President',
+      url: 'bios/francisco-de-paula-santander.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Francisco_de_Paula_Santander.jpg'
     },
     {
       id: 'francisco-escobar',
@@ -7392,6 +7808,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/7/70/Germán_Mera_Cropped.jpg'
     },
     {
+      id: 'german-vargas-lleras',
+      name: 'Germán Vargas Lleras',
+      fullName: 'Germán Vargas Lleras',
+      profession: 'Cambio Radical',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Vice President',
+      url: 'bios/german-vargas-lleras.html',
+      tags: ["Politics", "Colombia", "Cambio"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/b/bd/German_Vargas_Lleras.jpg'
+    },
+    {
       id: 'gian-marco',
       name: 'Gian Marco',
       fullName: 'Gian Marco',
@@ -7468,6 +7897,19 @@
       url: 'bios/giovanny-urshela.html',
       tags: ["Baseball Player", "Colombia", "Sports", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/0/07/Gio_Urshela_(32616841857).jpg'
+    },
+    {
+      id: 'gloria-arias',
+      name: 'Gloria Arias',
+      fullName: 'Gloria Arias',
+      profession: 'Colombia Justa Libres',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, lawyer',
+      url: 'bios/gloria-arias.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'gloria-castro',
@@ -7626,6 +8068,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Malaga_Film_Festival_2025_-_Guillermo_Francella_01.jpg'
     },
     {
+      id: 'guillermo-jaramillo',
+      name: 'Guillermo Jaramillo',
+      fullName: 'Guillermo Jaramillo',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Health',
+      url: 'bios/guillermo-jaramillo.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
+    },
+    {
       id: 'guillermo-murillo',
       name: 'Guillermo Murillo',
       fullName: 'Guillermo Murillo',
@@ -7691,6 +8146,32 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/3/33/Gustavo_Cuéllar_(cropped).jpg'
     },
     {
+      id: 'gustavo-francisco-petro-urrego',
+      name: 'Gustavo Francisco Petro Urrego',
+      fullName: 'Gustavo Francisco Petro Urrego',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'President of Colombia (2022-2026)',
+      url: 'bios/gustavo-francisco-petro-urrego.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
+    },
+    {
+      id: 'gustavo-gallon',
+      name: 'Gustavo Gallón',
+      fullName: 'Gustavo Gallón',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Human rights lawyer, Ombudsman',
+      url: 'bios/gustavo-gallon.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
+    },
+    {
       id: 'gustavo-kuerten',
       name: 'Gustavo Kuerten',
       fullName: 'Gustavo Kuerten',
@@ -7728,6 +8209,19 @@
       url: 'bios/gustavo-puerta.html',
       tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/5/52/Gustavo_Puerta_2023.jpg'
+    },
+    {
+      id: 'gustavo-rojas-pinilla',
+      name: 'Gustavo Rojas Pinilla',
+      fullName: 'Gustavo Rojas Pinilla',
+      profession: 'Alianza Nacional Popular',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President (de facto)',
+      url: 'bios/gustavo-rojas-pinilla.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Gustavo_Rojas_Pinilla.jpg'
     },
     {
       id: 'gustavo-sanchez-nadador',
@@ -8133,6 +8627,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/e/e3/Hirving_Lozano.png'
     },
     {
+      id: 'horacio-serpa',
+      name: 'Horacio Serpa',
+      fullName: 'Horacio Serpa',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former presidential candidate, former Governor',
+      url: 'bios/horacio-serpa.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/7e/Horacio_Serpa.jpg'
+    },
+    {
       id: 'huda-kattan',
       name: 'Huda Kattan',
       fullName: 'Huda Kattan',
@@ -8183,6 +8690,19 @@
       url: 'bios/hugo-sánchez.html',
       tags: ["football", "mexico", "real-madrid", "la-liga", "legend"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Huguito.jpg'
+    },
+    {
+      id: 'humberto-de-la-calle',
+      name: 'Humberto de la Calle',
+      fullName: 'Humberto de la Calle',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Vice President, chief peace negotiator',
+      url: 'bios/humberto-de-la-calle.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Humberto_de_la_Calle.jpg'
     },
     {
       id: 'héctor-lavoe',
@@ -8354,6 +8874,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f5/Ingrid_Vidal_2014_(cropped).jpg'
     },
     {
+      id: 'inti-asprilla',
+      name: 'Inti Asprilla',
+      fullName: 'Inti Asprilla',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Congressman, former M-19 member',
+      url: 'bios/inti-asprilla.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
+    },
+    {
       id: 'irandhir-santos',
       name: 'Irandhir Santos',
       fullName: 'Irandhir Santos',
@@ -8365,6 +8898,19 @@
       url: 'bios/irandhir-santos.html',
       tags: ["brazilian cinema", "city of god", "intense", "drama"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Irandhir_Santos.jpg'
+    },
+    {
+      id: 'irene-velez',
+      name: 'Irene Vélez',
+      fullName: 'Irene Vélez',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Mines and Energy',
+      url: 'bios/irene-velez.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
     },
     {
       id: 'isaac-bolivar',
@@ -8562,6 +9108,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Iván_Arboleda_en_Millonarios_2025.jpg'
     },
     {
+      id: 'ivan-cepeda',
+      name: 'Iván Cepeda',
+      fullName: 'Iván Cepeda',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, human rights defender',
+      url: 'bios/ivan-cepeda.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Ivan_Cepeda.jpg'
+    },
+    {
       id: 'iván-de-la-peña',
       name: 'Iván de la Peña',
       fullName: 'Iván de la Peña',
@@ -8573,6 +9132,19 @@
       url: 'bios/iván-de-la-peña.html',
       tags: ["telenovela", "actor", "theater", "bogot\u00e1"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/DelaPe%C3%B1a1.JPG'
+    },
+    {
+      id: 'ivan-duque',
+      name: 'Iván Duque',
+      fullName: 'Iván Duque',
+      profession: 'Centro Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President of Colombia',
+      url: 'bios/ivan-duque.html',
+      tags: ["Politics", "Colombia", "Centro"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/00/Ivan_Duque_Marquez.jpg'
     },
     {
       id: 'ivan-luquetta',
@@ -9966,6 +10538,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg'
     },
     {
+      id: 'john-milton-rodriguez',
+      name: 'John Milton Rodríguez',
+      fullName: 'John Milton Rodríguez',
+      profession: 'Colombia Justa Libres',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, Christian pastor',
+      url: 'bios/john-milton-rodriguez.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
+    },
+    {
       id: 'john-mosquera',
       name: 'John Mosquera',
       fullName: 'John Mosquera',
@@ -10226,6 +10811,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Jorge_Baron_TV.jpg'
     },
     {
+      id: 'jorge-cardona',
+      name: 'Jorge Cardona',
+      fullName: 'Jorge Cardona',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Interior',
+      url: 'bios/jorge-cardona.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'jorge-carrascal',
       name: 'Jorge Carrascal',
       fullName: 'Jorge Carrascal',
@@ -10265,6 +10863,19 @@
       image: ''
     },
     {
+      id: 'jorge-eliecer-gaitan',
+      name: 'Jorge Eliécer Gaitán',
+      fullName: 'Jorge Eliécer Gaitán',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Politician, assassinated presidential candidate',
+      url: 'bios/jorge-eliecer-gaitan.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Jorge_Eliecer_Gaitan.jpg'
+    },
+    {
       id: 'jorge-enrique-abello',
       name: 'Jorge Enrique Abello',
       fullName: 'Jorge Enrique Abello',
@@ -10276,6 +10887,32 @@
       url: 'bios/jorge-enrique-abello.html',
       tags: ["Actor", "Colombia", "Bogot\u00e1", "Telenovela", "Betty la Fea"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Jorge_Enrique_Abello_2017.jpg'
+    },
+    {
+      id: 'jorge-enrique-rojas',
+      name: 'Jorge Enrique Rojas',
+      fullName: 'Jorge Enrique Rojas',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, indigenous leader',
+      url: 'bios/jorge-enrique-rojas.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: ''
+    },
+    {
+      id: 'jorge-isaacs',
+      name: 'Jorge Isaacs',
+      fullName: 'Jorge Isaacs',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Writer, politician',
+      url: 'bios/jorge-isaacs.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Jorge_Isaacs.jpg'
     },
     {
       id: 'jorge-obregn',
@@ -10317,6 +10954,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/JorgeOsorio.jpg'
     },
     {
+      id: 'jorge-uribe-escobar',
+      name: 'Jorge Uribe Escobar',
+      fullName: 'Jorge Uribe Escobar',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Defense',
+      url: 'bios/jorge-uribe-escobar.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
       id: 'joshua-daniel-ruiz-castillo',
       name: 'Joshua Daniel Ruiz Castillo',
       fullName: 'Joshua Daniel Ruiz Castillo',
@@ -10341,6 +10991,32 @@
       url: 'bios/jossimar-el-calvo.html',
       tags: ["Athlete", "Colombia", "Sports", "Competitor"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Jossimar_Calvo_2018_South_American_Games.jpg'
+    },
+    {
+      id: 'jose-antonio-ocampo',
+      name: 'José Antonio Ocampo',
+      fullName: 'José Antonio Ocampo',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Finance Minister, UN official',
+      url: 'bios/jose-antonio-ocampo.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Jose_Antonio_Ocampo.jpg'
+    },
+    {
+      id: 'jose-antonio-salazar',
+      name: 'José Antonio Salazar',
+      fullName: 'José Antonio Salazar',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Sports',
+      url: 'bios/jose-antonio-salazar.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
     },
     {
       id: 'jos-caicedo',
@@ -10588,6 +11264,19 @@
       url: 'bios/juan-ernesto-chamorro.html',
       tags: ["Cyclist", "Colombia", "Sports", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/2/24/Juan_Chamorro_2014.jpg'
+    },
+    {
+      id: 'juan-fernando-cristo',
+      name: 'Juan Fernando Cristo',
+      fullName: 'Juan Fernando Cristo',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Interior Minister',
+      url: 'bios/juan-fernando-cristo.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'juan-fernando-quintero',
@@ -11147,6 +11836,19 @@
       url: 'bios/julio-césar-chávez.html',
       tags: ["boxing", "mexico", "world-champion", "super-featherweight", "legend"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/16/Julio_C%C3%A9sar_Ch%C3%A1vez_2017.png'
+    },
+    {
+      id: 'julio-cesar-turbay',
+      name: 'Julio César Turbay',
+      fullName: 'Julio César Turbay',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/julio-cesar-turbay.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/d/d4/Julio_Cesar_Turbay_Ayala.jpg'
     },
     {
       id: 'julio-jaramillo',
@@ -12254,6 +12956,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Lauren_Melissa_Flor_Torres_(cropped).jpg'
     },
     {
+      id: 'laurentino-munoz',
+      name: 'Laurentino Muñoz',
+      fullName: 'Laurentino Muñoz',
+      profession: 'Alianza Social Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Senator, indigenous rights activist',
+      url: 'bios/laurentino-munoz.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: ''
+    },
+    {
       id: 'lauryn-hill',
       name: 'Lauryn Hill',
       fullName: 'Lauryn Hill',
@@ -12421,6 +13136,19 @@
       url: 'bios/libardo-isaza.html',
       tags: ["Influencer", "TikTok", "Model", "Colombia", "Dance"],
       image: '../images/libardo-isaza.jpg'
+    },
+    {
+      id: 'lidio-garcia',
+      name: 'Lidio García',
+      fullName: 'Lidio García',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, former governor',
+      url: 'bios/lidio-garcia.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'lil-baby',
@@ -12995,6 +13723,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Luis_Brandoni_en_2010_%28cropped%29.jpg'
     },
     {
+      id: 'luis-carlos-galan',
+      name: 'Luis Carlos Galán',
+      fullName: 'Luis Carlos Galán',
+      profession: 'Nuevo Liberalismo',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Politician, assassinated presidential candidate',
+      url: 'bios/luis-carlos-galan.html',
+      tags: ["Politics", "Colombia", "Nuevo"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Luis_Carlos_Galan.jpg'
+    },
+    {
       id: 'luis-daz',
       name: 'Luis Díaz',
       fullName: 'Luis Díaz',
@@ -13019,6 +13760,19 @@
       url: 'bios/luis-diaz.html',
       tags: ["Footballer", "Colombia", "Liverpool", "Winger"],
       image: ''
+    },
+    {
+      id: 'luis-eduardo-garzon',
+      name: 'Luis Eduardo Garzón',
+      fullName: 'Luis Eduardo Garzón',
+      profession: 'Polo Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Mayor of Bogotá, labor leader',
+      url: 'bios/luis-eduardo-garzon.html',
+      tags: ["Politics", "Colombia", "Polo"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/9/96/Luis_Eduardo_Garzon.jpg'
     },
     {
       id: 'luis-eduardo-gutiérrez',
@@ -13058,6 +13812,19 @@
       url: 'bios/luis-fernando-sandoval.html',
       tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Luis_Fernando_Sandoval_Oyola_celebrando_un_título_que_ganó_con_la_Selección_Colombia.png'
+    },
+    {
+      id: 'luis-fernando-velasco',
+      name: 'Luis Fernando Velasco',
+      fullName: 'Luis Fernando Velasco',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, former governor',
+      url: 'bios/luis-fernando-velasco.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'luis-figo',
@@ -14022,6 +14789,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/MarianaPajon.jpg'
     },
     {
+      id: 'mariano-ospina-perez',
+      name: 'Mariano Ospina Pérez',
+      fullName: 'Mariano Ospina Pérez',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President',
+      url: 'bios/mariano-ospina-perez.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Mariano_Ospina_Perez.jpg'
+    },
+    {
       id: 'mario-vargas-llosa',
       name: 'Mario Vargas Llosa',
       fullName: 'Mario Vargas Llosa',
@@ -14163,6 +14943,19 @@
       url: 'bios/marshmello.html',
       tags: ["music", "dj", "edm", "youtube"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/0/09/2016_Open_Beatz_-_Marshmello_-_by_2eight_-DSC_4448.jpg'
+    },
+    {
+      id: 'marta-lucia-ramirez',
+      name: 'Marta Lucía Ramírez',
+      fullName: 'Marta Lucía Ramírez',
+      profession: 'Centro Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Vice President',
+      url: 'bios/marta-lucia-ramirez.html',
+      tags: ["Politics", "Colombia", "Centro"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Marta_Lucia_Ramirez.jpg'
     },
     {
       id: 'martha-bayona',
@@ -14321,6 +15114,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Maria_Cecilia_Botero_Cadavid.jpg'
     },
     {
+      id: 'maria-constanza-garcia',
+      name: 'María Constanza García',
+      fullName: 'María Constanza García',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, journalist',
+      url: 'bios/maria-constanza-garcia.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: ''
+    },
+    {
       id: 'maria-del-pilar-perez',
       name: 'María del Pilar Pérez',
       fullName: 'María del Pilar Pérez',
@@ -14332,6 +15138,32 @@
       url: 'bios/maria-del-pilar-perez.html',
       tags: ["Athlete", "Colombia", "Sports", "Competitor"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/d/da/Pitizion_1.jpg'
+    },
+    {
+      id: 'maria-del-rosario-guerra',
+      name: 'María del Rosario Guerra',
+      fullName: 'María del Rosario Guerra',
+      profession: 'Centro Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, former Minister of Education',
+      url: 'bios/maria-del-rosario-guerra.html',
+      tags: ["Politics", "Colombia", "Centro"],
+      image: ''
+    },
+    {
+      id: 'maria-emma-mejia',
+      name: 'María Emma Mejía',
+      fullName: 'María Emma Mejía',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, Vice Presidential candidate',
+      url: 'bios/maria-emma-mejia.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'maría-emma-mejía',
@@ -14399,6 +15231,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Mar%C3%ADa_Gabriela_de_Far%C3%ADa_en_2024_01.jpg'
     },
     {
+      id: 'maria-jose-pizarro',
+      name: 'María José Pizarro',
+      fullName: 'María José Pizarro',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, daughter of Carlos Pizarro',
+      url: 'bios/maria-jose-pizarro.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Maria_Jose_Pizarro.jpg'
+    },
+    {
       id: 'mara-jos-vargas',
       name: 'María José Vargas',
       fullName: 'María José Vargas',
@@ -14436,6 +15281,19 @@
       url: 'bios/maría-paula-correa.html',
       tags: ["journalism", "news anchor", "Caracol", "Bogot\u00e1"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Mar%C3%ADa_Paula_Correa.jpg'
+    },
+    {
+      id: 'maria-angela-holguin',
+      name: 'María Ángela Holguín',
+      fullName: 'María Ángela Holguín',
+      profession: 'Partido Social de Unidad Nacional',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Foreign Minister',
+      url: 'bios/maria-angela-holguin.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Maria_Angela_Holguin.jpg'
     },
     {
       id: 'marília-mendonça',
@@ -14958,6 +15816,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Miguel_Polo_Polo.jpg'
     },
     {
+      id: 'miguel-uribe-turbay',
+      name: 'Miguel Uribe Turbay',
+      fullName: 'Miguel Uribe Turbay',
+      profession: 'Centro Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, former councilman',
+      url: 'bios/miguel-uribe-turbay.html',
+      tags: ["Politics", "Colombia", "Centro"],
+      image: ''
+    },
+    {
       id: 'miguel-angel-lopez',
       name: 'Miguel Ángel López',
       fullName: 'Miguel Ángel López',
@@ -15333,6 +16204,19 @@
       url: 'bios/nancy-dupláa.html',
       tags: ["telenovela", "argentina", "television", "drama"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f9/Nancy_Dupl%C3%A1a_%28cropped%29.jpg'
+    },
+    {
+      id: 'nancy-patricia-gutierrez',
+      name: 'Nancy Patricia Gutiérrez',
+      fullName: 'Nancy Patricia Gutiérrez',
+      profession: 'Centro Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former President of Senate',
+      url: 'bios/nancy-patricia-gutierrez.html',
+      tags: ["Politics", "Colombia", "Centro"],
+      image: ''
     },
     {
       id: 'nancy-pelosi',
@@ -15920,6 +16804,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Nicolas_Paredes_Vuelta_a_Colombia_2017_et2.jpg'
     },
     {
+      id: 'nicolas-petro',
+      name: 'Nicolás Petro',
+      fullName: 'Nicolás Petro',
+      profession: 'Pacto Histórico',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Son of Gustavo Petro, former congressman',
+      url: 'bios/nicolas-petro.html',
+      tags: ["Politics", "Colombia", "Pacto"],
+      image: ''
+    },
+    {
       id: 'nigahiga',
       name: 'Nigahiga',
       fullName: 'Nigahiga',
@@ -16076,6 +16973,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Noel_Gallagher_Glastonbury_2022_%28cropped%29.jpg'
     },
     {
+      id: 'noemi-sanin',
+      name: 'Noemí Sanín',
+      fullName: 'Noemí Sanín',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Foreign Minister, presidential candidate',
+      url: 'bios/noemi-sanin.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Noemi_Sanin.jpg'
+    },
+    {
       id: 'normani',
       name: 'Normani',
       fullName: 'Normani',
@@ -16100,6 +17010,19 @@
       url: 'bios/novak-djokovic.html',
       tags: ["tennis", "sports", "djokovic", "grand slam", "serbia"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg'
+    },
+    {
+      id: 'nestor-osuna',
+      name: 'Néstor Osuna',
+      fullName: 'Néstor Osuna',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Justice',
+      url: 'bios/nestor-osuna.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'olaf-scholz',
@@ -16362,6 +17285,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/c/c5/Pabllo_Vittar_-_TVZ_2024_%281%29.png'
     },
     {
+      id: 'pablo-emilio-guarin',
+      name: 'Pablo Emilio Guarín',
+      fullName: 'Pablo Emilio Guarín',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'General, Minister of Defense',
+      url: 'bios/pablo-emilio-guarin.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
+    },
+    {
       id: 'pablo-ortiz',
       name: 'Pablo Ortiz',
       fullName: 'Pablo Ortiz',
@@ -16386,6 +17322,19 @@
       url: 'bios/pablo-sabbag.html',
       tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/5/53/4822282_AE7I6897_(cropped).jpg'
+    },
+    {
+      id: 'paloma-valencia',
+      name: 'Paloma Valencia',
+      fullName: 'Paloma Valencia',
+      profession: 'Centro Democrático',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, lawyer',
+      url: 'bios/paloma-valencia.html',
+      tags: ["Politics", "Colombia", "Centro"],
+      image: ''
     },
     {
       id: 'paola-parra',
@@ -16490,6 +17439,19 @@
       url: 'bios/paris-hilton.html',
       tags: ["tv", "socialite", "businesswoman", "hilton", "the simple life"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/0/06/Paris_Hilton_at_WWD_Style_Awards_2026_%28cropped%29.jpg'
+    },
+    {
+      id: 'patricia-ariza',
+      name: 'Patricia Ariza',
+      fullName: 'Patricia Ariza',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Culture',
+      url: 'bios/patricia-ariza.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'patricia-janiot',
@@ -16882,6 +17844,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Philip_DeFranco_in_2018.jpg'
     },
     {
+      id: 'piedad-cordoba',
+      name: 'Piedad Córdoba',
+      fullName: 'Piedad Córdoba',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Senator, human rights activist',
+      url: 'bios/piedad-cordoba.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Piedad_Cordoba.jpg'
+    },
+    {
       id: 'pierre-emerick-aubameyang',
       name: 'Pierre-Emerick Aubameyang',
       fullName: 'Pierre-Emerick Aubameyang',
@@ -17244,6 +18219,19 @@
       url: 'bios/ricardo-arjona.html',
       tags: ["latin pop", "guatemala", "songwriter", "romantic"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Concierto_Ricardo_Arjona_Miami_2009_%28cropped%29.jpg'
+    },
+    {
+      id: 'ricardo-bonilla',
+      name: 'Ricardo Bonilla',
+      fullName: 'Ricardo Bonilla',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Finance',
+      url: 'bios/ricardo-bonilla.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'ricardo-darín',
@@ -17764,6 +18752,19 @@
       url: 'bios/rosé.html',
       tags: ["k-pop", "blackpink", "new-zealand"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Ros%C3%A9_wine_-_July_2023_-_Sarah_Stierch_01-cropped.jpg'
+    },
+    {
+      id: 'roy-barreras',
+      name: 'Roy Barreras',
+      fullName: 'Roy Barreras',
+      profession: 'Partido de la U',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'President of Congress, senator',
+      url: 'bios/roy-barreras.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
     },
     {
       id: 'rui-costa',
@@ -18572,6 +19573,32 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Ag%C3%BCero_in_2018.jpg'
     },
     {
+      id: 'sergio-diaz-granados',
+      name: 'Sergio Díaz-Granados',
+      fullName: 'Sergio Díaz-Granados',
+      profession: 'Partido Liberal',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Trade, CAF President',
+      url: 'bios/sergio-diaz-granados.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: ''
+    },
+    {
+      id: 'sergio-fajardo',
+      name: 'Sergio Fajardo',
+      fullName: 'Sergio Fajardo',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Mayor of Medellín, presidential candidate',
+      url: 'bios/sergio-fajardo.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/0d/Sergio_Fajardo.jpg'
+    },
+    {
       id: 'sergio-goyri',
       name: 'Sergio Goyri',
       fullName: 'Sergio Goyri',
@@ -18921,6 +19948,19 @@
       url: 'bios/simone-biles.html',
       tags: ["sports", "gymnastics", "biles", "olympic", "champion"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Simone_Biles_National_Team_2024.jpg'
+    },
+    {
+      id: 'simon-bolivar',
+      name: 'Simón Bolívar',
+      fullName: 'Simón Bolívar',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Liberator of Colombia and Latin America',
+      url: 'bios/simon-bolivar.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/1/16/Simon_Bolivar.jpg'
     },
     {
       id: 'skeppy',
@@ -19467,6 +20507,19 @@
       url: 'bios/susana-gomez-castano.html',
       tags: ["Athlete", "Colombia", "Sports", "Competitor"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/4/44/Susana_Boreal.jpg'
+    },
+    {
+      id: 'susana-muhamad',
+      name: 'Susana Muhamad',
+      fullName: 'Susana Muhamad',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Environment',
+      url: 'bios/susana-muhamad.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Susana_Muhamad.jpg'
     },
     {
       id: 'sydney-sweeney',
@@ -20405,6 +21458,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/1/19/Venus_Williams_%282025_DC_Open%29_crop.jpg'
     },
     {
+      id: 'vera-grabe',
+      name: 'Vera Grabe',
+      fullName: 'Vera Grabe',
+      profession: 'Alianza Verde',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former M-19 member, academic',
+      url: 'bios/vera-grabe.html',
+      tags: ["Politics", "Colombia", "Alianza"],
+      image: ''
+    },
+    {
       id: 'veritasium',
       name: 'Veritasium',
       fullName: 'Veritasium',
@@ -20949,6 +22015,19 @@
       url: 'bios/william-arboleda.html',
       tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/6/65/William_Arboleda.jpg'
+    },
+    {
+      id: 'william-camargo',
+      name: 'William Camargo',
+      fullName: 'William Camargo',
+      profession: 'Independiente',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Current Minister of Transportation',
+      url: 'bios/william-camargo.html',
+      tags: ["Politics", "Colombia", "Independiente"],
+      image: ''
     },
     {
       id: 'william-munoz',
@@ -21588,6 +22667,19 @@
       image: 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Alvaro_Duarte_Clasico_RCN_2015_Etapa_9.jpg'
     },
     {
+      id: 'alvaro-gomez-hurtado',
+      name: 'Álvaro Gómez Hurtado',
+      fullName: 'Álvaro Gómez Hurtado',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Politician, assassinated, journalist',
+      url: 'bios/alvaro-gomez-hurtado.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/73/Alvaro_Gomez_Hurtado.jpg'
+    },
+    {
       id: 'alvaro-hodeg',
       name: 'Álvaro Hodeg',
       fullName: 'Álvaro Hodeg',
@@ -21599,6 +22691,19 @@
       url: 'bios/alvaro-hodeg.html',
       tags: ["Cyclist", "Colombia", "Sports", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/6/69/Deutschland_Tour_2018_Bonn_095.jpg'
+    },
+    {
+      id: 'alvaro-leyva',
+      name: 'Álvaro Leyva',
+      fullName: 'Álvaro Leyva',
+      profession: 'Partido Conservador',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former Minister of Foreign Affairs',
+      url: 'bios/alvaro-leyva.html',
+      tags: ["Politics", "Colombia", "Partido"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Alvaro_Leyva.jpg'
     },
     {
       id: 'alvaro-montero',
@@ -21703,6 +22808,19 @@
       url: 'bios/ngela-posada-swafford.html',
       tags: [],
       image: 'https://upload.wikimedia.org/wikipedia/commons/8/85/AngelaPosadaSwafford.jpg'
+    },
+    {
+      id: 'angela-robledo',
+      name: 'Ángela Robledo',
+      fullName: 'Ángela Robledo',
+      profession: 'Colombia Humana',
+      born: '',
+      birthPlace: '',
+      nationality: '',
+      excerpt: 'Former congresswoman, presidential candidate',
+      url: 'bios/angela-robledo.html',
+      tags: ["Politics", "Colombia", "Colombia"],
+      image: ''
     },
     {
       id: 'eder-fabian-alvarez-balanta',
