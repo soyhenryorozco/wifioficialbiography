@@ -5,7 +5,7 @@ Enhance schema.org markup, hreflang, and Twitter card tags across all bio files.
 import re, os, json, time
 
 BIOS_DIR = "bios"
-DOMAIN = "https://wifioficial-biography.com"
+DOMAIN = "https://wifioficialbiography.org"
 
 # Track stats
 stats = {"breadcrumb_added": 0, "article_added": 0, "hreflang_added": 0, "twitter_fixed": 0}

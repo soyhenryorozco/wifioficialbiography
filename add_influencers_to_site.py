@@ -133,7 +133,7 @@ with open(sitemap_path, "r", encoding="utf-8") as f:
 sitemap_entries = []
 for inf in influencers:
     entry = f"""  <url>
-    <loc>https://wifioficial-biography.com/bios/{inf["id"]}.html</loc>
+    <loc>https://wifioficialbiography.org/bios/{inf["id"]}.html</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

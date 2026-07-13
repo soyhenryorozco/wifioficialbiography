@@ -1236,10 +1236,10 @@ def generate_bio_html(inf):
   <meta name="author" content="Wifioficial Biography">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="googlebot" content="index, follow, max-image-preview:large">
-  <link rel="canonical" href="https://wifioficial-biography.com/bios/{slug}.html">
+  <link rel="canonical" href="https://wifioficialbiography.org/bios/{slug}.html">
 
   <meta property="og:type" content="profile">
-  <meta property="og:url" content="https://wifioficial-biography.com/bios/{slug}.html">
+  <meta property="og:url" content="https://wifioficialbiography.org/bios/{slug}.html">
   <meta property="og:title" content="{name} — {profession}">
   <meta property="og:description" content="{description}">
   <meta property="og:image" content="{image}">
@@ -1258,9 +1258,9 @@ def generate_bio_html(inf):
   <meta name="article:section" content="Biography">
   <meta name="article:tag" content="{name}">
   <meta name="article:tag" content="{nationality}">
-  <link rel="alternate" hreflang="en" href="https://wifioficial-biography.com/bios/{slug}.html">
-  <link rel="alternate" hreflang="es" href="https://wifioficial-biography.com/bios/{slug}.html">
-  <link rel="alternate" hreflang="x-default" href="https://wifioficial-biography.com/bios/{slug}.html">
+  <link rel="alternate" hreflang="en" href="https://wifioficialbiography.org/bios/{slug}.html">
+  <link rel="alternate" hreflang="es" href="https://wifioficialbiography.org/bios/{slug}.html">
+  <link rel="alternate" hreflang="x-default" href="https://wifioficialbiography.org/bios/{slug}.html">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="../css/style.css">
@@ -1282,7 +1282,7 @@ def generate_bio_html(inf):
       "name": "{nationality}"
     }},
     "jobTitle": "{profession}",
-    "url": "https://wifioficial-biography.com/bios/{slug}.html",
+    "url": "https://wifioficialbiography.org/bios/{slug}.html",
     "image": "{image}",
     "sameAs": [
       {same_as_json}
@@ -1299,19 +1299,19 @@ def generate_bio_html(inf):
         "@type": "ListItem",
         "position": 1,
         "name": "Inicio",
-        "item": "https://wifioficial-biography.com/"
+        "item": "https://wifioficialbiography.org/"
       }},
       {{
         "@type": "ListItem",
         "position": 2,
         "name": "Biografías",
-        "item": "https://wifioficial-biography.com/#biografias"
+        "item": "https://wifioficialbiography.org/#biografias"
       }},
       {{
         "@type": "ListItem",
         "position": 3,
         "name": "{name}",
-        "item": "https://wifioficial-biography.com/bios/{slug}.html"
+        "item": "https://wifioficialbiography.org/bios/{slug}.html"
       }}
     ]
   }}

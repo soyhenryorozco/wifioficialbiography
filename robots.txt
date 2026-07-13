@@ -1,11 +1,8 @@
 User-agent: *
 Allow: /
-Disallow: /js/
-Disallow: /css/
 
-Sitemap: https://wifioficial-biography.com/sitemap.xml
+Sitemap: https://wifioficialbiography.org/sitemap.xml
 
-# Crawl-delay for polite bots
 User-agent: Googlebot
 Crawl-delay: 1
 

@@ -3,7 +3,7 @@
 import re, json, os
 
 BIOS_DIR = "bios"
-DOMAIN = "https://wifioficial-biography.com"
+DOMAIN = "https://wifioficialbiography.org"
 stats = {"profilepage": 0, "alt_fixed": 0, "related_links": 0}
 
 for fname in sorted(os.listdir(BIOS_DIR)):

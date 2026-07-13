@@ -15,8 +15,8 @@ INDEX_FILE = os.path.join(BASE_DIR, 'index.html')
 APPJS_FILE = os.path.join(BASE_DIR, 'js', 'app.js')
 SITEMAP_FILE = os.path.join(BASE_DIR, 'sitemap.xml')
 
-DOMAIN = 'https://wifioficial-biography.com'
-USER_AGENT = 'WifioficialBioBot/1.0 (https://wifioficial-biography.com; contact@wifioficial-biography.com)'
+DOMAIN = 'https://wifioficialbiography.org'
+USER_AGENT = 'WifioficialBioBot/1.0 (https://wifioficialbiography.org; contact@wifioficialbiography.org)'
 WIKI_API = 'https://en.wikipedia.org/api/rest_v1/page/summary/{}'
 
 CATEGORY_LABELS = {

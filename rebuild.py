@@ -11,7 +11,7 @@ BIOS_DIR = os.path.join(BASE_DIR, 'bios')
 INDEX_FILE = os.path.join(BASE_DIR, 'index.html')
 APPJS_FILE = os.path.join(BASE_DIR, 'js', 'app.js')
 SITEMAP_FILE = os.path.join(BASE_DIR, 'sitemap.xml')
-DOMAIN = 'https://wifioficial-biography.com'
+DOMAIN = 'https://wifioficialbiography.org'
 
 
 def parse_bio(filepath):
@@ -252,12 +252,12 @@ def rebuild():
 
   <!-- Homepage -->
   <url>
-    <loc>https://wifioficial-biography.com/</loc>
+    <loc>https://wifioficialbiography.org/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://wifioficial-biography.com/images/henry-orozco.jpg</image:loc>
+      <image:loc>https://wifioficialbiography.org/images/henry-orozco.jpg</image:loc>
       <image:title>Wifioficial Biography -- Enciclopedia de Biografias</image:title>
       <image:caption>Plataforma de biografias de figuras publicas a nivel internacional</image:caption>
     </image:image>
