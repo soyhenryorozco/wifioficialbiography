@@ -562,7 +562,13 @@ img { max-width: 100%; height: auto; }
   flex-shrink: 0;
 }
 
-.bio-page-photo img {
+.bio-page-img {
+  width: 220px;
+  flex-shrink: 0;
+}
+
+.bio-page-photo img,
+.bio-hero-img {
   width: 100%;
   border-radius: var(--radius);
   border: 1px solid var(--border-light);
@@ -948,7 +954,8 @@ img { max-width: 100%; height: auto; }
     text-align: center;
   }
 
-  .bio-page-photo { width: 180px; }
+  .bio-page-photo,
+  .bio-page-img { width: 180px; }
 }
 
 @media (max-width: 700px) {
