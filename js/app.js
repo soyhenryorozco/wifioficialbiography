@@ -14064,7 +14064,7 @@
       excerpt: 'Locutor, actor de doblaje y presentador colombiano. Voz oficial de RCN Televisión. Reconocido por Hunter x Hunter y El precio es correcto.',
       url: 'bios/bernardo-duque.html',
       tags: ['Locutor', 'Doblaje', 'TV', 'Colombia', 'Animación'],
-      image: 'https://caracol.com.co/resizer/v2/NQIRJIVTVNHWZJECT6ZLE37ZAA.jpeg?auth=54bf1338abd74a99346aca137481eb216d407fb621ac64e911d0f657f2db27a1'
+      image: 'images/bernardo-duque.jpg'
     },
   ];
 
