@@ -22965,6 +22965,19 @@
       tags: ["Cyclist", "Colombia", "Sports", "Athlete"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/f/f5/Óscar_Quiroz_en_el_campeonato_nacional_de_ruta_de_Colombia_2018.jpg'
     },
+    {
+      id: 'abelardo-de-la-espriella',
+      name: 'Abelardo de la Espriella',
+      fullName: 'Abelardo de la Espriella',
+      profession: 'President-elect of Colombia',
+      born: '1978-07-31',
+      birthPlace: 'Bogotá, Colombia',
+      nationality: 'Colombian',
+      excerpt: 'President-elect of Colombia, lawyer, businessman and politician. Founder of Defensores de la Patria movement.',
+      url: 'bios/abelardo-de-la-espriella.html',
+      tags: ["Politician", "Colombia", "President", "Defensores de la Patria"],
+      image: 'https://upload.wikimedia.org/wikipedia/commons/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_(cropped).jpg'
+    },
   ];
 
 // ── Search Functionality ────────────────────────────────
