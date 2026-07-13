@@ -1,0 +1,691 @@
+[
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q484834"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/0208%20%EC%98%A5%EC%88%98%EC%88%98%20%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20%27%EB%84%88%20%EB%AF%B8%EC%9B%8C%21%20%EC%A4%84%EB%A6%AC%EC%97%A3%27%20%EC%A0%9C%EC%9E%91%EB%B0%9C%ED%91%9C%ED%9A%8C%20%EC%9D%B4%ED%99%8D%EA%B8%B0.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1990-03-02T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean actor and musician"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lee Hong-gi"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "F.T. Island"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490438"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/FTISLAND%20in%20Paris%2C%20La%20Cigale%208.JPG"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1990-03-07T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean musician"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Choi Jong-hoon"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "F.T. Island"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q624401"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/FTISLAND%20in%20Paris%2C%20La%20Cigale%2C%2013.JPG"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-12-17T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean musician and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lee Jae-jin"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "F.T. Island"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4688701"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%EC%96%80%EB%A8%B8%EB%A6%AC%20%EB%B0%B1%ED%98%84%203.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1992-05-06T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Byun Baek-hyun"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5103936"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20KBS%20%EC%97%B0%EC%98%88%EB%8C%80%EC%83%81%20%EC%B5%9C%EB%AF%BC%ED%99%98.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1992-11-11T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean musician and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Choi Min-hwan"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "F.T. Island"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q6437313"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%92%AA%E5%92%95%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%20%2824%29%20%28cropped%29.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1990-11-06T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chinese-born Canadian rapper and convicted sex criminal (1990–)"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kris Wu"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q6546789"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/FTISLAND%20in%20Paris%2C%20La%20Cigale%2C%2017.JPG"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1992-08-21T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean musician"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Song Seung-hyun"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "F.T. Island"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q7137681"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Chanyeol%20at%20a%20Dynamic%20Duo%20concert%20on%20December%208%2C%202019.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1992-11-27T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean rapper, singer, actor, model, mc, composer, producer, songwriter."
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Park Chan-yeol"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q10769072"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Zitao%20at%20Ports%201961%20Shanghai.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1993-05-02T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chinese singer-songwriter, rapper and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Huang Zitao"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q10775090"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/210205%20%EC%B9%B4%EC%9D%B4.png"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1994-01-14T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer (born 1994)"
+    },
+    "itemLabel": {
+      "type": "literal",
+      "value": "Q10775090"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q10788758"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%B9%BF%E6%99%97%E5%90%88%E8%82%A5%E8%B7%AF%E6%BC%94%20%281%29.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1990-04-20T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chinese singer and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lu Han"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q10802388"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sehun%20for%20L%27Officiel%20Korea%202020%2002.png"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1994-04-12T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean rapper, singer-songwriter, dancer, model and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Oh Se-hun"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q10822003"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Suho%20at%2024th%20Busan%20Internation%20Film%20Festival%20red%20carpet%20on%20October%203%2C%202019.png"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-05-22T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer, group EXO leader"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Suho"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q10834841"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Xiumin%20at%20Billboard%20K%20POWER%20100%20on%20August%2027%2C%202024.png"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1990-03-26T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Xiumin"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q12494180"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lay%20at%20Busan%20International%20Film%20Festival%20Opening%20Ceremony%20on%20October%204%2C%202018%20%282%29%20%28derived%29.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-10-07T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chinese rapper and singer (born 1991)"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lay"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q15111667"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/D.O.%20modeling%20for%20Marie%20Claire%20Korea%2C%20August%20issue%2C%202023%20%283%29.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1993-01-12T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Doh Kyung-soo"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q16098027"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Chen%20at%20busking%20event%20in%20Seoul%20on%20August%2031%2C%202019.png"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1992-09-21T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer, main vocalist of EXO"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chen"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "EXO"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30196590"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/121124%20MYNAME%20%22What%27s%20Up%22%20release%20event%20in%20Tokyo%20LaQua%20%EC%84%B8%EC%9A%A9%205.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-11-20T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer, rapper and actor; member of boyband MYNAME"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kim Se-yong"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Myname"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q30196590"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%BB%E3%83%A8%E3%83%B3%E3%81%A8%E3%82%AB%E3%83%A9%E3%83%A0%E5%87%BA%E6%BC%94%E8%88%9E%E5%8F%B0%E3%80%8C%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%A6%E6%9C%80%E9%AB%98%E3%81%AE%E5%8F%8B%E9%81%94%E3%80%8D%E5%88%B6%E4%BD%9C%E7%99%BA%E8%A1%A8%EF%BC%81%20%E3%83%95%E3%82%A9%E3%83%88%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A7%98%E5%AD%90%EF%BC%8148s.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-11-20T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer, rapper and actor; member of boyband MYNAME"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kim Se-yong"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Myname"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q43073768"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/MYNAME%20%28%EB%A7%88%EC%9D%B4%EB%84%A4%EC%9E%84%29%20%29%20%EC%9D%B8%EC%83%9D%EA%B7%B9%EC%9E%A5%2049%ED%99%94%20Mission%200531%20%28%EC%9D%B8%EC%88%98%29.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1988-03-10T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kang In-soo"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Myname"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q43181375"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/MYNAME%28%EB%A7%88%EC%9D%B4%EB%84%A4%EC%9E%84%29%20Life%20of%20theater%20MYNAME%20ep43%20%EB%A7%88%EC%9D%B4%EB%84%A4%EC%9E%84%20%EC%9D%B8%EC%83%9D%EA%B7%B9%EC%9E%A5%2043%ED%99%94%20%28%EA%B1%B4%EC%9A%B0%29.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1989-01-30T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lee Gun-woo"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Myname"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q75103455"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%28MYNAME%28%EB%A7%88%EC%9D%B4%EB%84%A4%EC%9E%84%29%29%20%EC%9D%B8%EC%83%9D%EA%B7%B9%EC%9E%A5%2049%ED%99%94%20Mission%200531%2034s.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1993-08-09T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer, rapper and actor"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Jun.Q"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Myname"
+    }
+  },
+  {
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q99517079"
+    },
+    "image": {
+      "type": "uri",
+      "value": "http://commons.wikimedia.org/wiki/Special:FilePath/121124%20MYNAME%20%22What%27s%20Up%22%20release%20event%20in%20Tokyo%20LaQua%20%EC%B1%84%EC%A7%84%205.jpg"
+    },
+    "birthDate": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1995-12-26T00:00:00Z"
+    },
+    "description": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Korean singer"
+    },
+    "itemLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chae Jin-seok"
+    },
+    "groupLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Myname"
+    }
+  }
+]
