@@ -6990,11 +6990,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+    <url>
     <loc>https://wifioficialbiography.org/bios/juanes.html</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://upload.wikimedia.org/wikipedia/commons/2/24/2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg</image:loc>
+      <image:title>Juanes</image:title>
+      <image:caption>Biografía de Juanes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://wifioficialbiography.org/bios/juanita-gómez.html</loc>
