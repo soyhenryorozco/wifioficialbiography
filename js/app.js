@@ -20543,6 +20543,24 @@
       }
     }
 
+    // ── Últimas Biografías (dynamic sidebar) ──────────────
+    var latestBios = [
+      {url:'bios/henry-orozco.html', name:'Henry Orozco', icon:'📰'},
+      {url:'bios/linda-caicedo.html', name:'Linda Caicedo', icon:'⚽'},
+      {url:'bios/jhon-duran.html', name:'Jhon Durán', icon:'⚽'},
+      {url:'bios/mariana-pajon.html', name:'Mariana Pajón', icon:'🚴'},
+      {url:'bios/pipe-bueno.html', name:'Pipe Bueno', icon:'🎵'},
+      {url:'bios/luis-muriel.html', name:'Luis Muriel', icon:'⚽'},
+      {url:'bios/wilmar-barrios.html', name:'Wilmar Barrios', icon:'⚽'},
+      {url:'bios/yimmi-chara.html', name:'Yimmi Chará', icon:'⚽'},
+    ];
+    var sidebarList = document.querySelector('.sidebar-widget:nth-child(1) ul');
+    if (sidebarList) {
+      sidebarList.innerHTML = latestBios.map(function(b) {
+        return '<li><a href="' + b.url + '"><span>' + b.icon + '</span> ' + b.name + '</a></li>';
+      }).join('');
+    }
+
     function applyBioLimit(count) {
       allCards.forEach(function (card, i) {
         if (i < count) {
