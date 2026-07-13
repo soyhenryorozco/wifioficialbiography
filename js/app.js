@@ -5207,20 +5207,7 @@
       tags: ["basketball", "nba", "heat", "champion", "all-star"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/7/73/Dwyane_Wade_e1.jpg'
     },
-    {
-      id: 'davinson-sanchez',
-      name: 'Dávinson Sánchez',
-      fullName: 'Dávinson Sánchez',
-      profession: 'futbolista',
-      born: '1996-06-12',
-      birthPlace: 'Colombia',
-      nationality: 'Colombian',
-      excerpt: 'Colombian footballer',
-      url: 'bios/davinson-sanchez.html',
-      tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
-      image: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Dávinson_Sánchez,_POL_vs_COL;_FWC_2018.jpg'
-    },
-    {
+        {
       id: 'débora-duarte',
       name: 'Débora Duarte',
       fullName: 'Débora Duarte',
@@ -10147,20 +10134,7 @@
       tags: ["television", "actor", "series", "Medell\u00edn"],
       image: 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Juan_Pablo_Urrego.jpg'
     },
-    {
-      id: 'juan-sebastian-quintero',
-      name: 'Juan Sebastian Quintero',
-      fullName: 'Juan Sebastian Quintero',
-      profession: 'futbolista',
-      born: '1995-03-23',
-      birthPlace: 'Colombia',
-      nationality: 'Colombian',
-      excerpt: 'Colombian association football player',
-      url: 'bios/juan-sebastian-quintero.html',
-      tags: ["Footballer", "Soccer", "Colombia", "Athlete"],
-      image: 'https://upload.wikimedia.org/wikipedia/commons/7/7a/Juan_Quintero_Alcorcón-RSG_2017-18.jpg'
-    },
-    {
+        {
       id: 'juan-sebastian-gomez',
       name: 'Juan Sebastián Gómez',
       fullName: 'Juan Sebastián Gómez',
