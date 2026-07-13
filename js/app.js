@@ -6968,6 +6968,8 @@
   }
   if(searchInput)searchInput.addEventListener('input',function(){performSearch(this.value);});
   if(searchBtn)searchBtn.addEventListener('click',function(){if(searchOverlay)searchOverlay.classList.add('active');if(searchInput)searchInput.focus();});
+  var headerSearchInput=document.getElementById('headerSearchInput');
+  if(headerSearchInput)headerSearchInput.addEventListener('focus',function(){if(searchOverlay)searchOverlay.classList.add('active');if(searchInput)searchInput.focus();});
   if(searchOverlay)searchOverlay.addEventListener('click',function(e){if(e.target===searchOverlay)searchOverlay.classList.remove('active');});
   document.addEventListener('keydown',function(e){if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();if(searchOverlay)searchOverlay.classList.add('active');if(searchInput)searchInput.focus();}if(e.key==='Escape'&&searchOverlay)searchOverlay.classList.remove('active');});
 })();
