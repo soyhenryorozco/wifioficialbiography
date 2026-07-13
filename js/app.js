@@ -22214,21 +22214,34 @@ function handleBioSubmit() {
 
 // ── Últimas Biografías (dynamic sidebar) ──────────────
 (function() {
-  var latestBios = [
-    {url:'bios/henry-orozco.html', name:'Henry Orozco', icon:'📰'},
-    {url:'bios/linda-caicedo.html', name:'Linda Caicedo', icon:'⚽'},
-    {url:'bios/jhon-duran.html', name:'Jhon Durán', icon:'⚽'},
-    {url:'bios/mariana-pajon.html', name:'Mariana Pajón', icon:'🚴'},
-    {url:'bios/pipe-bueno.html', name:'Pipe Bueno', icon:'🎵'},
-    {url:'bios/luis-muriel.html', name:'Luis Muriel', icon:'⚽'},
-    {url:'bios/wilmar-barrios.html', name:'Wilmar Barrios', icon:'⚽'},
-    {url:'bios/yimmi-chara.html', name:'Yimmi Chará', icon:'⚽'},
-  ];
+  var emojiMap = {singer:'🎵',actor:'🎬',footballer:'⚽',politician:'🏛️',journalist:'📰',
+    boxer:'🥊',cyclist:'🚴',tennis:'🎾',basketball:'🏀',baseball:'⚾',
+    comedian:'😂',model:'👗',business:'💼',director:'🎥',tech:'💻',
+    writer:'✍️',tv:'📺',chef:'🍳',sports:'🏆',influencer:'📱',other:'📌'};
+  function getIcon(name) {
+    var n = name.toLowerCase();
+    for (var k in emojiMap) { if (n.indexOf(k) !== -1) return emojiMap[k]; }
+    return '📌';
+  }
+  var grid = document.getElementById('bioGrid');
+  if (!grid) return;
+  var cards = grid.querySelectorAll('.bio-card');
+  var latest = [{url:'bios/henry-orozco.html', name:'Henry Orozco', icon:'📰'}];
+  var count = 0;
+  for (var i = cards.length - 1; i >= 0 && count < 7; i--) {
+    var card = cards[i];
+    var href = card.getAttribute('href');
+    var nameEl = card.querySelector('.bio-card-name');
+    if (href !== 'bios/henry-orozco.html' && nameEl) {
+      latest.push({url:href, name:nameEl.textContent, icon:getIcon(nameEl.textContent)});
+      count++;
+    }
+  }
   var el = document.querySelector('.sidebar-widget h3');
   if (el && el.textContent === 'Últimas Biografías') {
     var ul = el.nextElementSibling;
     if (ul && ul.tagName === 'UL') {
-      ul.innerHTML = latestBios.map(function(b) {
+      ul.innerHTML = latest.map(function(b) {
         return '<li><a href="' + b.url + '"><span>' + b.icon + '</span> ' + b.name + '</a></li>';
       }).join('');
     }
