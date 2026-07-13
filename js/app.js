@@ -6972,4 +6972,65 @@
   if(headerSearchInput)headerSearchInput.addEventListener('focus',function(){if(searchOverlay)searchOverlay.classList.add('active');if(searchInput)searchInput.focus();});
   if(searchOverlay)searchOverlay.addEventListener('click',function(e){if(e.target===searchOverlay)searchOverlay.classList.remove('active');});
   document.addEventListener('keydown',function(e){if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();if(searchOverlay)searchOverlay.classList.add('active');if(searchInput)searchInput.focus();}if(e.key==='Escape'&&searchOverlay)searchOverlay.classList.remove('active');});
+
+  // ── Search tracking for trending ──
+  var origSearch = performSearch;
+  performSearch = function(q) {
+    origSearch(q);
+    if(q&&q.length>=3){
+      try{
+        var counts=JSON.parse(localStorage.getItem('bioSearchCount')||'{}');
+        var query=normalizeStr(q);
+        biographies.forEach(function(b){
+          if(normalizeStr(b.name).includes(query)||normalizeStr(b.profession).includes(query)){
+            var slug=b.id||(b.url?b.url.replace('bios/','').replace('.html',''):'');
+            if(slug){counts[slug]=(counts[slug]||0)+1;}
+          }
+        });
+        localStorage.setItem('bioSearchCount',JSON.stringify(counts));
+      }catch(e){}
+    }
+  };
+
+  // ── Trending Grid (Los más buscados de la semana) ──
+  var trendingGrid=document.getElementById('trendingGrid');
+  var bioGrid=document.getElementById('bioGrid');
+  if(trendingGrid&&bioGrid){
+    try{
+      var counts=JSON.parse(localStorage.getItem('bioSearchCount')||'{}');
+      var sorted=Object.keys(counts).sort(function(a,b){return(counts[b]||0)-(counts[a]||0);});
+      var top=sorted.slice(0,3);
+      if(top.length<3){top=['shakira','karol-g','maluma'];}
+      var c=0;
+      top.forEach(function(slug){
+        var card=bioGrid.querySelector('a[href="bios/'+slug+'.html"]');
+        if(card){var clone=card.cloneNode(true);clone.classList.remove('bio-hidden');trendingGrid.appendChild(clone);c++;}
+      });
+      if(c===0){
+        for(var i=0;i<Math.min(3,bioGrid.children.length);i++){
+          var clone=bioGrid.children[i].cloneNode(true);clone.classList.remove('bio-hidden');trendingGrid.appendChild(clone);
+        }
+      }
+    }catch(e){}
+  }
+
+  // ── Últimas Biografías (dynamic sidebar) ──
+  (function(){
+    var emojiMap={singer:'🎵',actor:'🎬',footballer:'⚽',politician:'🏛️',journalist:'📰',boxer:'🥊',cyclist:'🚴',tennis:'🎾',basketball:'🏀',baseball:'⚾',comedian:'😂',model:'👗',business:'💼',director:'🎥',tech:'💻',writer:'✍️',tv:'📺',chef:'🍳',sports:'🏆',influencer:'📱',other:'📌'};
+    function getIcon(n){n=n.toLowerCase();for(var k in emojiMap){if(n.indexOf(k)!==-1)return emojiMap[k];}return '📌';}
+    var grid=document.getElementById('bioGrid');
+    if(!grid)return;
+    var cards=grid.querySelectorAll('.bio-card');
+    var latest=[{url:'bios/henry-orozco.html',name:'Henry Orozco',icon:'📰'}];
+    var cnt=0;
+    for(var i=cards.length-1;i>=0&&cnt<7;i--){
+      var card=cards[i];var href=card.getAttribute('href');var nameEl=card.querySelector('.bio-card-name');
+      if(href!=='bios/henry-orozco.html'&&nameEl){latest.push({url:href,name:nameEl.textContent,icon:getIcon(nameEl.textContent)});cnt++;}
+    }
+    var el=document.querySelector('.sidebar-widget h3');
+    if(el&&el.textContent==='Últimas Biografías'){
+      var ul=el.nextElementSibling;
+      if(ul&&ul.tagName==='UL'){ul.innerHTML=latest.map(function(b){return '<li><a href="'+b.url+'"><span>'+b.icon+'</span> '+b.name+'</a></li>';}).join('');}
+    }
+  })();
 })();
