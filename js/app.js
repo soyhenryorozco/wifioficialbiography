@@ -14053,6 +14053,19 @@
       tags: ['Film Producer', 'Talent Manager', 'Entertainment', 'Colombia', 'Independent Cinema'],
       image: 'images/el-dukke.jpg'
     },
+    {
+      id: 'bernardo-duque',
+      name: 'Bernardo Duque',
+      fullName: 'Bernardo Antonio Duque Chamie',
+      profession: 'Locutor, Actor de Doblaje, Presentador de Televisión',
+      born: 'September 17, 1973',
+      birthPlace: 'Sincelejo, Colombia',
+      nationality: 'Colombian',
+      excerpt: 'Locutor, actor de doblaje y presentador colombiano. Voz oficial de RCN Televisión. Reconocido por Hunter x Hunter y El precio es correcto.',
+      url: 'bios/bernardo-duque.html',
+      tags: ['Locutor', 'Doblaje', 'TV', 'Colombia', 'Animación'],
+      image: 'https://caracol.com.co/resizer/v2/NQIRJIVTVNHWZJECT6ZLE37ZAA.jpeg?auth=54bf1338abd74a99346aca137481eb216d407fb621ac64e911d0f657f2db27a1'
+    },
   ];
 
   // ── Search Functionality ────────────────────────────────
