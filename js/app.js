@@ -20520,13 +20520,24 @@
     showMoreCountEl = document.getElementById('showMoreCount');
     totalBios = allCards.length;
 
-    // ── Trending Grid ─────────────────────────────────────
+    // ── Trending Grid (dynamic based on user searches) ────
     var trendingGrid = document.getElementById('trendingGrid');
     if (trendingGrid && totalBios > 0) {
-      var topSlugs = ['shakira','karol-g','maluma'];
+      var searchCounts = JSON.parse(localStorage.getItem('bioSearchCount') || '{}');
+      // Sort slugs by search count descending
+      var sortedSlugs = Object.keys(searchCounts).sort(function(a, b) {
+        return (searchCounts[b] || 0) - (searchCounts[a] || 0);
+      });
+      var topSlugs = sortedSlugs.slice(0, 3);
+      // Fallback if no searches yet
+      if (topSlugs.length < 3) {
+        topSlugs = ['shakira', 'karol-g', 'maluma'];
+      }
       var count = 0;
       topSlugs.forEach(function(slug) {
-        var card = bioGrid.querySelector('a[href="bios/' + slug + '.html"]');
+        // Handle slugs that might have the full path
+        var cleanSlug = slug.replace('bios/', '').replace('.html', '');
+        var card = bioGrid.querySelector('a[href="bios/' + cleanSlug + '.html"]');
         if (card) {
           var clone = card.cloneNode(true);
           clone.classList.remove('bio-hidden');
@@ -20535,7 +20546,7 @@
         }
       });
       if (count === 0) {
-        for (var i = 0; i < Math.min(15, totalBios); i++) {
+        for (var i = 0; i < Math.min(3, totalBios); i++) {
           var clone = allCards[i].cloneNode(true);
           clone.classList.remove('bio-hidden');
           trendingGrid.appendChild(clone);
@@ -20673,6 +20684,20 @@
       normalizeStr(b.profession).includes(q) ||
       b.tags.some(t => normalizeStr(t).includes(q))
     );
+
+    // Track searches for trending
+    if (results.length > 0 && query.length >= 3) {
+      try {
+        var searchCounts = JSON.parse(localStorage.getItem('bioSearchCount') || '{}');
+        results.forEach(function(b) {
+          var slug = b.id || (b.url ? b.url.replace('bios/', '').replace('.html', '') : '');
+          if (slug) {
+            searchCounts[slug] = (searchCounts[slug] || 0) + 1;
+          }
+        });
+        localStorage.setItem('bioSearchCount', JSON.stringify(searchCounts));
+      } catch(e) {}
+    }
 
     if (results.length === 0) {
       searchResults.innerHTML = '<div class="search-result-item"><span class="result-name">No results found</span></div>';
