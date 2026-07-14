@@ -7847,8 +7847,8 @@
     if(!sr||!q||q.length<2){if(sr)sr.innerHTML='';return;}
     var query=ns(q);
     var r=biographies.filter(function(b){return ns(b.name).includes(query)||ns(b.profession).includes(query)||(b.tags||[]).some(function(t){return ns(t).includes(query);});});
-    if(r.length===0){sr.innerHTML='<div class="result-item">No results</div>';return;}
-    sr.innerHTML=r.slice(0,15).map(function(b){return '<a href="'+b.url+'" class="result-item"><div>'+b.name+'</div><div class="text-muted">'+b.profession+'</div></a>';}).join('');
+    if(r.length===0){sr.innerHTML='<div class="search-result-item" style="padding:1.5rem;text-align:center;color:#999">No results found</div>';return;}
+    sr.innerHTML=r.slice(0,15).map(function(b){var em={singer:'🎵',actor:'🎬',footballer:'⚽',politician:'🏛️',journalist:'📰',boxer:'🥊',cyclist:'🚴',tennis:'🎾',basketball:'🏀',baseball:'⚾',comedian:'😂',model:'👗',business:'💼',director:'🎥',tech:'💻',writer:'✍️',tv:'📺',chef:'🍳',sports:'🏆',influencer:'📱',other:'📌'};var p=b.profession.toLowerCase();var ic='📌';for(var k in em){if(p.indexOf(k)!==-1){ic=em[k];break;}}return '<a href="'+b.url+'" class="search-result-item"><div class="search-result-icon">'+ic+'</div><div class="search-result-info"><div class="result-name">'+b.name+'</div><div class="result-profession">'+(b.profession||'')+'</div></div></a>';}).join('');
   }
   if(si)si.addEventListener('input',function(){ps(this.value);});
   if(sb)sb.addEventListener('click',function(){if(so)so.classList.add('active');if(si)si.focus();});
