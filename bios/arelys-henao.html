@@ -54,6 +54,15 @@
     <nav class="main-nav"><ul><li><a href="../index.html">Inicio</a></li><li><a href="../index.html#biografias">Biografías</a></li></ul></nav>
     <div class="header-search"><input type="search" id="headerSearchInput" placeholder="Buscar biografía..."><button id="searchBtn">Buscar</button></div>
   </div></header>
+  <div class="search-overlay" id="searchOverlay">
+    <div class="search-box">
+      <input type="search" id="searchOverlayInput" placeholder="Buscar por nombre, profesión o categoría..." autocomplete="off">
+      <div class="search-results" id="searchResults"></div>
+      <div style="padding:.5rem 1.25rem;border-top:1px solid #eee;text-align:right;">
+        <button onclick="document.getElementById('searchOverlay').classList.remove('active')" style="background:none;border:1px solid #ccc;padding:.3rem .8rem;border-radius:3px;cursor:pointer;font-size:.85rem;">Cerrar (Esc)</button>
+      </div>
+    </div>
+  </div>
   <div class="site-container">
     <main class="main-content bio-page">
       <div class="bio-page-header">
