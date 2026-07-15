@@ -121,20 +121,9 @@ def _esc(s):
     return s.replace("'", "\\'").replace('\n', ' ')
 
 def generate_appjs_entry(ce):
-    tags_str = ', '.join(f"'{t.replace(chr(39), chr(92)+chr(39))}'" for t in ce['tags'])
-    return ("    {\n"
-            f"      id: '{ce['slug']}',\n"
-            f"      name: '{_esc(ce['name'])}',\n"
-            f"      fullName: '{_esc(ce['fullName'])}',\n"
-            f"      profession: '{_esc(ce['profession'])}',\n"
-            f"      born: '{_esc(ce['born'])}',\n"
-            f"      birthPlace: '{_esc(ce['birthPlace'])}',\n"
-            f"      nationality: '{_esc(ce['nationality'])}',\n"
-            f"      excerpt: '{_esc(ce['excerpt'])}',\n"
-            f"      url: 'bios/{ce['slug']}.html',\n"
-            f"      tags: [{tags_str}],\n"
-            f"      image: '{ce['image']}'\n"
-            "    },")
+    tags_str = ', '.join(f"\"{t.replace(chr(34), chr(92)+chr(34))}\"" for t in ce['tags'])
+    img = _esc(ce['image'])
+    return f"    {{id:'{ce['slug']}',name:'{_esc(ce['name'])}',fullName:'{_esc(ce['fullName'])}',profession:'{_esc(ce['profession'])}',excerpt:'{_esc(ce['excerpt'])}',url:'bios/{ce['slug']}.html',tags:[{tags_str}],image:'{img}'}},"
 
 
 def generate_sitemap_entry(ce):
@@ -211,7 +200,7 @@ def rebuild():
         f'\\g<1>{total}\\2', idx)
 
     for cat, count in cats.items():
-        pattern = rf'(<button class="bio-filter-btn" data-filter="{cat}">[^<]*<span class="filter-count">)\d+(</span>)'
+        pattern = rf'(<button class="bio-filter-btn[^"]*" data-filter="{cat}">[^<]*<span class="filter-count">)\d+(</span>)'
         idx = _re.sub(pattern, f'\\g<1>{count}\\2', idx)
 
     idx = _re.sub(
@@ -229,7 +218,7 @@ def rebuild():
     entries = '\n'.join(generate_appjs_entry(b) for b in bios)
 
     marker_start = '  const biographies = [\n'
-    marker_end = '  ];\n\n  // ── Search Functionality'
+    marker_end = '  ];\n\n  var so='
 
     if marker_start in js and marker_end in js:
         s_idx = js.index(marker_start) + len(marker_start)
