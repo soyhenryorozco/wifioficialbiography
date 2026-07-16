@@ -129,18 +129,21 @@ def generate_appjs_entry(ce):
 def generate_sitemap_entry(ce):
     def xml_esc(s):
         return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+    img_block = ''
+    if ce['image']:
+        img_block = f"""    <image:image>
+      <image:loc>{xml_esc(ce['image'])}</image:loc>
+      <image:title>{xml_esc(ce['name'])} -- Portrait</image:title>
+      <image:caption>{xml_esc(ce['name'])}, {xml_esc(ce['nationality'])} {xml_esc(ce['profession'].split(chr(8226))[0].strip())}</image:caption>
+    </image:image>
+"""
     return f"""  <!-- {xml_esc(ce['name'])} -->
   <url>
     <loc>{DOMAIN}/bios/{ce['slug']}.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <image:image>
-      <image:loc>{ce['image']}</image:loc>
-      <image:title>{xml_esc(ce['name'])} -- Portrait</image:title>
-      <image:caption>{xml_esc(ce['name'])}, {xml_esc(ce['nationality'])} {xml_esc(ce['profession'].split(chr(8226))[0].strip())}</image:caption>
-    </image:image>
-  </url>"""
+{img_block}  </url>"""
 
 
 def rebuild():
