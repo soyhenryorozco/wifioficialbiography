@@ -86,6 +86,13 @@ def parse_bio(filepath):
     else:
         category = cat_m.group(1)
 
+    date_added = 0
+    try:
+        st = os.stat(filepath)
+        date_added = int(st.st_birthtime) if hasattr(st, 'st_birthtime') else int(st.st_ctime)
+    except:
+        pass
+
     return {
         'slug': slug,
         'name': name,
@@ -98,6 +105,7 @@ def parse_bio(filepath):
         'image': image,
         'tags': tags,
         'category': category,
+        'dateAdded': date_added,
     }
 
 
@@ -123,7 +131,17 @@ def _esc(s):
 def generate_appjs_entry(ce):
     tags_str = ', '.join(f"\"{t.replace(chr(34), chr(92)+chr(34))}\"" for t in ce['tags'])
     img = _esc(ce['image'])
-    return f"    {{id:'{ce['slug']}',name:'{_esc(ce['name'])}',fullName:'{_esc(ce['fullName'])}',profession:'{_esc(ce['profession'])}',excerpt:'{_esc(ce['excerpt'])}',url:'bios/{ce['slug']}.html',tags:[{tags_str}],image:'{img}'}},"
+    return f"    {{id:'{ce['slug']}',name:'{_esc(ce['name'])}',fullName:'{_esc(ce['fullName'])}',profession:'{_esc(ce['profession'])}',excerpt:'{_esc(ce['excerpt'])}',url:'bios/{ce['slug']}.html',tags:[{tags_str}],image:'{img}',dateAdded:{ce['dateAdded']}}},"
+
+def generate_latest_bios_js(bios):
+    """Generate the latestBios JS array (8 newest by dateAdded)."""
+    sorted_bios = sorted(bios, key=lambda x: -x['dateAdded'])[:8]
+    entries = []
+    for b in sorted_bios:
+        cat_icons = {'singer':'🎵','actor':'🎬','footballer':'⚽','politician':'🏛️','journalist':'📰','boxer':'🥊','cyclist':'🚴','tennis':'🎾','basketball':'🏀','baseball':'⚾','comedian':'😂','model':'👗','business':'💼','director':'🎥','chef':'🍳','sports':'🏆','writer':'✍️'}
+        icon = cat_icons.get(b['category'], '📌')
+        entries.append(f"    {{url:'bios/{b['slug']}.html',name:'{_esc(b['name'])}',icon:'{icon}'}}")
+    return '  const latestBios = [\n' + ',\n'.join(entries) + '\n  ];\n'
 
 
 def generate_sitemap_entry(ce):
@@ -227,6 +245,26 @@ def rebuild():
         js = js[:s_idx] + entries + '\n' + js[e_idx:]
     else:
         print('  WARNING: Could not find app.js markers')
+
+    # Replace sidebar hardcoded list with dynamic latestBios usage
+    sidebar_start = '  (function(){var la='
+    sidebar_end = '}})();'
+    if sidebar_start in js:
+        s_idx2 = js.index(sidebar_start)
+        e_idx2 = js.index(sidebar_end, s_idx2) + len(sidebar_end)
+        latest_js = generate_latest_bios_js(bios)
+        sidebar_new = f'''{latest_js}
+  (function(){{
+    var el=document.getElementById('latestBiosList');
+    if(el){{
+      el.innerHTML=latestBios.map(function(b){{
+        return '<li><a href="'+b.url+'"><span>'+b.icon+'</span> '+b.name+'</a></li>';
+      }}).join('');
+    }}
+  }})();'''
+        js = js[:s_idx2] + sidebar_new + js[e_idx2:]
+    else:
+        print('  WARNING: Could not find sidebar marker')
 
     with open(APPJS_FILE, 'w', encoding='utf-8') as f:
         f.write(js)
