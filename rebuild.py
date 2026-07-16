@@ -178,24 +178,22 @@ def rebuild():
 
     cards = '\n'.join(generate_card(b) for b in bios)
 
-    start_marker = '<div class="bio-grid" id="bioGrid">'
-    end_marker = '        </div>\n      </section>\n      <section id="categorias"'
+    PAGINATION_BLOCK = f'''      <div class="show-more-bios-container">
+        <span class="show-more-bios-count" id="showMoreCount">Mostrando 20 de {total} biografías</span>
+        <button class="show-more-bios" id="showMoreBios">Ver más biografías ▾</button>
+      </div>'''
 
-    if start_marker in idx:
+    start_marker = '<div class="bio-grid" id="bioGrid">'
+    cat_target = '<section id="categorias"'
+
+    if start_marker in idx and cat_target in idx:
         start_idx = idx.index(start_marker) + len(start_marker)
-        if end_marker in idx:
-            end_idx = idx.index(end_marker)
-            idx = idx[:start_idx] + '\n' + cards + '\n' + idx[end_idx:]
-        else:
-            end_marker2 = '        </div>\n      </section>'
-            markers = [(m.start(), m.end()) for m in _re.finditer(_re.escape(end_marker2), idx)]
-            if len(markers) >= 1:
-                _, end_idx = markers[0]
-                idx = idx[:start_idx] + '\n' + cards + '\n' + idx[end_idx:]
-            else:
-                print('  WARNING: Could not find end marker')
+        cat_idx = idx.index(cat_target)
+
+        new_block = f'\n{cards}\n        </div>\n      </section>\n{PAGINATION_BLOCK}\n      '
+        idx = idx[:start_idx] + new_block + idx[cat_idx:]
     else:
-        print('  WARNING: Could not find bio-grid start marker in index.html')
+        print('  WARNING: Could not find bio-grid or categorias markers in index.html')
 
     import re as _re
     idx = _re.sub(

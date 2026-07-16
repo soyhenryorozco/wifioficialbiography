@@ -22,14 +22,26 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Who is Richard Stallman?","acceptedAnswer":{"@type":"Answer","text":"American software activist"}},{"@type":"Question","name":"What is Richard Stallman known for?","acceptedAnswer":{"@type":"Answer","text":"Richard Stallman is a Software Activist from American."}}]}</script>
 </head>
 <body>
-  <header class="site-header"><div class="header-inner">
-    <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography - Inicio">
+    <header class="site-header" role="banner">
+    <div class="header-inner">
+      <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography - Inicio">
         <div class="logo-icon" aria-hidden="true">W</div>
         <div class="logo-text">Wifioficial <span>Biography</span></div>
       </a>
-    <nav class="main-nav"><ul><li><a href="../index.html">Inicio</a></li><li><a href="../index.html#biografias">Biografías</a></li></ul></nav>
-    <div class="header-search"><input type="search" id="headerSearchInput" placeholder="Buscar biografía..."><button id="searchBtn">Buscar</button></div>
-  </div></header>
+      <nav class="main-nav" id="mainNav" role="navigation">
+        <ul>
+          <li><a href="../index.html">Inicio</a></li>
+          <li><a href="../index.html#biografias">Biografías</a></li>
+          <li><a href="../index.html#categorias">Categorías</a></li>
+          <li><a href="../index.html#about">Acerca de</a></li>
+        </ul>
+      </nav>
+      <div class="header-search">
+        <input type="search" id="headerSearchInput" placeholder="Buscar biografía..." aria-label="Buscar biografía">
+        <button id="searchBtn" aria-label="Buscar">Buscar</button>
+      </div>
+    </div>
+  </header>
   <div class="search-overlay" id="searchOverlay"><div class="search-box"><input type="search" id="searchOverlayInput" placeholder="Buscar biografía..." autocomplete="off"><div class="search-results" id="searchResults"></div></div></div>
   <div class="site-container" style="grid-template-columns:1fr;">
     <main class="main-content bio-page" role="main" itemscope itemtype="https://schema.org/Person">

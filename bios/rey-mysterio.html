@@ -74,15 +74,26 @@
 }</script>
 </head>
 <body>
-  <header class="site-header"><div class="header-inner">
-    <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography - Inicio">
+    <header class="site-header" role="banner">
+    <div class="header-inner">
+      <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography - Inicio">
         <div class="logo-icon" aria-hidden="true">W</div>
         <div class="logo-text">Wifioficial <span>Biography</span></div>
       </a>
-    <nav class="main-nav"><ul><li><a href="../index.html">Inicio</a></li><li><a href="../index.html#biografias">Biografías</a></li><li><a href="../index.html#categorias">Categorías</a></li><li><a href="../index.html#about">Acerca de</a></li></ul></nav>
-    <div class="header-search"><input type="search" id="headerSearchInput" placeholder="Buscar biografía..." aria-label="Buscar biografía"><button id="searchBtn" aria-label="Buscar">Buscar</button></div>
-    <button class="menu-toggle" id="menuToggle" aria-label="Abrir menú">☰</button>
-  </div></header>
+      <nav class="main-nav" id="mainNav" role="navigation">
+        <ul>
+          <li><a href="../index.html">Inicio</a></li>
+          <li><a href="../index.html#biografias">Biografías</a></li>
+          <li><a href="../index.html#categorias">Categorías</a></li>
+          <li><a href="../index.html#about">Acerca de</a></li>
+        </ul>
+      </nav>
+      <div class="header-search">
+        <input type="search" id="headerSearchInput" placeholder="Buscar biografía..." aria-label="Buscar biografía">
+        <button id="searchBtn" aria-label="Buscar">Buscar</button>
+      </div>
+    </div>
+  </header>
   <div class="search-overlay" id="searchOverlay" role="dialog" aria-label="Búsqueda">
     <div class="search-box"><input type="search" id="searchOverlayInput" placeholder="Buscar biografía..." autocomplete="off"><div class="search-results" id="searchResults"></div>
     <div style="padding:.5rem 1.25rem;border-top:1px solid #eee;text-align:right;"><button onclick="document.getElementById('searchOverlay').classList.remove('active')" style="background:none;border:1px solid #ccc;padding:.3rem .8rem;border-radius:3px;cursor:pointer;font-size:.85rem;">Cerrar (Esc)</button></div></div>
