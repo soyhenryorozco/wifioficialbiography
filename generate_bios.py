@@ -1,483 +1,749 @@
 #!/usr/bin/env python3
 """
-Wifioficial Biography Generator
-Fetches Wikipedia data and generates bio HTML files, index cards, app.js entries, sitemap entries.
-Usage: python3 generate_bios.py <batch_file.json> [--merge]
+Generate 1,200 biography HTML files from Wikipedia/Wikidata data.
+Follows the Shakira bio schema exactly.
 """
-
-import json, os, sys, re, time, hashlib
-import requests
+import os, re, json, time, html as html_mod, hashlib, sys
+from datetime import datetime
 from urllib.parse import quote
+import urllib.request
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 BIOS_DIR = os.path.join(BASE_DIR, 'bios')
-INDEX_FILE = os.path.join(BASE_DIR, 'index.html')
-APPJS_FILE = os.path.join(BASE_DIR, 'js', 'app.js')
-SITEMAP_FILE = os.path.join(BASE_DIR, 'sitemap.xml')
 
-DOMAIN = 'https://wifioficialbiography.org'
-USER_AGENT = 'WifioficialBioBot/1.0 (https://wifioficialbiography.org; contact@wifioficialbiography.org)'
-WIKI_API = 'https://en.wikipedia.org/api/rest_v1/page/summary/{}'
+EXISTING = set()
+for f in os.listdir(BIOS_DIR):
+    if f.endswith('.html'):
+        EXISTING.add(f.replace('.html', ''))
 
-CATEGORY_LABELS = {
-    'singer': 'Cantante',
-    'actor': 'Actor/Actriz',
-    'footballer': 'Futbolista',
-    'cyclist': 'Ciclista',
-    'sports': 'Deportista',
-    'politician': 'Político',
-    'journalist': 'Periodista',
-    'influencer': 'Influencer',
-    'writer': 'Escritor',
-    'boxer': 'Boxeador',
-    'tennis': 'Tenis',
-    'basketball': 'Baloncesto',
-    'baseball': 'Béisbol',
-    'mma': 'MMA',
-    'racing': 'Automovilismo',
-    'swimming': 'Natación',
-    'olympic': 'Olímpico',
-    'model': 'Modelo',
-    'tv': 'Televisión',
-    'comedian': 'Comediante',
-    'producer': 'Productor',
-    'director': 'Director',
-    'chef': 'Chef',
-    'business': 'Empresario',
-    'tech': 'Tecnología',
-}
-
-session = requests.Session()
-session.headers.update({'User-Agent': USER_AGENT})
-
-
-def slugify(name):
-    s = name.lower().strip()
-    s = re.sub(r'[^\w\s-]', '', s)
-    s = re.sub(r'[\s_]+', '-', s)
-    s = re.sub(r'-+', '-', s)
-    return s.strip('-')
-
-
-def fetch_wiki(title):
-    """Fetch Wikipedia summary for a person. Returns dict or None."""
-    try:
-        encoded = quote(title.replace(' ', '_'), safe='/')
-        url = WIKI_API.format(encoded)
-        r = session.get(url, timeout=10)
-        if r.status_code != 200:
-            return None
-        d = r.json()
-        img = d.get('originalimage', {}).get('source') or d.get('thumbnail', {}).get('source', '')
-        if '/thumb/' in img:
-            parts = img.split('/thumb/')
-            fname = parts[1].rsplit('/', 1)[0]
-            img = parts[0] + '/' + fname
-        return {
-            'title': d.get('title', title),
-            'description': d.get('description', ''),
-            'extract': d.get('extract', ''),
-            'image': img,
-        }
-    except Exception as e:
-        print(f'  [WARN] Wiki fetch failed for {title}: {e}')
-        return None
-
-
-def parse_date_from_extract(extract):
-    """Try to extract birth date from Wikipedia extract text."""
-    m = re.search(r'\((?:born\s+)?(\w+\s+\d{1,2},?\s+\d{4})', extract)
-    if m:
-        return m.group(1).replace(',', '').strip()
-    m = re.search(r'\((?:born\s+)?(\d{1,2}\s+\w+\s+\d{4})', extract)
-    if m:
-        return m.group(1).strip()
-    return None
-
-
-def parse_birthplace_from_extract(extract):
-    """Try to extract birthplace from extract."""
-    m = re.search(r'(?:born|born in|birth place)\s+(?:in\s+)?([A-Z][\w\s]+(?:,\s*[A-Z][\w\s]+){0,2})', extract)
-    if m:
-        return m.group(1).strip().rstrip('.')
-    return None
-
-
-def guess_wiki_title(name):
-    """Generate possible Wikipedia titles to try."""
-    titles = [name]
-    parts = name.split()
-    if len(parts) >= 2:
-        titles.append(name)
-        titles.append(f"{parts[-1]}, {parts[0]}")
-    return titles
-
-
-def generate_html(ce):
-    """Generate bio HTML page content."""
-    name = ce['name']
-    slug = ce['slug']
-    full_name = ce.get('fullName', name)
-    profession = ce.get('profession', ce.get('category', 'Public Figure'))
-    born = ce.get('born', '')
-    birth_place = ce.get('birthPlace', '')
-    nationality = ce.get('nationality', '')
-    excerpt = ce.get('excerpt', '')
-    image = ce.get('image', '')
-    wiki_title = ce.get('wiki_title', name)
-    tags = ce.get('tags', [])
-
-    tags_html = ''.join(f'<a href="#" class="category-tag">{t}</a>' for t in tags[:8])
-
-    born_display = born
-    born_iso = ''
-    if born:
-        import re as _re
-        m = _re.match(r'(\w+\s+\d{1,2},?\s+\d{4})', born)
-        if m:
-            months = {'January':'01','February':'02','March':'03','April':'04','May':'05','June':'06',
-                       'July':'07','August':'08','September':'09','October':'10','November':'11','December':'12'}
-            parts = m.group(1).replace(',','').split()
-            if len(parts) == 3 and parts[0] in months:
-                born_iso = f"{parts[2]}-{months[parts[0]]}-{int(parts[1]):02d}"
-
-    date_tag = f'<time itemprop="birthDate" datetime="{born_iso}">{born_display}</time>' if born_iso else f'<span itemprop="birthDate">{born_display}</span>'
-
-    bio_text = f"""<p><strong>{full_name}</strong> (born {date_tag}), known as <strong>{name}</strong>, is a {nationality.lower()} {profession.lower().split('•')[0].strip()}. Born in <span itemprop="birthPlace">{birth_place}</span>, {excerpt}</p>"""
-    if ce.get('wiki_title'):
-        bio_text += f"""
-        <p>For more information, visit <a href="https://en.wikipedia.org/wiki/{quote(ce['wiki_title'].replace(' ', '_'))}" target="_blank" rel="noopener">Wikipedia: {name}</a>.</p>"""
-
-    return f'''<!DOCTYPE html>
+WIKI_HEADER = '''<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{name} -- Wikipedia-like Biography | Wifioficial Biography</title>
-  <meta name="description" content="Complete biography of {name}, {nationality} {profession.lower()}. {excerpt[:120]}">
-  <meta name="keywords" content="{name}, {nationality}, {birth_place}, biography, Wikipedia">
-  <meta name="author" content="Wifioficial Biography">
+  <title>{title} | Wifioficial Biography</title>
+  <meta name="description" content="{meta_desc}">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="{DOMAIN}/bios/{slug}.html">
-  <meta property="og:title" content="{name} -- {profession}">
-  <meta property="og:description" content="{excerpt[:200]}">
+  <link rel="canonical" href="https://wifioficialbiography.org/bios/{slug}.html">
+  <meta property="og:title" content="{og_title}">
+  <meta property="og:description" content="{og_desc}">
   <meta property="og:type" content="profile">
-  <meta property="og:url" content="{DOMAIN}/bios/{slug}.html">
-  <meta property="og:site_name" content="Wifioficial Biography">
+  <meta property="og:url" content="https://wifioficialbiography.org/bios/{slug}.html">
   <meta property="og:image" content="{image}">
+  <meta property="og:image:alt" content="{name}">
+  <meta property="og:site_name" content="Wifioficial Biography">
+  <meta property="og:locale" content="en_US">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{name} -- {profession}">
-  <meta name="twitter:description" content="{excerpt[:200]}">
+  <meta name="twitter:title" content="{og_title}">
+  <meta name="twitter:description" content="{og_desc}">
   <meta name="twitter:image" content="{image}">
-  <meta name="theme-color" content="#4CAF50">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <meta name="twitter:site" content="@wifioficial">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#0645ad">
+  <meta name="article:section" content="Biography">
+  <link rel="alternate" hreflang="en" href="https://wifioficialbiography.org/bios/{slug}.html">
+  <link rel="alternate" hreflang="es" href="https://wifioficialbiography.org/bios/{slug}.html">
+  <link rel="alternate" hreflang="x-default" href="https://wifioficialbiography.org/bios/{slug}.html">
   <link rel="stylesheet" href="../css/style.css">
-  <script type="application/ld+json">
-  {{
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "{name}",
-    "alternateName": "{full_name}",
-    "description": "{excerpt[:300].replace('"', "'")}",
-    "birthDate": "{born_iso}",
-    "birthPlace": {{"@type": "Place", "name": "{birth_place}"}},
-    "nationality": {{"@type": "Country", "name": "{nationality}"}},
-    "jobTitle": "{profession}",
-    "image": "{image}",
-    "sameAs": ["https://en.wikipedia.org/wiki/{quote(ce.get('wiki_title', name).replace(' ', '_'))}"]
-  }}
-  </script>
+  <link rel="icon" type="image/jpeg" href="../images/favicon.jpg">
+{json_ld}
 </head>
 <body>
-  <header class="site-header" role="banner"><div class="header-inner"><a href="../index.html" class="site-logo"><div class="logo-icon">W</div><div class="logo-text">Wifioficial <span>Biography</span></div></a><nav class="main-nav"><ul><li><a href="../index.html">Inicio</a></li><li><a href="../index.html#biografias">Biografias</a></li><li><a href="../index.html#categorias">Categorias</a></li></ul></nav></div></header>
+      <header class="site-header" role="banner">
+    <div class="header-inner">
+      <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography">
+        <img src="../images/favicon.jpg" alt="Wifioficial Biography" class="logo-icon" width="32" height="32" style="border-radius:50%;">
+        <div class="logo-text">Wifioficial <span>Biography</span></div>
+      </a>
+      <nav class="main-nav" id="mainNav" role="navigation">
+        <ul>
+          <li><a href="../index.html">Inicio</a></li>
+          <li><a href="../index.html#biografias">Biografías</a></li>
+          <li><a href="../index.html#categorias">Categorías</a></li>
+          <li><a href="../index.html#about">Acerca de</a></li>
+        </ul>
+      </nav>
+      <div class="header-search">
+        <input type="search" id="headerSearchInput" placeholder="Buscar biografía..." aria-label="Buscar biografía">
+        <button id="searchBtn" aria-label="Buscar">Buscar</button>
+      </div>
+    </div>
+  </header>
+  <div class="search-overlay" id="searchOverlay">
+    <div class="search-box">
+      <input type="search" id="searchOverlayInput" placeholder="Buscar biografía..." autocomplete="off">
+      <div class="search-results" id="searchResults"></div>
+    </div>
+  </div>
   <div class="site-container" style="grid-template-columns:1fr;">
     <main class="main-content bio-page" role="main" itemscope itemtype="https://schema.org/Person">
-      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../index.html">Inicio</a> <span class="separator">></span> <a href="../index.html#biografias">Biografias</a> <span class="separator">></span> <span>{name}</span></nav>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="../index.html">Inicio</a> <span class="separator">›</span>
+        <a href="../index.html#biografias">Biografías</a> <span class="separator">›</span>
+        <span>{name}</span>
+      </nav>
       <div class="bio-page-header">
-        <div class="bio-page-img"><img src="{image}" alt="Photo of {name}" class="bio-hero-img" itemprop="image"></div><div class="bio-page-info">
+        <div class="bio-page-photo">
+          <img src="{image}" alt="{name}" title="{name} — {profession}" width="440" height="{img_height}" loading="eager" fetchpriority="high" itemprop="image">
+        </div>
+        <div class="bio-page-info">
           <h1 itemprop="name">{name}</h1>
           <div class="subtitle" itemprop="alternateName">{full_name}</div>
-          <p itemprop="description">{excerpt}</p>
+          <p itemprop="description">{description}</p>
         </div>
       </div>
-      <div class="infobox" role="complementary">
+      <div class="infobox" role="complementary" aria-label="Personal information">
         <div class="infobox-header">{name}</div>
+        <div class="infobox-image"><img src="{image}" alt="{name}" title="{name}" width="440" height="{img_height}" loading="lazy"></div>
         <table><tbody>
           <tr><th>Full Name</th><td itemprop="birthName">{full_name}</td></tr>
-          <tr><th>Born</th><td>{date_tag}<br><span itemprop="birthPlace">{birth_place}</span></td></tr>
+          <tr><th>Born</th><td><time itemprop="birthDate" datetime="{birth_date_iso}">{birth_date_display}</time><br><span itemprop="birthPlace">{birth_place}</span></td></tr>
           <tr><th>Nationality</th><td itemprop="nationality">{nationality}</td></tr>
           <tr><th>Occupation(s)</th><td itemprop="jobTitle">{profession}</td></tr>
+          <tr><th>Years Active</th><td>{years_active}</td></tr>
+        </tbody></table>
+        <div class="infobox-section">Profiles</div>
+        <table><tbody>
+          <tr><th>Wikipedia</th><td><a href="{wikipedia_url}" target="_blank" rel="noopener">en.wikipedia.org/wiki/{wikipedia_title}</a></td></tr>
+          <tr><th>Wikidata</th><td><a href="https://www.wikidata.org/wiki/{wikidata_id}" target="_blank" rel="noopener">{wikidata_id}</a></td></tr>
         </tbody></table>
       </div>
+      <nav class="toc" aria-label="Table of contents">
+        <div class="toc-title">Contents</div>
+        <ol>
+          <li><a href="#biography">Biography</a></li>
+          <li><a href="#career">Career</a></li>
+          <li><a href="#personal-life">Personal Life</a></li>
+          <li><a href="#references">References</a></li>
+          <li><a href="#external-links">External Links</a></li>
+        </ol>
+      </nav>
       <article class="bio-article">
-        <div class="category-tags">{tags_html}</div>
-        {bio_text}
+        <div class="category-tags">
+          {category_tags}
+        </div>
+        <p><strong>{name}</strong> (born {birth_date_display}) is {nationality_article} {profession_lower}. {description}</p>
+        <p>{bio_text_1}</p>
+        <p>{bio_text_2}</p>
+        <h2 id="career">Career</h2>
+        <p>{career_text}</p>
+        <h2 id="personal-life">Personal Life</h2>
+        <p>{personal_life_text}</p>
         <h2 id="references">References</h2>
-        <div class="reflist"><ol>
-          <li><span class="cite-note">"{name}." Wikipedia. <a href="https://en.wikipedia.org/wiki/{quote(ce.get('wiki_title', name).replace(' ', '_'))}" target="_blank" rel="noopener">en.wikipedia.org/wiki/{ce.get('wiki_title', name).replace(' ', '_')}</a></span></li>
-        </ol></div>
+        <div class="reflist">
+          <ol>
+            <li id="cite-note-1"><span class="cite-note">"{name}." Wikipedia. <a href="{wikipedia_url}" target="_blank" rel="noopener">en.wikipedia.org/wiki/{wikipedia_title}</a></span></li>
+            <li id="cite-note-2"><span class="cite-note">"Wikidata entity: {wikidata_id} — {name}." <a href="https://www.wikidata.org/wiki/{wikidata_id}" target="_blank" rel="noopener">wikidata.org/wiki/{wikidata_id}</a></span></li>
+          </ol>
+        </div>
+        <h2 id="external-links">External Links</h2>
+        <h3>Knowledge Platforms</h3>
+        <ul>
+          <li><a href="{wikipedia_url}" target="_blank" rel="noopener">Wikipedia — {name}</a></li>
+          <li><a href="https://www.wikidata.org/wiki/{wikidata_id}" target="_blank" rel="noopener">Wikidata — {wikidata_id}</a></li>
+        </ul>
       </article>
     </main>
   </div>
-  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifioficial Biography.</p></div></footer>
+    <footer class="site-footer" role="contentinfo">
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="../index.html">Inicio</a>
+        <a href="../index.html#biografias">Biografías</a>
+        <a href="../index.html#categorias">Categorías</a>
+        <a href="../index.html#submit">Publicar</a>
+        <a href="../index.html#about">Acerca de</a>
+      </div>
+      <div class="footer-social">
+        <a href="https://www.instagram.com/wifioficial/" target="_blank" rel="noopener">📷 Instagram</a>
+        <a href="https://www.facebook.com/wifioficialco" target="_blank" rel="noopener">📘 Facebook</a>
+        <a href="https://www.tiktok.com/@wifioficialbiography" target="_blank" rel="noopener">🎵 TikTok</a>
+        <a href="https://www.threads.net/@wifioficial" target="_blank" rel="noopener">🧵 Threads</a>
+        <a href="https://telegram.me/wifimarco" target="_blank" rel="noopener">✈️ Telegram</a>
+      </div>
+      <p>&copy; 2026 Wifioficial Biography. Todos los derechos reservados.</p>
+    </div>
+  </footer>
   <script src="../js/app.js"></script>
 </body>
 </html>'''
 
+API_BASE = "https://en.wikipedia.org/w/api.php"
 
-def generate_card(ce):
-    """Generate a bio card for index.html."""
-    name = ce['name']
-    slug = ce['slug']
-    profession = ce.get('profession', '')
-    category = ce.get('category', 'singer')
-    image = ce.get('image', '')
-    excerpt = ce.get('excerpt', '')[:150]
-    tags = ce.get('tags', [])
-    tags_html = ''.join(f'<span class="bio-card-tag">{t}</span>' for t in tags[:3])
-    prof_parts = profession.split('•')
-    prof_display = profession
-    return f'''          <a href="bios/{slug}.html" class="bio-card" itemscope itemtype="https://schema.org/Person" data-category="{category}">
-            <img src="{image}" alt="{name}" class="bio-card-img" width="400" height="250" loading="lazy" itemprop="image">
-            <div class="bio-card-body">
-              <h3 class="bio-card-name" itemprop="name">{name}</h3>
-              <div class="bio-card-profession" itemprop="jobTitle">{prof_display}</div>
-              <p class="bio-card-excerpt" itemprop="description">{excerpt}</p>
-              <div class="bio-card-meta">
-                {tags_html}
-              </div>
-            </div>
-          </a>'''
-
-
-def generate_appjs_entry(ce):
-    """Generate an app.js biography entry."""
-    tags_str = ', '.join(f"'{t}'" for t in ce.get('tags', []))
-    name = ce['name']
-    excerpt = ce.get('excerpt', '').replace("'", "\\'")
-    return f"""    {{
-      id: '{ce['slug']}',
-      name: '{name}',
-      fullName: '{ce.get('fullName', name)}',
-      profession: '{ce.get('profession', '')}',
-      born: '{ce.get('born', '')}',
-      birthPlace: '{ce.get('birthPlace', '')}',
-      nationality: '{ce.get('nationality', '')}',
-      excerpt: '{excerpt}',
-      url: 'bios/{ce['slug']}.html',
-      tags: [{tags_str}],
-      image: '{ce.get('image', '')}'
-    }},"""
-
-
-def generate_sitemap_entry(ce):
-    """Generate a sitemap.xml entry."""
-    name = ce['name']
-    slug = ce['slug']
-    image = ce.get('image', '')
-    return f"""  <!-- {name} -->
-  <url>
-    <loc>{DOMAIN}/bios/{slug}.html</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>{image}</image:loc>
-      <image:title>{name} -- Portrait</image:title>
-      <image:caption>{name}, {ce.get('nationality', '')} {ce.get('profession', '').split('•')[0].strip()}</image:caption>
-    </image:image>
-  </url>"""
-
-
-def process_batch(batch_file, merge=False):
-    """Process a batch of celebrities from a JSON file."""
-    with open(batch_file, 'r', encoding='utf-8') as f:
-        celebrities = json.load(f)
-
-    os.makedirs(BIOS_DIR, exist_ok=True)
-
-    existing = set()
-    for fn in os.listdir(BIOS_DIR):
-        if fn.endswith('.html'):
-            existing.add(fn.replace('.html', ''))
-
-    new_bios = []
-    skipped = 0
-    total = len(celebrities)
-
-    for i, ce in enumerate(celebrities):
-        slug = ce.get('slug', slugify(ce['name']))
-        ce['slug'] = slug
-
-        if slug in existing:
-            skipped += 1
-            continue
-
-        print(f'[{i+1}/{total}] {ce["name"]}...', end=' ', flush=True)
-
-        wiki_data = None
-        wiki_titles = guess_wiki_title(ce['name'])
-        if ce.get('wiki_title'):
-            wiki_titles.insert(0, ce['wiki_title'])
-
-        for wt in wiki_titles:
-            wiki_data = fetch_wiki(wt)
-            if wiki_data:
-                ce['wiki_title'] = wt
-                break
-            time.sleep(0.1)
-
-        if not wiki_data:
-            if not ce.get('image'):
-                print('SKIP (no wiki)')
+def wiki_api(params, retries=5):
+    """Call the Wikipedia API."""
+    params['format'] = 'json'
+    url = API_BASE + '?' + urllib.parse.urlencode(params)
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'WifioficialBioGenerator/1.0 (henry@example.com)'})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait = 30 * (attempt + 1)
+                print(f"  Rate limited, waiting {wait}s...", file=sys.stderr)
+                time.sleep(wait)
                 continue
-            wiki_data = {'title': ce['name'], 'description': '', 'extract': '', 'image': ce.get('image', '')}
+            return None
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(5)
+                continue
+            return None
 
-        if not ce.get('image') and wiki_data.get('image'):
-            ce['image'] = wiki_data['image']
+def make_slug(name):
+    import unicodedata
+    slug = name.lower().strip()
+    # Normalize unicode and strip diacritics
+    slug = unicodedata.normalize('NFKD', slug)
+    slug = slug.encode('ascii', 'ignore').decode('ascii')
+    slug = re.sub(r'[^\w\s-]', '', slug)
+    slug = re.sub(r'[\s_]+', '-', slug)
+    slug = re.sub(r'-+', '-', slug)
+    return slug.strip('-')
 
-        if not ce.get('excerpt') and wiki_data.get('extract'):
-            ce['excerpt'] = wiki_data['extract'][:250].replace('\n', ' ')
-        elif not ce.get('excerpt') and wiki_data.get('description'):
-            ce['excerpt'] = wiki_data['description']
+def thumbnail_to_full(url):
+    """Convert a Wikimedia thumbnail URL to the full image URL."""
+    if '/thumb/' in url:
+        m = re.match(r'(https://upload\.wikimedia\.org/wikipedia/commons/thumb/)(.)/(..)/([^/]+)/\d+px-(.+\.\w+)', url)
+        if m:
+            # groups: prefix (with thumb/), hash1, hash2, filename, actual_filename
+            return m.group(1).replace('/thumb/', '/') + m.group(2) + '/' + m.group(3) + '/' + m.group(5)
+    return url
 
-        if not ce.get('born') and wiki_data.get('extract'):
-            parsed_date = parse_date_from_extract(wiki_data['extract'])
-            if parsed_date:
-                ce['born'] = parsed_date
+def get_wikidata_entity(qid):
+    """Get structured data from Wikidata for a given QID."""
+    url = f"https://www.wikidata.org/wiki/Special:EntityData/{qid}.json"
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'WifioficialBioGenerator/1.0'})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+            entity = data.get('entities', {}).get(qid, {})
+            claims = entity.get('claims', {})
+            
+            result = {}
+            
+            # Birth date (handle approximate dates)
+            if 'P569' in claims:
+                try:
+                    raw = claims['P569'][0]['mainsnak']['datavalue']['value']['time']
+                    raw = raw.lstrip('+')
+                    if raw.startswith('0000'):
+                        pass  # Invalid date
+                    else:
+                        result['birthDate'] = raw[:10]
+                        # Handle approximate dates like 1982-00-00
+                        if result['birthDate'].endswith('-00-00'):
+                            result['birthDate'] = result['birthDate'][:4] + '-01-01'
+                        elif result['birthDate'].endswith('-00'):
+                            result['birthDate'] = result['birthDate'][:7] + '-01'
+                except:
+                    pass
+            
+            # Birth place
+            if 'P19' in claims:
+                try:
+                    bp_id = claims['P19'][0]['mainsnak']['datavalue']['value']['id']
+                    result['birthPlaceId'] = bp_id
+                except:
+                    pass
+            
+            # Nationality
+            if 'P27' in claims:
+                try:
+                    nat_id = claims['P27'][0]['mainsnak']['datavalue']['value']['id']
+                    result['nationalityId'] = nat_id
+                except:
+                    pass
+            
+            # Occupation
+            if 'P106' in claims:
+                occs = []
+                for claim in claims['P106'][:3]:
+                    try:
+                        occs.append(claim['mainsnak']['datavalue']['value']['id'])
+                    except:
+                        pass
+                if occs:
+                    result['occupationIds'] = occs
+            
+            # Full name / birth name
+            if 'P1477' in claims:
+                try:
+                    result['fullName'] = claims['P1477'][0]['mainsnak']['datavalue']['value']['text']
+                except:
+                    pass
+            
+            return result
+    except Exception as e:
+        return {}
 
-        if not ce.get('birthPlace') and wiki_data.get('extract'):
-            parsed_place = parse_birthplace_from_extract(wiki_data['extract'])
-            if parsed_place:
-                ce['birthPlace'] = parsed_place
+def fetch_labels(qids):
+    """Fetch labels for Wikidata QIDs."""
+    if not qids:
+        return {}
+    url = f"https://www.wikidata.org/w/api.php?action=wbgetentities&ids={'|'.join(qids)}&props=labels&languages=en&format=json"
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'WifioficialBioGenerator/1.0'})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read())
+            result = {}
+            for qid, ent in data.get('entities', {}).items():
+                label = ent.get('labels', {}).get('en', {}).get('value', '')
+                if label:
+                    result[qid] = label
+            return result
+    except:
+        return {}
 
-        if not ce.get('image'):
-            print('SKIP (no image)')
-            continue
-
-        ce['image'] = ce['image'].replace('/thumb/', '/').split('/220px-')[0].split('/300px-')[0].split('/400px-')[0].split('/640px-')[0]
-        if '/thumb/' in ce['image']:
-            parts = ce['image'].split('/thumb/')
-            fname = parts[1].rsplit('/', 1)[0] if '/' in parts[1] else parts[1]
-            ce['image'] = parts[0] + '/' + fname
-
-        html_content = generate_html(ce)
-        html_path = os.path.join(BIOS_DIR, f'{slug}.html')
-        with open(html_path, 'w', encoding='utf-8') as f:
-            f.write(html_content)
-
-        new_bios.append(ce)
-        print('OK')
-        time.sleep(0.15)
-
-    print(f'\n--- Batch Summary ---')
-    print(f'Total in batch: {total}')
-    print(f'New bios generated: {len(new_bios)}')
-    print(f'Skipped (existing): {skipped}')
-
-    if merge and new_bios:
-        merge_files(new_bios)
-
-    return new_bios
-
-
-def merge_files(new_bios):
-    """Merge new bios into index.html, app.js, sitemap.xml."""
-    print('\nMerging into index.html...')
-    with open(INDEX_FILE, 'r', encoding='utf-8') as f:
-        index_content = f.read()
-
-    cards = '\n'.join(generate_card(ce) for ce in new_bios)
-    insert_marker = '        </div>\n      </section>\n\n      <!-- ALL CATEGORIES -->'
-    if insert_marker in index_content:
-        index_content = index_content.replace(insert_marker, cards + '\n' + insert_marker)
+def parse_extract(extract, name):
+    """Parse Wikipedia extract to extract structured data."""
+    result = {
+        'birth_date': '',
+        'nationality': '',
+        'occupation': '',
+    }
+    
+    if not extract:
+        return result
+    
+    # Try to find "born DATE" pattern
+    m = re.search(r'born\s+(\d+\s+\w+\s+\d{4})', extract, re.IGNORECASE)
+    if m:
+        result['birth_date'] = m.group(1)
     else:
-        alt_marker = '        </div>\n      </section>'
-        idx = index_content.rfind(alt_marker)
-        if idx != -1:
-            index_content = index_content[:idx] + '\n' + cards + '\n' + index_content[idx:]
+        m = re.search(r'born\s+(\w+\s+\d+,\s+\d{4})', extract, re.IGNORECASE)
+        if m:
+            result['birth_date'] = m.group(1)
+    
+    # Try to find nationality pattern: "is a/an Nationality Occupation"
+    m = re.search(r'is\s+(?:a|an)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\s+(.+)', extract)
+    if m:
+        result['nationality'] = m.group(1)
+        occ_raw = m.group(2)
+        # Get the first part before punctuation or "who" or "known"
+        occ_m = re.match(r'([\w\s/-]+?)(?:[,\.]|\s+who|\s+known)', occ_raw)
+        if occ_m:
+            result['occupation'] = occ_m.group(1).strip()
+        else:
+            result['occupation'] = occ_raw.split(',')[0].strip()[:50]
+    
+    return result
 
-    with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-        f.write(index_content)
-    print(f'  Added {len(new_bios)} cards to index.html')
+def build_json_ld(data):
+    """Build JSON-LD schema blocks."""
+    same_as = [f"https://www.wikidata.org/wiki/{data['wikidata_id']}", data['wikipedia_url']]
+    
+    person = {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": data['name'],
+        "alternateName": [data['full_name']],
+        "description": data['description'],
+        "birthDate": data['birth_date_iso'],
+        "birthPlace": {"@type": "Place", "name": data['birth_place']},
+        "nationality": {"@type": "Country", "name": data['nationality']},
+        "jobTitle": [data['profession']],
+        "url": f"https://wifioficialbiography.org/bios/{data['slug']}.html",
+        "image": data['image'],
+        "sameAs": same_as,
+    }
+    
+    profile_page = {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "headline": f"{data['name']} — Biography",
+        "description": data['description'],
+        "url": f"https://wifioficialbiography.org/bios/{data['slug']}.html",
+        "mainEntity": person
+    }
+    
+    breadcrumb = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://wifioficialbiography.org/"},
+            {"@type": "ListItem", "position": 2, "name": "Biografías", "item": "https://wifioficialbiography.org/#biografias"},
+            {"@type": "ListItem", "position": 3, "name": data['name'], "item": f"https://wifioficialbiography.org/bios/{data['slug']}.html"}
+        ]
+    }
+    
+    article = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": f"{data['name']} — {data['profession']}",
+        "description": data['description'],
+        "author": {"@type": "Organization", "name": "Wifioficial Biography"},
+        "publisher": {"@type": "Organization", "name": "Wifioficial Biography", "logo": {"@type": "ImageObject", "url": "https://wifioficialbiography.org/images/favicon.jpg"}},
+        "datePublished": "2026-07-20",
+        "dateModified": "2026-07-20",
+        "mainEntityOfPage": {"@type": "WebPage", "@id": f"https://wifioficialbiography.org/bios/{data['slug']}.html"},
+        "image": data['image']
+    }
+    
+    faq = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": f"Who is {data['name']}?", "acceptedAnswer": {"@type": "Answer", "text": data['description']}},
+            {"@type": "Question", "name": f"What is {data['name']} known for?", "acceptedAnswer": {"@type": "Answer", "text": f"{data['name']} is a {data['nationality']} {data['profession'].lower()}, born on {data['birth_date_display']}."}}
+        ]
+    }
+    
+    blocks = [person, profile_page, breadcrumb, article, faq]
+    return '\n'.join(f'  <script type="application/ld+json">\n{json.dumps(b, indent=2)}\n  </script>' for b in blocks)
 
-    print('Merging into app.js...')
-    with open(APPJS_FILE, 'r', encoding='utf-8') as f:
-        appjs_content = f.read()
+WD_CATEGORY_MAP = {
+    'Q177220': 'singer',     # singer
+    'Q33999': 'actor',       # actor
+    'Q2526255': 'actor',     # film actor
+    'Q10798782': 'actor',    # television actor
+    'Q10871364': 'actor',    # voice actor
+    'Q937857': 'footballer', # association football player
+    'Q82955': 'politician',  # politician
+    'Q36180': 'writer',      # writer
+    'Q245068': 'comedian',   # comedian
+    'Q4610556': 'model',     # model
+    'Q901': 'scientist',     # scientist
+    'Q131524': 'business',   # businessperson
+    'Q1930187': 'journalist',# journalist
+    'Q10855167': 'singer',   # rapper
+    'Q2526361': 'singer',    # singer-songwriter
+    'Q81096': 'director',    # film director
+    'Q3709068': 'tv',        # television presenter
+    'Q49757': 'chef',        # chef
+    'Q188094': 'sports',     # sportsman
+    'Q11513337': 'sports',   # basketball player
+    'Q10855167': 'singer',   # rapper
+    'Q2066131': 'sports',    # sportsperson
+    'Q423509': 'sports',     # tennis player
+    'Q2419649': 'sports',    # cyclist
+    'Q5706012': 'influencer',# YouTuber
+}
 
-    entries = '\n'.join(generate_appjs_entry(ce) for ce in new_bios)
-    appjs_marker = '  ];\n\n  // ── Search Functionality'
-    if appjs_marker in appjs_content:
-        appjs_content = appjs_content.replace(appjs_marker, entries + '\n  ];\n\n  // ── Search Functionality')
+def infer_category(occupation_ids):
+    """Infer the category label from Wikidata occupation IDs."""
+    for oid in occupation_ids:
+        if oid in WD_CATEGORY_MAP:
+            return WD_CATEGORY_MAP[oid]
+    return 'singer'  # default
 
-    with open(APPJS_FILE, 'w', encoding='utf-8') as f:
-        f.write(appjs_content)
-    print(f'  Added {len(new_bios)} entries to app.js')
+def generate_bio(data):
+    """Generate a bio HTML file."""
+    slug = data['slug']
+    name = data['name']
+    
+    template_data = {
+        'slug': slug,
+        'title': f"{name} — {data['profession']} | Wifioficial Biography",
+        'name': name,
+        'full_name': data['full_name'],
+        'meta_desc': html_mod.escape(data['description'])[:200],
+        'og_title': f"{name} — {data['profession']}",
+        'og_desc': html_mod.escape(data['description'])[:200],
+        'image': data['image'],
+        'description': html_mod.escape(data['description'])[:200],
+        'birth_date_iso': data['birth_date_iso'],
+        'birth_date_display': data['birth_date_display'],
+        'birth_place': data['birth_place'],
+        'nationality': data['nationality'],
+        'profession': data['profession'],
+        'profession_lower': data['profession'].lower(),
+        'nationality_article': 'an' if data['nationality'][0].lower() in 'aeiou' else 'a',
+        'years_active': data.get('years_active', '1990\u2013present'),
+        'wikipedia_url': f"https://en.wikipedia.org/wiki/{data['wiki_title']}",
+        'wikipedia_title': data['wiki_title'],
+        'wikidata_id': data['wikidata_id'],
+        'category_tags': '\n          '.join(f'<a href="#" class="category-tag">{t}</a>' for t in data['tags'][:6]),
+        'bio_text_1': data.get('bio_text_1', ''),
+        'bio_text_2': data.get('bio_text_2', ''),
+        'career_text': data.get('career_text', ''),
+        'personal_life_text': data.get('personal_life_text', ''),
+        'img_height': data.get('img_height', 660),
+        'json_ld': data['json_ld'],
+    }
+    
+    return WIKI_HEADER.format(**template_data)
 
-    print('Merging into sitemap.xml...')
-    with open(SITEMAP_FILE, 'r', encoding='utf-8') as f:
-        sitemap_content = f.read()
+def process_page(title, cat_label, cat_name):
+    """Process a Wikipedia page to generate a bio."""
+    slug = make_slug(title)
+    if slug in EXISTING:
+        return None
+    
+    # Get page data
+    params = {
+        'action': 'query',
+        'titles': title,
+        'prop': 'pageimages|pageprops|extracts',
+        'pithumbsize': 440,
+        'exintro': 1,
+        'explaintext': 1,
+        'ppprop': 'wikibase_item',
+    }
+    data = wiki_api(params)
+    if not data:
+        return None
+    
+    pages = data.get('query', {}).get('pages', {})
+    if not pages:
+        return None
+    
+    page = list(pages.values())[0]
+    if 'missing' in page:
+        return None
+    
+    wikidata_id = page.get('pageprops', {}).get('wikibase_item', '')
+    if not wikidata_id:
+        return None
+    
+    thumbnail = page.get('thumbnail', {}).get('source', '')
+    if not thumbnail:
+        return None
+    
+    image = thumbnail_to_full(thumbnail)
+    if not image:
+        return None
+    
+    extract = page.get('extract', '')
+    parsed = parse_extract(extract, title)
+    
+    # Get Wikidata data
+    wd = get_wikidata_entity(wikidata_id)
+    
+    # Resolve labels for Wikidata IDs
+    label_ids = []
+    if wd.get('birthPlaceId'):
+        label_ids.append(wd['birthPlaceId'])
+    if wd.get('nationalityId'):
+        label_ids.append(wd['nationalityId'])
+    if wd.get('occupationIds'):
+        label_ids.extend(wd['occupationIds'])
+    
+    labels = fetch_labels(label_ids) if label_ids else {}
+    
+    # Build birth date from extract or Wikidata
+    birth_date_str = parsed.get('birth_date', '')
+    birth_date_iso = ''
+    birth_date_display = ''
+    
+    if birth_date_str:
+        for fmt in ['%d %B %Y', '%B %d, %Y', '%d %b %Y', '%B %Y', '%Y']:
+            try:
+                dt = datetime.strptime(birth_date_str, fmt)
+                birth_date_display = dt.strftime("%B %d, %Y").lstrip("0").replace(" 0", " ") if '%d' in fmt else dt.strftime("%B %Y")
+                birth_date_iso = dt.strftime("%Y-%m-%d")
+                break
+            except:
+                continue
+    
+    if not birth_date_iso and 'birthDate' in wd:
+        birth_date_iso = wd['birthDate']
+        try:
+            dt = datetime.strptime(birth_date_iso, "%Y-%m-%d")
+            birth_date_display = dt.strftime("%B %d, %Y").lstrip("0").replace(" 0", " ")
+        except:
+            pass
+    
+    if not birth_date_iso:
+        return None
+    
+    nationality = parsed.get('nationality', '')
+    if not nationality and wd.get('nationalityId'):
+        nationality = labels.get(wd['nationalityId'], '')
+    if not nationality:
+        nationality = 'International'
+    
+    birth_place = ''
+    if wd.get('birthPlaceId'):
+        birth_place = labels.get(wd['birthPlaceId'], '')
+    if not birth_place and parsed.get('birth_date', ''):
+        m = re.search(r'born\s+[^.]+\s+in\s+([A-Za-z\s,]+)', extract)
+        if m:
+            birth_place = m.group(1).strip()
+    if not birth_place:
+        birth_place = 'Unknown'
+    
+    occupation = parsed.get('occupation', '')
+    if not occupation and wd.get('occupationIds'):
+        occs = [labels.get(oid, '') for oid in wd['occupationIds'] if labels.get(oid)]
+        if occs:
+            occupation = ', '.join(occs[:3])
+    if not occupation:
+        occupation = cat_label.capitalize()
+    
+    full_name = wd.get('fullName', title)
+    
+    desc = extract[:200] if extract else f"Biography of {title}, {nationality} {occupation.lower()}."
+    
+    tags = [occ.capitalize() for occ in occupation.split(', ')][:2]
+    tags.append(nationality)
+    tags.append(cat_label.capitalize())
+    
+    paras = [p.strip() for p in extract.split('\n') if p.strip()]
+    bio_text_1 = paras[1] if len(paras) > 1 else f"{title} has established themselves as a prominent {occupation.lower()}."
+    bio_text_2 = paras[2] if len(paras) > 2 else f"Born in {birth_place}, {title} has achieved recognition for their work."
+    career_text = paras[2] if len(paras) > 2 else f"Throughout their career, {title} has worked extensively as a {occupation.lower()}."
+    personal_life = f"{title} was born in {birth_place} on {birth_date_display}."
+    if len(paras) > 3:
+        personal_life = paras[3]
+    
+    years_active = '2000\u2013present'
+    try:
+        birth_year = int(birth_date_iso[:4])
+        if birth_year < 1980: years_active = '1990\u2013present'
+        elif birth_year < 1990: years_active = '2000\u2013present'
+        elif birth_year < 2000: years_active = '2010\u2013present'
+        else: years_active = '2020\u2013present'
+    except:
+        pass
+    
+    wiki_title = title.replace(' ', '_')
+    bio_data = {
+        'slug': slug, 'name': title, 'full_name': full_name,
+        'description': desc.strip(), 'image': image,
+        'birth_date_iso': birth_date_iso, 'birth_date_display': birth_date_display,
+        'birth_place': birth_place, 'nationality': nationality,
+        'profession': occupation, 'years_active': years_active,
+        'wiki_title': wiki_title, 'wikipedia_url': f"https://en.wikipedia.org/wiki/{wiki_title}",
+        'wikidata_id': wikidata_id, 'tags': tags[:6],
+        'bio_text_1': bio_text_1[:300], 'bio_text_2': bio_text_2[:300],
+        'career_text': career_text[:300], 'personal_life_text': personal_life[:300],
+        'img_height': 660,
+    }
+    
+    bio_data['json_ld'] = build_json_ld(bio_data)
+    
+    return generate_bio(bio_data)
 
-    sitemap_entries = '\n'.join(generate_sitemap_entry(ce) for ce in new_bios)
-    sitemap_marker = '</urlset>'
-    if sitemap_marker in sitemap_content:
-        sitemap_content = sitemap_content.replace(sitemap_marker, sitemap_entries + '\n</urlset>')
+def iterate_category(cat_name, cat_label_default, total, target):
+    """Iterate through a Wikipedia category, generating bios for new candidates."""
+    params = {
+        'action': 'query',
+        'generator': 'categorymembers',
+        'gcmtitle': f'Category:{cat_name}',
+        'gcmlimit': 500,
+        'gcmtype': 'page',
+        'prop': 'pageimages|pageprops',
+        'pithumbsize': 440,
+        'ppprop': 'wikibase_item',
+    }
+    
+    while total < target:
+        data = wiki_api(params)
+        if not data:
+            break
+        
+        pages = data.get('query', {}).get('pages', {})
+        if not pages:
+            break
+        
+        for pid, page in sorted(pages.items(), key=lambda x: int(x[0])):
+            if total >= target:
+                return total
+            
+            title = page.get('title', '')
+            if ':' in title:
+                continue
+            
+            thumbnail = page.get('thumbnail', {}).get('source', '')
+            if not thumbnail:
+                continue
+            
+            wd_id = page.get('pageprops', {}).get('wikibase_item', '')
+            if not wd_id:
+                continue
+            
+            try:
+                wd = get_wikidata_entity(wd_id)
+                occ_ids = wd.get('occupationIds', [])
+                cat_label = infer_category(occ_ids) if occ_ids else cat_label_default
+                
+                bio_html = process_page(title, cat_label, cat_name)
+                if bio_html:
+                    filepath = os.path.join(BIOS_DIR, f"{make_slug(title)}.html")
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        f.write(bio_html)
+                    total += 1
+                    if total % 25 == 0:
+                        print(f"  Generated {total}/{target}")
+                    time.sleep(0.25)
+            except Exception as e:
+                continue
+        
+        cont = data.get('continue', {})
+        cont_keys = [k for k in cont if k != 'continue']
+        if cont_keys:
+            for k in cont_keys:
+                params[k] = cont[k]
+        else:
+            break
+    
+    return total
 
-    with open(SITEMAP_FILE, 'w', encoding='utf-8') as f:
-        f.write(sitemap_content)
-    print(f'  Added {len(new_bios)} entries to sitemap.xml')
 
-    print(f'\nTotal new bios merged: {len(new_bios)}')
-
-
-def update_counts():
-    """Recount all bios and update filter counts in index.html."""
-    import glob as _glob
-
-    bio_files = _glob.glob(os.path.join(BIOS_DIR, '*.html'))
-    total = len(bio_files)
-    print(f'\nTotal bio files: {total}')
-
-    with open(INDEX_FILE, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    import re as _re
-    cats = _re.findall(r'data-category="([^"]*)"', content)
-    from collections import Counter
-    counts = Counter(cats)
-
-    content = _re.sub(
-        r'(<button class="bio-filter-btn active" data-filter="all">Todos <span class="filter-count">)\d+(</span>)',
-        f'\\g<1>{total}\\2', content)
-
-    for cat, count in counts.items():
-        pattern = rf'(<button class="bio-filter-btn" data-filter="{cat}">[^<]*<span class="filter-count">)\d+(</span>)'
-        content = _re.sub(pattern, f'\\g<1>{count}\\2', content)
-
-    content = _re.sub(
-        r'(<span class="stat-number" id="heroCount">)\d+(</span>)',
-        f'\\g<1>{total}\\2', content)
-
-    content = _re.sub(
-        r'(<span class="stat-number">)\d+( Biografías</span>)',
-        f'\\g<1>{total}\\2', content)
-
-    with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-        f.write(content)
-    print(f'Updated index.html counts: {total} total')
-    for cat, count in sorted(counts.items(), key=lambda x: -x[1]):
-        print(f'  {cat}: {count}')
-
+def main():
+    total = 0
+    target = 1200
+    
+    print("Generating 1,200 bios from Wikipedia...")
+    print(f"Existing bios: {len(EXISTING)}")
+    
+    # Ordered list of categories to iterate through
+    categories = [
+        ("Living_people", "singer"),
+        ("English-language_singers", "singer"),
+        ("American_film_actors", "actor"),
+        ("American_television_actors", "actor"),
+        ("American_comedians", "comedian"),
+        ("American_businesspeople", "business"),
+        ("American_female_models", "model"),
+        ("British_rock_singers", "singer"),
+        ("American_actresses", "actor"),
+        ("American_singer-songwriters", "singer"),
+        ("English_actresses", "actor"),
+        ("French_actors", "actor"),
+        ("German_actors", "actor"),
+        ("Italian_actors", "actor"),
+        ("American_record_producers", "singer"),
+        ("American_television_producers", "business"),
+        ("American_scientists", "scientist"),
+        ("American_chefs", "chef"),
+        ("American_journalists", "journalist"),
+        ("British_actresses", "actor"),
+        ("Australian_actors", "actor"),
+        ("American_rappers", "singer"),
+        ("American_television_personalities", "tv"),
+        ("American_writers", "writer"),
+        ("English_cricketers", "sports"),
+        ("American_tennis_players", "tennis"),
+        ("American_novelists", "writer"),
+        ("American_politicians", "politician"),
+        ("American_film_directors", "director"),
+        ("Canadian_actors", "actor"),
+        ("Indian_actors", "actor"),
+        ("American_entrepreneurs", "business"),
+        ("Spanish_singers", "singer"),
+        ("French_singers", "singer"),
+        ("Italian_singers", "singer"),
+        ("American_youTubers", "influencer"),
+        ("Colombian_singers", "singer"),
+        ("Mexican_singers", "singer"),
+        ("Puerto_Rican_singers", "singer"),
+        ("Argentine_singers", "singer"),
+        ("Brazilian_singers", "singer"),
+    ]
+    
+    for cat_name, cat_label in categories:
+        if total >= target:
+            break
+        print(f"\n--- {cat_name} ({cat_label}) ---")
+        prev = total
+        total = iterate_category(cat_name, cat_label, total, target)
+        print(f"  Got {total - prev} from {cat_name} (total: {total})")
+    
+    print(f"\n=== DONE: Generated {total} new bios ===")
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2:
-        print("Usage: python3 generate_bios.py <batch.json> [--merge] [--counts]")
-        sys.exit(1)
-
-    if sys.argv[1] == '--counts':
-        update_counts()
-        sys.exit(0)
-
-    batch_file = sys.argv[1]
-    merge = '--merge' in sys.argv
-    process_batch(batch_file, merge=merge)
+    main()
