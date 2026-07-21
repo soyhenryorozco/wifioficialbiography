@@ -222,6 +222,9 @@ def rebuild():
     idx = _re.sub(
         r'(<button class="bio-filter-btn active" data-filter="all">Todos <span class="filter-count">)\d+(</span>)',
         f'\\g<1>{total}\\2', idx)
+    idx = _re.sub(
+        r'(<div class="bio-filter-results"[^>]*>Mostrando \d+ de )\d+( biografías</div>)',
+        f'\\g<1>{total}\\2', idx)
 
     for cat, count in cats.items():
         pattern = rf'(<button class="bio-filter-btn[^"]*" data-filter="{cat}">[^<]*<span class="filter-count">)\d+(</span>)'
