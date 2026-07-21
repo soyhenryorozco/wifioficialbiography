@@ -144,13 +144,18 @@ def generate_latest_bios_js(bios):
     return '  const latestBios = [\n' + ',\n'.join(entries) + '\n  ];\n'
 
 
+def url_esc(s):
+    """XML-esc + percent-encode non-ASCII chars in a URL."""
+    s = s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+    return re.sub(r'[^\x20-\x7E]', lambda m: ''.join(f'%{b:02X}' for b in m.group(0).encode('utf-8')), s)
+
 def generate_sitemap_entry(ce):
     def xml_esc(s):
         return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
     img_block = ''
     if ce['image']:
         img_block = f"""    <image:image>
-      <image:loc>{xml_esc(ce['image'])}</image:loc>
+      <image:loc>{url_esc(ce['image'])}</image:loc>
       <image:title>{xml_esc(ce['name'])} -- Portrait</image:title>
       <image:caption>{xml_esc(ce['name'])}, {xml_esc(ce['nationality'])} {xml_esc(ce['profession'].split(chr(8226))[0].strip())}</image:caption>
     </image:image>
@@ -286,7 +291,7 @@ def rebuild():
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://wifioficialbiography.org/images/henry-orozco.jpg</image:loc>
-      <image:title>Wifioficial Biography -- Enciclopedia de Biografias</image:title>
+      <image:title>Wifi Oficial Biography -- Enciclopedia de Biografias</image:title>
       <image:caption>Plataforma de biografias de figuras publicas a nivel internacional</image:caption>
     </image:image>
   </url>

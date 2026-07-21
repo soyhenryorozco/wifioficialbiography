@@ -2244,23 +2244,23 @@ for person in PEOPLE:
 <html lang="en">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>{esc(name)} — Biography | Wifioficial Biography</title>
+  <title>{esc(name)} — Biography | Wifi Oficial Biography</title>
   <meta name="description" content="{esc(bio_desc[:200])}">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="{DOMAIN}/bios/{slug}.html">
   <meta property="og:type" content="profile"><meta property="og:url" content="{DOMAIN}/bios/{slug}.html">
   <meta property="og:title" content="{esc(name)}"><meta property="og:description" content="{esc(bio_desc[:200])}">
   <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"><meta property="og:image:alt" content="{esc(name)}">
-  <meta property="og:site_name" content="Wifioficial Biography"><meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Wifi Oficial Biography"><meta property="og:locale" content="en_US">
   <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg">
   <meta name="twitter:site" content="@wifioficial"><meta name="color-scheme" content="light">
   <meta name="theme-color" content="#0645ad">
   <link rel="icon" type="image/jpeg" href="../images/favicon.jpg">
   <link rel="stylesheet" href="../css/style.css">
   <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Person","name":"{esc(name)}","description":"{esc(bio_desc[:300])}","birthDate":"{byear}-01-01","url":"{DOMAIN}/bios/{slug}.html","image":"https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg","knowsLanguage":["Spanish","English"]}}</script>
-  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"ProfilePage","headline":"{esc(name)}","description":"{esc(bio_desc[:200])}","url":"{DOMAIN}/bios/{slug}.html","mainEntity":{{"@type":"Person","name":"{esc(name)}"}},"dateCreated":"{today}","dateModified":"{today}","author":{{"@type":"Organization","name":"Wifioficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifioficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"image":"https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"}}</script>
+  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"ProfilePage","headline":"{esc(name)}","description":"{esc(bio_desc[:200])}","url":"{DOMAIN}/bios/{slug}.html","mainEntity":{{"@type":"Person","name":"{esc(name)}"}},"dateCreated":"{today}","dateModified":"{today}","author":{{"@type":"Organization","name":"Wifi Oficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifi Oficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"image":"https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"}}</script>
   <script type="application/ld+json">{{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{{"@type":"ListItem","position":1,"name":"Inicio","item":"{DOMAIN}/"}},{{"@type":"ListItem","position":2,"name":"Biografías","item":"{DOMAIN}/#biografias"}},{{"@type":"ListItem","position":3,"name":"{esc(name)}","item":"{DOMAIN}/bios/{slug}.html"}}]}}</script>
-  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Article","headline":"{esc(name)} — {esc(occ)}","description":"{esc(bio_desc[:200])}","author":{{"@type":"Organization","name":"Wifioficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifioficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"datePublished":"{today}","dateModified":"{today}","mainEntityOfPage":{{"@type":"WebPage","@id":"{DOMAIN}/bios/{slug}.html"}},"image":"https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"}}</script>
+  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Article","headline":"{esc(name)} — {esc(occ)}","description":"{esc(bio_desc[:200])}","author":{{"@type":"Organization","name":"Wifi Oficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifi Oficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"datePublished":"{today}","dateModified":"{today}","mainEntityOfPage":{{"@type":"WebPage","@id":"{DOMAIN}/bios/{slug}.html"}},"image":"https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"}}</script>
   <script type="application/ld+json">{{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{"@type":"Question","name":"Who is {esc(name)}?","acceptedAnswer":{{"@type":"Answer","text":"{esc(bio_desc[:250])}"}}}},{{"@type":"Question","name":"What is {esc(name)} known for?","acceptedAnswer":{{"@type":"Answer","text":"{esc(name)} is a {esc(occ)} from {esc(country_full)}."}}}}]}}</script>
 </head>
 <body>
@@ -2329,7 +2329,7 @@ for person in PEOPLE:
       </article>
     </main>
   </div>
-  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifioficial Biography. Encyclopedia of public figure biographies.</p></div></footer>
+  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifi Oficial Biography. Encyclopedia of public figure biographies.</p></div></footer>
   <script src="../js/app.js"></script>
 </body>
 </html>'''

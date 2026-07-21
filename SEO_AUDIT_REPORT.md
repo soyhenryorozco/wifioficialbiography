@@ -1,4 +1,4 @@
-# AUDITORÍA FORENSE SEO — Wifioficial Biography
+# AUDITORÍA FORENSE SEO — Wifi Oficial Biography
 
 **Fecha:** 2026-07-13  
 **Dominio auditado:** https://wifioficialbiography.org  
@@ -103,7 +103,7 @@ Todas las referencias están en `bios/henry-orozco.html` y corresponden al sitio
 - **og:image en todas las páginas:** ✅
 - **og:image:alt:** ✅ Agregado en auditoría previa
 - **og:locale:** ✅ es_ES
-- **og:site_name:** ✅ Wifioficial Biography
+- **og:site_name:** ✅ Wifi Oficial Biography
 
 ---
 

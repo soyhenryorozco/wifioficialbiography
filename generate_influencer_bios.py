@@ -1230,10 +1230,10 @@ def generate_bio_html(inf):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{name} — {profession} | Wifioficial Biography</title>
+  <title>{name} — {profession} | Wifi Oficial Biography</title>
   <meta name="description" content="{description}">
   <meta name="keywords" content="{name}, {full_name}, {profession}, Colombian influencer, {birth_place}, Colombia, {' '.join(tags[:3])}">
-  <meta name="author" content="Wifioficial Biography">
+  <meta name="author" content="Wifi Oficial Biography">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="googlebot" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="https://wifioficialbiography.org/bios/{slug}.html">
@@ -1243,7 +1243,7 @@ def generate_bio_html(inf):
   <meta property="og:title" content="{name} — {profession}">
   <meta property="og:description" content="{description}">
   <meta property="og:image" content="{image}">
-  <meta property="og:site_name" content="Wifioficial Biography">
+  <meta property="og:site_name" content="Wifi Oficial Biography">
   <meta property="og:locale" content="en_US">
 
   <meta name="twitter:card" content="summary_large_image">
@@ -1322,7 +1322,7 @@ def generate_bio_html(inf):
 
   <header class="site-header" role="banner">
     <div class="header-inner">
-      <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography - Inicio">
+      <a href="../index.html" class="site-logo" aria-label="Wifi Oficial Biography - Inicio">
         <div class="logo-icon" aria-hidden="true">W</div>
         <div class="logo-text">Wifioficial <span>Biography</span></div>
       </a>
@@ -1434,7 +1434,7 @@ def generate_bio_html(inf):
         <a href="../index.html#categorias">Categorías</a>
         <a href="../index.html#about">Acerca de</a>
       </div>
-      <div class="footer-copy">&copy; 2026 Wifioficial Biography. All rights reserved.</div>
+      <div class="footer-copy">&copy; 2026 Wifi Oficial Biography. All rights reserved.</div>
     </div>
   </footer>
 

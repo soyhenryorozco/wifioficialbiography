@@ -39,8 +39,8 @@ for fname in sorted(os.listdir(BIOS_DIR)):
                 "mainEntity": person_data,
                 "dateCreated": "2026-07-12",
                 "dateModified": "2026-07-12",
-                "author": {"@type": "Organization", "name": "Wifioficial Biography"},
-                "publisher": {"@type": "Organization", "name": "Wifioficial Biography", "logo": {"@type": "ImageObject", "url": f"{DOMAIN}/images/favicon.jpg"}},
+                "author": {"@type": "Organization", "name": "Wifi Oficial Biography"},
+                "publisher": {"@type": "Organization", "name": "Wifi Oficial Biography", "logo": {"@type": "ImageObject", "url": f"{DOMAIN}/images/favicon.jpg"}},
             }
             if img:
                 profile_page["image"] = img

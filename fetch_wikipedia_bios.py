@@ -191,23 +191,23 @@ def main():
 <html lang="en">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>{esc(title)} — Biography | Wifioficial Biography</title>
+  <title>{esc(title)} — Biography | Wifi Oficial Biography</title>
   <meta name="description" content="{esc(bio_desc[:200])}">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="{DOMAIN}/bios/{slug}.html">
   <meta property="og:type" content="profile"><meta property="og:url" content="{DOMAIN}/bios/{slug}.html">
   <meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(bio_desc[:200])}">
   <meta property="og:image" content="{esc(image_url)}"><meta property="og:image:alt" content="{esc(title)}">
-  <meta property="og:site_name" content="Wifioficial Biography"><meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Wifi Oficial Biography"><meta property="og:locale" content="en_US">
   <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc(image_url)}">
   <meta name="twitter:site" content="@wifioficial"><meta name="color-scheme" content="light">
   <meta name="theme-color" content="#0645ad">
   <link rel="icon" type="image/jpeg" href="../images/favicon.jpg">
   <link rel="stylesheet" href="../css/style.css">
   <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Person","name":"{esc(title)}","description":"{esc(bio_desc[:300])}","url":"{DOMAIN}/bios/{slug}.html","image":"{esc(image_url)}"}}</script>
-  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"ProfilePage","headline":"{esc(title)}","description":"{esc(bio_desc[:200])}","url":"{DOMAIN}/bios/{slug}.html","mainEntity":{{"@type":"Person","name":"{esc(title)}"}},"dateCreated":"{today}","dateModified":"{today}","author":{{"@type":"Organization","name":"Wifioficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifioficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"image":"{esc(image_url)}"}}</script>
+  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"ProfilePage","headline":"{esc(title)}","description":"{esc(bio_desc[:200])}","url":"{DOMAIN}/bios/{slug}.html","mainEntity":{{"@type":"Person","name":"{esc(title)}"}},"dateCreated":"{today}","dateModified":"{today}","author":{{"@type":"Organization","name":"Wifi Oficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifi Oficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"image":"{esc(image_url)}"}}</script>
   <script type="application/ld+json">{{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{{"@type":"ListItem","position":1,"name":"Inicio","item":"{DOMAIN}/"}},{{"@type":"ListItem","position":2,"name":"Biografías","item":"{DOMAIN}/#biografias"}},{{"@type":"ListItem","position":3,"name":"{esc(title)}","item":"{DOMAIN}/bios/{slug}.html"}}]}}</script>
-  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Article","headline":"{esc(title)}","description":"{esc(bio_desc[:200])}","author":{{"@type":"Organization","name":"Wifioficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifioficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"datePublished":"{today}","dateModified":"{today}","mainEntityOfPage":{{"@type":"WebPage","@id":"{DOMAIN}/bios/{slug}.html"}},"image":"{esc(image_url)}"}}</script>
+  <script type="application/ld+json">{{"@context":"https://schema.org","@type":"Article","headline":"{esc(title)}","description":"{esc(bio_desc[:200])}","author":{{"@type":"Organization","name":"Wifi Oficial Biography"}},"publisher":{{"@type":"Organization","name":"Wifi Oficial Biography","logo":{{"@type":"ImageObject","url":"{DOMAIN}/images/favicon.jpg"}}}},"datePublished":"{today}","dateModified":"{today}","mainEntityOfPage":{{"@type":"WebPage","@id":"{DOMAIN}/bios/{slug}.html"}},"image":"{esc(image_url)}"}}</script>
   <script type="application/ld+json">{{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{"@type":"Question","name":"Who is {esc(title)}?","acceptedAnswer":{{"@type":"Answer","text":"{esc(bio_desc[:250])}"}}}},{{"@type":"Question","name":"What is {esc(title)} known for?","acceptedAnswer":{{"@type":"Answer","text":"{esc(title)} is a {esc(occ)}."}}}}]}}</script>
 </head>
 <body>
@@ -272,7 +272,7 @@ def main():
       </article>
     </main>
   </div>
-  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifioficial Biography</p></div></footer>
+  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifi Oficial Biography</p></div></footer>
   <script src="../js/app.js"></script>
 </body>
 </html>'''

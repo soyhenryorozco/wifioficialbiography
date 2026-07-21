@@ -89,10 +89,10 @@ for idx, bio in enumerate(bios):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{name} — {job_titles} | Wifioficial Biography</title>
+  <title>{name} — {job_titles} | Wifi Oficial Biography</title>
   <meta name="description" content="{meta_desc}">
   <meta name="keywords" content="{name}, {', '.join(tags[:4])}, biography, Colombian, famous">
-  <meta name="author" content="Wifioficial Biography">
+  <meta name="author" content="Wifi Oficial Biography">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="googlebot" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="{DOMAIN}/bios/{fname}">
@@ -104,7 +104,7 @@ for idx, bio in enumerate(bios):
   <meta property="og:image" content="{img}">
   <meta property="og:image:alt" content="{name} — {job_titles}">
   <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:site_name" content="Wifioficial Biography">
+  <meta property="og:site_name" content="Wifi Oficial Biography">
   <meta property="og:locale" content="es_ES">
 
   <meta name="twitter:card" content="summary_large_image">
@@ -168,21 +168,21 @@ for idx, bio in enumerate(bios):
     "dateModified": "2026-07-13",
     "author": {{
       "@type": "Organization",
-      "name": "Wifioficial Biography"
+      "name": "Wifi Oficial Biography"
     }},
     "publisher": {{
       "@type": "Organization",
-      "name": "Wifioficial Biography",
+      "name": "Wifi Oficial Biography",
       "logo": {{
         "@type": "ImageObject",
         "url": "{DOMAIN}/images/favicon.jpg",
-        "name": "Wifioficial Biography Logo",
-        "caption": "Wifioficial Biography Logo",
-        "copyrightNotice": "© 2026 Wifioficial Biography",
+        "name": "Wifi Oficial Biography Logo",
+        "caption": "Wifi Oficial Biography Logo",
+        "copyrightNotice": "© 2026 Wifi Oficial Biography",
         "acquireLicensePage": "{DOMAIN}/about",
-        "creditText": "Wifioficial Biography",
+        "creditText": "Wifi Oficial Biography",
         "license": "https://creativecommons.org/licenses/by/4.0/",
-        "creator": {{"@type": "Organization", "name": "Wifioficial Biography"}}
+        "creator": {{"@type": "Organization", "name": "Wifi Oficial Biography"}}
       }}
     }},
     "image": "{img}"
@@ -207,18 +207,18 @@ for idx, bio in enumerate(bios):
     "@type": "Article",
     "headline": "{name} — Biography",
     "description": "{meta_desc}",
-    "author": {{"@type": "Organization", "name": "Wifioficial Biography"}},
+    "author": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
     "publisher": {{
       "@type": "Organization",
-      "name": "Wifioficial Biography",
+      "name": "Wifi Oficial Biography",
       "logo": {{"@type": "ImageObject", "url": "{DOMAIN}/images/favicon.jpg"}}
     }},
     "datePublished": "2026-07-13",
     "dateModified": "2026-07-13",
     "mainEntityOfPage": {{"@type": "WebPage", "@id": "{DOMAIN}/bios/{fname}"}},
     "image": "{img}",
-    "creator": {{"@type": "Organization", "name": "Wifioficial Biography"}},
-    "copyrightNotice": "© 2026 Wifioficial Biography. All rights reserved.",
+    "creator": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
+    "copyrightNotice": "© 2026 Wifi Oficial Biography. All rights reserved.",
     "acquireLicensePage": "{DOMAIN}/about"
   }}
   </script>
@@ -228,8 +228,8 @@ for idx, bio in enumerate(bios):
 
   <header class="site-header" role="banner">
     <div class="header-inner">
-      <a href="../index.html" class="site-logo" aria-label="Wifioficial Biography - Inicio">
-        <img src="../images/favicon.jpg" alt="Wifioficial Biography" class="logo-icon" width="32" height="32" style="border-radius:50%;">
+      <a href="../index.html" class="site-logo" aria-label="Wifi Oficial Biography - Inicio">
+        <img src="../images/favicon.jpg" alt="Wifi Oficial Biography" class="logo-icon" width="32" height="32" style="border-radius:50%;">
         <div class="logo-text">Wifioficial <span>Biography</span></div>
       </a>
       <nav class="main-nav" id="mainNav" role="navigation" aria-label="Main navigation">
@@ -347,7 +347,7 @@ for idx, bio in enumerate(bios):
         <a href="../index.html#categorias">Categorías</a>
         <a href="../index.html#about">Acerca de</a>
       </div>
-      <div class="footer-copy">&copy; 2026 Wifioficial Biography. All rights reserved.</div>
+      <div class="footer-copy">&copy; 2026 Wifi Oficial Biography. All rights reserved.</div>
     </div>
   </footer>
 

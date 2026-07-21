@@ -1081,14 +1081,14 @@ def generate_bio(person, wiki_data):
 <html lang="en">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>{html.escape(name)} — Biography | Wifioficial Biography</title>
+  <title>{html.escape(name)} — Biography | Wifi Oficial Biography</title>
   <meta name="description" content="{html.escape(bio_desc[:200])}">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="{DOMAIN}/bios/{slug}.html">
   <meta property="og:type" content="profile"><meta property="og:url" content="{DOMAIN}/bios/{slug}.html">
   <meta property="og:title" content="{html.escape(name)}"><meta property="og:description" content="{html.escape(bio_desc[:200])}">
   <meta property="og:image" content="{esc_html(image_url)}"><meta property="og:image:alt" content="{html.escape(name)}">
-  <meta property="og:site_name" content="Wifioficial Biography"><meta property="og:locale" content="{'es_ES' if lang == 'es' else 'en_US'}">
+  <meta property="og:site_name" content="Wifi Oficial Biography"><meta property="og:locale" content="{'es_ES' if lang == 'es' else 'en_US'}">
   <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc_html(image_url)}">
   <meta name="twitter:site" content="@wifioficial"><meta name="color-scheme" content="light">
   <meta name="theme-color" content="#0645ad">
@@ -1120,11 +1120,11 @@ def generate_bio(person, wiki_data):
   "dateModified": "{today}",
   "author": {{
     "@type": "Organization",
-    "name": "Wifioficial Biography"
+    "name": "Wifi Oficial Biography"
   }},
   "publisher": {{
     "@type": "Organization",
-    "name": "Wifioficial Biography",
+    "name": "Wifi Oficial Biography",
     "logo": {{
       "@type": "ImageObject",
       "url": "{DOMAIN}/images/favicon.jpg"
@@ -1146,18 +1146,18 @@ def generate_bio(person, wiki_data):
   "@type": "Article",
   "headline": "{esc_js(name)} — {esc_js(occ_str)}",
   "description": "{esc_js(bio_desc[:200])}",
-  "author": {{"@type": "Organization", "name": "Wifioficial Biography"}},
+  "author": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
   "publisher": {{
     "@type": "Organization",
-    "name": "Wifioficial Biography",
+    "name": "Wifi Oficial Biography",
     "logo": {{"@type": "ImageObject", "url": "{DOMAIN}/images/favicon.jpg"}}
   }},
   "datePublished": "{today}",
   "dateModified": "{today}",
   "mainEntityOfPage": {{"@type": "WebPage", "@id": "{DOMAIN}/bios/{slug}.html"}},
   "image": "{esc_html(image_url)}",
-  "creator": {{"@type": "Organization", "name": "Wifioficial Biography"}},
-  "copyrightNotice": "© 2026 Wifioficial Biography. All rights reserved."
+  "creator": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
+  "copyrightNotice": "© 2026 Wifi Oficial Biography. All rights reserved."
 }}</script>
   <script type="application/ld+json">{{
   "@context": "https://schema.org",
@@ -1242,7 +1242,7 @@ def generate_bio(person, wiki_data):
       </article>
     </main>
   </div>
-  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifioficial Biography. Encyclopedia of public figure biographies.</p><p class="footer-note">Content verified through authoritative sources including Wikipedia, Wikidata, and official profiles.</p></div></footer>
+  <footer class="site-footer"><div class="footer-inner"><p>&copy; 2026 Wifi Oficial Biography. Encyclopedia of public figure biographies.</p><p class="footer-note">Content verified through authoritative sources including Wikipedia, Wikidata, and official profiles.</p></div></footer>
   <script src="../js/app.js"></script>
 </body>
 </html>'''
@@ -1482,14 +1482,14 @@ def build_bio_html(person, wiki_data=None):
 <html lang="en">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>{html.escape(name)} — Biography | Wifioficial Biography</title>
+  <title>{html.escape(name)} — Biography | Wifi Oficial Biography</title>
   <meta name="description" content="{html.escape(bio_desc[:200])}">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="{DOMAIN}/bios/{slug}.html">
   <meta property="og:type" content="profile"><meta property="og:url" content="{DOMAIN}/bios/{slug}.html">
   <meta property="og:title" content="{html.escape(name)}"><meta property="og:description" content="{html.escape(bio_desc[:200])}">
   <meta property="og:image" content="{esc_html(image_url)}"><meta property="og:image:alt" content="{html.escape(name)}">
-  <meta property="og:site_name" content="Wifioficial Biography"><meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="Wifi Oficial Biography"><meta property="og:locale" content="es_ES">
   <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc_html(image_url)}">
   <meta name="twitter:site" content="@wifioficial"><meta name="color-scheme" content="light">
   <meta name="theme-color" content="#0645ad">
@@ -1516,8 +1516,8 @@ def build_bio_html(person, wiki_data=None):
   "mainEntity": {{"@type": "Person", "name": "{esc_js(name)}"}},
   "dateCreated": "{today}",
   "dateModified": "{today}",
-  "author": {{"@type": "Organization", "name": "Wifioficial Biography"}},
-  "publisher": {{"@type": "Organization", "name": "Wifioficial Biography", "logo": {{"@type": "ImageObject", "url": "{DOMAIN}/images/favicon.jpg"}}}},
+  "author": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
+  "publisher": {{"@type": "Organization", "name": "Wifi Oficial Biography", "logo": {{"@type": "ImageObject", "url": "{DOMAIN}/images/favicon.jpg"}}}},
   "image": "{esc_html(image_url)}"
 }}</script>
   <script type="application/ld+json">{{
@@ -1534,14 +1534,14 @@ def build_bio_html(person, wiki_data=None):
   "@type": "Article",
   "headline": "{esc_js(name)} — {esc_js(occ_str)}",
   "description": "{esc_js(bio_desc[:200])}",
-  "author": {{"@type": "Organization", "name": "Wifioficial Biography"}},
-  "publisher": {{"@type": "Organization", "name": "Wifioficial Biography", "logo": {{"@type": "ImageObject", "url": "{DOMAIN}/images/favicon.jpg"}}}},
+  "author": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
+  "publisher": {{"@type": "Organization", "name": "Wifi Oficial Biography", "logo": {{"@type": "ImageObject", "url": "{DOMAIN}/images/favicon.jpg"}}}},
   "datePublished": "{today}",
   "dateModified": "{today}",
   "mainEntityOfPage": {{"@type": "WebPage", "@id": "{DOMAIN}/bios/{slug}.html"}},
   "image": "{esc_html(image_url)}",
-  "creator": {{"@type": "Organization", "name": "Wifioficial Biography"}},
-  "copyrightNotice": "© 2026 Wifioficial Biography"
+  "creator": {{"@type": "Organization", "name": "Wifi Oficial Biography"}},
+  "copyrightNotice": "© 2026 Wifi Oficial Biography"
 }}</script>
   <script type="application/ld+json">{{
   "@context": "https://schema.org",
@@ -1663,7 +1663,7 @@ def build_bio_html(person, wiki_data=None):
   </div>
   <footer class="site-footer" role="contentinfo">
     <div class="footer-inner">
-      <p>&copy; 2026 Wifioficial Biography. Encyclopedia of public figure biographies.</p>
+      <p>&copy; 2026 Wifi Oficial Biography. Encyclopedia of public figure biographies.</p>
       <p class="footer-note">Content verified through authoritative sources including Wikipedia, Wikidata, and official profiles.</p>
     </div>
   </footer>
