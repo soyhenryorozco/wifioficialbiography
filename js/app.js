@@ -1,5 +1,5 @@
 /**
- * Wifioficial-biography
+ * wifi-oficial-biography
  */
 
 (function() {
