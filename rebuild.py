@@ -112,10 +112,13 @@ def parse_bio(filepath):
 def generate_card(ce):
     tags_html = ''.join(f'<span class="bio-card-tag">{t}</span>' for t in ce['tags'][:3])
     excerpt_short = ce['excerpt'][:150].replace('"', '&quot;')
-    return f'''          <a href="bios/{ce['slug']}.html" class="bio-card" itemscope itemtype="https://schema.org/Person" data-category="{ce['category']}">
+    stub_badge = ''
+    if len(ce['excerpt']) < 50:
+        stub_badge = '<span class="stub-badge-card" style="display:inline-block;font-size:0.7rem;background:#fff3cd;color:#856404;padding:0.1rem 0.4rem;border-radius:3px;margin-left:0.25rem;">📝 Stub</span>'
+    return f'''          <a href="bios/{ce['slug']}.html" class="bio-card{' stub-card' if len(ce['excerpt']) < 50 else ''}" itemscope itemtype="https://schema.org/Person" data-category="{ce['category']}">
             <img src="{ce['image']}" alt="{ce['name']}" class="bio-card-img" width="400" height="250" loading="lazy" itemprop="image">
             <div class="bio-card-body">
-              <h3 class="bio-card-name" itemprop="name">{ce['name']}</h3>
+              <h3 class="bio-card-name" itemprop="name">{ce['name']}{stub_badge}</h3>
               <div class="bio-card-profession" itemprop="jobTitle">{ce['profession']}</div>
               <p class="bio-card-excerpt" itemprop="description">{excerpt_short}</p>
               <div class="bio-card-meta">
