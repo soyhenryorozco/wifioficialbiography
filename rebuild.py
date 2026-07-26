@@ -134,7 +134,7 @@ def _esc(s):
 def generate_appjs_entry(ce):
     tags_str = ', '.join(f"\"{t.replace(chr(34), chr(92)+chr(34))}\"" for t in ce['tags'])
     img = _esc(ce['image'])
-    return f"    {{id:'{ce['slug']}',name:'{_esc(ce['name'])}',fullName:'{_esc(ce['fullName'])}',profession:'{_esc(ce['profession'])}',excerpt:'{_esc(ce['excerpt'])}',url:'bios/{ce['slug']}.html',tags:[{tags_str}],image:'{img}',dateAdded:{ce['dateAdded']}}},"
+    return f"    {{id:'{_esc(ce['slug'])}',name:'{_esc(ce['name'])}',fullName:'{_esc(ce['fullName'])}',profession:'{_esc(ce['profession'])}',excerpt:'{_esc(ce['excerpt'])}',url:'bios/{_esc(ce['slug'])}.html',tags:[{tags_str}],image:'{img}',dateAdded:{ce['dateAdded']}}},"
 
 def generate_latest_bios_js(bios):
     """Generate the latestBios JS array (8 newest by dateAdded)."""
