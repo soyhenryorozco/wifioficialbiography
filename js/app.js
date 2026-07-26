@@ -8124,7 +8124,7 @@
   document.addEventListener('keydown',function(e){if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();if(so)so.classList.add('active');if(si)si.focus();}if(e.key==='Escape'&&so)so.classList.remove('active');});
   // Bio grid pagination
   var bg2=document.getElementById('bioGrid');
-  if(bg2){var allC=bg2.querySelectorAll('.bio-card');var totalC=allC.length;var initB=20;var incB=15;var curC=initB;var smBtn=document.getElementById('showMoreBios');var smCount=document.getElementById('showMoreCount');
+  if(bg2){var allC=bg2.querySelectorAll('.bio-card');var totalC=allC.length;var initB=10;var incB=15;var curC=initB;var smBtn=document.getElementById('showMoreBios');var smCount=document.getElementById('showMoreCount');
   function hideBios(c){allC.forEach(function(card,i){if(i<c){card.classList.remove('bio-hidden');}else{card.classList.add('bio-hidden');}});if(smCount){smCount.textContent='Mostrando '+Math.min(c,totalC)+' de '+totalC;}if(smBtn){if(c>=totalC){smBtn.style.display='none';if(smCount)smCount.style.display='none';}else{smBtn.style.display='';if(smCount)smCount.style.display='';}}}
   hideBios(curC);if(smBtn){smBtn.addEventListener('click',function(){curC+=incB;hideBios(curC);});}}
   // Trending

@@ -205,7 +205,7 @@ def rebuild():
     cards = '\n'.join(generate_card(b) for b in bios)
 
     PAGINATION_BLOCK = f'''      <div class="show-more-bios-container">
-        <span class="show-more-bios-count" id="showMoreCount">Mostrando 20 de {total} biografías</span>
+        <span class="show-more-bios-count" id="showMoreCount">Mostrando 10 de {total} biografías</span>
         <button class="show-more-bios" id="showMoreBios">Ver más biografías ▾</button>
       </div>'''
 
