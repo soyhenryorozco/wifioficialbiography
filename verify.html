@@ -224,6 +224,33 @@
       showEl('verifyPending', false);
       showEl('verifyLoading', true);
 
+      var emailjsConfigured = EMAILJS_PUBLIC_KEY &&
+        EMAILJS_PUBLIC_KEY.indexOf('YOUR_') !== 0 &&
+        EMAILJS_SERVICE_ID &&
+        EMAILJS_SERVICE_ID.indexOf('YOUR_') !== 0;
+
+      function completeVerification() {
+        var pending = JSON.parse(localStorage.getItem('bioPending') || '{}');
+        delete pending[token];
+        localStorage.setItem('bioPending', JSON.stringify(pending));
+
+        var submissions = JSON.parse(localStorage.getItem('bioSubmissions') || '[]');
+        pendingData.verified = true;
+        pendingData.verifiedAt = new Date().toISOString();
+        submissions.push(pendingData);
+        localStorage.setItem('bioSubmissions', JSON.stringify(submissions));
+
+        showEl('verifyLoading', false);
+        showEl('verifySuccess', true);
+        document.getElementById('verifyIcon').textContent = '✅';
+        document.getElementById('verifyTitle').textContent = 'Verificación Exitosa';
+      }
+
+      if (!emailjsConfigured) {
+        setTimeout(completeVerification, 800);
+        return;
+      }
+
       emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
       var categoryMap = {
@@ -252,19 +279,7 @@
 
       emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_SUBMIT_TEMPLATE, templateParams)
         .then(function () {
-          var pending = JSON.parse(localStorage.getItem('bioPending') || '{}');
-          delete pending[token];
-          localStorage.setItem('bioPending', JSON.stringify(pending));
-
-          var submissions = JSON.parse(localStorage.getItem('bioSubmissions') || '[]');
-          pendingData.verified = true;
-          submissions.push(pendingData);
-          localStorage.setItem('bioSubmissions', JSON.stringify(submissions));
-
-          showEl('verifyLoading', false);
-          showEl('verifySuccess', true);
-          document.getElementById('verifyIcon').textContent = '✅';
-          document.getElementById('verifyTitle').textContent = 'Verificación Exitosa';
+          completeVerification();
         })
         .catch(function (err) {
           console.error('Verification send error:', err);

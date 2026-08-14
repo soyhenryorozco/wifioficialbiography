@@ -491,6 +491,43 @@ img { max-width: 100%; height: auto; }
   background: #e8f0fe;
 }
 
+.industry-hub-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin: .75rem 0 0;
+}
+
+.industry-hub-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  background: #fff;
+  border: 1px solid var(--border-light);
+  border-radius: 20px;
+  padding: .35rem .85rem;
+  font-size: .8rem;
+  font-family: var(--font-ui);
+  color: var(--text);
+  text-decoration: none;
+  transition: all .2s;
+}
+
+.industry-hub-chip:hover {
+  border-color: var(--primary);
+  background: #e8f0fe;
+  color: var(--primary);
+}
+
+.industry-hub-chip .filter-count {
+  background: var(--primary);
+  color: #fff;
+  border-radius: 10px;
+  padding: 0 .4rem;
+  font-size: .7rem;
+  line-height: 1.4;
+}
+
 .show-more-bios-container {
   display: flex;
   flex-direction: column;

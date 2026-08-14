@@ -427,7 +427,7 @@ REDIRECT_MAP = {
 
 
 def compute_quality(ce, content_len):
-    """Compute quality level: A (complete), B (acceptable), C (stub)."""
+    """Compute quality level: A (complete), B (good), C (basic), D (stub)."""
     checks = {
         'long_excerpt': len(ce['excerpt']) > 200,
         'has_content': content_len > 2000,
@@ -443,8 +443,10 @@ def compute_quality(ce, content_len):
         return 'A'
     elif score >= 4:
         return 'B'
-    else:
+    elif score >= 2:
         return 'C'
+    else:
+        return 'D'
 
 
 def parse_bio(filepath):
@@ -461,7 +463,7 @@ def parse_bio(filepath):
     full_name_m = re.search(r'<div class="subtitle" itemprop="alternateName">(.*?)</div>', content)
     full_name = html.unescape(full_name_m.group(1).strip()) if full_name_m else name
 
-    desc_m = re.search(r'<p itemprop="description">(.*?)</p>', content)
+    desc_m = re.search(r'<p itemprop="description"[^>]*>(.*?)</p>', content)
     excerpt = html.unescape(desc_m.group(1).strip()) if desc_m else ''
 
     job_m = re.search(r'itemprop="jobTitle">(.*?)</td>', content)
@@ -490,29 +492,114 @@ def parse_bio(filepath):
     cat_m = re.search(r'data-category="([^"]*)"', content)
     if not cat_m:
         cat_map = {
-            'cantante': 'singer', 'singer': 'singer', 'músico': 'singer', 'music': 'singer',
-            'actor': 'actor', 'actress': 'actor', 'actriz': 'actor',
-            'futbolista': 'footballer', 'footballer': 'footballer', 'soccer': 'footballer',
-            'ciclista': 'cyclist', 'cyclist': 'cyclist',
-            'deportista': 'sports', 'athlete': 'sports', 'boxer': 'boxer',
-            'tenis': 'tennis', 'tennis': 'tennis',
-            'baloncesto': 'basketball', 'basketball': 'basketball',
-            'béisbol': 'baseball', 'baseball': 'baseball',
-            'político': 'politician', 'politician': 'politician',
-            'periodista': 'journalist', 'journalist': 'journalist',
-            'influencer': 'influencer', 'escritor': 'writer', 'writer': 'writer',
-            'comediante': 'comedian', 'comedian': 'comedian',
-            'presentador': 'tv', 'presentadora': 'tv', 'television': 'tv',
-            'chef': 'chef', 'cocinero': 'chef',
-            'empresario': 'business', 'business': 'business',
-            'empresaria': 'business',
-            'director': 'director', 'directora': 'director',
-            'productor': 'producer', 'productora': 'producer',
-            'modelo': 'model', 'model': 'model',
-            'tecnología': 'tech', 'tech': 'tech',
+            # singer / music
+            'cantante': 'singer', 'singer': 'singer', 'singer-songwriter': 'singer', 'singer/songwriter': 'singer',
+            'músico': 'singer', 'musico': 'singer', 'musician': 'singer', 'music': 'singer', 'cantautor': 'singer',
+            'rapper': 'singer', 'rapper': 'singer', 'rap': 'singer', 'reggaeton': 'singer', 'reggaetón': 'singer',
+            'vocalist': 'singer', 'compositor': 'singer', 'composer': 'singer', 'songwriter': 'singer',
+            'band': 'singer', 'group': 'singer', 'duo': 'singer', 'k-pop': 'singer', 'rock band': 'singer',
+            'dancer': 'singer', 'bailarín': 'singer', 'bailarina': 'singer', 'dj': 'singer',
+            'record producer': 'singer', 'productor musical': 'singer', 'guitarist': 'singer', 'instrumentalist': 'singer',
+            'pianist': 'singer', 'saxophonist': 'singer', 'bassist': 'singer', 'drummer': 'singer',
+            'keyboardist': 'singer', 'vocalist': 'singer', 'flautist': 'singer', 'violinist': 'singer',
+            'guitarrista': 'singer', 'orchestra': 'singer', 'conduct': 'singer', 'recording artist': 'singer',
+            'hip hop': 'singer', 'pop recording': 'singer', 'rapper': 'singer', 'bongo flava': 'singer',
+            'flamenco': 'singer', 'bolero': 'singer', 'vallenato': 'singer', 'cumbia': 'singer', 'tropi': 'singer',
+            'latin music': 'singer', 'champeta': 'singer', 'salsa': 'singer', 'merengue': 'singer',
+            'bandleader': 'singer', 'composer and': 'singer', 'songwriter and': 'singer', 'music': 'singer',
+            'producer, singer': 'singer', 'singer,': 'singer', 'musical artist': 'singer', 'musical group': 'singer',
+            # actor / entertainment
+            'actor': 'actor', 'actress': 'actor', 'actriz': 'actor', 'acteur': 'actor', 'cineasta': 'actor',
+            'film actor': 'actor', 'movie actor': 'actor', 'tv actor': 'actor', 'television actor': 'actor',
+            'actor and': 'actor', 'actress and': 'actor', 'actor de cine': 'actor', 'actriz de cine': 'actor',
+            'performing artist': 'actor', 'entertainer': 'actor', 'actor y': 'actor',
+            'director': 'director', 'directora': 'director', 'director de cine': 'director', 'film director': 'director',
+            'movie director': 'director', 'filmmaker': 'director', 'producer': 'director', 'productor': 'director',
+            'presentador': 'tv', 'presentadora': 'tv', 'television': 'tv', 'tv host': 'tv', 'anchor': 'tv',
+            'presenter': 'tv', 'television personality': 'tv', 'reporter': 'tv',
+            # footballer
+            'futbolista': 'footballer', 'footballer': 'footballer', 'soccer': 'footballer', 'football player': 'footballer',
+            'soccer player': 'footballer', 'fútbol': 'footballer', 'futbol': 'footballer', 'arquero': 'footballer',
+            'goalkeeper': 'footballer', 'defender': 'footballer', 'midfielder': 'footballer', 'forward': 'footballer',
+            # other sports
+            'ciclista': 'cyclist', 'cyclist': 'cyclist', 'biciclet': 'cyclist',
+            'deportista': 'sports', 'atleta': 'sports', 'atletismo': 'sports', 'athlete': 'sports',
+            'boxer': 'boxer', 'boxeador': 'boxer', 'boxeadora': 'boxer', 'boxe': 'boxer',
+            'tenis': 'tennis', 'tennis': 'tennis', 'tenista': 'tennis',
+            'baloncesto': 'basketball', 'basketball': 'basketball', 'basquetbol': 'basketball',
+            'béisbol': 'baseball', 'beisbol': 'baseball', 'beisbolista': 'baseball', 'baseball': 'baseball',
+            'swimmer': 'sports', 'nadador': 'sports', 'wrestler': 'sports', 'luchador': 'sports',
+            'racer': 'sports', 'racing': 'sports', 'driver': 'sports', 'piloto': 'sports', 'runner': 'sports',
+            'golfer': 'sports', 'boxing': 'boxer', 'weightlifter': 'sports', 'gymnast': 'sports',
+            'skateboarder': 'sports', 'surfer': 'sports', 'diver': 'sports', 'climber': 'sports',
+            'hockey': 'sports', 'rugby': 'sports', 'volleyball': 'sports', 'marathon': 'sports',
+            'jiu-jitsu': 'sports', 'mma': 'sports', 'martial': 'sports', 'esgrim': 'sports', 'fencing': 'sports',
+            'cricket': 'sports', 'handball': 'sports', 'mma fighter': 'sports',
+            'baloncestista': 'basketball', 'baloncest': 'basketball',
+            'taekwondo': 'sports', 'taekwondista': 'sports', 'gimnas': 'sports', 'gymnast': 'sports',
+            'saltador': 'sports', 'jumper': 'sports', 'patin': 'sports', 'skater': 'sports',
+            'surf': 'sports', 'surfer': 'sports', 'skate': 'sports', 'skateboarder': 'sports',
+            'jinete': 'sports', 'hípic': 'sports', 'hippic': 'sports', 'horse': 'sports',
+            'water polo': 'sports', 'boccia': 'sports', 'sprinter': 'sports', 'hurdler': 'sports',
+            'ski': 'sports', 'skier': 'sports', 'aviat': 'sports', 'pilot': 'sports', 'aviator': 'sports',
+            'mountaineer': 'sports', 'mountaineering': 'sports', 'runner': 'sports', 'alpinis': 'sports',
+            'powerlifter': 'sports', 'weightlifter': 'sports', 'walking': 'sports', 'race walk': 'sports',
+            'bmx': 'sports', 'riding': 'sports', 'cyclo': 'sports', 'ciclism': 'sports',
+            'sport': 'sports', 'sports': 'sports', 'olympi': 'sports', 'paralympi': 'sports',
+            'para athlete': 'sports', 'para athletics': 'sports', 'athletics': 'sports', 'race car': 'sports',
+            'auto racing': 'sports', 'motorsport': 'sports', 'driver in': 'sports', 'formula': 'sports',
+            'coach': 'sports', 'entrenad': 'sports', 'manager and': 'sports', 'soccer manager': 'sports',
+            'figure skater': 'sports', 'speed skater': 'sports', 'luchador': 'sports', 'luchadora': 'sports',
+            'wrestl': 'sports', 'boxe': 'boxer', 'puñetista': 'boxer', 'boxing': 'boxer', 'pugilist': 'boxer',
+            'ciclista': 'cyclist', 'bidon de course': 'cyclist', 'velocista': 'cyclist', 'sprinter de pista': 'cyclist',
+            # politician
+            'político': 'politician', 'politico': 'politician', 'politician': 'politician',
+            'presidente': 'politician', 'president': 'politician', 'gobernante': 'politician',
+            'senador': 'politician', 'senator': 'politician', 'congresista': 'politician',
+            'ministro': 'politician', 'minister': 'politician', 'primer ministro': 'politician',
+            'mayor': 'politician', 'alcalde': 'politician', 'gobernador': 'politician', 'governor': 'politician',
+            'diplomat': 'politician', 'diplomático': 'politician', 'leader': 'politician',
+            'revolutionary': 'politician', 'activista': 'politician', 'activist': 'politician',
+            'politician and': 'politician', 'política': 'politician', 'parliament': 'politician',
+            'deputy': 'politician', 'member of parliament': 'politician', 'guerrilla': 'politician',
+            # journalist
+            'periodista': 'journalist', 'journalist': 'journalist', 'reportero': 'journalist',
+            'escritor': 'writer', 'escritora': 'writer', 'writer': 'writer', 'poeta': 'writer', 'poet': 'writer',
+            'novelist': 'writer', 'novelista': 'writer', 'author': 'writer', 'autora': 'writer',
+            'editor': 'writer', 'dramaturg': 'writer', 'playwright': 'writer', 'screenwriter': 'writer',
+            'historian': 'writer', 'historiador': 'writer', 'philosopher': 'writer', 'filósofo': 'writer',
+            'essayist': 'writer', 'blogger': 'writer', 'columnist': 'writer', 'book': 'writer',
+            "children's author": 'writer',
+            # influencer
+            'influencer': 'influencer', 'youTuber': 'influencer', 'youtuber': 'influencer', 'youtuber': 'influencer',
+            'content creator': 'influencer', 'streamer': 'influencer', 'tiktoker': 'influencer', 'tiktok': 'influencer',
+            'instagram': 'influencer', 'blogger digital': 'influencer', 'social media': 'influencer',
+            'cosplayer': 'influencer', 'gamer': 'influencer', 'twitch': 'influencer',
+            # comedian
+            'comediante': 'comedian', 'comedian': 'comedian', 'humorista': 'comedian', 'humorist': 'comedian',
+            # tv presenters
+            'television presenter': 'tv', 'tv presenter': 'tv', 'radio host': 'tv',
+            # chef
+            'chef': 'chef', 'cocinero': 'chef', 'cocinera': 'chef', 'gastr': 'chef', 'restaurateur': 'chef',
+            'cook': 'chef', 'chef and': 'chef',
+            # model / fashion
+            'modelo': 'model', 'model': 'model', 'fashion': 'model', 'mannequin': 'model',
+            'model and': 'model', 'actress and model': 'model', 'model,': 'model', 'top model': 'model',
+            'beauty pageant': 'model', 'reina de belleza': 'model',
+            # business
+            'empresario': 'business', 'empresaria': 'business', 'business': 'business', 'entrepreneur': 'business',
+            'ceo': 'business', 'executive': 'business', 'investor': 'business', 'inversionista': 'business',
+            'businessperson': 'business', 'businesswoman': 'business', 'businessman': 'business', 'banquero': 'business',
+            'founder': 'business', 'co-founder': 'business', 'industrialist': 'business', 'financ': 'business',
+            # tech
+            'tecnología': 'tech', 'tech': 'tech', 'tecnólogo': 'tech', 'programmer': 'tech', 'programador': 'tech',
+            'software': 'tech', 'engineer': 'tech', 'ingeniero': 'tech', 'computer scientist': 'tech',
+            'computer': 'tech', 'scientist': 'tech', 'científico': 'tech', 'ciencia': 'tech',
+            'developer': 'tech', 'mathematician': 'tech', 'math': 'tech', 'physicist': 'tech',
+            'hacker': 'tech', 'cybersecurity': 'tech', 'inventor': 'tech', 'einstein': 'tech',
         }
         prof_lower = profession.lower()
-        category = 'singer'
+        category = 'influencer'
         for key, val in cat_map.items():
             if key in prof_lower:
                 category = val
@@ -556,11 +643,11 @@ def generate_card(ce):
     tags_html = ''.join(f'<span class="bio-card-tag">{t}</span>' for t in ce['tags'][:3])
     excerpt_short = ce['excerpt'][:150].replace('"', '&quot;')
     badge = ''
-    if ce['quality'] == 'C':
+    if ce['quality'] in ('C', 'D'):
         badge = '<span class="stub-badge-card" style="display:inline-block;font-size:0.7rem;background:#fff3cd;color:#856404;padding:0.1rem 0.4rem;border-radius:3px;margin-left:0.25rem;" title="Biografía en desarrollo">📝 Stub</span>'
     elif ce['quality'] == 'A':
         badge = '<span class="stub-badge-card" style="display:inline-block;font-size:0.7rem;background:#d4edda;color:#155724;padding:0.1rem 0.4rem;border-radius:3px;margin-left:0.25rem;" title="Biografía completa">✅ Completa</span>'
-    return f'''          <a href="bios/{ce['slug']}.html" class="bio-card{' stub-card' if ce['quality'] == 'C' else ''}" itemscope itemtype="https://schema.org/Person" data-category="{ce['category']}">
+    return f'''          <a href="bios/{ce['slug']}.html" class="bio-card{' stub-card' if ce['quality'] in ('C', 'D') else ''}" itemscope itemtype="https://schema.org/Person" data-category="{ce['category']}">
             <img src="{ce['image']}" alt="{ce['name']}" class="bio-card-img" width="400" height="250" loading="lazy" itemprop="image">
             <div class="bio-card-body">
               <h3 class="bio-card-name" itemprop="name">{ce['name']}{badge}</h3>
@@ -689,17 +776,22 @@ def generate_redirect_pages(bios):
     print(f'  Generated {count} redirect pages')
 
 
-def generate_industry_page(cat_key, bios_in_cat, count):
+def generate_industry_page(cat_key, bios_in_cat, count, cats):
     """Generate a single industry landing page."""
     meta = CATEGORY_META.get(cat_key, {'icon': '📌', 'label': cat_key.capitalize(), 'industry_label': cat_key.capitalize(), 'industry_desc': ''})
     slug = cat_key
     title = f"{meta['industry_label']} | Wifi Oficial Biography"
     desc = f"Biografías completas de {meta['industry_label'].lower()}. {meta['industry_desc']} Explora {count} perfiles con información verificada y datos estructurados."
 
-    bios_sorted = sorted(bios_in_cat, key=lambda x: -x['content_len'])[:100]
+    bios_sorted = sorted(bios_in_cat, key=lambda x: x['name'].lower())
     list_items = '\n'.join(
-        f'    <li><a href="../bios/{b["slug"]}.html">{b["name"]}</a> <small style="color:#999;">— {b["profession"][:60]}</small></li>'
+        f'    <li><a href="../bios/{b["slug"]}.html">{b["name"]}</a> <small style="color:#999;">— {html.escape(b["profession"][:60])}</small></li>'
         for b in bios_sorted
+    )
+
+    other_cats = ' · '.join(
+        f'<a href="{k}.html" style="color:#0645ad;">{CATEGORY_META.get(k, {"label": k})["label"]}</a>'
+        for k in sorted(cats.keys()) if k != cat_key
     )
 
     html_content = f'''<!DOCTYPE html>
@@ -728,7 +820,8 @@ def generate_industry_page(cat_key, bios_in_cat, count):
   "description": "{html.escape(desc)}",
   "url": "{DOMAIN}/industries/{slug}.html",
   "about": {{"@type": "Thing", "name": "{meta['industry_label']}"}},
-  "numberOfItems": {count}
+  "numberOfItems": {count},
+  "isPartOf": {{"@type": "WebSite", "url": "{DOMAIN}/"}}
 }}</script>
 </head>
 <body>
@@ -752,6 +845,7 @@ def generate_industry_page(cat_key, bios_in_cat, count):
 {list_items}
       </ul>
       <p style="margin-top:2rem;"><a href="../index.html#categorias">← Ver todas las categorías</a></p>
+      <p style="margin-top:.5rem;">Otras industrias: {other_cats}</p>
     </main>
   </div>
   <footer class="site-footer">
@@ -762,6 +856,42 @@ def generate_industry_page(cat_key, bios_in_cat, count):
 </body>
 </html>'''
     return html_content
+
+
+def write_manifest(bios, cats, quality_counts, total, redirect_count):
+    """Write manifest.json: the single source of truth for counts/slugs/urls."""
+    import json as _json
+    cat_counts = {c: {'count': n, 'industry': f'industries/{c}.html'} for c, n in sorted(cats.items(), key=lambda x: -x[1])}
+    manifest = {
+        'generatedAt': datetime.datetime.utcnow().isoformat() + 'Z',
+        'domain': DOMAIN,
+        'stats': {
+            'total_bios': total,
+            'total_redirects': redirect_count,
+            'total_files': total + redirect_count,
+            'total_categories': len(cats),
+            'quality': quality_counts,
+        },
+        'categories': cat_counts,
+        'bios': [
+            {
+                'id': b['slug'],
+                'name': b['name'],
+                'fullName': b['fullName'],
+                'profession': b['profession'],
+                'excerpt': b['excerpt'],
+                'url': f"{DOMAIN}/bios/{b['slug']}.html",
+                'category': b['category'],
+                'quality': b['quality'],
+                'dateAdded': b['dateAdded'],
+            }
+            for b in bios
+        ],
+    }
+    path = os.path.join(BASE_DIR, 'manifest.json')
+    with open(path, 'w', encoding='utf-8') as f:
+        _json.dump(manifest, f, ensure_ascii=False, indent=1)
+    print(f'  Written manifest.json ({len(bios)} bios, {total} total)')
 
 
 def rebuild():
@@ -792,20 +922,26 @@ def rebuild():
     bios.sort(key=lambda x: x['name'].lower())
     print(f'Parsed {len(bios)} bios successfully')
 
+    # Count redirect pages currently on disk (indexed out, but part of file count)
+    redirect_count = len(glob.glob(os.path.join(BIOS_DIR, '*.html'))) - len(bios)
+
     cats = {}
-    quality_counts = {'A': 0, 'B': 0, 'C': 0}
+    quality_counts = {'A': 0, 'B': 0, 'C': 0, 'D': 0}
     for b in bios:
         c = b['category']
         cats[c] = cats.get(c, 0) + 1
         quality_counts[b['quality']] = quality_counts.get(b['quality'], 0) + 1
     total = len(bios)
+    total_categories = len(cats)
+
+    write_manifest(bios, cats, quality_counts, total, redirect_count)
 
     print(f'\nCategory counts:')
     for c, n in sorted(cats.items(), key=lambda x: -x[1]):
         print(f'  {c}: {n}')
     print(f'  TOTAL: {total}')
     print(f'\nQuality distribution:')
-    for q in ('A', 'B', 'C'):
+    for q in ('A', 'B', 'C', 'D'):
         print(f'  Level {q}: {quality_counts.get(q, 0)}')
 
     print('\nRebuilding index.html...')
@@ -842,6 +978,12 @@ def rebuild():
     idx = _re.sub(
         r'(<span class="stat-number">)\d+(</span>\s*<span class="stat-label">Biografías</span>)',
         f'\\g<1>{total}\\2', idx)
+    idx = _re.sub(
+        r'(<span id="showMoreCount"[^>]*>Mostrando \d+ de )\d+( biografías</span>)',
+        f'\\g<1>{total}\\2', idx)
+    idx = _re.sub(
+        r'(<span class="stat-number">)\d+(</span>\s*<span class="stat-label">Categorías</span>)',
+        f'\\g<1>{total_categories}\\2', idx)
 
     # Update filter bar individual category counts
     for cat, count in cats.items():
@@ -852,6 +994,23 @@ def rebuild():
     for cat, count in cats.items():
         cat_card_pattern = rf'(<a href="#".*?class="category-card"[^>]*data-cat-filter="{cat}"[^>]*>.*?<span class="category-count">)\d+\s*biografías(</span>)'
         idx = _re.sub(cat_card_pattern, f'\\g<1>{count} biografías\\2', idx, flags=_re.DOTALL)
+
+    # Inject industry hub links (real hrefs, not anchors) after the filter bar
+    industry_links = ''
+    for c, n in sorted(cats.items(), key=lambda x: -x[1]):
+        m = CATEGORY_META.get(c, {'icon': '📌', 'label': c.capitalize()})
+        industry_links += f'<a class="industry-hub-chip" href="industries/{c}.html">{m["icon"]} {m["label"]} <span class="filter-count">{n}</span></a>'
+    industry_hub_block = f'''        <div class="industry-hub-row" id="industryHubRow">
+          {industry_links}
+        </div>
+'''
+    # Idempotent: remove previous hub block if present
+    idx = _re.sub(r'\n?\s*<div class="industry-hub-row" id="industryHubRow">.*?</div>\n', '\n', idx, flags=_re.DOTALL)
+    marker = '        </div>\n        <div class="bio-filter-results"'
+    if marker in idx:
+        idx = idx.replace(marker, industry_hub_block + marker, 1)
+    else:
+        print('  WARNING: Could not find filter-bar marker for industry hubs')
 
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
         f.write(idx)
@@ -947,7 +1106,7 @@ def rebuild():
     for cat_key in sorted(cats.keys()):
         count = cats[cat_key]
         bios_in_cat = [b for b in bios if b['category'] == cat_key]
-        html_page = generate_industry_page(cat_key, bios_in_cat, count)
+        html_page = generate_industry_page(cat_key, bios_in_cat, count, cats)
         industry_path = os.path.join(INDUSTRY_DIR, f'{cat_key}.html')
         with open(industry_path, 'w', encoding='utf-8') as f:
             f.write(html_page)
