@@ -12078,7 +12078,8 @@
     {id:'riq-a-aiyib',name:'Ṭāriq aṭ-Ṭaiyib',fullName:'Public Figure',profession:'Public Figure',excerpt:'Sudanese-Austrian author and writer',url:'bios/riq-a-aiyib.html',tags:["Public Figure", "Latin America"],image:'https://upload.wikimedia.org/wikipedia/commons/8/8e/Tarek_Eltayeb.jpg',dateAdded:1786684127},
   ];
 
-  var so=document.getElementById('searchOverlay'),si=document.getElementById('searchOverlayInput'),sr=document.getElementById('searchResults'),sb=document.getElementById('searchBtn');
+  var so=document.getElementById('searchOverlay'),si=document.getElementById('searchOverlayInput'),sr=document.getElementById('searchResults'),sb=document.getElementById('searchBtn'),soOpenT=0;
+  function openSearch(){if(so)so.classList.add('active');soOpenT=Date.now();if(si)si.focus();}
   function ns(s){return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
   function ps(q){
     if(!sr||!q||q.length<2){if(sr)sr.innerHTML='';return;}
@@ -12089,11 +12090,12 @@
     sr.innerHTML=r.slice(0,15).map(function(b){var em={singer:'🎵',actor:'🎬',footballer:'⚽',politician:'🏛️',journalist:'📰',boxer:'🥊',cyclist:'🚴',tennis:'🎾',basketball:'🏀',baseball:'⚾',comedian:'😂',model:'👗',business:'💼',director:'🎥',tech:'💻',writer:'✍️',tv:'📺',chef:'🍳',sports:'🏆',influencer:'📱'};var p=b.profession.toLowerCase();var ic='📌';for(var k in em){if(p.indexOf(k)!=-1){ic=em[k];break;}}var prefix=window.location.pathname.indexOf('/bios/')!=-1?'../':'';return '<a href="'+prefix+b.url+'" class="search-result-item"><div class="search-result-icon">'+ic+'</div><div class="search-result-info"><div class="result-name">'+b.name+'</div><div class="result-profession">'+(b.profession||'')+'</div></div></a>';}).join('');
   }
   if(si)si.addEventListener('input',function(){ps(this.value);});
-  if(sb)sb.addEventListener('click',function(){if(so)so.classList.add('active');if(si)si.focus();});
+  if(sb)sb.addEventListener('click',function(){openSearch();});
   var hsi=document.getElementById('headerSearchInput');
-  if(hsi)hsi.addEventListener('focus',function(){if(so)so.classList.add('active');if(si)si.focus();});
-  if(so)so.addEventListener('click',function(e){if(e.target===so)so.classList.remove('active');});
-  document.addEventListener('keydown',function(e){if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();if(so)so.classList.add('active');if(si)si.focus();}if(e.key==='Escape'&&so)so.classList.remove('active');});
+  if(hsi)hsi.addEventListener('focus',function(){openSearch();});
+  if(so)so.addEventListener('mousedown',function(e){if(e.target===so&&Date.now()-soOpenT<400){e.preventDefault();}});
+  if(so)so.addEventListener('click',function(e){if(e.target===so&&Date.now()-soOpenT>=400)so.classList.remove('active');});
+  document.addEventListener('keydown',function(e){if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();openSearch();}if(e.key==='Escape'&&so)so.classList.remove('active');});
   window.addEventListener('pageshow',function(e){if(e.persisted){if(so)so.classList.remove('active');if(si)si.value='';if(sr)sr.innerHTML='';}});
   // Bio grid pagination
   var bg2=document.getElementById('bioGrid');
