@@ -5,7 +5,7 @@ Parses existing bios to extract metadata and regenerates all files.
 Deduplicates bios with same name (keeps larger file).
 """
 
-import os, re, glob, html, datetime
+import os, re, glob, html, datetime, json
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 BIOS_DIR = os.path.join(BASE_DIR, 'bios')
@@ -449,8 +449,13 @@ def compute_quality(ce, content_len):
         return 'D'
 
 
-def parse_bio(filepath):
-    """Parse a bio HTML file and extract metadata."""
+def parse_bio(filepath, existing_dates=None):
+    """Parse a bio HTML file and extract metadata.
+
+    existing_dates: optional dict slug -> int dateAdded, used to preserve the
+    original crawl/source timestamps across rebuilds so the "recent additions"
+    ordering stays stable. New files (not in the dict) fall back to file birthtime.
+    """
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -613,6 +618,8 @@ def parse_bio(filepath):
         date_added = int(st.st_birthtime) if hasattr(st, 'st_birthtime') else int(st.st_ctime)
     except:
         pass
+    if existing_dates and slug in existing_dates:
+        date_added = existing_dates[slug]
 
     quality = compute_quality({
         'excerpt': excerpt, 'image': image, 'born': born,
@@ -898,6 +905,17 @@ def rebuild():
     bio_files = sorted(glob.glob(os.path.join(BIOS_DIR, '*.html')))
     print(f'Found {len(bio_files)} bio files')
 
+    # Preserve original crawl/source dateAdded across rebuilds.
+    existing_dates = {}
+    manifest_path = os.path.join(BASE_DIR, 'manifest.json')
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path, 'r', encoding='utf-8') as _mf:
+                _existing = json.load(_mf).get('bios', [])
+            existing_dates = {b['id']: b['dateAdded'] for b in _existing}
+        except Exception as _e:
+            print(f'  Could not read existing manifest for dateAdded: {_e}')
+
     bios = []
     for bf in bio_files:
         try:
@@ -905,7 +923,7 @@ def rebuild():
                 _head = _f.read(400)
             if 'http-equiv="refresh"' in _head or 'noindex, follow' in _head:
                 continue  # redirect page, skip
-            ce = parse_bio(bf)
+            ce = parse_bio(bf, existing_dates)
             bios.append(ce)
         except Exception as e:
             print(f'  Error parsing {bf}: {e}')

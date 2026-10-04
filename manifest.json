@@ -1,21 +1,21 @@
 {
- "generatedAt": "2026-09-08T04:20:25.396742Z",
+ "generatedAt": "2026-10-01T08:00:06.354315Z",
  "domain": "https://wifioficialbiography.org",
  "stats": {
-  "total_bios": 17070,
+  "total_bios": 17071,
   "total_redirects": 371,
-  "total_files": 17441,
+  "total_files": 17442,
   "total_categories": 20,
   "quality": {
    "A": 6096,
-   "B": 6572,
+   "B": 6573,
    "C": 4228,
    "D": 174
   }
  },
  "categories": {
   "influencer": {
-   "count": 4925,
+   "count": 4926,
    "industry": "industries/influencer.html"
   },
   "footballer": {
@@ -22524,6 +22524,17 @@
    "category": "footballer",
    "quality": "A",
    "dateAdded": 1788839836
+  },
+  {
+   "id": "brayan-crazzy",
+   "name": "Brayan Crazzy",
+   "fullName": "Brayan Jesús Orozco Durango",
+   "profession": "Gamer, Streamer, Creador de contenido digital, Emprendedor digital",
+   "excerpt": "Gamer, streamer y creador de contenido digital colombiano, referente de Free Fire con una comunidad de más de 4 millones de seguidores.",
+   "url": "https://wifioficialbiography.org/bios/brayan-crazzy.html",
+   "category": "influencer",
+   "quality": "B",
+   "dateAdded": 1790833350
   },
   {
    "id": "brayan-crdoba",
