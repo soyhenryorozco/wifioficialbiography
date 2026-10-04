@@ -17128,7 +17128,7 @@
   (function(){document.querySelectorAll('.bio-page-photo img, .infobox-image img').forEach(function(img){img.addEventListener('error',function(){var p=this.parentElement;var n=document.querySelector('h1');var t=n?n.textContent.trim().split(' ').map(function(w){return w[0];}).join('').substring(0,2).toUpperCase():'?';var d=document.createElement('div');d.className='photo-placeholder';d.textContent=t;d.style.cssText='width:100%;aspect-ratio:3/4;background:linear-gradient(135deg,#e8f0fe,#d2e3fc);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:4rem;font-weight:700;color:#0645ad;border:1px solid #e0e0e0;';this.parentNode.replaceChild(d,this);});});})();
 
   // Refresh trending on search
-  if(si)si.addEventListener('keyup',function(){try{var tg3=document.getElementById('trendingGrid');var bg3=document.getElementById('bioGrid');if(tg3&&bg3){tg3.innerHTML='';var c3=JSON.parse(localStorage.getItem('bioSearchCount')||'{}');var s3=Object.keys(c3).sort(function(a,b){return(c3[b]||0)-(c3[a]||0);});var t3=s3.slice(0,3);if(t3.length<3){t3=['shakira','karol-g','maluma'];}var cnt3=0;t3.forEach(function(sl){try{var card3=bg3.querySelector('a[href*="'+sl+'.html"]');if(card3){var cl3=card3.cloneNode(true);cl3.classList.remove('bio-hidden');tg3.appendChild(cl3);cnt3++;}}catch(e){}});if(cnt3===0){for(var i3=0;i3<Math.min(3,bg3.children.length);i3++){var cl3=bg3.children[i3].cloneNode(true);cl3.classList.remove('bio-hidden');tg3.appendChild(cl3);}}}}catch(e){}});
+  if(si)si.addEventListener('keyup',function(){try{var tg3=document.getElementById('trendingGrid');var bg3=document.getElementById('bioGrid');if(tg3&&bg3){tg3.innerHTML='';var c3=JSON.parse(localStorage.getItem('bioSearchCount')||'{}');var s3=Object.keys(c3).sort(function(a,b){return(c3[b]||0)-(c3[a]||0);});var t3=s3.slice(0,3);if(t3.length<3){t3=['shakira','karol-g','maluma'];}var cnt3=0;t3.forEach(function(sl){try{var card3=bg3.querySelector('a[href*="'+sl+'.html"]');if(card3){var cl3=card3.cloneNode(true);cl3.classList.remove('bio-hidden');tg3.appendChild(cl3);cnt3++;}}catch(e){}});if(cnt3===0){for(var i3=0;i3<Math.min(3,bg3.children.length);i3++){var cl3=bg3.children[i3].cloneNode(true);cl3.classList.remove('bio-hidden');tg3.appendChild(cl3);}}var af=document.querySelector('#filterBar .bio-filter-btn.active');if(af&&af.getAttribute('data-filter')!=='all'){tg3.querySelectorAll('.bio-card').forEach(function(c){c.classList.add('bio-hidden');});}}}catch(e){}});
 
   // Category filter buttons (data-filter) + category cards (data-cat-filter)
   var fb=document.getElementById('filterBar');
@@ -17166,6 +17166,8 @@
           if(smC)smC.style.display='';
           setCountTxt(shown,shown);
         }
+        var tgL=document.getElementById('trendingGrid');
+        if(tgL){tgL.querySelectorAll('.bio-card').forEach(function(c){if(curF==='all'){c.classList.remove('bio-hidden');}else{c.classList.add('bio-hidden');}});}
       });
     });
     var smf=document.getElementById('showMoreFilters');
