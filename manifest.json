@@ -1,21 +1,21 @@
 {
- "generatedAt": "2026-10-01T08:00:06.354315Z",
+ "generatedAt": "2026-10-07T02:39:14.228103Z",
  "domain": "https://wifioficialbiography.org",
  "stats": {
-  "total_bios": 17071,
+  "total_bios": 17072,
   "total_redirects": 371,
-  "total_files": 17442,
+  "total_files": 17443,
   "total_categories": 20,
   "quality": {
    "A": 6096,
-   "B": 6573,
+   "B": 6574,
    "C": 4228,
    "D": 174
   }
  },
  "categories": {
   "influencer": {
-   "count": 4926,
+   "count": 4927,
    "industry": "industries/influencer.html"
   },
   "footballer": {
@@ -151224,6 +151224,17 @@
    "category": "influencer",
    "quality": "B",
    "dateAdded": 1786308550
+  },
+  {
+   "id": "pomber",
+   "name": "Pomber",
+   "fullName": "Emanuel Bravo García",
+   "profession": "Gamer, Streamer, Creador de contenido digital, Jugador competitivo de Free Fire",
+   "excerpt": "Gamer, streamer y creador de contenido digital colombiano, reconocido por su contenido alrededor de Free Fire y el gaming competitivo.",
+   "url": "https://wifioficialbiography.org/bios/pomber.html",
+   "category": "influencer",
+   "quality": "B",
+   "dateAdded": 1791340537
   },
   {
    "id": "pomiana-camacho-de-figueredo",
